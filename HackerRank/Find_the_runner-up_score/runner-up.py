@@ -15,3 +15,4 @@ def runner_up(arr):
     return second_max_value
 
 print(runner_up(li))
+

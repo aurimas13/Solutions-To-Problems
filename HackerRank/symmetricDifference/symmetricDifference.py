@@ -7,3 +7,4 @@ diff_N = (N.difference(M))
 union_MN = sorted(list(diff_M.union(diff_N)))
 for i in range(len(union_MN)):
     print(union_MN[i])
+

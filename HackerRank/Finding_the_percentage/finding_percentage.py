@@ -20,3 +20,4 @@ avg = Decimal(total_scores / 3)
 
 # Print the mean of the scores, correct to two decimals
 print(round(avg, 2))
+

@@ -10,3 +10,4 @@ for i in range(N):
     else:
         s.pop()
 print(sum(list(s)))
+
