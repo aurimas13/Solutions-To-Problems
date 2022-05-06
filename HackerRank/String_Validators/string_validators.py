@@ -40,3 +40,4 @@ if __name__ == '__main__':
     print(fun3(s))
     print(fun4(s))
     print(fun5(s))
+
