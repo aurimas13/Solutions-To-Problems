@@ -1,1 +1,1 @@
-**Python solutions of HackerRank & Leetcode.**
+Python solutions to the problems found at [HackerRank](https://www.hackerrank.com/domains/python)
