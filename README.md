@@ -15,7 +15,6 @@
 The repository is constantly updated when Python solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) or [LeetCode](https://leetcode.com/problemset/all/) is solved and added in this repository.
 The HackerRank solutions are found under [HackerRank folder](https://github.com/aurimas13/HackerRank-Leetcode/tree/main/HackerRank) while LeetCode solutions under [LeetCode folder](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode). Each problem folder has the description of the problem found through pressing the link in README at the respective folder. Currently solving HackerRank Python problems. Aim to finish by May and start Leetcode problems at late May.
 
-
 [comment]: <> (- [Public]&#40;#Public&#41;)
 
 [comment]: <> (- [License]&#40;#License&#41;)
