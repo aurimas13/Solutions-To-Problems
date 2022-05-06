@@ -1,3 +1,14 @@
+from collections import OrderedDict
+
+def merge_the_tools(string, k):
+    str_size = len(string)
+    for i in range(0, str_size, k):
+        print(''.join(OrderedDict.fromkeys(string[i:i + k])))
+
+if __name__ == '__main__':
+    string, k = input(), int(input())
+    merge_the_tools(string, k)
+
 # import sys
 # from collections import OrderedDict
 #
@@ -23,15 +34,3 @@
 #     string, k = input(), int(input())
 #     merge_the_tools(string, k)
 #
-#
-
-from collections import OrderedDict
-
-def merge_the_tools(string, k):
-    str_size = len(string)
-    for i in range(0, str_size, k):
-        print(''.join(OrderedDict.fromkeys(string[i:i + k])))
-
-if __name__ == '__main__':
-    string, k = input(), int(input())
-    merge_the_tools(string, k)

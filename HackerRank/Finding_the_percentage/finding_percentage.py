@@ -22,3 +22,4 @@ avg = Decimal(total_scores / 3)
 print(round(avg, 2))
 
 
+

@@ -16,3 +16,4 @@ def runner_up(arr):
 
 print(runner_up(li))
 
+
