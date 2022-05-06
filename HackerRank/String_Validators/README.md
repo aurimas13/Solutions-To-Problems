@@ -1,1 +1,1 @@
-Problem description can be found [here](https://www.hackerrank.com/challenges/string-validators/problem).
+The problem description can be found [here](https://www.hackerrank.com/challenges/string-validators/problem).
