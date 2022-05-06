@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solve.png"/>
+  <img height="222px" src="https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solving.png"/>
 </p>
 <p align=center>
     Python solutions of HackerRank & Leetcode problems
@@ -14,17 +14,17 @@
 
 The repo is constantly updated when Python solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) or [Leetcode](https://leetcode.com/problemset/all/) is solved and added in this repository.
     
-<p align="center">
+<p align="left">
 Currently solving HackerRank Python problems. Aim to finish by May and start Leetcode at late May.
 </p>
-
-- [Public](#Public)
 - [License](#License)
 
 # Public
 
 The folder includes [**foto**](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solve.png").
     
+
+- [Public](#Public)
 # License
 
 [LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
