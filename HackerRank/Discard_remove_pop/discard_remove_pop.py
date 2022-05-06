@@ -11,3 +11,4 @@ for i in range(N):
         s.pop()
 print(sum(list(s)))
 
+
