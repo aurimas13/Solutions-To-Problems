@@ -11,11 +11,14 @@
 </p>
 
 ------
-
-The repo is constantly updated when Python solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) or [Leetcode](https://leetcode.com/problemset/all/) is solved and added in this repository.
-The HackerRank solutions are found under [HackerRank folder](https://github.com/aurimas13/HackerRank-Leetcode/tree/main/HackerRank). Each problem folder has the description of the problem found through pressing the link in README at the respective folder.
 <p align="left">
-Currently solving HackerRank Python problems. Aim to finish by May and start Leetcode at late May.
+    The repo is constantly updated when Python solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) or [Leetcode](https://leetcode.com/problemset/all/) is solved and added in this repository.
+</p>
+<p align="left">
+    The HackerRank solutions are found under [HackerRank folder](https://github.com/aurimas13/HackerRank-Leetcode/tree/main/HackerRank). Each problem folder has the description of the problem found through pressing the link in README at the respective folder.
+</p>p>
+<p align="left">
+    Currently solving HackerRank Python problems. Aim to finish by May and start Leetcode at late May.
 </p>
 
 [comment]: <> (- [Public]&#40;#Public&#41;)
