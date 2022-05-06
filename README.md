@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/Chemical-analysis/blob/main/Public/CA.jpeg"/>
+  <img height="222px" src="https://github.com/aurimas13/HackerRank-Leetcode/blob/main/foto/solve.png"/>
 </p>
 <p align=center>
   A chemical analysis of lipophilicity & molecule drawings including a bit of ML analysis.
@@ -27,5 +27,5 @@ The folder includes [**logo**](https://github.com/aurimas13/Chemical-analysis/bl
     
 # License
 
-[LICENSE](https://github.com/aurimas13/Chemical-analysis/blob/main/LICENSE)
+[LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
 Python solutions to the problems found at [HackerRank](https://www.hackerrank.com/domains/python) & [Leetcode](https://leetcode.com/problemset/all/).
