@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solving.png"/>
+  <img height="222px" src="https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solution.jpeg"/>
 </p>
 <p align=center>
     Python solutions of HackerRank & Leetcode problems
@@ -13,18 +13,21 @@
 ------
 
 The repo is constantly updated when Python solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) or [Leetcode](https://leetcode.com/problemset/all/) is solved and added in this repository.
-    
+The HackerRank solutions are found under [HackerRank folder](https://github.com/aurimas13/HackerRank-Leetcode/tree/main/HackerRank). Each problem folder has the description of the problem found through pressing the link in README at the respective folder.
 <p align="left">
 Currently solving HackerRank Python problems. Aim to finish by May and start Leetcode at late May.
 </p>
-- [License](#License)
 
-# Public
+[comment]: <> (- [Public]&#40;#Public&#41;)
 
-The folder includes [**foto**](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solve.png").
-    
+[comment]: <> (- [License]&#40;#License&#41;)
 
-- [Public](#Public)
-# License
+[comment]: <> (- )
 
-[LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
+[comment]: <> (# Public)
+
+[comment]: <> (The folder includes [**foto**]&#40;https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solve.png"&#41;.)
+
+[comment]: <> (# License)
+
+[comment]: <> ([LICENSE]&#40;https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE&#41;)
