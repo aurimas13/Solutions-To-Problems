@@ -1,12 +1,12 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Other/solution.jpeg"/>
+  <img height="222px" src="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/HackerRank/solution.jpeg"/>
 </p>
 <p align=center>
     Python solutions of HackerRank & LeetCode problems
 </p>
 <br>
 <p align=center>
-  <a href="ttps://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
+  <a href="ttps://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
 </p>
 
