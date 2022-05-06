@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/HackerRank/solution.jpeg"/>
+  <img height="222px" src="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LeetCode/solution.jpeg"/>
 </p>
 <p align=center>
     Python solutions of HackerRank & LeetCode problems
