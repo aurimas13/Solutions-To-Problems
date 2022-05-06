@@ -16,7 +16,7 @@
 </p>
 <p align="center">
     The HackerRank solutions are found under [HackerRank folder](https://github.com/aurimas13/HackerRank-Leetcode/tree/main/HackerRank). Each problem folder has the description of the problem found through pressing the link in README at the respective folder.
-</p>p>
+</p>
 <p align="center">
     Currently solving HackerRank Python problems. Aim to finish by May and start Leetcode at late May.
 </p>
