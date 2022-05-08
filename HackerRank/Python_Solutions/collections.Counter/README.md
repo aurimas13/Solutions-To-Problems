@@ -1,1 +1,1 @@
-Problem description of collections.Counte() can be found [here](https://www.hackerrank.com/challenges/collections-counter/problem?).
+Problem description of collections.Counter() can be found [here](https://www.hackerrank.com/challenges/collections-counter/problem?).
