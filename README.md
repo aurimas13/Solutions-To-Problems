@@ -12,8 +12,8 @@
 
 ------
 
-The repository is constantly updated when Python solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) or [LeetCode](https://leetcode.com/problemset/all/) is solved and added in this repository.
-The HackerRank solutions are found under [HackerRank folder](https://github.com/aurimas13/HackerRank-Leetcode/tree/main/HackerRank) while LeetCode solutions under [LeetCode folder](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode). Each problem folder has the description of the problem found through pressing the link in README at the respective folder. Currently solving HackerRank Python problems. Aim to finish by May and start Leetcode problems at late May.
+The repository is constantly updated when **Python** solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) or [LeetCode](https://leetcode.com/problemset/all/) is solved.
+The **HackerRank** solutions are found under [HackerRank folder](https://github.com/aurimas13/HackerRank-Leetcode/tree/main/HackerRank) while **LeetCode** solutions under [LeetCode folder](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode). Each problem folder has the description of the problem found through pressing the link in README at the respective folder. Currently doing *HackerRank* *Python* problems. Aim is to finish **HackerRank** by May and start solving **LeetCode** problems later in May.
 
 [comment]: <> (- [Public]&#40;#Public&#41;)
 
