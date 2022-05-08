@@ -13,6 +13,3 @@ query_scores = student_marks[query_name]
 total_scores = sum(query_scores)
 avg = Decimal(total_scores / 3)
 print(round(avg, 2))
-
-
-
