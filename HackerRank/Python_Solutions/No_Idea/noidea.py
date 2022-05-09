@@ -66,4 +66,3 @@ print(happiness)
 # if __name__ == '__main__':
 #     count, arr_n, A, B = [input()], input(), input(), input()
 #     noidea(count, arr_n, A, B)
-
