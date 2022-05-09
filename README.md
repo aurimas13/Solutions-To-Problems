@@ -2,7 +2,7 @@
   <img height="222px" src="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/Public/solution.jpeg"/>
 </p>
 <p align=center>
-    Python solutions of HackerRank & LeetCode problems
+    Python & SQL solutions of HackerRank & LeetCode problems
 </p>
 <br>
 <p align=center>
