@@ -1,1 +1,1 @@
-Problem description of Find Angle MBC can be found [here](https://www.hackerrank.com/challenges/find-angle/problem).
+Problem description of "Find Angle MBC" can be found [here](https://www.hackerrank.com/challenges/find-angle/problem).
