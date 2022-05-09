@@ -1,2 +1,2 @@
 N = int(input())
-*names = str(input)
+names = *list(map(str, input()))
