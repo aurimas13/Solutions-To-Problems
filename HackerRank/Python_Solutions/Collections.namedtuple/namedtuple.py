@@ -1,13 +1,27 @@
 from collections import namedtuple
 
-n = int(input())
-a = input()
-total = 0
-Student = namedtuple('Student', a)
-for _ in range(n):
+N = int(input())
+column_names = input().split()
+Student = namedtuple("Student", column_names)
+sum = 0
+
+for i in range(N):
     student = Student(*input().split())
-    total += int(student.MARKS)
-print('{:.2f}'.format(total/n))
+    sum += int(student.MARKS)
+
+avg = "{:.2f}".format(sum / N)
+print(avg)
+
+# or
+
+# n = int(input())
+# a = input()
+# total = 0
+# Student = namedtuple('Student', a)
+# for _ in range(n):
+#     student = Student(*input().split())
+#     total += int(student.MARKS)
+# print('{:.2f}'.format(total/n))
 
 # or
 
