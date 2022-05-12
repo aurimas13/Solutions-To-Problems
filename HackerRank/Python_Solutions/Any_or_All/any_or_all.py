@@ -24,5 +24,17 @@
 
 # or
 
-N, list_N = int(input()),list(map(str, input().split()))
-print(all([int(i)>0 for i in list_N]) and any([j == j[::-1] for j in list_N]))
+import re
+
+values = re.findall(r'(?<=[qwrtypsdfghjklzxcvbnm])([aeiou]{2,})(?=[qwrtypsdfghjklzxcvbnm])', input().strip(), re.IGNORECASE)
+
+if values:
+    for i in values:
+        print(i)
+else:
+    print(-1)
+
+# or
+
+# N, list_N = int(input()),list(map(str, input().split()))
+# print(all([int(i)>0 for i in list_N]) and any([j == j[::-1] for j in list_N]))
