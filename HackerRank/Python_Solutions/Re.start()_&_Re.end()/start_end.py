@@ -1,27 +1,21 @@
 import re
 
-S, k = input(), input()
-# matches = re.finditer(r'(?=(' + k + '))', S)
-match = re.search()
-anymatch = False
-for match in matches:
-    anymatch = True
-    print((match.span(match)))
-
-if anymatch == False:
-    print((-1, -1))
+S = input()
+k = input()
+pattern = re.compile(k)
+r = pattern.search(S)
+if not r: print("(-1, -1)")
+while r:
+    print("({0}, {1})".format(r.start(), r.end() - 1))
+    r = pattern.search(S,r.start() + 1)
 
 # or
 
-# string = input()
-# substring = input()
+# matches = re.finditer(r'(?=(' + k + '))', S)
+# anymatch = False
+# for match in matches:
+#     anymatch = True
+#     print((match.span(match)))
 #
-# pattern = re.compile(substring)
-# match = pattern.search(string)
-#
-# if not match:
-#     print('(-1, -1)')
-#
-# while match:
-#     print('({0}, {1})'.format(match.start(), match.end() - 1))
-#     match = pattern.search(string, match.start() + 1)
+# if anymatch == False:
+#     print((-1, -1))

@@ -1,3 +1,15 @@
+import re
+
+values = re.findall(r'(?<=[qwrtypsdfghjklzxcvbnm])([aeiou]{2,})(?=[qwrtypsdfghjklzxcvbnm])', input().strip(),re.I)
+
+if values:
+    for i in values:
+        print(i)
+else:
+    print(-1)
+
+# or
+
 # def isPositive(i):
 #     if i > 0:
 #         return True
@@ -21,18 +33,6 @@
 #         print("False")
 # else:
 #     print("False")
-
-# or
-
-import re
-
-values = re.findall(r'(?<=[qwrtypsdfghjklzxcvbnm])([aeiou]{2,})(?=[qwrtypsdfghjklzxcvbnm])', input().strip(), re.IGNORECASE)
-
-if values:
-    for i in values:
-        print(i)
-else:
-    print(-1)
 
 # or
 
