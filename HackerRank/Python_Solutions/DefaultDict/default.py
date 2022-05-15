@@ -10,4 +10,3 @@ for i in range(1, m+1):
         print(' '.join(map(str, d[b])))
     else:
         print(-1)
-
