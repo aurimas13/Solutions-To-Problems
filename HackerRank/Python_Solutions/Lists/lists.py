@@ -1,8 +1,8 @@
 if __name__ == '__main__':
     N = int(input())
-    Output = [];
+    Output = []
     for i in range(0, N):
-        ip = input().split();
+        ip = input().split()
         if ip[0] == "print":
             print(Output)
         elif ip[0] == "insert":
@@ -10,13 +10,13 @@ if __name__ == '__main__':
         elif ip[0] == "remove":
             Output.remove(int(ip[1]))
         elif ip[0] == "pop":
-            Output.pop();
+            Output.pop()
         elif ip[0] == "append":
             Output.append(int(ip[1]))
         elif ip[0] == "sort":
-            Output.sort();
+            Output.sort()
         else:
-            Output.reverse();
+            Output.reverse()
 
     # Output = [];
     # for i in range(0,N):
@@ -36,4 +36,4 @@ if __name__ == '__main__':
     #         print(Output)
     #     case _:
     #         Output.reverse()
-    #     };
+    #     }
