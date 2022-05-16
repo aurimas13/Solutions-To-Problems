@@ -1,7 +1,7 @@
 from html.parser import HTMLParser
 
 
-class MyHTMLParser(HTMLParser):
+class MyHTMLParser(HTMLParser):  # defining functions within a class
     def handle_starttag(self, tag, attrs):
         print(tag)
         for attr, value in attrs:
@@ -14,8 +14,8 @@ class MyHTMLParser(HTMLParser):
 
 
 html = ''
-for _ in range(int(input())):
-    html += input().rstrip() + '\n'
+for _ in range(int(input())):  # integer input
+    html += input().rstrip() + '\n'  # string HTMl input
 
 parser = MyHTMLParser()
 parser.feed(html)
