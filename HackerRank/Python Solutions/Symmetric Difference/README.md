@@ -1,0 +1,1 @@
+Problem description of "Symmetric Difference" can be found [here](https://www.hackerrank.com/challenges/symmetric-difference/problem).
