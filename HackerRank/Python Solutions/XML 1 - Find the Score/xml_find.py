@@ -15,3 +15,4 @@ if __name__ == '__main__':
     tree = etree.ElementTree(etree.fromstring(xml))
     root = tree.getroot()
     print(get_attr_number(root))
+

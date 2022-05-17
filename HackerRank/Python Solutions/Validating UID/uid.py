@@ -12,4 +12,3 @@ for i in range(int(input())):
             print('Invalid')
     else:
         print('Invalid')
-
