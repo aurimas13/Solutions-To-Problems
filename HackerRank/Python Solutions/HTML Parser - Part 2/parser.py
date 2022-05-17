@@ -8,12 +8,12 @@ class MyHTMLParser(HTMLParser):  # define a HTML parser for comments
             print('>>> Multi-line Comment')
         else:
             print('>>> Single-line Comment')
-        print("Comment  :", data)
+        print(data.replace("\r", "\n"))
 
     def handle_data(self, data):
         if data.strip():
             print('>>> Data')
-            print("Data     :", data)
+            print(data)
 
 
 html = ""

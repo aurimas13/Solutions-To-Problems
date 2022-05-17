@@ -1,0 +1,1 @@
+Problem description of "XML 1 - Find the Score" can be found [here](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem?isFullScreen=true).
