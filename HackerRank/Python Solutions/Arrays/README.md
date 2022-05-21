@@ -1,0 +1,1 @@
+Problem description of "Arrays" is found [here](https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true).
