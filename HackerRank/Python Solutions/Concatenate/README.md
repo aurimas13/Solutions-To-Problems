@@ -1,0 +1,1 @@
+Problem description of "Concatenate" is found [here](https://www.hackerrank.com/challenges/np-concatenate/problem?isFullScreen=true).
