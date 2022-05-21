@@ -1,0 +1,1 @@
+Problem description of "Floor, Cell, Rint" is found [here](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?isFullScreen=true).
