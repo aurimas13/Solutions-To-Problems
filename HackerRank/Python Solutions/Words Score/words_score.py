@@ -18,3 +18,4 @@ def score_words(words):
 n = int(input())
 words = input().split()
 print(score_words(words))
+
