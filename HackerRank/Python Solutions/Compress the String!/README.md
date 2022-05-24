@@ -1,0 +1,1 @@
+Problem description of "Compress the String!" can be found [here](https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true).
