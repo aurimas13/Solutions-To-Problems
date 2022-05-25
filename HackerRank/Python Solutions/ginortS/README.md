@@ -1,0 +1,1 @@
+Problem description of "ginortS" can be found [here](https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true).
