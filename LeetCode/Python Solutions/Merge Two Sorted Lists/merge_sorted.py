@@ -13,3 +13,4 @@ class Solution:
 if __name__ == '__main__':
     Solve = Solution.mergeTwoLists(1, [1,2,4], [1,3,4])
     print(Solve)
+
