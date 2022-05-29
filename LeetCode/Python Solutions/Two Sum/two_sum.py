@@ -2,20 +2,18 @@
 from typing import List
 from itertools import combinations
 class Solution:
-    def twoSum(self, nums: List[int], target: int): #-> List[int]:
-        all = combinations(nums, 2)
-        for i, v in enumerate(all):
-            print(v[0]+v[1])
-            if v[i] + v[i+1] == target:
-                return [i, i+1]
-            else:
-                pass
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for (i, value_1), (j, value_2) in combinations(enumerate(nums), 2):
+            if value_1 + value_2 == target:
+                return [i, j]
 
-# Instantiation
+# Instantiation to check values
 if __name__ == '__main__':
-    Solve = Solution.twoSum(12, [2,7,11,15], 9)  # 1234 gives False
-    Solve_1 = Solution.twoSum(12, [3,2,3], 6)  # 1234 gives False
-    Solve_2 = Solution.twoSum(12, [3,2,4], 7)  # 1234 gives False
-    print(Solve, Solve_1, Solve_2)
+    Solve = Solution.twoSum(13, [2,7,11,15], 9)  # [0,1]
+    Solve_1 = Solution.twoSum(16, [3,2,3], 6)  # [0,2]
+    Solve_2 = Solution.twoSum(23, [3,2,4], 6)  # [1,2]
+    print(Solve)
+    print(Solve_1)
+    print(Solve_2)
 
 
