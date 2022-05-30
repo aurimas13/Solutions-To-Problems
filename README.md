@@ -11,7 +11,7 @@
 
 ------
 
-The repository is constantly updated when **Python** or **SQL** solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) and prticularly [LeetCode](https://leetcode.com/problemset/all/) is solved.
+The repository is constantly updated when **Python** or **SQL** solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) and particularly [LeetCode](https://leetcode.com/problemset/all/) is solved.
 
 The **HackerRank** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/Python%20Solutions) while **LeetCode** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/Python%20Solutions). Each problem folder has the description of the problem found through pressing the link in **README** at the respective folder. 
 
