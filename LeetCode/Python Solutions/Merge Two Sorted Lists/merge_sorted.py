@@ -41,18 +41,18 @@ class Solution:
 # or
 #
 # head = sortedList = ListNode()
-# while l1 and l2 :
-# 	if l1.val <= l2.val :
-# 		sortedList.next = l1
-# 		l1 = l1.next
+# while list1 and list2 :
+# 	if list1.val <= list2.val :
+# 		sortedList.next = list1
+# 		list1 = list1.next
 # 		sortedList = sortedList.next
 #
 # 	else :
-# 		sortedList.next = l2
-# 		l2 = l2.next
+# 		sortedList.next = list2
+# 		list2 = list2.next
 # 		sortedList = sortedList.next
 
-# sortedList.next = l1 or l2
+# sortedList.next = list1 or list2
 # return head.next
 
 # Instantiation of the class to check the values
