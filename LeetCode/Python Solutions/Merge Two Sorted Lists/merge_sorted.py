@@ -1,3 +1,4 @@
+# from collections import deque
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -5,6 +6,8 @@ class ListNode:
         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: [ListNode], list2: [ListNode]) -> [ListNode]:
+        # l1 = deque(list1)
+        # l2 = deque(list2)
         # Check if either of the lists is null
         if list1 is None:
             return list2
@@ -55,8 +58,7 @@ class Solution:
 # sortedList.next = list1 or list2
 # return head.next
 
-# Instantiation of the class to check the values
+# # Instantiation of the class to check the values
 # if __name__ == '__main__':
-#     Solve = Solution.mergeTwoLists(1, [1,2,4], [1,3,4])
+#     Solve = Solution.mergeTwoLists(1, [1, 2, 4], [1, 3, 4])
 #     print(Solve)
-
