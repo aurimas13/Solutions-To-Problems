@@ -6,8 +6,6 @@ class ListNode:
         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: [ListNode], list2: [ListNode]) -> [ListNode]:
-        # l1 = deque(list1)
-        # l2 = deque(list2)
         # Check if either of the lists is null
         if list1 is None:
             return list2
@@ -41,6 +39,19 @@ class Solution:
             temp = temp.next
         return head
 
+# Instantiation of the class to check the values
+if __name__ == '__main__':
+    l1 = [1, 2, 4]
+    l2 = [1, 3, 4]
+    nodes = [ListNode(val=i) for i in l1]
+    for i in range(len(nodes) - 1):
+        nodes[i].next = nodes[i + 1]
+    nodes_two = [ListNode(val=i) for i in l2]
+    for i in range(len(nodes_two) - 1):
+        nodes[i].next = nodes_two[i + 1]
+    s = Solution()
+    print(s.mergeTwoLists(nodes[1], nodes_two[2]))
+
 # or
 #
 # head = sortedList = ListNode()
@@ -57,8 +68,3 @@ class Solution:
 
 # sortedList.next = list1 or list2
 # return head.next
-
-# # Instantiation of the class to check the values
-# if __name__ == '__main__':
-#     Solve = Solution.mergeTwoLists(1, [1, 2, 4], [1, 3, 4])
-#     print(Solve)
