@@ -5,6 +5,7 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         """
         nums1[:] = sorted(nums1[:m] + nums2[:n])
+        # return list(nums1)
 
 # Checking in PyCharm
 if __name__ == '__main__':

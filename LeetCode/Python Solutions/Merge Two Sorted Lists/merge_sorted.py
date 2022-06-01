@@ -13,30 +13,30 @@ class Solution:
             return list1
         # Choose head which is smaller of the two lists
         if list1.val < list2.val:
-            temp = head = ListNode(list1.val)
+            tail = head = ListNode(list1.val)
             list1 = list1.next
         else:
-            temp = head = ListNode(list2.val)
+            tail = head = ListNode(list2.val)
             list2 = list2.next
         # Loop until any of the list becomes null
         while list1 is not None and list2 is not None:
             if list1.val < list2.val:
-                temp.next = ListNode(list1.val)
+                tail.next = ListNode(list1.val)
                 list1 = list1.next
             else:
-                temp.next = ListNode(list2.val)
+                tail.next = ListNode(list2.val)
                 list2 = list2.next
             temp = temp.next
-        # Add all the nodes in l1, if remaining
+        # Add all the nodes in list1, if remaining
         while list1 is not None:
-            temp.next = ListNode(list1.val)
+            tail.next = ListNode(list1.val)
             list1 = list1.next
-            temp = temp.next
-        # Add all the nodes in l2, if remaining
+            tail = tail.next
+        # Add all the nodes in list, if remaining
         while list2 is not None:
-            temp.next = ListNode(list2.val)
+            tail.next = ListNode(list2.val)
             list2 = list2.next
-            temp = temp.next
+            tail = tail.next
         return head
 
 # Instantiation of the class to check the values in PyCharm

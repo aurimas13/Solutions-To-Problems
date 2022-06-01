@@ -7,7 +7,8 @@ class Solution:
         ones_list = []
         # Looping over digits that make n:
         for i in range(n+1):
-            cnt = list(map(str, bin(i))).count('1')
+            cnt = list(bin(i)).count('1')
+            # cnt = list(map(str, bin(i))).count('1')
             ones_list.append(cnt)
         return ones_list
 
