@@ -39,7 +39,7 @@ class Solution:
             temp = temp.next
         return head
 
-# Instantiation of the class to check the values
+# Instantiation of the class to check the values in PyCharm
 if __name__ == '__main__':
     l1 = [1, 2, 4]
     l2 = [1, 3, 4]
