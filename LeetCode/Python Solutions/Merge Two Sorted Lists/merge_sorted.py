@@ -26,7 +26,7 @@ class Solution:
             else:
                 tail.next = ListNode(list2.val)
                 list2 = list2.next
-            temp = temp.next
+            tail = tail.next
         # Add all the nodes in list1, if remaining
         while list1 is not None:
             tail.next = ListNode(list1.val)
