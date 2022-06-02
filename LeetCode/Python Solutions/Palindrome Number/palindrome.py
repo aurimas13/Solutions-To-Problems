@@ -1,10 +1,11 @@
 # Solution of the problem
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        if str(x) == str(x)[::-1]:
-            return True
-        else:
-            return False
+        return str(x) == str(x)[::-1]
+        # if str(x) == str(x)[::-1]:
+        #     return True
+        # else:
+        #     return False
 
 
 # Instantiating a class to return a value in PyCharm through command line
