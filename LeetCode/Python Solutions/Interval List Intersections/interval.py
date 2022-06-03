@@ -4,7 +4,8 @@ class Solution:
     def intervalIntersection(self, firstList: List[List[int]], secondList: List[List[int]]) -> List[List[int]]:
 #         unique = set(firstList) & set(secondList)
 #         return unique
-#
+
+
 # Checking in PyCharm:
 if __name__ == '__main__':
 #     Sol = Solution()
