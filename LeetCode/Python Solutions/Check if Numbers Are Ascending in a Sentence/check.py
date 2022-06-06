@@ -10,7 +10,7 @@ class Solution:
             if nums[n] >= nums[n + 1]:
                 return False
         return True
-        
+
         # if sorted(nums) == nums:
         #     return True
         # else:
