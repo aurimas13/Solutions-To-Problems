@@ -1,4 +1,5 @@
 from typing import List
+class Solution:
     def intervalIntersection(self, firstList: List[List[int]], secondList: List[List[int]]) -> List[List[int]]:
         combined = []
         i, j = 0, 0
@@ -7,7 +8,7 @@ from typing import List
             low_ints = max(firstList[i][0], secondList[j][0])
             high_ints = min(firstList[i][1], secondList[j][1])
             if low_ints <= high_ints:
-                ans.append([low_ints, high_ints])
+                combined.append([low_ints, high_ints])
             if firstList[i][1] < secondList[j][1]:
                 i += 1
             else:
@@ -15,8 +16,9 @@ from typing import List
 
         return combined
 
+
 # Checking in PyCharm:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.intervalIntersection([[0,2],[5,10],[13,23],[24,25]], [[1,5],[8,12],[15,24],[25,26]])  # Output -> [[1,2],[5,5],[8,10],[15,23],[24,24],[25,25]]
+    Solve = Sol.intervalIntersection([[0, 2], [5, 10], [13, 23], [24, 25]], [[1, 5], [8, 12], [15, 24], [25, 26]])  # Output -> [[1, 2], [5, 5], [8, 10], 15, 23], [24, 24], [25, 25]]
     print(Solve)
