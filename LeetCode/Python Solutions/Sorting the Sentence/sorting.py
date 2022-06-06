@@ -5,5 +5,5 @@ class Solution:
 # Checking in console:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.sortSentence("is2 sentence4 This1 a3")
+    Solve = Instant.sortSentence("is2 sentence4 This1 a3")  # "is2 sentence4 This1 a3" -> "This is a sentence" | "Myself2 Me1 I4 and3" -> "Me Myself and I"
     print(Solve)
