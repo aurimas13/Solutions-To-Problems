@@ -1,5 +1,6 @@
 class Solution:
     def sortSentence(self, s: str) -> str:
+        return ' '.join([c[:-1] for c in sorted(s.split(), key=lambda x: x[-1])])
 
 # Checking in console:
 if __name__ == '__main__':
