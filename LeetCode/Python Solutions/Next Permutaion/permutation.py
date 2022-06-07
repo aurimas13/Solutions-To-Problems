@@ -16,7 +16,6 @@ class Solution:
                 nums[j] = temp
         while (i < j):
             temp = nums[i]
-            print(temp)
             nums[i] = nums[j]
             nums[j] = temp
             i += 1
