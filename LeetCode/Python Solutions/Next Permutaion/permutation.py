@@ -23,7 +23,7 @@ class Solution:
             j -= 1
 
 
-# Checking in PyCharm
+# Checking in console
 if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.nextPermutation([1, 2, 3])  # [1, 2, 3] = [1, 3, 2], [1, 1, 5] -> [1, 5, 1]
