@@ -6,20 +6,19 @@ class Solution:
         """
         i = len(nums) - 2
         while i >= 0 and nums[i + 1] <= nums[i]:
-            i -= 1;
+            i -= 1
+
         if i >= 0:
             j = len(nums) - 1
-            while nums[j] <= nums[i]:
+            while j >= 0 and nums[j] <= nums[i]:
                 j -= 1
-                temp = nums[i]
-                nums[i] = nums[j]
-                nums[j] = temp
-        while (i < j):
-            temp = nums[i]
-            nums[i] = nums[j]
-            nums[j] = temp
-            i += 1
-            j -= 1
+            nums[i], nums[j] = nums[j], nums[i]
+
+        x, y = i + 1, len(nums) - 1
+        while (x < y):
+            nums[x], nums[y] = nums[y], nums[x]
+            x += 1
+            y -= 1
 
 
 # Checking in console
