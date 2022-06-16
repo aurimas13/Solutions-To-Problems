@@ -8,6 +8,7 @@ class Solution:
                 count += 1
         return count
 
+
 # Checking in console
 if __name__ == '__main__':
     Instant = Solution()
