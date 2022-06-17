@@ -31,6 +31,7 @@ class Solution:
 
         return result
 
+
 # Checking in console
 if __name__ == '__main__':
     Instant = Solution()

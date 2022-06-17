@@ -22,6 +22,7 @@ class Solution:
             node.next = ListNode(carry)
         return root
 
+
 # # Checking in console
 # if __name__ == '__main__':
 #     Instant = Solution()
