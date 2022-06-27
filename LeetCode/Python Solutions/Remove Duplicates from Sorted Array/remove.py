@@ -1,7 +1,7 @@
-from typing iomport List
+from typing import List
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> -> List[int]:
-        print(list(set(nums)))
+    def removeDuplicates(self, nums: List[int]) -> int:
+        list(set(nums))
 
 
 # Checking in console
