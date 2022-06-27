@@ -22,6 +22,8 @@ class Solution:
         backtrack(n, [], 0)
 
         return results
+
+
 # Checking in PyCharm/console:
 if __name__ == '__main__':
     Sol = Solution()
