@@ -1,38 +1,40 @@
 from typing import List
-class Solution(object):
-    def maxProfit(self, prices):
-        """
-        :type prices: List[int]
-        :rtype: int
-        """
-        if len(prices) <= 1:
+class Solution:
+    def maxProfit(self, k: int, prices: List[int]) -> int:
+        n = len(prices)
+
+        # solve special cases
+        if not prices or k==0:
             return 0
 
-        left_min = prices[0]
-        right_max = prices[-1]
+        if 2*k > n:
+            res = 0
+            for i, j in zip(prices[1:], prices[:-1]):
+                res += max(0, i - j)
+            return res
 
-        length = len(prices)
-        left_profits = [0] * length
-        # pad the right DP array with an additional zero for convenience.
-        right_profits = [0] * (length + 1)
+        # dp[i][used_k][ishold] = balance
+        # ishold: 0 nothold, 1 hold
+        dp = [[[-math.inf]*2 for _ in range(k+1)] for _ in range(n)]
 
-        # construct the bidirectional DP array
-        for l in range(1, length):
-            left_profits[l] = max(left_profits[l-1], prices[l] - left_min)
-            left_min = min(left_min, prices[l])
+        # set starting value
+        dp[0][0][0] = 0
+        dp[0][1][1] = -prices[0]
 
-            r = length - 1 - l
-            right_profits[r] = max(right_profits[r+1], right_max - prices[r])
-            right_max = max(right_max, prices[r])
+        # fill the array
+        for i in range(1, n):
+            for j in range(k+1):
+                # transition equation
+                dp[i][j][0] = max(dp[i-1][j][0], dp[i-1][j][1]+prices[i])
+                # you can't hold stock without any transaction
+                if j > 0:
+                    dp[i][j][1] = max(dp[i-1][j][1], dp[i-1][j-1][0]-prices[i])
 
-        max_profit = 0
-        for i in range(0, length):
-            max_profit = max(max_profit, left_profits[i] + right_profits[i+1])
-
-        return max_profit
+        res = max(dp[n-1][j][0] for j in range(k+1))
+        return res
 
 # Checking in PyCharm/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.maxProfit([1,2,3,4,5])  # [1,2,3,4,5] -> 4
+    Solve = Sol.maxProfit([2,4,1])  # [2,4,1] -> 2
     print(Solve)
