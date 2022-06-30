@@ -33,6 +33,7 @@ class Solution:
         res = max(dp[n-1][j][0] for j in range(k+1))
         return res
 
+
 # Checking in PyCharm/console:
 if __name__ == '__main__':
     Sol = Solution()
