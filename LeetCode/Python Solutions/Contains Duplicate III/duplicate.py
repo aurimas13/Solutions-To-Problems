@@ -16,7 +16,7 @@ class Solution:
         return False
 
 
-# Check in the console:
+# Check in the PyCharm/terminal:
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.containsNearbyAlmostDuplicate([1,0,1,1], 1, 2)  # nums = [1,0,1,1], k = 1, t = 2 -> true | nums = [1,5,9,1,5,9], k = 2, t = 3 -> false
