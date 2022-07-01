@@ -1,1 +1,1 @@
-Problem description of "Contains Duplicate II" can be found [here](https://leetcode.com/problems/contains-duplicate-ii/).
+Problem description of "Contains Duplicate" can be found [here](https://leetcode.com/problems/contains-duplicate-ii/).

@@ -12,7 +12,7 @@ class Solution:
 
 
 # Check in the console:
-    if __name__ == '__main__':
-        Sol = Solution()
-        Solve = Sol.containsNearbyDuplicate([1,2,3,1], 3)  # nums = [1,2,3,1], k = 3 -> true | nums = [1,2,3,1,2,3], k = 2 -> false
-        print(Solve)
+if __name__ == '__main__':
+    Sol = Solution()
+    Solve = Sol.containsNearbyDuplicate([1,2,3,1], 3)  # nums = [1,2,3,1], k = 3 -> true | nums = [1,2,3,1,2,3], k = 2 -> false
+    print(Solve)

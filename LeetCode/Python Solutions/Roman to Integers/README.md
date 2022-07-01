@@ -1,1 +1,0 @@
-Problem description of "Roman to Integers" can be found [here](https://leetcode.com/problems/roman-to-integer/solution/).
