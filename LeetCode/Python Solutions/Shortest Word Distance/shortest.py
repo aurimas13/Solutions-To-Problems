@@ -17,6 +17,7 @@ class Solution:
         return minimum
 
 
+
 # Checking in PyCharm/terminal:
 if __name__ == '__main__':
     Instant = Solution()
