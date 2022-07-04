@@ -1,19 +1,11 @@
 from typing import List
-
-
 class Solution:
-    def countBits(self, n: int) -> List[int]:
-        # Creating an empty list:
-        ones_list = []
-        # Looping over digits that make n:
-        for i in range(n+1):
-            cnt = list(bin(i)).count('1')
-            # cnt = list(map(str, bin(i))).count('1')
-            ones_list.append(cnt)
-        return ones_list
+    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        return set(nums1).intersection(set(nums2))
 
-# Checking in PyCharm:
+
+# Checking in PyCharm/terminal:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.countBits(2)  # for 2 - [0,1,1] | for 5 - [0,1,1,2,1,2]
+    Solve = Sol.intersection([4,9,5], [9,4,9,8,4])  #  [1,2,2,1], [2,2] -> 2 | [4,9,5], [9,4,9,8,4] -> [4, 9]
     print(Solve)
