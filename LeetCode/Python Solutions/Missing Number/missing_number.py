@@ -5,6 +5,7 @@ class Solution:
             if i not in nums:
                 return i
 
+
 # Checking in PyCharm/terminal:
 if __name__ == '__main__':
     Instant = Solution()
