@@ -9,3 +9,4 @@ if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.intersection([4,9,5], [9,4,9,8,4])  #  [1,2,2,1], [2,2] -> 2 | [4,9,5], [9,4,9,8,4] -> [4, 9]
     print(Solve)
+
