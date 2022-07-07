@@ -20,6 +20,7 @@ class Solution:
 
         return letters[hi]
 
+
 # Check in the PyCharm/terminal:
 if __name__ == '__main__':
     Sol = Solution()
