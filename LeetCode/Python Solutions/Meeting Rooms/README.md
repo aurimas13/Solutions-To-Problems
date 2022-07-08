@@ -1,1 +1,1 @@
-Problem description of "Missing Number" can be found [here](https://leetcode.com/problems/missing-number/).
+Problem description of "Meeting Rooms" can be found [here](https://leetcode.com/problems/meeting-rooms/).
