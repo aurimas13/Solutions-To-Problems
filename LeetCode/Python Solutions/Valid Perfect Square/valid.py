@@ -41,6 +41,7 @@ class Solution:
         # else:
         #     return False
 
+
 if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.isPerfectSquare(49) # 36 -> True | 17 -> False
