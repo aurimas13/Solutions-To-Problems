@@ -12,7 +12,7 @@
 
 ------
 
-The repository is constantly updated when **Python** or **SQL** solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) and particularly [LeetCode](https://leetcode.com/problemset/all/) is solved. The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder and the progress with additional information can be found by looking at my profile [there](https://leetcode.com/aurimas13/). 
+The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) or [HackerRank](https://www.hackerrank.com/domains/python) is solved. The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder. If the solved **Leetcode** problem is one of the common problems asked by MAANG that [list](#table-of-contents) is updated with a solution and the progress with additional information can be found by looking at my profile [there](https://leetcode.com/aurimas13/). 
 
 The **HackerRank** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/Python%20Solutions) while **LeetCode** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/Python%20Solutions). Each problem folder has the description of the problem found through pressing the link in **README** at the respective folder. 
 
