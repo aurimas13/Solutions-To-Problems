@@ -13,3 +13,4 @@ class Solution:
 if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.moveZeroes([0,1,0,3,12])  #  [0,1,0,3,12] -> [1,3,12,0,0]
+    print(Solve)
