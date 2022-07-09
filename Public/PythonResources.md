@@ -1,11 +1,11 @@
 # Python Programming Language and Resources to Learn
 
-**Python resources to crack Python interviews as well as become more like Guido.**
 > Click :star: if you like the project. Pull Request are highly appreciated. Follow [@aurimas13](https://github.com/aurimas13) for more updates.
 
----
+**Python resources** to crack coding interviews as well as become more like Guido.
 
-1. ### Best YouTube Channels to Learn
+---
+### Best YouTube Channels to Learn
 | No. | Channel |
 | --- | --------- |
 |1  | [Complete Python Tutorial for Beginners by Telusko](https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) |
@@ -14,7 +14,7 @@
 |4  | [Python for Beginners in Hindi by CodeWithHarry](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) |
 
 
-2. ### Best GitHub Learning Resources
+### Best GitHub Learning Resources
 | No. | Repository |
 | --- | --------- |
 |1  | [30 days of Python](http://github.com/Asabeneh/30-Days-Of-Python) : A Step-by-step guide to learn Python programming language in 30 days.|
@@ -26,7 +26,7 @@
 
 
 
-3. ### Best Udemy Courses
+### Best Udemy Courses
 | No. | Course |
 | --- | --------- |
 |1  | [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)|
