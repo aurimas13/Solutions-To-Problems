@@ -254,7 +254,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |124 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) |
 |125 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
 |126 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
-
+---
 ### Microsoft
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
@@ -311,7 +311,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |51 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) |
 |52 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) |
 |53 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) |
-
+---
 ### Facebook
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
@@ -395,7 +395,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |78 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) |
 |79 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) |
 |80 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
-
+---
 ### Google Top
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
@@ -634,7 +634,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 192 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) |
 | 193 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares) |
 | 194 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) |
-
+---
 ### LinkedIn
 | No. | Questions | My GitHub Solution |
 | --- | --------- | ------------------ |
@@ -663,7 +663,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |23  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |
 |24  | [Valid Number](https://leetcode.com/problems/valid-number) |
 |25  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
-
+---
 ### Netflix
 | No. | Questions | My GitHub Solution |
 | --- | --------- | ------------------ |
