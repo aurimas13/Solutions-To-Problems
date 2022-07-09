@@ -2,7 +2,7 @@
 
 > Click :star: if you like the project. Pull Request are highly appreciated. 
 
-Here are top LeetCode questions that get asked through FAANG interviews or other interviews of similar level companies.
+Here are the top LeetCode questions that get asked through FAANG interviews or interviews of similar level companies.
 
 ---
 
