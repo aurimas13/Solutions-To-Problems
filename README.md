@@ -22,7 +22,7 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 
 **SQL** solutions of problems at *HackerRank* & *LeetCode* will come in June while they are updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
 
-## Table of Contents
+# Table of Contents
 - [Preparation for Interiews](#preparation-for-interviews)
 - [MAANG Must Do Problems](#maang-must-do-problems) 
 - [Amazon](#amazon)
@@ -33,7 +33,7 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 - [LinkedIn](#linkedin) 
 - [Netflix](#netflix) 
 
-# Preparation for Interviews
+## Preparation for Interviews
 
 To prepare for a MAANG interview or a MAANG-level type of an interview and land a job there I highly recommend following  & doing one or all of these:
 - Joining [hackpack](https://www.hackpack.io/) community
@@ -41,7 +41,7 @@ To prepare for a MAANG interview or a MAANG-level type of an interview and land 
 - [Python Programming Language Resources to Learn](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/PythonResources.md)
 
 
-### MAANG Must Do Problems
+## MAANG Must Do Problems
 | No. | Questions | My GitHub Solution | 
 | -- | --------- |-------------------- |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
@@ -122,7 +122,7 @@ To prepare for a MAANG interview or a MAANG-level type of an interview and land 
 |76 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |
 |77 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |
 
-2. ### Amazon
+### Amazon
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 |1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
@@ -252,7 +252,7 @@ To prepare for a MAANG interview or a MAANG-level type of an interview and land 
 |125 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
 |126 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
 
-3. ### Microsoft
+### Microsoft
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
@@ -309,7 +309,7 @@ To prepare for a MAANG interview or a MAANG-level type of an interview and land 
 |52 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) |
 |53 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) |
 
-4. ### Facebook
+### Facebook
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 | 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
@@ -393,7 +393,7 @@ To prepare for a MAANG interview or a MAANG-level type of an interview and land 
 |79 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) |
 |80 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
 
-5. ### Google Top 50
+### Google Top 50
 | No. | Questions | My GitHub Solution |
 | --- | --------- | ------------------ |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
@@ -434,7 +434,7 @@ To prepare for a MAANG interview or a MAANG-level type of an interview and land 
 |36  | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers) |
 |37  | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees) |
 
-6. ### Google
+### Google
 | No. | Questions | My GitHub Solution |
 |--| --------- | ------------------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
@@ -632,7 +632,7 @@ To prepare for a MAANG interview or a MAANG-level type of an interview and land 
 | 193 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares) |
 | 194 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) |
 
-7. ### LinkedIn
+### LinkedIn
 | No. | Questions | My GitHub Solution |
 | --- | --------- | ------------------ |
 |1  | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
@@ -661,7 +661,7 @@ To prepare for a MAANG interview or a MAANG-level type of an interview and land 
 |24  | [Valid Number](https://leetcode.com/problems/valid-number) |
 |25  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
 
-8. ### Netflix
+### Netflix
 | No. | Questions | My GitHub Solution |
 | --- | --------- | ------------------ |
 |1  | [LRU Cache](https://leetcode.com/problems/lru-cache) |
