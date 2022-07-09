@@ -25,7 +25,7 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 - [Python Programming Language Resources to Learn](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/PythonResources.md)
 ### Table of Contents
 | SNo. | **Contents** |
-| --- | --------- |
+| -- | --------- |
 | 1. | [FAANG Must Do Problems](#faang-must-do-problems) |
 | 2. | [Amazon](#amazon) |
 | 3. | [Microsoft](#microsoft) |
@@ -33,13 +33,12 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 | 5. | [Google Top 50](#google-top-50) |
 | 6. | [Google](#google) |
 | 7. | [LinkedIn](#linkedin) |
-| 8. | [Flipkart](#flipkart) |
-| 9. | [Netflix](#netflix) |
+| 8. | [Netflix](#netflix) |
 
-. ### FAANG Must Do Problems
-| No. | Questions |
-| --- | --------- |
-|1  | [Two Sum](https://leetcode.com/problems/two-sum) |
+1. ### FAANG Must Do Problems
+| No. | Questions | My GitHub Solution |
+| --- | --------- | ------------------ |
+|1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 |2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |3  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 |4  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
@@ -118,9 +117,9 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 |77  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |
 
 2. ### Amazon
-| No. | Questions |
-| --- | --------- |
-|1  | [Two Sum](https://leetcode.com/problems/two-sum) |
+| No. | Questions | My GitHub Solution |
+| --- | --------- | ------------------ |
+|1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
 |3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
@@ -250,7 +249,7 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 3. ### Microsoft
 | No. | Questions |
 | --- | --------- |
-|1  | [Two Sum](https://leetcode.com/problems/two-sum) |
+|1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
 |3  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |4  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
@@ -304,9 +303,9 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 |52  | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) |
 |53  | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) |
 
-3. ### Facebook
-| No. | Questions |
-| --- | --------- |
+4. ### Facebook
+| No. | Questions | My GitHub Solution |
+| --- | --------- | ------------------ |
 |1  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
 |2  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) |
 |3  | [3Sum](https://leetcode.com/problems/3sum) |
@@ -388,9 +387,9 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 |79  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) |
 |80  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
 
-4. ### Google Top 50
-| No. | Questions |
-| --- | --------- |
+5. ### Google Top 50
+| No. | Questions | My GitHub Solution |
+| --- | --------- | ------------------ |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) |
 |2  | [Insert Interval](https://leetcode.com/problems/insert-interval) |
 |3  | [Text Justification](https://leetcode.com/problems/text-justification) |
@@ -429,10 +428,10 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 |36  | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers) |
 |37  | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees) |
 
-5. ### Google
-| No. | Questions |
-| --- | --------- |
-|1  | [Two Sum](https://leetcode.com/problems/two-sum) |
+6. ### Google
+| No. | Questions | My GitHub Solution |
+| --- | --------- | ------------------ |
+|1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 |2  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |3  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
 |4  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
@@ -627,9 +626,9 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 |193  | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares) |
 |194  | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) |
 
-6. ### LinkedIn
-| No. | Questions |
-| --- | --------- |
+7. ### LinkedIn
+| No. | Questions | My GitHub Solution |
+| --- | --------- | ------------------ |
 |1  | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
 |2  | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) |
 |3  | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) |
@@ -656,14 +655,9 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 |24  | [Valid Number](https://leetcode.com/problems/valid-number) |
 |25  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
 
-7. ### Flipkart
-| No. | Questions |
-| --- | --------- |
-|1  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
-
 8. ### Netflix
-| No. | Questions |
-| --- | --------- |
+| No. | Questions | My GitHub Solution |
+| --- | --------- | ------------------ |
 |1  | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |2  | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) |
 
