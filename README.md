@@ -124,7 +124,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |74 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |
 |75 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |
 |76 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |
-
+---
 ### Amazon
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
