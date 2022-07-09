@@ -127,19 +127,19 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | -- | --------- | ------------------ |
 |1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 |2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
-|3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-|4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|7 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [String to Integer (atoi)](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/String%20to%20Integer%20(atoi)/atoi.py) |
-|8 | [3Sum](https://leetcode.com/problems/3sum) |
-|9 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-|11 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
-|12 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|13 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
-|14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|15 | [Permutations](https://leetcode.com/problems/permutations) | [Permutations](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Permutations/permute.py) |
+|3 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [String to Integer (atoi)](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/String%20to%20Integer%20(atoi)/atoi.py) |
+|4 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
+|5 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
+|6 | [Permutations](https://leetcode.com/problems/permutations) | [Permutations](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Permutations/permute.py) |
+|7 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+|8 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|9 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|10 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|11 | [3Sum](https://leetcode.com/problems/3sum) |
+|12 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|14 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|15 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
 |16 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
 |17 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
 |18 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |
