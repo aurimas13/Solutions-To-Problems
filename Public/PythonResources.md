@@ -37,6 +37,6 @@
 |6  | [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) |
 
 ### Addtional materials
-| No. | Course |
-| --- | --------- |
-|1  | [Awesome Python](https://awesome-python.com/)
+| No. | Course                                        |
+|-----|-----------------------------------------------|
+| 1   | [Awesome Python](https://awesome-python.com/) |
