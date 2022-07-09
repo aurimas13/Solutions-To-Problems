@@ -120,7 +120,7 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 | No. | Questions | My GitHub Solution |
 | --- | --------- | ------------------ |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
-|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
+|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
 |3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
@@ -250,7 +250,7 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 | No. | Questions | My GitHub Solution |
 | --- | --------- | ------------------ |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
-|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
+|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
 |3  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |4  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 |5  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |
