@@ -80,48 +80,47 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |33 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
 |34 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) |
 |35 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|36 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
-|37 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|38 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
-|39 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
-|40 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|41 | [Word Break](https://leetcode.com/problems/word-break) |
-|42 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
-|43 | [Reorder List](https://leetcode.com/problems/reorder-list) |
-|44 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
-|45 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
-|46 | [House Robber](https://leetcode.com/problems/house-robber) |
-|47 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
-|48 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |
-|49 | [Course Schedule](https://leetcode.com/problems/course-schedule) |
-|50 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|51 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
-|52 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|53 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|54 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) |
-|55 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
-|56 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) |
-|57 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
-|58 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
-|59 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) |
-|60 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
-|61 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) |
-|62 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
-|63 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) |
-|64 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|66 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |
-|67 | [Coin Change](https://leetcode.com/problems/coin-change) |
-|68 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
-|69 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) |
-|70 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) |
-|71 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |
-|72 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
-|73 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) |
-|74 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) |
-|75 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) |
-|76 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |
-|77 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |
-|78 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |
+|36 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|37 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
+|38 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+|39 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|40 | [Word Break](https://leetcode.com/problems/word-break) |
+|41 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
+|42 | [Reorder List](https://leetcode.com/problems/reorder-list) |
+|43 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
+|44 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
+|45 | [House Robber](https://leetcode.com/problems/house-robber) |
+|46 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
+|47 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |
+|48 | [Course Schedule](https://leetcode.com/problems/course-schedule) |
+|49 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|50 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
+|51 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|52 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
+|53 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) |
+|54 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
+|55 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) |
+|56 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
+|57 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
+|58 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) |
+|59 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
+|60 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) |
+|61 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
+|62 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) |
+|63 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|64 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |
+|65 | [Coin Change](https://leetcode.com/problems/coin-change) |
+|66 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
+|67 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) |
+|68 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) |
+|69 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |
+|70 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
+|71 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) |
+|72 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) |
+|73 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) |
+|74 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |
+|75 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |
+|76 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |
 
 ### Amazon
 | No. | Questions | My GitHub Solution |
