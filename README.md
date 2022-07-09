@@ -131,33 +131,33 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |4 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
 |5 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
 |6 | [Permutations](https://leetcode.com/problems/permutations) | [Permutations](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Permutations/permute.py) |
-|7 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-|8 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|9 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|10 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|11 | [3Sum](https://leetcode.com/problems/3sum) |
-|12 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-|14 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|15 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|16 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
-|17 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
-|18 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |
-|19 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|20 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|21 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|22 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|23 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
-|24 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
-|25 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|26 | [Subsets](https://leetcode.com/problems/subsets) |
-|27 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|28 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|29 | [Same Tree](https://leetcode.com/problems/same-tree) |
-|30 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|31 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|32 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) |
-|56 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+|7 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+|8 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+|9 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|10 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|11 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|12 | [3Sum](https://leetcode.com/problems/3sum) |
+|13 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|14 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|15 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|16 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|17 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
+|18 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|19 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |
+|20 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|21 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|22 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|23 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
+|24 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|25 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+|26 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|27 | [Subsets](https://leetcode.com/problems/subsets) |
+|28 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|29 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|30 | [Same Tree](https://leetcode.com/problems/same-tree) |
+|31 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|32 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|33 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) |
 |34 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
 |35 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 |36 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
