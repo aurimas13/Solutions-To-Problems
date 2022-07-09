@@ -14,13 +14,13 @@
 
 The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) or [HackerRank](https://www.hackerrank.com/domains/python) is solved. The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder. If the solved **Leetcode** problem is one of the problems asked by MAANG companies then that solution of specific company is added as my GitHub solution found through [contents](#table-of-contents).
 
-The progress of my **LeetCode** account regarding these solutions with additional information can be found by looking at my profile [here](https://leetcode.com/aurimas13/). 
+The progress of my **LeetCode** account regarding these solutions with additional information on them can be found by looking at my [LeetCode profile](https://leetcode.com/aurimas13/).
 
 The **Leetcode** solutions of **Python** are found  [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/Python%20Solutions) while **HackerRank** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/Python%20Solutions). Each problem folder has the description of the problem found through pressing the link in **README** at the respective folder or if it is provided for the particular MAANG company found through [contents](#table-of-contents). By pressing on that company you will be redirected to the problem description (1st column) followed by the solution in GitHub (2nd column).
 
-Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems were finished May and from *28th of May* am working on solving at least one **Python** problem from [LeetCode](https://leetcode.com/problemset/all/) daily. The solution is put at the respective **LeetCode** folder and updated through [MAANG contents list](#table-of-contents). 
+Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems were finished May and from *28th of May 2022* am working on solving at least one **Python** problem from [LeetCode](https://leetcode.com/problemset/all/) daily. The solution is put at the respective **LeetCode** folder and updated through [MAANG contents list](#table-of-contents). 
 
-**SQL** solutions of problems at *HackerRank* & *LeetCode* will come in June while they are updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
+**SQL** solutions of problems at *HackerRank* & *LeetCode* will come in Fall while they will be updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
 
 # Table of Contents
 - [Preparation for Interiews](#preparation-for-interviews)
