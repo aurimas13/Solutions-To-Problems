@@ -47,26 +47,25 @@ To prepare for a MAANG interview or a MAANG-level type of an interview and land 
 |1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
 |2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
 |3 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
-|4 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
-|6 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
-|7 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Number of 1 bits](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%201%20bits/bits.py) |
-|8 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py)                        |
-|9 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | [Meeting Rooms](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Meeting%20Rooms/meeting_rooms.py).                             
-|10 | [Missing Number](https://leetcode.com/problems/missing-number) | [Missing Number](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Missing%20Number/missing_number.py) |
-|11 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Counting bits](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Counting%20Bits/bits.py)                                       |
-|12  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-|13  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|14  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
-|15  | [3Sum](https://leetcode.com/problems/3sum) |
-|16  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|17  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-|18 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-|19 | [Combination Sum](https://leetcode.com/problems/combination-sum) |
-|20 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
-|21 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
-|22 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
-|23 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+|5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
+|6 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Number of 1 bits](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%201%20bits/bits.py) |
+|7 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py)                        |
+|8 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | [Meeting Rooms](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Meeting%20Rooms/meeting_rooms.py).                             
+|9 | [Missing Number](https://leetcode.com/problems/missing-number) | [Missing Number](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Missing%20Number/missing_number.py) |
+|10 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Counting bits](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Counting%20Bits/bits.py)                                       |
+|4  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+|5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|6  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
+|7  | [3Sum](https://leetcode.com/problems/3sum) |
+|8  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|9  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|10 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+|11 | [Combination Sum](https://leetcode.com/problems/combination-sum) |
+|12 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
+|13 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|14 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+|15 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
 |16 | [Jump Game](https://leetcode.com/problems/jump-game) |
 |17 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |
 |18 | [Insert Interval](https://leetcode.com/problems/insert-interval) |
