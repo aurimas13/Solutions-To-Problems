@@ -37,9 +37,9 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 
 To prepare for a MAANG interview or a MAANG-level company interview as well as land a job there I highly recommend solving as many problems below as possible and doing one or all of these:
 - Joining [hackpack](https://www.hackpack.io/) community
-- Solving [Top LeetCode Problems](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/TopLeetCodeProblems.md).
+- Solving [Top LeetCode Problems](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/TopLeetCodeProblems.md)
 - Honing [Python skills](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/PythonResources.md)
-
+- Looking at possible [Multiple Choice Questions](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/Public/MCQ.txt)
 
 ## MAANG Must Do Problems
 | No. | Questions | My GitHub Solution | 
