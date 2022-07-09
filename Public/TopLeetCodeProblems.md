@@ -1,8 +1,7 @@
-# Top 75 LeetCode Questions to Crack The Coding Interviews
-
-Here are top 75 LeetCode questions that get asked through FAANG and similar companies interviews:
+# Top LeetCode Questions to Crack The Coding Interviews
 
 > Click :star: if you like the project. Pull Request are highly appreciated. 
+Here are top LeetCode questions that get asked through FAANG interviews or other interviews of similar level companies.
 
 ---
 
