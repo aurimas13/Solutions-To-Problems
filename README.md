@@ -2,7 +2,8 @@
   <img height="222px" src="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/Public/solution.jpeg"/>
 </p>
 
-<p align="center" > <b> Solutions </b> to HackerRank & <b> LeetCode </b> problems. </p>
+<p align="center" > <b> Solutions </b> to <b> LeetCode </b> & HackerRank problems. </p>
+<p align="center" > Most common problems asked through FAANG interviews solved through <b> LeetCode </b> and the list given below</p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
@@ -11,7 +12,7 @@
 
 ------
 
-The repository is constantly updated when **Python** or **SQL** solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) and particularly [LeetCode](https://leetcode.com/problemset/all/) is solved. The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem and the progress with additional information can be found by looking at my profile [there](https://leetcode.com/aurimas13/). 
+The repository is constantly updated when **Python** or **SQL** solution to the problem found at [HackerRank](https://www.hackerrank.com/domains/python) and particularly [LeetCode](https://leetcode.com/problemset/all/) is solved. The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder and the progress with additional information can be found by looking at my profile [there](https://leetcode.com/aurimas13/). 
 
 The **HackerRank** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/Python%20Solutions) while **LeetCode** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/Python%20Solutions). Each problem folder has the description of the problem found through pressing the link in **README** at the respective folder. 
 
