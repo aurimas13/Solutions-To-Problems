@@ -257,46 +257,46 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | -- | --------- | ------------------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
-| 3 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 4 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-| 5 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [String to Integer (atoi)](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/String%20to%20Integer%20(atoi)/atoi.py) |
-| 6 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
-| 7 | [3Sum](https://leetcode.com/problems/3sum) |
-| 8 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-| 9 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
-|10 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
-|11 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|12 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|13 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
-|14 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|15 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-|16 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
-|17 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|18 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|19 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |
-|20 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|21 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
-|22 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|23 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
-|24 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|25 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
-|26 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
-|27 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-|28 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |
-|29 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |
-|30 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|31 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
-|32 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Number of 1 bits](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%201%20bits/bits.py) |
-|33 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
-|34 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |
-|35 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|36 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|37 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
-|38 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-|39 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
-|40 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
-|41 | [Add Digits](https://leetcode.com/problems/add-digits) |
-|42 | [Missing Number](https://leetcode.com/problems/missing-number) | [Missing Number](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Missing%20Number/missing_number.py) |
+| 3 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [String to Integer (atoi)](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/String%20to%20Integer%20(atoi)/atoi.py) |
+| 4 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
+| 5 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
+| 6 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
+| 7 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Number of 1 bits](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%201%20bits/bits.py) |
+| 8 | [Missing Number](https://leetcode.com/problems/missing-number) | [Missing Number](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Missing%20Number/missing_number.py) |
+| 9 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|10 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|11 | [3Sum](https://leetcode.com/problems/3sum) |
+|12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|13 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
+|14 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|15 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
+|16 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|17 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+|18 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+|19 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|20 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|21 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |
+|22 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|23 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
+|24 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|25 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
+|26 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|27 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
+|28 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
+|29 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+|30 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |
+|31 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |
+|32 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|33 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
+|34 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
+|35 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |
+|36 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|37 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|38 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
+|39 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
+|40 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
+|41 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
+|42 | [Add Digits](https://leetcode.com/problems/add-digits) |
 |43 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 |44 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) |
 |45 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) |
