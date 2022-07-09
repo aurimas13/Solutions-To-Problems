@@ -27,7 +27,7 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 - [MAANG Must Do Problems](#maang-must-do-problems) 
 - [Amazon](#amazon)
 - [Microsoft](#microsoft) 
-- [Facebook](#facebook) 
+- [Meta](#meta) 
 - [Google Top](#google-to) 
 - [Google](#google) 
 - [LinkedIn](#linkedin) 
@@ -312,7 +312,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |52 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) |
 |53 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) |
 ---
-### Facebook
+### Meta
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 | 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
