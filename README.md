@@ -77,7 +77,7 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 |37 | [Reorder List](https://leetcode.com/problems/reorder-list) |
 |38 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
 |39 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
-|40 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) |
+|40 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
 |41 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Number of 1 bits](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%201%20bits/bits.py) |
 |42 | [House Robber](https://leetcode.com/problems/house-robber) |
 |43 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
@@ -254,7 +254,7 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 | 3 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 4 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 | 5 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |
-| 6 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) |
+| 6 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
 | 7 | [3Sum](https://leetcode.com/problems/3sum) |
 | 8 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
 | 9 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
@@ -307,7 +307,7 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 | 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 2 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) |
+| 2 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
 | 3 | [3Sum](https://leetcode.com/problems/3sum) |
 | 4 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
 | 5 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
