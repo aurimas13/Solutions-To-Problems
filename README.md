@@ -136,31 +136,31 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |6 | [Permutations](https://leetcode.com/problems/permutations) | [Permutations](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Permutations/permute.py) |
 |7 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
 |8 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
-|9 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-|10 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|11 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|12 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|13 | [3Sum](https://leetcode.com/problems/3sum) |
-|14 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|15 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-|16 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|17 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|18 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
-|19 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
-|20 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|21 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|22 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|23 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|24 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
-|25 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
-|26 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|27 | [Subsets](https://leetcode.com/problems/subsets) |
-|28 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|29 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|30 | [Same Tree](https://leetcode.com/problems/same-tree) |
-|31 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|32 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|33 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) |
+|9 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Pascal's Triangle II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Pascal's%20Triangle%20II/pascals.py) |
+|10 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+|11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|12 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|13 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|14 | [3Sum](https://leetcode.com/problems/3sum) |
+|15 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|16 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|17 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|18 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|19 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
+|20 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|21 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|22 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|23 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|24 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
+|25 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|26 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+|27 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|28 | [Subsets](https://leetcode.com/problems/subsets) |
+|29 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|30 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|31 | [Same Tree](https://leetcode.com/problems/same-tree) |
+|32 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|33 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
 |34 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
 |35 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 |36 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
@@ -402,6 +402,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 |2 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [Maximal Rectangle](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Rectangle/maximal.py) |
 |3 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+|4 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | [X of a Kind in a Deck of Cards](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/deck.py) |
 |4 | [Text Justification](https://leetcode.com/problems/text-justification) |
 |5 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
 |6 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
@@ -425,7 +426,6 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |24 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) |
 |25 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) |
 |26 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) |
-|27 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) |
 |28 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle) |
 |29 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences) |
 |30 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) |
@@ -448,18 +448,18 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 6 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
 | 7 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 | 8 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
-| 9 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 11 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-| 12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-| 13 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 15 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-| 16 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-| 17 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-| 18 | [Plus One](https://leetcode.com/problems/plus-one) |
-| 19 | [Same Tree](https://leetcode.com/problems/same-tree) |
-| 20 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) |
+| 9 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Pascal's Triangle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Pascal's%20Triangle) |
+| 10 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 11 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 12 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+| 14 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 15 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 16 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+| 17 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+| 18 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+| 19 | [Plus One](https://leetcode.com/problems/plus-one) |
+| 20 | [Same Tree](https://leetcode.com/problems/same-tree) |
 | 21 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 | 22 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
 | 23 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
