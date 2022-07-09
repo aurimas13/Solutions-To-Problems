@@ -35,10 +35,10 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 
 ## Preparation for Interviews
 
-To prepare for a MAANG interview or a MAANG-level type of an interview and land a job there I highly recommend following  & doing one or all of these:
+To prepare for a MAANG interview or a MAANG-level company interview as well as land a job there I highly recommend solving as many problems below as possible and doing one or all of these:
 - Joining [hackpack](https://www.hackpack.io/) community
-- [Top LeetCode Problems](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/TopLeetCodeProblems.md).
-- [Python Programming Language Resources to Learn](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/PythonResources.md)
+- Solving [Top LeetCode Problems](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/TopLeetCodeProblems.md).
+- Honing [Python skills](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/PythonResources.md)
 
 
 ## MAANG Must Do Problems
