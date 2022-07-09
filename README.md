@@ -438,54 +438,54 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | No. | Questions | My GitHub Solution |
 |--| --------- | ------------------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
-| 2 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 3 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 4 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-| 5 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-| 6 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 7 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
-| 8 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
-| 9 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Next Permutation](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Next%20Permutaion/permutation.py) |
-| 10 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 11 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-| 12 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-| 13 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-| 14 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |
-| 15 | [Insert Interval](https://leetcode.com/problems/insert-interval) |
-| 16 | [Plus One](https://leetcode.com/problems/plus-one) |
-| 17 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [Maximal Rectangle](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Rectangle/maximal.py) |
-| 18 | [Same Tree](https://leetcode.com/problems/same-tree) |
-| 19 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) |
-| 20 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-| 21 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
-| 22 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-| 23 | [Word Break](https://leetcode.com/problems/word-break) |
-| 24 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
-| 25 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 26 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 27 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-| 28 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
-| 29 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-| 30 | [House Robber](https://leetcode.com/problems/house-robber) |
-| 31 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
-| 32 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
-| 33 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-| 34 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-| 35 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |
-| 36 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-| 37 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
-| 38 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
-| 39 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
-| 40 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
-| 41 | [Power of Two](https://leetcode.com/problems/power-of-two) |
-| 42 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
-| 43 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
-| 44 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 45 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-| 46 | [H-Index](https://leetcode.com/problems/h-index) |
-| 47 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
-| 48 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
-| 49 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
+| 2 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
+| 3 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
+| 4 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Next Permutation](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Next%20Permutaion/permutation.py) |
+| 5 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [Maximal Rectangle](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Rectangle/maximal.py) |
+| 6 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
+| 7 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 8 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 9 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+| 11 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 12 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 13 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+| 14 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+| 15 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+| 16 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |
+| 17 | [Insert Interval](https://leetcode.com/problems/insert-interval) |
+| 18 | [Plus One](https://leetcode.com/problems/plus-one) |
+| 19 | [Same Tree](https://leetcode.com/problems/same-tree) |
+| 20 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) |
+| 21 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
+| 22 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+| 23 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+| 24 | [Word Break](https://leetcode.com/problems/word-break) |
+| 25 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 26 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 27 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 28 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+| 29 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
+| 30 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+| 31 | [House Robber](https://leetcode.com/problems/house-robber) |
+| 32 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
+| 33 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
+| 34 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+| 35 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+| 36 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |
+| 37 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
+| 38 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
+| 39 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
+| 40 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
+| 41 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
+| 42 | [Power of Two](https://leetcode.com/problems/power-of-two) |
+| 43 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
+| 44 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+| 45 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 46 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+| 47 | [H-Index](https://leetcode.com/problems/h-index) |
+| 48 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
+| 49 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
 | 50 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
 | 51 | [Game of Life](https://leetcode.com/problems/game-of-life) |
 | 52 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
