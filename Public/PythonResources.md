@@ -25,6 +25,12 @@
 |6  | [Python reference](http://github.com/rasbt/python_reference): Useful functions, tutorials, and other Python-related things |
 
 
+### Awesome Materials
+| No. | Material                                                                                                                        |
+|-----|---------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Awesome Python](https://awesome-python.com/) : A curated list of awesome Python frameworks, libraries, software and resources. |
+
+
 
 ### Best Udemy Courses
 | No. | Course |
@@ -35,8 +41,3 @@
 |4  | [Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/course/python-coding/) |
 |5  | [Python for Finance: Investment Fundamentals & Data Analytics](https://www.udemy.com/course/python-for-finance-investment-fundamentals-data-analytics/) |
 |6  | [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) |
-
-### Addtional materials
-| No. | Course                                        |
-|-----|-----------------------------------------------|
-| 1   | [Awesome Python](https://awesome-python.com/) |
