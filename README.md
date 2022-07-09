@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" > <b> Solutions </b> to <b> LeetCode </b> & HackerRank problems. </p>
-<p align="center" > Most common problems asked through FAANG interviews solved through <b> LeetCode </b> and the list given below</p>
+<p align="center" > Most common problem questions & solutions from <b> MAANG </b> interviews given. </p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
