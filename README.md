@@ -19,7 +19,9 @@ Currently, doing **Python** problems. **HackerRank Python** problems are finishe
 
 **SQL** solutions of problems at *HackerRank* & *LeetCode* will come in June while they are updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
 
-To prepare for FAANG interviews I highly recommend joining 
+To prepare for FAANG interviews and land a job there I highly recommend one of these:
+1) Joining [hackpack](https://www.hackpack.io/) community.
+2) 
 # Table of contents
 
 [//]: # (- [Birthday Reminder App]&#40;#birthday-reminder-app&#41;)
