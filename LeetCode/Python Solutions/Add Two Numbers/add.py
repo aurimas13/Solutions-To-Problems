@@ -24,7 +24,7 @@ class Solution:
 
 
 # # Checking in console
-# if __name__ == '__main__':
-#     Instant = Solution()
-#     Solve = Instant.addTwoNumbers([2,4,3], [5,6,4])  #  "aabb" -> ['baab', 'abba']
-#     print(Solve)
+if __name__ == '__main__':
+    Instant = Solution()
+    Solve = Instant.addTwoNumbers([2,4,3], [5,6,4])  #  "aabb" -> ['baab', 'abba']
+    print(Solve)

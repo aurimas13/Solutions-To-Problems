@@ -247,8 +247,8 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 |126  | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
 
 3. ### Microsoft
-| No. | Questions |
-| --- | --------- |
+| No. | Questions | My GitHub Solution |
+| --- | --------- | ------------------ |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |
 |3  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
@@ -390,7 +390,7 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 5. ### Google Top 50
 | No. | Questions | My GitHub Solution |
 | --- | --------- | ------------------ |
-|1  | [Two Sum](https://leetcode.com/problems/two-sum) |
+|1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 |2  | [Insert Interval](https://leetcode.com/problems/insert-interval) |
 |3  | [Text Justification](https://leetcode.com/problems/text-justification) |
 |4  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
