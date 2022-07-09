@@ -42,6 +42,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 - Looking at possible [Multiple Choice Questions](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/Public/MCQ.txt)
 
 ### MAANG Must Do Problems
+
 | No. | Questions | My GitHub Solution | 
 | -- | --------- |-------------------- |
 |1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
