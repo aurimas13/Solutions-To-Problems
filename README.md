@@ -34,7 +34,7 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 - [LinkedIn](#linkedin) 
 - [Netflix](#netflix) 
 
-<p align = center> ### MAANG Must Do Problems </p>
+### MAANG Must Do Problems
 | No. | Questions | My GitHub Solution | 
 | -- | --------- |-------------------- |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
