@@ -25,20 +25,18 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 - [Top LeetCode Problems](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/TopLeetCodeProblems.md).
 - [Python Programming Language Resources to Learn](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/PythonResources.md)
 ### Table of Contents
-| SNo. | **Contents** |
-| -- | --------- |
-| 1. | [FAANG Must Do Problems](#faang-must-do-problems) |
-| 2. | [Amazon](#amazon) |
-| 3. | [Microsoft](#microsoft) |
-| 4. | [Facebook](#facebook) |
-| 5. | [Google Top 50](#google-top-50) |
-| 6. | [Google](#google) |
-| 7. | [LinkedIn](#linkedin) |
-| 8. | [Netflix](#netflix) |
+- [MAANG Must Do Problems](#Maang-must-do-problems) 
+- [Amazon](#amazon)
+- [Microsoft](#microsoft) 
+- [Facebook](#facebook) 
+- [Google Top 50](#google-top-50) 
+- [Google](#google) 
+- [LinkedIn](#linkedin) 
+- [Netflix](#netflix) 
 
-1. ### FAANG Must Do Problems
-| No. | Questions | My GitHub Solution                                                                                                                                                   |
-| -- | --------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+1. ### MAANG Must Do Problems
+| No. | Questions | My GitHub Solution | 
+| -- | --------- |-------------------- |
 |1  | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
 |2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |3  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
