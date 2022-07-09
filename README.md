@@ -327,37 +327,37 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |10 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
 |11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 |12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
-|13 | [3Sum](https://leetcode.com/problems/3sum) |
-|14 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|15 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-|16 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|17 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|18 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-|19 | [Count and Say](https://leetcode.com/problems/count-and-say) |
-|20 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-|21 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-|22 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
-|23 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
-|24 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|25 | [Word Break](https://leetcode.com/problems/word-break) |
-|26 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|27 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|28 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
-|29 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|30 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
-|31 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-|32 | [Maximal Square](https://leetcode.com/problems/maximal-square) |
-|33 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|34 | [H-Index](https://leetcode.com/problems/h-index) |
-|35 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
-|36 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|37 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-|38 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
-|39 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|40 | [Target Sum](https://leetcode.com/problems/target-sum) |
-|41 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |
-|42 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
-|43 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) |
+|13 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Valid Palindrome II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome%20II/palidrome.py) |
+|14 | [3Sum](https://leetcode.com/problems/3sum) |
+|15 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|16 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|17 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|18 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|19 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+|20 | [Count and Say](https://leetcode.com/problems/count-and-say) |
+|21 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+|22 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+|23 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
+|24 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+|25 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|26 | [Word Break](https://leetcode.com/problems/word-break) |
+|27 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|28 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|29 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
+|30 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|31 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
+|32 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
+|33 | [Maximal Square](https://leetcode.com/problems/maximal-square) |
+|34 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+|35 | [H-Index](https://leetcode.com/problems/h-index) |
+|36 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
+|37 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|38 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+|39 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
+|40 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|41 | [Target Sum](https://leetcode.com/problems/target-sum) |
+|42 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |
+|43 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
 |44 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
 |45 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 |46 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
