@@ -41,6 +41,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 - Honing [Python Skills](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/PythonResources.md)
 - Looking at possible [Multiple Choice Questions](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/Public/MCQ.txt)
 
+------
+
 ### MAANG Must Do Problems
 
 | No. | Questions | My GitHub Solution | 
