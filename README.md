@@ -128,19 +128,19 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 ### Meta
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
-| 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 2 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
-| 3 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
-| 4 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) | [Interval List Intersections](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Interval%20List%20Intersections/interval.py) |
-| 5 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
-| 6 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
-| 7 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [Best Time to Buy and Sell Stock III](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III) |
-| 8 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
-| 9 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
-|10 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
-|11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
-|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
-|13 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Valid Palindrome II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome%20II/palidrome.py) |
+| 1 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
+| 2 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
+| 3 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) | [Interval List Intersections](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Interval%20List%20Intersections/interval.py) |
+| 4 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+| 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+| 6 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [Best Time to Buy and Sell Stock III](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III) |
+| 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
+| 8 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
+| 9 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
+|10 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
+|11 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+|12 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Valid Palindrome II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome%20II/palidrome.py) |
+|13 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
 |14 | [3Sum](https://leetcode.com/problems/3sum) |
 |15 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
 |16 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
