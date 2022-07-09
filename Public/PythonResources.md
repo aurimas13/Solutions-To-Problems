@@ -1,6 +1,6 @@
 # Python Programming Language and Resources to Learn
 
-Python resources to crack Python interviews as well as become more like Guido.
+**Python resources to crack Python interviews as well as become more like Guido.**
 > Click :star: if you like the project. Pull Request are highly appreciated. Follow [@aurimas13](https://github.com/aurimas13) for more updates.
 
 ---
