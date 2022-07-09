@@ -263,13 +263,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 6 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
 | 7 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Number of 1 bits](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%201%20bits/bits.py) |
 | 8 | [Missing Number](https://leetcode.com/problems/missing-number) | [Missing Number](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Missing%20Number/missing_number.py) |
-| 9 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|10 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|11 | [3Sum](https://leetcode.com/problems/3sum) |
-|12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-|13 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|14 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|15 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
+| 9 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
+|10 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|11 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|12 | [3Sum](https://leetcode.com/problems/3sum) |
+|13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|14 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
+|15 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
 |16 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
 |17 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
 |18 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
