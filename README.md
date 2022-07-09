@@ -22,12 +22,9 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 
 **SQL** solutions of problems at *HackerRank* & *LeetCode* will come in June while they are updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
 
-To prepare for FAANG interviews and land a job there I highly recommend one or all following all of these:
-- Joining [hackpack](https://www.hackpack.io/) community
-- [Top LeetCode Problems](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/TopLeetCodeProblems.md).
-- [Python Programming Language Resources to Learn](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/PythonResources.md)
-### Table of Contents
-- [MAANG Must Do Problems](#Maang-must-do-problems) 
+## Table of Contents
+- [Preparation for Interiews](#preparation-for-interviews)
+- [MAANG Must Do Problems](#maang-must-do-problems) 
 - [Amazon](#amazon)
 - [Microsoft](#microsoft) 
 - [Facebook](#facebook) 
@@ -35,6 +32,14 @@ To prepare for FAANG interviews and land a job there I highly recommend one or a
 - [Google](#google) 
 - [LinkedIn](#linkedin) 
 - [Netflix](#netflix) 
+
+# Preparation for Interviews
+
+To prepare for a MAANG interview or a MAANG-level type of an interview and land a job there I highly recommend following  & doing one or all of these:
+- Joining [hackpack](https://www.hackpack.io/) community
+- [Top LeetCode Problems](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/TopLeetCodeProblems.md).
+- [Python Programming Language Resources to Learn](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/Public/PythonResources.md)
+
 
 ### MAANG Must Do Problems
 | No. | Questions | My GitHub Solution | 
