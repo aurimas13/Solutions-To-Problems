@@ -403,29 +403,29 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |2 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [Maximal Rectangle](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Rectangle/maximal.py) |
 |3 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
 |4 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | [X of a Kind in a Deck of Cards](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/deck.py) |
-|4 | [Text Justification](https://leetcode.com/problems/text-justification) |
-|5 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|6 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-|7 | [Maximal Square](https://leetcode.com/problems/maximal-square) |
-|8 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|9 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) |
-|10 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
-|11 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) |
-|12 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
-|13 | [Decode String](https://leetcode.com/problems/decode-string) |
-|14 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) |
-|15 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) |
-|16 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
-|17 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) |
-|18 | [24 Game](https://leetcode.com/problems/24-game) |
-|19 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) |
-|20 | [Open the Lock](https://leetcode.com/problems/open-the-lock) |
-|21 | [Expressive Words](https://leetcode.com/problems/expressive-words) |
-|22 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string) |
-|23 | [Guess the Word](https://leetcode.com/problems/guess-the-word) |
-|24 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) |
-|25 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) |
-|26 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) |
+|5 | [Text Justification](https://leetcode.com/problems/text-justification) |
+|6 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|7 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
+|8 | [Maximal Square](https://leetcode.com/problems/maximal-square) |
+|9 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|10 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) |
+|11 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
+|12 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) |
+|13 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
+|14 | [Decode String](https://leetcode.com/problems/decode-string) |
+|15 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) |
+|16 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) |
+|17 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
+|18 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) |
+|19 | [24 Game](https://leetcode.com/problems/24-game) |
+|20 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) |
+|21 | [Open the Lock](https://leetcode.com/problems/open-the-lock) |
+|22 | [Expressive Words](https://leetcode.com/problems/expressive-words) |
+|23 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string) |
+|24 | [Guess the Word](https://leetcode.com/problems/guess-the-word) |
+|25 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) |
+|26 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) |
+|27 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) |
 |28 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle) |
 |29 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences) |
 |30 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) |
