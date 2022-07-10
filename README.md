@@ -227,31 +227,30 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |14 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |15 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|15 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|16 | [3Sum](https://leetcode.com/problems/3sum) |
-|17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|18 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|19 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|20 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
-|21 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
-|22 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|23 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|24 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|25 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|26 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
-|27 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
-|28 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|29 | [Subsets](https://leetcode.com/problems/subsets) |
-|30 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|31 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|32 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|33 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|34 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
-|35 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-|36 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|37 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|38 | [Word Break](https://leetcode.com/problems/word-break) |
-|39 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
+|16 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|17 | [3Sum](https://leetcode.com/problems/3sum) |
+|18 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|19 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|20 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|21 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
+|22 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|23 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|24 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|25 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|26 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
+|27 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|28 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+|29 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|30 | [Subsets](https://leetcode.com/problems/subsets) |
+|31 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|32 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|33 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|34 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|35 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
+|36 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
+|37 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|38 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|39 | [Word Break](https://leetcode.com/problems/word-break) |
 |40 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |41 | [Sort List](https://leetcode.com/problems/sort-list) |
 |42 | [Min Stack](https://leetcode.com/problems/min-stack) |
