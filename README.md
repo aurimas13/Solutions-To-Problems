@@ -65,6 +65,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |16 | [Same Tree](https://leetcode.com/problems/same-tree) | [Same Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Same%20Tree/same_tree.py) |
 |17 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
 |18 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
+|48 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
+|54 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Invert Binary Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 |19 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |20 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 |21 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
@@ -94,13 +96,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |45 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
 |46 | [House Robber](https://leetcode.com/problems/house-robber) |
 |47 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
-|48 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |
+|48 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
 |49 | [Course Schedule](https://leetcode.com/problems/course-schedule) |
 |50 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
 |51 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
 |52 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
 |53 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|54 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) |
+|54 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Invert Binary Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 |55 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
 |56 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) |
 |57 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
