@@ -594,6 +594,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |11 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 |12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |13 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
+|19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
 |14 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |15 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 |16 | [3Sum](https://leetcode.com/problems/3sum) |
@@ -615,7 +616,6 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |32 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
 |33 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
 |34 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
-|35 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |
 |36 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
 |37 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
 |38 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
