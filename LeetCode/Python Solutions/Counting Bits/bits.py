@@ -1,6 +1,4 @@
 from typing import List
-
-
 class Solution:
     def countBits(self, n: int) -> List[int]:
         # Creating an empty list:
@@ -11,6 +9,7 @@ class Solution:
             # cnt = list(map(str, bin(i))).count('1')
             ones_list.append(cnt)
         return ones_list
+
 
 # Checking in PyCharm:
 if __name__ == '__main__':
