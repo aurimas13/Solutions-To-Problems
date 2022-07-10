@@ -593,19 +593,19 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |10 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 |11 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 |12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
-|13 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|14 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|15 | [3Sum](https://leetcode.com/problems/3sum) |
-|16 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|17 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|18 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|19 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-|20 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
-|21 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|22 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|23 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|24 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|25 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
+|13 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
+|14 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|15 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|16 | [3Sum](https://leetcode.com/problems/3sum) |
+|17 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
+|18 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|19 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|20 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+|21 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+|22 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|24 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|25 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
 |26 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |27 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
 |28 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
