@@ -61,10 +61,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
 |13 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 |14 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
-|15 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |
-|16 | [Same Tree](https://leetcode.com/problems/same-tree) |
-|17 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) |
-|18 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
+|15 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+|16 | [Same Tree](https://leetcode.com/problems/same-tree) | [Same Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Same%20Tree/same_tree.py) |
+|17 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
+|18 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
 |19 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |20 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 |21 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
@@ -222,27 +222,28 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |8 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 |9 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Pascal's Triangle II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Pascal's%20Triangle%20II/pascals.py) |
 |10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
-|11 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-|12 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|13 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|14 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|15 | [3Sum](https://leetcode.com/problems/3sum) |
-|16 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|17 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|18 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|19 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
-|20 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
-|21 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|22 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|23 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|24 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|25 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
-|26 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
-|27 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|28 | [Subsets](https://leetcode.com/problems/subsets) |
-|29 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|30 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|31 | [Same Tree](https://leetcode.com/problems/same-tree) |
+|11 | [Same Tree](https://leetcode.com/problems/same-tree) | [Same Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Same%20Tree/same_tree.py) |
+|12 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
+|13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+|14 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|15 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|15 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|16 | [3Sum](https://leetcode.com/problems/3sum) |
+|17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|18 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|19 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|20 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
+|21 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|22 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|23 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|24 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|25 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
+|26 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|27 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+|28 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|29 | [Subsets](https://leetcode.com/problems/subsets) |
+|30 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|31 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
 |32 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
 |33 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
 |34 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
@@ -393,16 +394,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 8 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
 | 9 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Pascal's Triangle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Pascal's%20Triangle) |
 | 10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
-| 11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 12 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 13 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-| 14 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 15 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 16 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-| 17 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-| 18 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-| 19 | [Plus One](https://leetcode.com/problems/plus-one) |
-| 20 | [Same Tree](https://leetcode.com/problems/same-tree) |
+| 11 | [Same Tree](https://leetcode.com/problems/same-tree) | [Same Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Same%20Tree/same_tree.py) |
+| 12 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 13 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 14 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 15 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 16 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 17 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+| 18 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+| 19 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+| 20 | [Plus One](https://leetcode.com/problems/plus-one) |
 | 21 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 | 22 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
 | 23 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
@@ -592,10 +593,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 9 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
 |10 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 |11 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
-|12 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|13 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|14 | [3Sum](https://leetcode.com/problems/3sum) |
-|15 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
+|13 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|14 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|15 | [3Sum](https://leetcode.com/problems/3sum) |
 |16 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
 |17 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
 |18 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
