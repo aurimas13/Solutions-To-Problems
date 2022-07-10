@@ -65,44 +65,42 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |16 | [Same Tree](https://leetcode.com/problems/same-tree) | [Same Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Same%20Tree/same_tree.py) |
 |17 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
 |18 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
-|48 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
-|54 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Invert Binary Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
-|19 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-|20 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|21 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
-|22 | [3Sum](https://leetcode.com/problems/3sum) |
-|23 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|24 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-|25 | [Combination Sum](https://leetcode.com/problems/combination-sum) |
-|26 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
-|27 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
-|28 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
-|29 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|30 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|31 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
-|32 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
-|33 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|34 | [Word Search](https://leetcode.com/problems/word-search) |
-|35 | [Decode Ways](https://leetcode.com/problems/decode-ways) |
-|36 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|37 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|38 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|39 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|40 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
-|41 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|42 | [Word Break](https://leetcode.com/problems/word-break) |
-|43 | [Reorder List](https://leetcode.com/problems/reorder-list) |
-|44 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
-|45 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
-|46 | [House Robber](https://leetcode.com/problems/house-robber) |
-|47 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
-|48 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
-|49 | [Course Schedule](https://leetcode.com/problems/course-schedule) |
-|50 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|51 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
-|52 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|53 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|54 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Invert Binary Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+|19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
+|20 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Invert Binary Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+|21 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+|22 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|23 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
+|24 | [3Sum](https://leetcode.com/problems/3sum) |
+|25 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|26 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+|27 | [Combination Sum](https://leetcode.com/problems/combination-sum) |
+|28 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
+|29 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|30 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+|31 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|32 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|33 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
+|34 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|35 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|36 | [Word Search](https://leetcode.com/problems/word-search) |
+|37 | [Decode Ways](https://leetcode.com/problems/decode-ways) |
+|38 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|39 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|40 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+|41 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|42 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+|43 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|44 | [Word Break](https://leetcode.com/problems/word-break) |
+|45 | [Reorder List](https://leetcode.com/problems/reorder-list) |
+|46 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
+|47 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
+|48 | [House Robber](https://leetcode.com/problems/house-robber) |
+|49 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
+|50 | [Course Schedule](https://leetcode.com/problems/course-schedule) |
+|51 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|52 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
+|53 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|54 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
 |55 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
 |56 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) |
 |57 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
@@ -226,6 +224,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |11 | [Same Tree](https://leetcode.com/problems/same-tree) | [Same Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Same%20Tree/same_tree.py) |
 |12 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
+|19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
 |13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |14 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |15 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
@@ -264,7 +263,6 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |48 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
 |49 | [Happy Number](https://leetcode.com/problems/happy-number) |
 |50 | [Count Primes](https://leetcode.com/problems/count-primes) |
-|51 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |
 |52 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
 |53 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
 |54 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
