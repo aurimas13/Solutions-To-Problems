@@ -224,45 +224,45 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |11 | [Same Tree](https://leetcode.com/problems/same-tree) | [Same Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Same%20Tree/same_tree.py) |
 |12 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
-|19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
-|13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-|14 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|15 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|16 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|17 | [3Sum](https://leetcode.com/problems/3sum) |
-|18 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|19 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|20 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|21 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
-|22 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
-|23 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|24 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|25 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|26 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|27 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
-|28 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
-|29 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|30 | [Subsets](https://leetcode.com/problems/subsets) |
-|31 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|32 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|33 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|34 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|35 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
-|36 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-|37 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|38 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|39 | [Word Break](https://leetcode.com/problems/word-break) |
-|40 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|41 | [Sort List](https://leetcode.com/problems/sort-list) |
-|42 | [Min Stack](https://leetcode.com/problems/min-stack) |
-|43 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|44 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
-|45 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|46 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
-|47 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
-|48 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
-|49 | [Happy Number](https://leetcode.com/problems/happy-number) |
-|50 | [Count Primes](https://leetcode.com/problems/count-primes) |
+|13 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
+|14 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+|15 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|16 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|17 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|18 | [3Sum](https://leetcode.com/problems/3sum) |
+|19 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|20 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|21 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|22 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
+|23 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|24 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|25 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|26 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|27 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
+|28 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|29 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+|30 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|31 | [Subsets](https://leetcode.com/problems/subsets) |
+|32 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|33 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|34 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|35 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|36 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
+|37 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
+|38 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|39 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|40 | [Word Break](https://leetcode.com/problems/word-break) |
+|41 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|42 | [Sort List](https://leetcode.com/problems/sort-list) |
+|43 | [Min Stack](https://leetcode.com/problems/min-stack) |
+|44 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+|45 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+|46 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|47 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
+|48 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
+|49 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) |
+|51 | [Count Primes](https://leetcode.com/problems/count-primes) |
 |52 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
 |53 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
 |54 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
@@ -594,28 +594,28 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |11 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 |12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |13 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
-|19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
-|14 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|15 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|16 | [3Sum](https://leetcode.com/problems/3sum) |
-|17 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|18 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|19 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|20 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-|21 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
-|22 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|23 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|24 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|25 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|26 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|27 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
-|28 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
-|29 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-|30 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |
-|31 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |
-|32 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|33 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
-|34 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
+|14 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
+|15 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|16 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|17 | [3Sum](https://leetcode.com/problems/3sum) |
+|18 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
+|19 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|20 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|21 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+|22 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+|23 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|24 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|25 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|26 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|27 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|28 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
+|29 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
+|30 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+|31 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |
+|32 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |
+|33 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|34 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
+|35 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
 |36 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
 |37 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
 |38 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
