@@ -60,7 +60,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 |12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
 |13 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
-|14 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|14 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |15 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |
 |16 | [Same Tree](https://leetcode.com/problems/same-tree) |
 |17 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) |
@@ -140,7 +140,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |10 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 |11 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
 |12 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Valid Palindrome II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome%20II/palidrome.py) |
-|13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |14 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
 |15 | [3Sum](https://leetcode.com/problems/3sum) |
 |16 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
@@ -221,7 +221,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |7 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
 |8 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 |9 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Pascal's Triangle II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Pascal's%20Triangle%20II/pascals.py) |
-|10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+|10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |11 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |12 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |13 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
@@ -392,7 +392,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 7 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 | 8 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
 | 9 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Pascal's Triangle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Pascal's%20Triangle) |
-| 10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+| 10 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 | 11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 12 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
 | 13 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
