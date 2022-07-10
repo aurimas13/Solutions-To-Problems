@@ -17,6 +17,7 @@ class Solution:
 
         return prev
 
+
 # if __name__ == '__main__':
 #     Instant = Solution()
 #     Solve = Instant.reverseList(ListNode([1,2,3,4,5]))
