@@ -27,7 +27,7 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 - [MAANG Must Do Problems](#maang-must-do-problems) 
 - [Meta](#meta) 
 - [Amazon](#amazon)
-- [Google Top](#google-to) 
+- [Google Top](#google-top) 
 - [Google](#google) 
 - [Microsoft](#microsoft) 
 - [LinkedIn](#linkedin) 
