@@ -7,12 +7,11 @@
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
-
-[//]: # (  <a href="https://www.linkedin.com/in/aurimasnausedas"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>)
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
+[//]: # (  <a href="https://www.linkedin.com/in/aurimasnausedas"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>)
 </p>
 
-https://activity-graph.herokuapp.com/graph?username=aurimas13&theme=minimal
+[//]: # (https://activity-graph.herokuapp.com/graph?username=aurimas13&theme=minimal)
 ------
 
 The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) or [HackerRank](https://www.hackerrank.com/domains/python) is solved. The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder. If the solved **Leetcode** problem is one of the problems asked by MAANG companies then that solution of specific company is added as my GitHub solution found through [contents](#table-of-contents).
