@@ -156,26 +156,26 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |12 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Valid Palindrome II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome%20II/palidrome.py) |
 |13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |14 | [Plus One](https://leetcode.com/problems/plus-one) | [Plus One](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Plus%20One/plus_one.py) |
-|15 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-|16 | [3Sum](https://leetcode.com/problems/3sum) |
-|17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|18 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|19 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|20 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-|21 | [Count and Say](https://leetcode.com/problems/count-and-say) |
-|22 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-|23 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-|24 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
-|25 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
-|26 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|27 | [Word Break](https://leetcode.com/problems/word-break) |
-|28 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|29 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|30 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
-|31 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|32 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
-|33 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-|34 | [Maximal Square](https://leetcode.com/problems/maximal-square) |
+|15 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
+|16 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+|17 | [3Sum](https://leetcode.com/problems/3sum) |
+|18 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|19 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|20 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|21 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+|22 | [Count and Say](https://leetcode.com/problems/count-and-say) |
+|23 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+|24 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+|25 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
+|26 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+|27 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|28 | [Word Break](https://leetcode.com/problems/word-break) |
+|29 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|30 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|31 | [Number of Islands](https://leetcode.com/problems/number-of-islands) |
+|32 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|33 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
+|34 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
 |35 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
 |36 | [H-Index](https://leetcode.com/problems/h-index) |
 |37 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
@@ -360,10 +360,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |2 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [Maximal Rectangle](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Rectangle/maximal.py) |
 |3 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
 |4 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | [X of a Kind in a Deck of Cards](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/deck.py) |
-|5 | [Text Justification](https://leetcode.com/problems/text-justification) |
-|6 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|7 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-|8 | [Maximal Square](https://leetcode.com/problems/maximal-square) |
+|5 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
+|6 | [Text Justification](https://leetcode.com/problems/text-justification) |
+|7 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|8 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
 |9 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
 |10 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) |
 |11 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
