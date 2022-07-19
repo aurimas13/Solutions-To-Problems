@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f3c037e-8ee9-45f7-96f3-2df33e52301d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Maximal Square/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Maximal Square/maximal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Subtree of Another Tree/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Subtree of Another Tree/subtree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/high.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/high.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Subtree of Another Tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Subtree of Another Tree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Subtree of Another Tree/subtree.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Subtree of Another Tree/subtree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,7 @@
       <workItem from="1655983018716" duration="13294000" />
       <workItem from="1656575004819" duration="30075000" />
       <workItem from="1657099152120" duration="932000" />
-      <workItem from="1657124319514" duration="52786000" />
+      <workItem from="1657124319514" duration="53326000" />
     </task>
     <servers />
   </component>
