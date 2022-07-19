@@ -5,65 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f3c037e-8ee9-45f7-96f3-2df33e52301d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Lowest Common Ancestor of a Binary Search Tree/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Lowest Common Ancestor of a Binary Search Tree/lowest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One/plus_one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List/reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Anagram/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Anagram/valid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Subtree of Another Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Subtree of Another Tree/subtree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/best_buy_sell.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/best_buy_sell.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Climbing Stairs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Climbing Stairs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Climbing Stairs/climb_stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Climbing Stairs/climb_stairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Combination Sum III/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Combination Sum III/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Combination Sum III/combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Combination Sum III/combination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Combination Sum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Combination Sum/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Combination Sum/combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Combination Sum/combine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate II/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate II/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate II/duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate II/duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate III/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate III/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate III/duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate III/duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate/duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Contains Duplicate/duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Counting Bits/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Counting Bits/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Counting Bits/bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Counting Bits/bits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Find Smallest Letter Greater Than Target/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Find Smallest Letter Greater Than Target/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Find Smallest Letter Greater Than Target/smallest_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Find Smallest Letter Greater Than Target/smallest_letter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/high.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/high.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Invert Binary Tree/invert.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Invert Binary Tree/invert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Maximum Depth of Binary Tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Maximum Depth of Binary Tree/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Maximum Depth of Binary Tree/maximum_depth.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Maximum Depth of Binary Tree/maximum_depth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Meeting Rooms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Meeting Rooms/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Meeting Rooms/meeting_rooms.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Meeting Rooms/meeting_rooms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Merge Intervals/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Merge Intervals/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Merge Intervals/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Merge Intervals/merge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Missing Number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Missing Number/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Missing Number/missing_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Missing Number/missing_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Move Zeroes/zeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Move Zeroes/zeroes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle II/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle II/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle II/pascals.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle II/pascals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/pascals.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/pascals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/pascals_triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One/plus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List/reversed.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Roman to Integer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Roman to Integer/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Roman to Integer/roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Roman to Integer/roman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Same Tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Same Tree/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Same Tree/same_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Same Tree/same_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Shortest Word Distance/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Shortest Word Distance/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Shortest Word Distance/shortest.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Shortest Word Distance/shortest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Palindrome II/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Palindrome II/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Palindrome II/palidrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Palindrome II/palidrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Palindrome/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Palindrome/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Palindrome/palidrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Palindrome/palidrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Perfect Square/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Perfect Square/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Perfect Square/valid.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Perfect Square/valid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/X of a Kind in a Deck of Cards/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/X of a Kind in a Deck of Cards/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +90,7 @@
       <workItem from="1655983018716" duration="13294000" />
       <workItem from="1656575004819" duration="30075000" />
       <workItem from="1657099152120" duration="932000" />
-      <workItem from="1657124319514" duration="49010000" />
+      <workItem from="1657124319514" duration="49716000" />
     </task>
     <servers />
   </component>
