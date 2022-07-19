@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f3c037e-8ee9-45f7-96f3-2df33e52301d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List/reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/best_buy_sell.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/best_buy_sell.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Climbing Stairs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Climbing Stairs/README.md" afterDir="false" />
@@ -143,7 +142,7 @@
       <workItem from="1655983018716" duration="13294000" />
       <workItem from="1656575004819" duration="30075000" />
       <workItem from="1657099152120" duration="932000" />
-      <workItem from="1657124319514" duration="42839000" />
+      <workItem from="1657124319514" duration="42982000" />
     </task>
     <servers />
   </component>
