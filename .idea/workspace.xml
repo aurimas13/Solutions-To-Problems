@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f3c037e-8ee9-45f7-96f3-2df33e52301d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One/plus_one.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List/reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/best_buy_sell.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Best Time to Buy and Sell Stock IV/best_buy_sell.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Climbing Stairs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Climbing Stairs/README.md" afterDir="false" />
@@ -24,8 +26,8 @@
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Counting Bits/bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Counting Bits/bits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Find Smallest Letter Greater Than Target/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Find Smallest Letter Greater Than Target/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Find Smallest Letter Greater Than Target/smallest_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Find Smallest Letter Greater Than Target/smallest_letter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/high.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/high.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/High Five/high.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Invert Binary Tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Invert Binary Tree/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Invert Binary Tree/invert.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Invert Binary Tree/invert.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Maximum Depth of Binary Tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Maximum Depth of Binary Tree/README.md" afterDir="false" />
@@ -42,7 +44,7 @@
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/pascals.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/pascals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Pascal's Triangle/pascals_triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One/plus.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List/reversed.py" beforeDir="false" />
@@ -59,7 +61,6 @@
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Perfect Square/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Perfect Square/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Perfect Square/valid.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/Valid Perfect Square/valid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Python Solutions/X of a Kind in a Deck of Cards/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Python Solutions/X of a Kind in a Deck of Cards/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/LeetCode/Python Solutions" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -98,7 +99,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/aurimasnausedas/Documents/Python/Hackerrank_LeetCode/LeetCode/Python Solutions/Invert Binary Tree",
+    "last_opened_file_path": "/Users/aurimasnausedas/Documents/Python/Hackerrank_LeetCode/LeetCode/Python Solutions/Plus One",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,11 +109,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCode/Python Solutions/Plus One" />
       <recent name="$PROJECT_DIR$/LeetCode/Python Solutions/Invert Binary Tree" />
       <recent name="$PROJECT_DIR$/LeetCode/Python Solutions/Reverse Linked List" />
       <recent name="$PROJECT_DIR$/LeetCode/Python Solutions/Linked List Cycle" />
       <recent name="$PROJECT_DIR$/LeetCode/Python Solutions/Maximum Depth of Binary Tree" />
-      <recent name="$PROJECT_DIR$/LeetCode/Python Solutions/Same Tree" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LeetCode/Python Solutions" />
@@ -142,7 +143,7 @@
       <workItem from="1655983018716" duration="13294000" />
       <workItem from="1656575004819" duration="30075000" />
       <workItem from="1657099152120" duration="932000" />
-      <workItem from="1657124319514" duration="45172000" />
+      <workItem from="1657124319514" duration="45910000" />
     </task>
     <servers />
   </component>
