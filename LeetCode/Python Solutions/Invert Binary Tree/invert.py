@@ -24,11 +24,11 @@ class Solution:
 
             if current.right:
                 queue.append(current.right)
-
         return root
 
 
-# if __name__ == '__main__':
-#     Instant = Solution()
-#     Solve = Instant.invertTree(TreeNode([4,2,7,1,3,6,9]))
-#     print(Solve)
+# Running in terminal/console:
+if __name__ == '__main__':
+    Instant = Solution()
+    Solve = Instant.invertTree(TreeNode([4,2,7,1,3,6,9])) # root = [4,2,7,1,3,6,9] -> [4,7,2,9,6,3,1]
+    print(Solve.val)
