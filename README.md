@@ -6,7 +6,8 @@
 <p align="center" > Most common <b>problems</b> & <b>solutions</b> from <b> MAANG </b> interviews given. </p>
 <br>
 <p align=center>
-    <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=flat&logo=python")></a>
+  <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=flat&logo=python")></a>
+  <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/SQL%20Solutions"><img alt="sql" src="https://img.shields.io/badge/language-sql-blue.svg?style=flat&logo=sql")></a>
   <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
 </p>
