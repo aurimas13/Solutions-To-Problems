@@ -362,15 +362,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |4 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | [X of a Kind in a Deck of Cards](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/deck.py) |
 |5 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
 |6 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) | [Bulls and Cows](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Bulls%20and%20Cows/bulls_and_cows.py) |
-|7 | [Text Justification](https://leetcode.com/problems/text-justification) |
-|8 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|9 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-|10 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|11 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
-|12 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) |
-|13 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
-|14 | [Decode String](https://leetcode.com/problems/decode-string) |
-|15 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) |
+|7 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | []() |
+|8 | [Text Justification](https://leetcode.com/problems/text-justification) |
+|9 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|10 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
+|11 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|12 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
+|13 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) |
+|14 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
+|15 | [Decode String](https://leetcode.com/problems/decode-string) |
 |16 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) |
 |17 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
 |18 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) |
