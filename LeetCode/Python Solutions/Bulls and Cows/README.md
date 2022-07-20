@@ -1,0 +1,1 @@
+Problem description of "Bulls and Cows" can be found [here](https://leetcode.com/problems/bulls-and-cows/solution/).
