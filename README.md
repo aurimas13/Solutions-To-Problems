@@ -87,9 +87,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |23 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [Subtree of Another Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Subtree%20of%20Another%20Tree/subtree.py) |
 |24 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Combination Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Combination%20Sum/combine.py) |
 |25 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
-|26 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-|27 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|28 | [3Sum](https://leetcode.com/problems/3sum) |
+|26 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
+|27 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+|28 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 |29 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
 |30 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
 |31 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
@@ -157,8 +157,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |14 | [Plus One](https://leetcode.com/problems/plus-one) | [Plus One](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Plus%20One/plus_one.py) |
 |15 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
-|16 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-|17 | [3Sum](https://leetcode.com/problems/3sum) |
+|16 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
+|17 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
 |18 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
 |19 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
 |20 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
@@ -242,11 +242,11 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |14 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 |15 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) |
 |16 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [Subtree of Another Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Subtree%20of%20Another%20Tree/subtree.py) |
-|17 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-|18 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|19 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|20 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|21 | [3Sum](https://leetcode.com/problems/3sum) |
+|17 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
+|18 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+|19 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|20 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
+|21 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
 |22 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
 |23 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
 |24 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
@@ -609,9 +609,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |13 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Linked%20List%20Cycle/linked_list_cycle.py) |
 |14 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
-|15 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|16 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
-|17 | [3Sum](https://leetcode.com/problems/3sum) |
+|15 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
+|16 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|17 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 |18 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
 |19 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
 |20 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
