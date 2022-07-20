@@ -44,7 +44,6 @@ class Solution:
 #
 # # OR
 #
-#     from collections import defaultdict
 #     def getHint(self, secret: str, guess: str) -> str:
 #         h = defaultdict(int)
 #         bulls = cows = 0
