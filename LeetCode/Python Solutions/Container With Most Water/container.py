@@ -14,7 +14,7 @@ class Solution:
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.maxArea([1,8,6,2,5,4,8,3,7] )  # height = [1,8,6,2,5,4,8,3,7] -> 49
+    Solve = Sol.maxArea([1,8,6,2,5,4,8,3,7])  # height = [1,8,6,2,5,4,8,3,7] -> 49
     print(Solve)
 
 
