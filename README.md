@@ -245,12 +245,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |17 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 |18 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
 |19 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
-|20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|21 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|22 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|23 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|24 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|25 | [Rotate Image](https://leetcode.com/problems/rotate-image) |
+|20 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
+|21 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|22 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|23 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|24 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|25 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
 |26 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
 |27 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
 |28 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
