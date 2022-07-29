@@ -363,14 +363,14 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |5 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
 |6 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) | [Bulls and Cows](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Bulls%20and%20Cows/bulls_and_cows.py) |
 |7 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | [Evaluate Division](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Evaluate%20Division/evaluate.py) |
-|8 | [Text Justification](https://leetcode.com/problems/text-justification) |
-|9 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|10 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-|11 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|12 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
-|13 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) |
-|14 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
-|15 | [Decode String](https://leetcode.com/problems/decode-string) |
+|8 | [Decode String](https://leetcode.com/problems/decode-string) | [Decode String](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Decode%20String/decode.py)
+|9 | [Text Justification](https://leetcode.com/problems/text-justification) |
+|10 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|11 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
+|12 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|13 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
+|14 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) |
+|15 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
 |16 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) |
 |17 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
 |18 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) |
@@ -411,8 +411,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 12 | [Plus One](https://leetcode.com/problems/plus-one) | [Plus One](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Plus%20One/plus_one.py) |
 | 13 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) | [Bulls and Cows](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Bulls%20and%20Cows/bulls_and_cows.py) |
 | 14 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | [Evaluate Division](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Evaluate%20Division/evaluate.py) |
-| 15 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 16 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 15 | [Decode String](https://leetcode.com/problems/decode-string) | [Decode String](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Decode%20String/decode.py)
+| 16 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 17 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
 | 18 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
 | 19 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
@@ -486,7 +487,6 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 87 | [Find the Difference](https://leetcode.com/problems/find-the-difference) |
 | 88 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) |
 | 89 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) |
-| 90 | [Decode String](https://leetcode.com/problems/decode-string) |
 | 91 | [Integer Replacement](https://leetcode.com/problems/integer-replacement) |
 | 92 | [Nth Digit](https://leetcode.com/problems/nth-digit) |
 | 93 | [Binary Watch](https://leetcode.com/problems/binary-watch) |
