@@ -387,7 +387,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |29 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences) |
 |30 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) |
 |31 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) |
-|32 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) |
+|32 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | [Longest String Chain]()
 |33 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) |
 |34 | [Snapshot Array](https://leetcode.com/problems/snapshot-array) |
 |35 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers) |
