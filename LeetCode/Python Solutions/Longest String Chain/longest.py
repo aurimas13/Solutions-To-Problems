@@ -30,7 +30,9 @@ class Solution(object):
                 self.maxlen = max(self.maxlen, word2chain[lo])
         return
 
+
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.longestStrChain("a","b","ba","bca","bda","bdca")  # ["a","b","ba","bca","bda","bdca"] -> 4 | ["xbc","pcxbcf","xb","cxbc","pcxbc"] -> 5
+    Solve = Sol.longestStrChain(["a","b","ba","bca","bda","bdca"])  # ["a","b","ba","bca","bda","bdca"] -> 4 | ["xbc","pcxbcf","xb","cxbc","pcxbc"] -> 5
+    print(Solve)
