@@ -698,5 +698,3 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 [comment]: <> (# License)
 
 [comment]: <> ([LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE))
-
-
