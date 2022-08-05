@@ -38,6 +38,7 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 **SQL** solutions of problems at *HackerRank* & *LeetCode* will come in Fall while they will be updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
 
 # Table of Contents
+- [Table of contents](#table-of-contents)
 - [Preparation for Interiews](#preparation-for-interviews)
 - [MAANG Must Do Problems](#maang-must-do-problems) 
 - [Meta](#meta) 
@@ -49,6 +50,7 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 - [Netflix](#netflix) 
 
 ## Preparation for Interviews
+[(Back to top)](#table-of-contents)
 
 To prepare for a MAANG interview or a MAANG-level company interview as well as land a job there I highly recommend solving as many problems below as possible and doing one or all of these:
 - Joining [Hackpack](https://www.hackpack.io/) community
@@ -59,6 +61,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 ------
 
 ### MAANG Must Do Problems
+[(Back to top)](#table-of-contents)
 
 | No. | Questions | My GitHub Solution | 
 | -- | --------- |-------------------- |
@@ -95,39 +98,39 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |31 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
 |32 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
 |33 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
-|34 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|35 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
-|36 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
-|37 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|38 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|39 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
-|40 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
-|41 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|42 | [Decode Ways](https://leetcode.com/problems/decode-ways) |
-|43 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|44 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|45 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|46 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|47 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
-|48 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|49 | [Reorder List](https://leetcode.com/problems/reorder-list) |
-|50 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
-|51 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
-|52 | [House Robber](https://leetcode.com/problems/house-robber) |
-|53 | [Course Schedule](https://leetcode.com/problems/course-schedule) |
-|54 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|55 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
-|56 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|57 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|58 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
-|59 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
-|60 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
-|61 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) |
-|62 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
-|63 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) |
-|64 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|65 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |
-|66 | [Coin Change](https://leetcode.com/problems/coin-change) |
+|34 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
+|35 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|36 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|37 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+|38 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|39 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|40 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
+|41 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|42 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|43 | [Decode Ways](https://leetcode.com/problems/decode-ways) |
+|44 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|45 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|46 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+|47 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|48 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+|49 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|50 | [Reorder List](https://leetcode.com/problems/reorder-list) |
+|51 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
+|52 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
+|53 | [House Robber](https://leetcode.com/problems/house-robber) |
+|54 | [Course Schedule](https://leetcode.com/problems/course-schedule) |
+|55 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|56 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
+|57 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|58 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
+|59 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
+|60 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
+|61 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
+|62 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) |
+|63 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
+|64 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) |
+|65 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|66 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |
 |67 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
 |68 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) |
 |69 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) |
@@ -140,6 +143,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |76 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |
 ---
 ### Meta
+[(Back to top)](#table-of-contents)
+
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 | 1 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
@@ -224,6 +229,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |80 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
 ---
 ### Amazon
+[(Back to top)](#table-of-contents)
+
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 |1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
@@ -354,6 +361,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |126 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
 ---
 ### Google Top
+[(Back to top)](#table-of-contents)
+
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 |1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
@@ -395,6 +404,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |37 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees) |
 
 ### Google
+[(Back to top)](#table-of-contents)
+
 | No. | Questions | My GitHub Solution |
 |--| --------- | ------------------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
@@ -593,6 +604,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 194 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) |
 ---
 ### Microsoft
+[(Back to top)](#table-of-contents)
+
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
@@ -650,6 +663,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |53 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) |
 ---
 ### LinkedIn
+[(Back to top)](#table-of-contents)
+
 | No. | Questions | My GitHub Solution |
 | -- | --------- | ------------------ |
 |1 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
@@ -679,6 +694,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |25 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
 ---
 ### Netflix
+[(Back to top)](#table-of-contents)
+
 | No. | Questions | My GitHub Solution |
 | --- | --------- | ------------------ |
 |1  | [LRU Cache](https://leetcode.com/problems/lru-cache) |
