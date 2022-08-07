@@ -100,15 +100,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |33 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 |34 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 |35 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Course Schedule](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py) |
-|36 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|37 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
-|38 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
-|39 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|40 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|41 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
-|42 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
-|43 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|44 | [Decode Ways](https://leetcode.com/problems/decode-ways) |
+|36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+|37 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|38 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|39 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+|40 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|41 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|42 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
+|43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|44 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
 |45 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
 |46 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
 |47 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
