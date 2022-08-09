@@ -102,8 +102,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |35 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Course Schedule](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
 |37 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
-|38 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|39 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|38 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anmagrams](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
+|39 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
 |40 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
 |41 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
 |42 | [Jump Game](https://leetcode.com/problems/jump-game) |
@@ -255,12 +255,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |20 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
 |21 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
 |22 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
-|23 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|24 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|25 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|26 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|27 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|28 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+|23 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anmagrams](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
+|24 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|25 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|26 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|27 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|28 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
 |29 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
 |30 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
 |31 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
