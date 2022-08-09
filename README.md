@@ -101,7 +101,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |34 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 |35 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Course Schedule](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
-|37 | [House Robber](https://leetcode.com/problems/house-robber) | [House Rpobber](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
+|37 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
 |38 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
 |39 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
 |40 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
