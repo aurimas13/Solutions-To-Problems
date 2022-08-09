@@ -102,7 +102,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |35 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Course Schedule](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
 |37 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
-|38 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anmagrams](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
+|38 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anagrams](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
 |39 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
 |40 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
 |41 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
@@ -255,7 +255,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |20 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
 |21 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
 |22 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
-|23 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anmagrams](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
+|23 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anagrams](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
 |24 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |25 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
 |26 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
