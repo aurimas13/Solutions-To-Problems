@@ -104,22 +104,22 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |37 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
 |38 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anagrams](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
 |39 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20the%20Duplicate%20Number/find.py) |
-|40 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|41 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
-|42 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|43 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|44 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
-|45 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
-|46 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|47 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|48 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|49 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|50 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|51 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
-|52 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|53 | [Reorder List](https://leetcode.com/problems/reorder-list) |
-|54 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
-|55 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
+|40 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Find Minimum in Rotated Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array/find.py)
+|41 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|42 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+|43 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|44 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|45 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
+|46 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|47 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|48 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|49 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|50 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+|51 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|52 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+|53 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|54 | [Reorder List](https://leetcode.com/problems/reorder-list) |
+|55 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
 |56 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
 |57 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
 |58 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
@@ -627,17 +627,17 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |17 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 |18 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 |19 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|20 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|21 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|22 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|23 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
-|24 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|25 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|26 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|27 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|28 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|29 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
-|30 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
+|20 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Find Minimum in Rotated Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array/find.py)
+|21 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
+|22 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|23 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|24 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+|25 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|26 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|27 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|28 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|29 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|30 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
 |31 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
 |32 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |
 |33 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |
