@@ -107,11 +107,11 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |40 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Find Minimum in Rotated Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array/find.py) |
 |41 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [Sum of Two Integers](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sum%20of%20Two%20Integers/sum.py) |
 |42 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
-|43 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|44 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|45 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|46 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
-|47 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
+|44 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|45 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|46 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|47 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
 |48 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
 |49 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
 |50 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
@@ -256,16 +256,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |21 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
 |22 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 |23 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anagrams](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
-|24 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|25 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|26 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|27 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|28 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|29 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|30 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|31 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|32 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|33 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |
+|24 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
+|25 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|26 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|27 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|28 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|29 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|30 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|31 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|32 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|33 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
 |34 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
 |35 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
 |36 | [Subsets](https://leetcode.com/problems/subsets) |
