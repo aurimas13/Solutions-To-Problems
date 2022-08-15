@@ -108,19 +108,19 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |41 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [Sum of Two Integers](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sum%20of%20Two%20Integers/sum.py) |
 |42 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
 |43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
-|44 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|45 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|46 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|47 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
-|48 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|49 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|50 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|51 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|52 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|53 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
-|54 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|55 | [Reorder List](https://leetcode.com/problems/reorder-list) |
-|56 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
+|44 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Maximum Product Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Product%20Subarray/maximum.py) |
+|45 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|46 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|47 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|48 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
+|49 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|50 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|51 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|52 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+|53 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|54 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+|55 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|56 | [Reorder List](https://leetcode.com/problems/reorder-list) |
 |57 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
 |58 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
 |59 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
