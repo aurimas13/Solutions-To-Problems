@@ -109,16 +109,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |42 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
 |43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
 |44 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Maximum Product Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Product%20Subarray/maximum.py) |
-|45 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|46 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|47 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|48 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
-|49 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|50 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|51 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|52 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|53 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|54 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+|45 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
+|46 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|48 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|49 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
+|50 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|51 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|52 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|53 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+|54 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
 |55 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
 |56 | [Reorder List](https://leetcode.com/problems/reorder-list) |
 |57 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
@@ -168,15 +168,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |19 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 |20 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Course Schedule](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py) |
 |21 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
-|22 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-|23 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|24 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|25 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|26 | [Count and Say](https://leetcode.com/problems/count-and-say) |
-|27 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-|28 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-|29 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
-|30 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+|22 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
+|23 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+|24 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|26 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|27 | [Count and Say](https://leetcode.com/problems/count-and-say) |
+|28 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+|29 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+|30 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
 |31 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
 |32 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |33 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
@@ -426,16 +426,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 16 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
 | 17 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 | 18 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
-| 19 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 20 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 21 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 23 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 24 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-| 25 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-| 26 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-| 27 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-| 28 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |
+| 19 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
+| 20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 21 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 22 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 23 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 24 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 25 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+| 26 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+| 27 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+| 28 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 | 29 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
 | 30 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
 | 31 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
