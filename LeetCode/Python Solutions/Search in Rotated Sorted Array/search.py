@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def search(self, nums: List[int], t: int) -> int:
         l, r = 0, len(nums) - 1  # left & right
@@ -20,3 +21,10 @@ class Solution:
                     r = m - 1
 
         return -1
+
+
+# Checking in console
+if __name__ == '__main__':
+    Instant = Solution()
+    Solve = Instant.search(nums = [4,5,6,7,0,1,2], t = 3)  # nums = [4,5,6,7,0,1,2], t = 3 -> -1 | nums = [4,5,6,7,0,1,2], t = 0 -> 4
+    print(Solve)
