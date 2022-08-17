@@ -110,36 +110,36 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
 |44 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Maximum Product Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Product%20Subarray/maximum.py) |
 |45 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
-|46 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|48 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|49 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
-|50 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|51 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|52 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|53 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|54 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|55 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|56 | [Reorder List](https://leetcode.com/problems/reorder-list) |
-|57 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|58 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
-|59 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|60 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|61 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
-|62 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
-|63 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
-|64 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) |
-|65 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
-|66 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) |
-|67 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|68 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |
-|69 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
-|70 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) |
-|71 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |
-|72 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
-|73 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) |
-|74 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) |
-|75 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |
+|46 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Palindromic Substrings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Palindromic%20Substrings/palindromic.py) |
+|47 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|48 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|49 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
+|51 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|52 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|53 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|54 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+|55 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|56 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|57 | [Reorder List](https://leetcode.com/problems/reorder-list) |
+|58 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|59 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
+|60 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|61 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
+|62 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
+|63 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
+|64 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
+|65 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) |
+|66 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
+|67 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) |
+|68 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|69 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |
+|70 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
+|71 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) |
+|72 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |
+|73 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
+|74 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) |
+|75 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) |
 |76 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |
 ---
 ### Meta
