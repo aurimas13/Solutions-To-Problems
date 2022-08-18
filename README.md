@@ -111,8 +111,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |44 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Maximum Product Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Product%20Subarray/maximum.py) |
 |45 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
 |46 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Palindromic Substrings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Palindromic%20Substrings/palindromic.py) |
-|47 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|48 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+|48 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
 |49 | [Jump Game](https://leetcode.com/problems/jump-game) |
 |50 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
 |51 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
@@ -429,14 +429,14 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 17 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 | 18 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
 | 19 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
-| 20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 21 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 22 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-| 23 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 24 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 25 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-| 26 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-| 27 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+| 20 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+| 21 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 22 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 23 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 24 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 25 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 26 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+| 27 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
 | 28 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 | 29 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
 | 30 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
@@ -629,12 +629,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |17 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 |18 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 |19 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
-|20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|21 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Find Minimum in Rotated Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array/find.py)
-|22 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|23 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|24 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|25 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
+|20 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Find Minimum in Rotated Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array/find.py)
+|21 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+|22 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|23 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
+|24 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|25 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
 |26 | [Jump Game](https://leetcode.com/problems/jump-game) |
 |27 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
 |28 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
