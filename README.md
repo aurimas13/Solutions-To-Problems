@@ -113,23 +113,23 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |46 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Palindromic Substrings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Palindromic%20Substrings/palindromic.py) |
 |47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
 |48 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
-|49 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|50 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|51 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
-|52 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
-|53 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|54 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|55 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|56 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|57 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|58 | [Reorder List](https://leetcode.com/problems/reorder-list) |
-|59 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|60 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
-|61 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|62 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|63 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
-|64 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
-|65 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) |
+|49 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) | [Graph Valid Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Graph%20Valid%20Tree/graph.py) |
+|50 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|51 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|52 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
+|53 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
+|54 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|55 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|56 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+|57 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|58 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|59 | [Reorder List](https://leetcode.com/problems/reorder-list) |
+|60 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|61 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
+|62 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|63 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
+|64 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) |
+|65 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
 |66 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
 |67 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) |
 |68 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
