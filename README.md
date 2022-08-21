@@ -710,10 +710,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 [comment]: <> (- )
 
-[comment]: <> (# Public)
+# Public
 
-[comment]: <> (The folder includes [**foto**](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solve.png").)
+The folder includes [**foto**](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solve.png").
 
-[comment]: <> (# License)
+# License
 
-[comment]: <> ([LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE))
+[LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
