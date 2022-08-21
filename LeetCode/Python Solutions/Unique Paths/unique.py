@@ -17,5 +17,5 @@ class Solution:
 
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.uniquePaths( = 3, n = 7) # m = 3, n = 2 -> 3 | m = 3, n = 7 -> 28
+    Solve = Instant.uniquePaths( m = 3, n = 7) # m = 3, n = 2 -> 3 | m = 3, n = 7 -> 28
     print(Solve)
