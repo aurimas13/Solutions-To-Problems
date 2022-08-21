@@ -114,9 +114,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
 |48 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
 |49 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) | [Graph Valid Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Graph%20Valid%20Tree/graph.py) |
-|50 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
-|51 | [Jump Game](https://leetcode.com/problems/jump-game) |
-|52 | [Unique Paths](https://leetcode.com/problems/unique-paths) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|51 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|52 | [Jump Game](https://leetcode.com/problems/jump-game) |
 |53 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |
 |54 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
 |55 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
