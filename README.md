@@ -716,7 +716,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 [//]: # (The folder includes [**foto**]&#40;https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solve.png"&#41;.)
 
 [//]: # ()
-[//]: # (# License)
+# License
 
 [//]: # ()
 [LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
