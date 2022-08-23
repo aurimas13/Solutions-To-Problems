@@ -3,6 +3,8 @@ class ListNode:
    def __init__(self, data, next = None):
       self.val = data
       self.next = next
+
+
 def make_list(elements):
    head = ListNode(elements[0])
    for element in elements[1:]:
@@ -11,6 +13,8 @@ def make_list(elements):
          ptr = ptr.next
       ptr.next = ListNode(element)
    return head
+
+
 def print_list(head):
    ptr = head
    print('[', end = "")
@@ -18,6 +22,8 @@ def print_list(head):
       print(ptr.val, end = ", ")
       ptr = ptr.next
    print(']')
+
+
 class Solution(object):
    def removeNthFromEnd(self, head, n):
       if not head.next:
@@ -42,10 +48,6 @@ class Solution(object):
       else:
          head = head.next
       return head
-# head = make_list([1,2,3,4,5,6])
-# ob1 = Solution()
-# print_list(ob1.removeNthFromEnd(head, 3))
-
 
 
 # # Checking in console
