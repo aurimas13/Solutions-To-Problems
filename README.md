@@ -116,7 +116,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |49 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) | [Graph Valid Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Graph%20Valid%20Tree/graph.py) |
 |50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
 |51 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
-|52 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+|52 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Remove Nth Node From End of List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Nth%20Node%20From%20End%20of%20List/remove.py) |
 |53 | [Jump Game](https://leetcode.com/problems/jump-game) |
 |54 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
 |55 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
