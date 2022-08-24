@@ -117,7 +117,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
 |51 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 |52 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Remove Nth Node From End of List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Nth%20Node%20From%20End%20of%20List/remove.py) |
-|53 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|53 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
 |54 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
 |55 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
 |56 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -632,11 +632,11 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |20 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Find Minimum in Rotated Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array/find.py)
 |21 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
 |22 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
-|23 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|26 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|27 | [Jump Game](https://leetcode.com/problems/jump-game) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
+|24 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|25 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
+|26 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|27 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
 |28 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
 |29 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
 |30 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
