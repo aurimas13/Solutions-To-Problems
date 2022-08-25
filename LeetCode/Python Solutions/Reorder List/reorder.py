@@ -40,5 +40,5 @@ if __name__ == '__main__':
    val.next.next.next.next = ListNode(5)
    print_list(val)
    Instant = Solution()
-   Solve = Instant.reorderList(val)  #  head = make_list([1,2,3,4,5]) -> [1,5,2,4,3]
+   Solve = Instant.reorderList(val)  #  head = make_list([1,2,3,4,5]) -> None
    print(Solve)
