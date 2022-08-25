@@ -118,12 +118,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |51 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 |52 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Remove Nth Node From End of List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Nth%20Node%20From%20End%20of%20List/remove.py) |
 |53 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
-|54 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-|55 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
-|56 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-|57 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|58 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
-|59 | [Reorder List](https://leetcode.com/problems/reorder-list) |
+|54 | [Reorder List](https://leetcode.com/problems/reorder-list) | [Reorder List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reorder%20List/reorder.py) |
+|55 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|56 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
+|57 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+|58 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|59 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
 |60 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
 |61 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
 |62 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
