@@ -119,7 +119,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |52 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Remove Nth Node From End of List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Nth%20Node%20From%20End%20of%20List/remove.py) |
 |53 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
 |54 | [Reorder List](https://leetcode.com/problems/reorder-list) | [Reorder List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reorder%20List/reorder.py) |
-|55 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|55 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Validate Binary Search Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Validate%20Binary%20Search%20Tree/validate.py) |
 |56 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
 |57 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
 |58 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
@@ -261,19 +261,19 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |24 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
 |25 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
 |26 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
-|27 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|28 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|29 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|30 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|31 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|32 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|33 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|34 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|35 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|36 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
-|37 | [Subsets](https://leetcode.com/problems/subsets) |
-|38 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|39 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
+|27 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Validate Binary Search Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Validate%20Binary%20Search%20Tree/validate.py) |
+|28 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|29 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|30 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|31 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|32 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|33 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|34 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|35 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|36 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
+|37 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+|38 | [Subsets](https://leetcode.com/problems/subsets) |
+|39 | [Gray Code](https://leetcode.com/problems/gray-code) |
 |40 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) |
 |41 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
 |42 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
