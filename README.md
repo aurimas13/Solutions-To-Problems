@@ -121,7 +121,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |54 | [Reorder List](https://leetcode.com/problems/reorder-list) | [Reorder List](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reorder%20List/reorder.py) |
 |55 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Validate Binary Search Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Validate%20Binary%20Search%20Tree/validate.py) |
 |56 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Binary Tree Level Order Traversal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Level%20Order%20Traversal/binary.py) |
-|57 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+|57 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) |
 |58 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
 |59 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
 |60 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
