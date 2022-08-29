@@ -122,8 +122,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |55 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Validate Binary Search Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Validate%20Binary%20Search%20Tree/validate.py) |
 |56 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Binary Tree Level Order Traversal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Level%20Order%20Traversal/binary.py) |
 |57 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) |
-|58 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|59 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|58 | [Clone Graph](https://leetcode.com/problems/clone-graph) | [Clone Graph](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Clone%20Graph/clone.py) |
+|59 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
 |60 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
 |61 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
 |62 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
@@ -174,15 +174,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |23 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
 |24 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 |25 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Binary Tree Level Order Traversal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Level%20Order%20Traversal/binary.py) |
-|26 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-|27 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|28 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|29 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|30 | [Count and Say](https://leetcode.com/problems/count-and-say) |
-|31 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-|32 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-|33 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
-|34 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+|26 | [Clone Graph](https://leetcode.com/problems/clone-graph) | [Clone Graph](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Clone%20Graph/clone.py) |
+|27 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+|28 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|29 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|30 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|31 | [Count and Say](https://leetcode.com/problems/count-and-say) |
+|32 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+|33 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+|34 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
 |35 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |36 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
 |37 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
@@ -431,15 +431,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 19 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
 | 20 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
 | 21 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
-| 22 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 23 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 24 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-| 25 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 26 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 27 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-| 28 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-| 29 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-| 30 | [Clone Graph](https://leetcode.com/problems/clone-graph) |
+| 22 | [Clone Graph](https://leetcode.com/problems/clone-graph) | [Clone Graph](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Clone%20Graph/clone.py) |
+| 23 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 24 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 25 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 26 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 27 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 28 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+| 29 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+| 30 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 | 31 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
 | 32 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 33 | [Min Stack](https://leetcode.com/problems/min-stack) |
