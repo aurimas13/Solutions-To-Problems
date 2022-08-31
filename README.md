@@ -124,14 +124,14 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |57 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) |
 |58 | [Clone Graph](https://leetcode.com/problems/clone-graph) | [Clone Graph](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Clone%20Graph/clone.py) |
 |59 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Kth Smallest Element in a BST](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Kth%20Smallest%20Element%20in%20a%20BST/smallest.py) |
-|60 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|61 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|62 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
-|63 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|64 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|65 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
-|66 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
-|67 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) |
+|60 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) | [Encode and Decode Strings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Encode%20and%20Decode%20Strings) |
+|61 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|62 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|63 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) |
+|64 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|65 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
+|66 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
+|67 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
 |68 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
 |69 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |
 |70 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
@@ -176,28 +176,28 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |25 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Binary Tree Level Order Traversal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Level%20Order%20Traversal/binary.py) |
 |26 | [Clone Graph](https://leetcode.com/problems/clone-graph) | [Clone Graph](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Clone%20Graph/clone.py) |
 |27 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Kth Smallest Element in a BST](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Kth%20Smallest%20Element%20in%20a%20BST/smallest.py) |
-|28 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-|29 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|30 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|31 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|32 | [Count and Say](https://leetcode.com/problems/count-and-say) |
-|33 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-|34 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-|35 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
-|36 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|37 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|38 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|39 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
-|40 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-|41 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|42 | [H-Index](https://leetcode.com/problems/h-index) |
-|43 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
-|44 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|45 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-|46 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
-|47 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|48 | [Target Sum](https://leetcode.com/problems/target-sum) |
-|49 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |
+|28 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) | [Encode and Decode Strings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Encode%20and%20Decode%20Strings) |
+|29 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+|30 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|31 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|32 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|33 | [Count and Say](https://leetcode.com/problems/count-and-say) |
+|34 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+|35 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+|36 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
+|37 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|38 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|39 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|40 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
+|41 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
+|42 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+|43 | [H-Index](https://leetcode.com/problems/h-index) |
+|44 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
+|45 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|46 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+|47 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
+|48 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|49 | [Target Sum](https://leetcode.com/problems/target-sum) |
 |50 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
 |51 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
 |52 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
