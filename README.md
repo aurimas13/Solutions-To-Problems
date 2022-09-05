@@ -129,16 +129,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |62 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) | [Serialize and Deserialize BST](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Serialize%20and%20Deserialize%20BST/serialialize_deserialize.py) |
 |63 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Longest Common Subsequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Common%20Subsequence/longest.py) |
 |64 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Longest Increasing Subsequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Subsequence/longest.py) |
-|65 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|66 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|67 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|68 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|69 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
-|70 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
-|71 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|72 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
-|73 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) |
-|74 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |
+|65 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [Pacific Atlantic Water Flow](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Pacific%20Atlantic%20Water%20Flow) |
+|66 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|67 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|68 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|69 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
+|70 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
+|71 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
+|72 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|73 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
+|74 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) |
 |75 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
 |76 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) |
 |77 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
@@ -434,82 +434,82 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 22 | [Clone Graph](https://leetcode.com/problems/clone-graph) | [Clone Graph](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Clone%20Graph/clone.py) |
 | 23 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Kth Smallest Element in a BST](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Kth%20Smallest%20Element%20in%20a%20BST/smallest.py) |
 | 24 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Longest Increasing Subsequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Subsequence/longest.py) |
-| 25 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 26 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 27 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-| 28 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 29 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 30 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-| 31 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
-| 32 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-| 33 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
-| 34 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 35 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 36 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-| 37 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
-| 38 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-| 39 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
-| 40 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-| 41 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-| 42 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |
-| 43 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
-| 44 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
-| 45 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
-| 46 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
-| 47 | [Power of Two](https://leetcode.com/problems/power-of-two) |
-| 48 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
-| 49 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 50 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-| 51 | [H-Index](https://leetcode.com/problems/h-index) |
-| 52 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
-| 53 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
-| 54 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
-| 55 | [Game of Life](https://leetcode.com/problems/game-of-life) |
-| 56 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-| 57 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-| 58 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) |
-| 59 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |
-| 60 | [Burst Balloons](https://leetcode.com/problems/burst-balloons) |
-| 61 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) |
-| 62 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
-| 63 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) |
-| 64 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) |
-| 65 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) |
-| 66 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) |
-| 67 | [Power of Three](https://leetcode.com/problems/power-of-three) |
-| 68 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) |
-| 69 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) |
-| 70 | [Patching Array](https://leetcode.com/problems/patching-array) |
-| 71 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) |
-| 72 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) |
-| 73 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) |
-| 74 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 75 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) |
-| 76 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes) |
-| 77 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits) |
-| 78 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
-| 79 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) |
-| 80 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) |
-| 81 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii) |
-| 82 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
-| 83 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) |
-| 84 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-| 85 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node) |
-| 86 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) |
-| 87 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) |
-| 88 | [Find the Difference](https://leetcode.com/problems/find-the-difference) |
-| 89 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) |
-| 90 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) |
-| 91 | [Integer Replacement](https://leetcode.com/problems/integer-replacement) |
-| 92 | [Nth Digit](https://leetcode.com/problems/nth-digit) |
-| 93 | [Binary Watch](https://leetcode.com/problems/binary-watch) |
-| 94 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) |
-| 95 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) |
-| 96 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) |
-| 97 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) |
-| 98 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) |
-| 99 | [Add Strings](https://leetcode.com/problems/add-strings) |
-| 100 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |
+| 25 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [Pacific Atlantic Water Flow](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Pacific%20Atlantic%20Water%20Flow) |
+| 26 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 27 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 28 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 29 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 30 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 31 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+| 32 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+| 33 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
+| 34 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 35 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 36 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 37 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+| 38 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
+| 39 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+| 40 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
+| 41 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+| 42 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+| 43 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |
+| 44 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |
+| 45 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
+| 46 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
+| 47 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
+| 48 | [Power of Two](https://leetcode.com/problems/power-of-two) |
+| 49 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+| 50 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 51 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+| 52 | [H-Index](https://leetcode.com/problems/h-index) |
+| 53 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
+| 54 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
+| 55 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
+| 56 | [Game of Life](https://leetcode.com/problems/game-of-life) |
+| 57 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+| 58 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+| 59 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) |
+| 60 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |
+| 61 | [Burst Balloons](https://leetcode.com/problems/burst-balloons) |
+| 62 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) |
+| 63 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
+| 64 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) |
+| 65 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) |
+| 66 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) |
+| 67 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) |
+| 68 | [Power of Three](https://leetcode.com/problems/power-of-three) |
+| 69 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) |
+| 70 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) |
+| 71 | [Patching Array](https://leetcode.com/problems/patching-array) |
+| 72 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) |
+| 73 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) |
+| 74 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) |
+| 75 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 76 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) |
+| 77 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes) |
+| 78 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits) |
+| 79 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
+| 80 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) |
+| 81 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) |
+| 82 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii) |
+| 83 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
+| 84 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) |
+| 85 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+| 86 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node) |
+| 87 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) |
+| 88 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) |
+| 89 | [Find the Difference](https://leetcode.com/problems/find-the-difference) |
+| 90 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) |
+| 91 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) |
+| 92 | [Integer Replacement](https://leetcode.com/problems/integer-replacement) |
+| 93 | [Nth Digit](https://leetcode.com/problems/nth-digit) |
+| 94 | [Binary Watch](https://leetcode.com/problems/binary-watch) |
+| 95 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) |
+| 96 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) |
+| 97 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) |
+| 98 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) |
+| 99 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) |
+| 100 | [Add Strings](https://leetcode.com/problems/add-strings) |
 | 101 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) |
 | 102 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) |
 | 103 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) |
