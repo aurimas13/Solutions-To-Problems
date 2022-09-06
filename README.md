@@ -130,15 +130,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |63 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Longest Common Subsequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Common%20Subsequence/longest.py) |
 |64 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Longest Increasing Subsequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Subsequence/longest.py) |
 |65 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [Pacific Atlantic Water Flow](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Pacific%20Atlantic%20Water%20Flow) |
-|66 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|67 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|68 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|69 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|70 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
-|71 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
-|72 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|73 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
-|74 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) |
+|66 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
+|67 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|68 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|69 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|70 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
+|71 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
+|72 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
+|73 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|74 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
 |75 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
 |76 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) |
 |77 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
@@ -264,43 +264,43 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |27 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Validate Binary Search Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Validate%20Binary%20Search%20Tree/validate.py) |
 |28 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Binary Tree Level Order Traversal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Level%20Order%20Traversal/binary.py) |
 |29 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) | [Serialize and Deserialize BST](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Serialize%20and%20Deserialize%20BST/serialialize_deserialize.py) |
-|30 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|31 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|32 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|33 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|34 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|35 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|36 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|37 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|38 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|39 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
-|40 | [Subsets](https://leetcode.com/problems/subsets) |
-|41 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|42 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|43 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
-|44 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-|45 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|46 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|47 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|48 | [Sort List](https://leetcode.com/problems/sort-list) |
-|49 | [Min Stack](https://leetcode.com/problems/min-stack) |
-|50 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|51 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
-|52 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|53 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
-|54 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
-|55 | [Happy Number](https://leetcode.com/problems/happy-number) |
-|56 | [Count Primes](https://leetcode.com/problems/count-primes) |
-|57 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|58 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
-|59 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
-|60 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
-|61 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
-|62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
-|63 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-|64 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|65 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|66 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) |
+|30 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
+|31 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|32 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|33 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|34 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|35 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|36 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|37 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|38 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|39 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
+|40 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+|41 | [Subsets](https://leetcode.com/problems/subsets) |
+|42 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|43 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|44 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
+|45 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
+|46 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|47 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|48 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|49 | [Sort List](https://leetcode.com/problems/sort-list) |
+|50 | [Min Stack](https://leetcode.com/problems/min-stack) |
+|51 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+|52 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+|53 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|54 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
+|55 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
+|56 | [Happy Number](https://leetcode.com/problems/happy-number) |
+|57 | [Count Primes](https://leetcode.com/problems/count-primes) |
+|58 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|59 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
+|60 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
+|61 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
+|62 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
+|63 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+|64 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+|65 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|66 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 |67 | [Design Twitter](https://leetcode.com/problems/design-twitter) |
 |68 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
 |69 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) |
