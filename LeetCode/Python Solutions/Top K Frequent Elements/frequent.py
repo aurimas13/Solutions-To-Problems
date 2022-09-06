@@ -1,6 +1,4 @@
 from typing import List
-
-
 # Solution
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
