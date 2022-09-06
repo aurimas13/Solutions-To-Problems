@@ -1,5 +1,7 @@
-# Solution
 from typing import List
+
+
+# Solution
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         Dict = {}
@@ -9,10 +11,9 @@ class Solution:
             else:
                 Dict[i][0] += 1
 
-        Srtd = sorted(Dict.values(), key=lambda x: x[0])[::-1]
+        Sorted = sorted(Dict.values(), key=lambda x: x[0])[::-1]
 
-        return [Srtd[k][1] for k in range(k)]
-
+        return [Sorted[k][1] for k in range(k)]
 
 
 # Instantiation to check values
