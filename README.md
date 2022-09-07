@@ -131,15 +131,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |64 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Longest Increasing Subsequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Subsequence/longest.py) |
 |65 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [Pacific Atlantic Water Flow](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Pacific%20Atlantic%20Water%20Flow) |
 |66 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
-|67 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|68 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|69 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|70 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|71 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
-|72 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
-|73 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
-|74 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
-|75 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
+|67 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [Longest Repeating Character Replacement](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Repeating%20Character%20Replacement/longest.py) |
+|68 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|69 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|70 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|71 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
+|72 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
+|73 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
+|74 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|75 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) |
 |76 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) |
 |77 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
 
