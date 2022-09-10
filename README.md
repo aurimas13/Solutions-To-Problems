@@ -134,12 +134,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |67 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [Longest Repeating Character Replacement](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Repeating%20Character%20Replacement/longest.py) |
 |68 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | [Non-overlapping intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Non-overlapping%20Intervals/interval.py) |
 |69 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) | [Number of Connected Components in an Undirected Graph](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph/connected.py)|
-|70 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|71 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
-|72 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|73 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
-|74 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
-|75 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) |
+|70 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Alien Dictionary](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Alien%20Dictionary/alien.py) |
+|71 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) |
+|73 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
+|74 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |
+|75 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
 |76 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
 |77 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |
 
