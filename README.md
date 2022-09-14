@@ -138,9 +138,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 |72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
 |73 | [House Robber II](https://leetcode.com/problems/house-robber-ii) | [House Robber II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/House%20Robber%20II/house.py) |
-|74 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
-|75 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
-|76 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) |
+|74 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | [Meeting Rooms II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Meeting%20Rooms%20II/meeting_rooms.py) |
+|75 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |
+|76 | [Word Search II](https://leetcode.com/problems/word-search-ii) |
 |77 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
 
 ---
