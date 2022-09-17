@@ -17,6 +17,7 @@ class Solution:
 
         return fastPow(x, N)
 
+
 # Running in terminal/console:
 if __name__ == '__main__':
     Instant = Solution()
