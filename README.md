@@ -182,13 +182,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |31 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
 |32 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [Binary Tree Maximum Path Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Maximum%20Path%20Sum/binary.py) |
 |33 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
-|34 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-|35 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|36 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|37 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|38 | [Count and Say](https://leetcode.com/problems/count-and-say) |
-|39 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-|40 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+|34 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Pow(x, n)](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Pow(x%2C%20n)/power.py) |
+|35 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+|36 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|37 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|38 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|39 | [Count and Say](https://leetcode.com/problems/count-and-say) |
+|40 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
 |41 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
 |42 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |43 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
@@ -438,13 +438,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 26 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
 | 27 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
 | 28 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
-| 29 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 31 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-| 32 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 33 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 34 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-| 35 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |
+| 29 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Pow(x, n)](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Pow(x%2C%20n)/power.py) |
+| 30 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 31 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 32 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 33 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 34 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 35 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
 | 36 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 | 37 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
 | 38 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
