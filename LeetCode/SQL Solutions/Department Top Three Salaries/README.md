@@ -1,0 +1,1 @@
+Problem description of "Department Top Three Salaries" can be found [here](https://leetcode.com/problems/department-top-three-salaries/).
