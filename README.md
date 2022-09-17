@@ -698,10 +698,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 ### Netflix
 [(Back to top)](#table-of-contents)
 
-| No. | Questions | My GitHub Solution |
-| --- | --------- | ------------------ |
-|1  | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|2  | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) |
+| No. | Questions | My GitHub Solution                                                                                                                               |
+|--| --------- |--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [Department Top Three Salaries](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/SQL%20Solutions/Department%20Top%20Three%20Salaries/department.myd) |
+| 2 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 
 
 [comment]: <> (- [Public]&#40;#Public&#41;)
