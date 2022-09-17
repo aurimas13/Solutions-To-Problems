@@ -141,7 +141,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |74 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | [Meeting Rooms II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Meeting%20Rooms%20II/meeting_rooms.py) |
 |75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
 |76 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [Binary Tree Maximum Path Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Maximum%20Path%20Sum/binary.py) |
-|77 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|77 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
 
 ---
 ### Meta
