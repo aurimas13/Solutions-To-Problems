@@ -1,0 +1,1 @@
+Problem description of "Pow(x, n)" can be found [here](https://leetcode.com/problems/powx-n/).
