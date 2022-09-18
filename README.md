@@ -267,39 +267,39 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |30 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 |31 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 |32 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
-|33 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|34 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
-|35 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|36 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|37 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|38 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|39 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|40 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|41 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|42 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
-|43 | [Subsets](https://leetcode.com/problems/subsets) |
-|44 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|45 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|46 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
-|47 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-|48 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|49 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|50 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|51 | [Sort List](https://leetcode.com/problems/sort-list) |
-|52 | [Min Stack](https://leetcode.com/problems/min-stack) |
-|53 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|54 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
-|55 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|56 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
-|57 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
-|58 | [Happy Number](https://leetcode.com/problems/happy-number) |
-|59 | [Count Primes](https://leetcode.com/problems/count-primes) |
-|60 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
-|61 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
-|62 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
-|63 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
-|64 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-|65 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|33 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
+|34 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|35 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|36 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|37 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|38 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|39 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|40 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|41 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|42 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
+|43 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+|44 | [Subsets](https://leetcode.com/problems/subsets) |
+|45 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|46 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|47 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
+|48 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
+|49 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|50 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|51 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|52 | [Sort List](https://leetcode.com/problems/sort-list) |
+|53 | [Min Stack](https://leetcode.com/problems/min-stack) |
+|54 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+|55 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+|56 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|57 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
+|58 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
+|59 | [Happy Number](https://leetcode.com/problems/happy-number) |
+|60 | [Count Primes](https://leetcode.com/problems/count-primes) |
+|61 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
+|62 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
+|63 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
+|64 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+|65 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
 |66 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 |67 | [Design Twitter](https://leetcode.com/problems/design-twitter) |
 |68 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
@@ -380,8 +380,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |11 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 |12 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
 |13 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [Longest Increasing Path in a Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Path%20in%20a%20Matrix/longest.py) |
-|14 | [Text Justification](https://leetcode.com/problems/text-justification) |
-|15 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+|14 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
+|15 | [Text Justification](https://leetcode.com/problems/text-justification) |
 |16 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) |
 |17 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
 |18 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) |
@@ -440,34 +440,34 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 28 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
 | 29 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Pow(x, n)](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Pow(x%2C%20n)/power.py) |
 | 30 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [Longest Increasing Path in a Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Path%20in%20a%20Matrix/longest.py) |\
-| 31 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 32 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-| 33 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-| 34 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 35 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 36 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-| 37 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-| 38 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
-| 39 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 40 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 41 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-| 42 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
-| 43 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-| 44 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
-| 45 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |
-| 46 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
-| 47 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
-| 48 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
-| 49 | [Power of Two](https://leetcode.com/problems/power-of-two) |
-| 50 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
-| 51 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 52 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-| 53 | [H-Index](https://leetcode.com/problems/h-index) |
-| 54 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
-| 55 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
-| 56 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
-| 57 | [Game of Life](https://leetcode.com/problems/game-of-life) |
-| 58 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) |
+| 31 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
+| 32 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 33 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+| 34 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 35 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 36 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 37 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+| 38 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
+| 39 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 40 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 41 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 42 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+| 43 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
+| 44 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+| 45 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
+| 46 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |
+| 47 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
+| 48 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |
+| 49 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
+| 50 | [Power of Two](https://leetcode.com/problems/power-of-two) |
+| 51 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+| 52 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 53 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+| 54 | [H-Index](https://leetcode.com/problems/h-index) |
+| 55 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
+| 56 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
+| 57 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
+| 58 | [Game of Life](https://leetcode.com/problems/game-of-life) |
 | 59 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 | 60 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) |
 | 61 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |
