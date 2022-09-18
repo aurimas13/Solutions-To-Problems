@@ -1,9 +1,8 @@
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/Public/solution.jpeg"/>
 </p>
-
+<p align="center" > Most common <b>solutions</b> to <b>problems</b> from <b> MAANG </b> interviews. </p>
 <p align="center" > <b> Solutions </b> to <b> LeetCode </b> & HackerRank problems. </p>
-<p align="center" > Most common <b>problems</b> & <b>solutions</b> from <b> MAANG </b> interviews given. </p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
