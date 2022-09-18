@@ -382,13 +382,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |13 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [Longest Increasing Path in a Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Path%20in%20a%20Matrix/longest.py) |
 |14 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
 |15 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [Count of Smaller Numbers After Self](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20of%20Smaller%20Numbers%20After%20Self/count.py) |
-|16 | [Text Justification](https://leetcode.com/problems/text-justification) |
-|17 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
-|18 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) |
-|19 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
-|20 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) |
-|21 | [24 Game](https://leetcode.com/problems/24-game) |
-|22 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) |
+|16 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [Network Delay Time](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Network%20Delay%20Time/network.py) |
+|17 | [Text Justification](https://leetcode.com/problems/text-justification) |
+|18 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) |
+|19 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) |
+|20 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
+|21 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) |
+|22 | [24 Game](https://leetcode.com/problems/24-game) |
 |23 | [Open the Lock](https://leetcode.com/problems/open-the-lock) |
 |24 | [Expressive Words](https://leetcode.com/problems/expressive-words) |
 |25 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string) |
