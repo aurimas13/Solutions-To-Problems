@@ -387,15 +387,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |19 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) | [Split Array into Consecutive Subsequences](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Split%20Array%20into%20Consecutive%20Subsequences/split.py) |
 |20 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | [Split Array Largest Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Split%20Array%20Largest%20Sum%20/split.py) |
 |21 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [Minimum Domino Rotations For Equal Row](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Domino%20Rotations%20For%20Equal%20Row/minimum.py) |
-|22 | [Text Justification](https://leetcode.com/problems/text-justification) |
-|23 | [24 Game](https://leetcode.com/problems/24-game) |
-|24 | [Open the Lock](https://leetcode.com/problems/open-the-lock) |
-|25 | [Expressive Words](https://leetcode.com/problems/expressive-words) |
-|26 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string) |
-|27 | [Guess the Word](https://leetcode.com/problems/guess-the-word) |
-|28 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) |
-|29 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) |
-|30 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) |
+|22 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) | [Random Pick with Weight](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Random%20Pick%20with%20Weight/random.py) |
+|23 | [Text Justification](https://leetcode.com/problems/text-justification) |
+|24 | [24 Game](https://leetcode.com/problems/24-game) |
+|25 | [Open the Lock](https://leetcode.com/problems/open-the-lock) |
+|26 | [Expressive Words](https://leetcode.com/problems/expressive-words) |
+|27 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string) |
+|28 | [Guess the Word](https://leetcode.com/problems/guess-the-word) |
+|29 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) |
+|30 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) |
 |31 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle) |
 |32 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) |
 |33 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) |
