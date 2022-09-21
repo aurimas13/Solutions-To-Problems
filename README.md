@@ -184,13 +184,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |34 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Pow(x, n)](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Pow(x%2C%20n)/power.py) |
 |35 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [Longest Increasing Path in a Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Path%20in%20a%20Matrix/longest.py) |
 |36 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
-|37 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-|38 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|39 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|40 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|41 | [Count and Say](https://leetcode.com/problems/count-and-say) |
-|42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-|43 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |
+|37 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
+|38 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+|39 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|40 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|41 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|42 | [Count and Say](https://leetcode.com/problems/count-and-say) |
+|43 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
 |44 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |45 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
 |46 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
