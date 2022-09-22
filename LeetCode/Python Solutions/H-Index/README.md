@@ -1,1 +1,1 @@
-Problem description of "H-Index" can be found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/H-Index).
+Problem description of "H-Index" can be found [here](https://leetcode.com/problems/h-index/).
