@@ -1,1 +1,1 @@
-Problem description of "High Five" can be found [here](https://leetcode.com/problems/high-five/).
+Problem description of "H-Index" can be found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/H-Index).
