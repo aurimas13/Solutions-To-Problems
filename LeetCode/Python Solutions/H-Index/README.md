@@ -1,0 +1,1 @@
+Problem description of "High Five" can be found [here](https://leetcode.com/problems/high-five/).
