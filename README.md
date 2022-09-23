@@ -187,11 +187,11 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |37 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 |38 | [Target Sum](https://leetcode.com/problems/target-sum) | [Target Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Target%20Sum/sum.py) |
 |39 | [H-Index](https://leetcode.com/problems/h-index) | [H-Index](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/H-Index/index.py) |
-|40 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-|41 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|42 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|43 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|44 | [Count and Say](https://leetcode.com/problems/count-and-say) |
+|40 | [Count and Say](https://leetcode.com/problems/count-and-say) | [Count and say](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20and%20Say/count.py) |
+|41 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+|42 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|43 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|44 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
 |45 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
 |46 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |47 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
