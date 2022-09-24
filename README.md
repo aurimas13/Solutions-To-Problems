@@ -188,39 +188,39 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |38 | [Target Sum](https://leetcode.com/problems/target-sum) | [Target Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Target%20Sum/sum.py) |
 |39 | [H-Index](https://leetcode.com/problems/h-index) | [H-Index](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/H-Index/index.py) |
 |40 | [Count and Say](https://leetcode.com/problems/count-and-say) | [Count and say](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20and%20Say/count.py) |
-|41 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
-|42 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
-|43 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|44 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|45 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
-|46 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|47 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|48 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
-|49 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|50 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
-|51 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|52 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-|53 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
-|54 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|55 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
-|56 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
-|57 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-|58 | [Valid Number](https://leetcode.com/problems/valid-number) |
-|59 | [Add Binary](https://leetcode.com/problems/add-binary) |
-|60 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) |
-|61 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) |
-|62 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
-|63 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) |
-|64 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) |
-|65 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) |
-|66 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) |
-|67 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
-|68 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) |
-|69 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
-|70 | [Simplify Path](https://leetcode.com/problems/simplify-path) |
-|71 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
-|72 | [First Bad Version](https://leetcode.com/problems/first-bad-version) |
-|73 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) |
+|41 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Task Scheduler](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Task%20Scheduler) |
+|42 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |
+|43 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+|44 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|45 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|46 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+|47 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|48 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|49 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
+|50 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+|51 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
+|52 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|53 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+|54 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
+|55 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|56 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
+|57 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
+|58 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+|59 | [Valid Number](https://leetcode.com/problems/valid-number) |
+|60 | [Add Binary](https://leetcode.com/problems/add-binary) |
+|61 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) |
+|62 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) |
+|63 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
+|64 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) |
+|65 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) |
+|66 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) |
+|67 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) |
+|68 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
+|69 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) |
+|70 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
+|71 | [Simplify Path](https://leetcode.com/problems/simplify-path) |
+|72 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
+|73 | [First Bad Version](https://leetcode.com/problems/first-bad-version) |
 |74 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) |
 |75 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) |
 |76 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) |
