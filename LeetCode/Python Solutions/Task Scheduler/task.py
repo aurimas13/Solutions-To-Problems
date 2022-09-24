@@ -1,5 +1,5 @@
-from typing import List
 import heapq
+from typing import List
 
 
 class Solution:
@@ -26,5 +26,5 @@ class Solution:
 
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.leastInterval(tasks = ["A","A","A","B","B","B"], n = 2) # tasks = ["A","A","A","B","B","B"], n = 2 -> 8 | tasks = ["A","A","A","B","B","B"], n = 0 -> 6
+    Solve = Instant.leastInterval(tasks=["A", "A", "A", "B", "B", "B"], n=2) # tasks = ["A","A","A","B","B","B"], n = 2 -> 8 | tasks = ["A","A","A","B","B","B"], n = 0 -> 6
     print(Solve)
