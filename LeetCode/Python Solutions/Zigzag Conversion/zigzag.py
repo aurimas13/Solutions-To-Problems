@@ -4,10 +4,10 @@ class Solution:
             return s
 
         num_cycle = 2*numRows - 2
-        lines = [[] for i in range(numRows)]            # Create list for every line
+        lines = [[] for i in range(numRows)]            # create list for every line
         for i, val in enumerate(s):
 
-            curr_cycle = i // num_cycle                 # Calculate current cycle (one cycle is down and up)
+            curr_cycle = i // num_cycle                 # calculate current cycle (one cycle is down and up)
             j = i - curr_cycle * num_cycle              # set iterator to current position
             if j >= numRows:
                 j = (j-num_cycle)*-1                    # if going upwards correct position for the line
@@ -22,5 +22,5 @@ class Solution:
 
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.convert("PAYPALISHIRING", numRows=3) #  s="PAYPALISHIRING", numRows=3 -> "PAHNAPLSIIGYIR"
+    Solve = Instant.convert("PAYPALISHIRING", numRows=3) # s="PAYPALISHIRING", numRows=3 -> "PAHNAPLSIIGYIR"
     print(Solve)
