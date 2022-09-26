@@ -268,8 +268,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |32 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
 |33 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
 |34 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
-|35 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|36 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |
+|35 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [ZigZag Conversion](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Zigzag%20Conversion/zigzag.py) |
+|36 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |37 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
 |38 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
 |39 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
