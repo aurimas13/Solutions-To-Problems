@@ -1,1 +1,1 @@
-Problem description of "Valid Parentheses" can be found [here](https://leetcode.com/problems/valid-parentheses/).
+Problem description of "Simplify Path" can be found [here](https://leetcode.com/problems/simplify-path/) and its solution [here]().
