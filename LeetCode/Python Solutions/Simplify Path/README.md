@@ -1,1 +1,1 @@
-Problem description of "Single Number" can be found [here](https://leetcode.com/problems/single-number/)
+Problem description of "Simplify Path" can be found [here](https://leetcode.com/problems/simplify-path/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Simplify%20Path/simplify.py).
