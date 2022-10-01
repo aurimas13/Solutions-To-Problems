@@ -1,1 +1,1 @@
-Problem description of "Basic Calculator" can be found [here](https://leetcode.com/problems/basic-calculator/) and its solution [here]().
+Problem description of "Basic Calculator" can be found [here](https://leetcode.com/problems/basic-calculator/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator/calculate.py).
