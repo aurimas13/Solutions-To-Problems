@@ -19,12 +19,9 @@ class Solution:
                     while i < n and s[i].isdigit():
                         num = num * 10 + int(s[i])
                         i += 1
-
-                # We either add or subtract result of nested (...) or digit
                 output += -num if op == '-' else num
 
             return i + 1, output
-
         _, output = f(0)
         return output
 
