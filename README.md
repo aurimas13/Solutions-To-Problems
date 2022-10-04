@@ -196,7 +196,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |46 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [Custom Sort String](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Custom%20Sort%20String/custom.py) |
 |47 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
 |48 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|49 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|49 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 |50 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
 |51 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |52 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
