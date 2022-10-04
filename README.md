@@ -195,9 +195,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |45 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [Find All Anagrams in a String](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20All%20Anagrams%20in%20a%20String/anagrams.py) |
 |46 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [Custom Sort String](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Custom%20Sort%20String/custom.py) |
 |47 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
-|48 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|49 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
-|50 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+|48 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+|49 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|50 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 |51 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |52 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
 |53 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
@@ -450,10 +450,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 39 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
 | 40 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [Basic Calculator](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator/calculate.py) |
 | 41 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
-| 42 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 43 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 44 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 45 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |
+| 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+| 43 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 44 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 45 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
 | 46 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 | 47 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
 | 48 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
