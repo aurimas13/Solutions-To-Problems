@@ -1,1 +1,1 @@
-Problem description of "Find the Duplicate Number" can be found [here](https://leetcode.com/problems/find-the-duplicate-number/).
+Problem description of "First Bad Version" can be found [here](https://leetcode.com/problems/first-bad-version/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/First%20Bad%20Version/first.py).

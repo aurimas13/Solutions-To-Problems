@@ -1,1 +1,1 @@
-Problem description of "Find the Duplicate Number" can be found [here](https://leetcode.com/problems/find-the-duplicate-number/).
+Problem description of "Add Strings" can be found [here](https://leetcode.com/problems/add-strings/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py).
