@@ -42,11 +42,12 @@ Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems we
 - [MAANG Must Do Problems](#maang-must-do-problems) 
 - [Meta](#meta) 
 - [Amazon](#amazon)
+- [Apple](#apple)
+- [Netflix](#netflix) 
 - [Google Top](#google-top) 
 - [Google](#google) 
 - [Microsoft](#microsoft) 
 - [LinkedIn](#linkedin) 
-- [Netflix](#netflix) 
 
 ## Preparation for Interviews
 [(Back to top)](#table-of-contents)
@@ -360,6 +361,121 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |124 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) |
 |125 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
 |126 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
+---
+### Apple
+[(Back to top)](#table-of-contents)---
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
+| 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/LeetCode-and-FAANG/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+| 3 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
+| 4 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
+| 5 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
+| 6 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
+| 7 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
+| 8 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
+| 9 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
+| 10 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
+| 11 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
+| 12 | [Decode String](https://leetcode.com/problems/decode-string) | [Decode String](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Decode%20String/decode.py)
+| 13 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
+| 14 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
+| 15 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+| 16 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Combination Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Combination%20Sum/combine.py) |
+| 17 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
+| 18 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+| 19 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+| 20 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
+| 21 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) | [Random Pick with Weight](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Random%20Pick%20with%20Weight/random.py) |
+| 22 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
+| 23 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
+| 24 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
+| 25 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Pow(x, n)](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Pow(x%2C%20n)/power.py) |
+| 26 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
+| 27 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
+| 28 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [First Bad Version](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/First%20Bad%20Version/first.py) |
+| 29 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
+| 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
+| 31 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
+| 32 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20Array/remove.py) |
+| 33 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anagrams](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
+| 34 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
+| 35 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+| 37 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Pascal's Triangle](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Pascal's%20Triangle) |
+| 38 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Maximum Product Subarray](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Product%20Subarray/maximum.py) |
+| 39 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [Count of Smaller Numbers After Self](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20of%20Smaller%20Numbers%20After%20Self/count.py) |
+| 40 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
+| 41 | [Permutations](https://leetcode.com/problems/permutations) | [Permutations](https://github.com/aurimas13/LeetCode-HackerRank-FAANG/blob/main/LeetCode/Python%20Solutions/Permutations/permute.py) |
+| 42 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+| 43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
+| 44 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [Maximal Rectangle](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Rectangle/maximal.py) |
+| 45 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Binary Tree Level Order Traversal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Level%20Order%20Traversal/binary.py) |
+| 46 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
+| 47 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
+| 48 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Course Schedule](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py) |
+| 49 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
+| 50 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/LeetCode-and-FAANG/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py)                        |
+| 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
+| 52 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 53 | [H-Index](https://leetcode.com/problems/h-index) | [H-Index](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/H-Index/index.py) |
+| 54 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 55 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 56 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 57 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
+| 58 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 59 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+| 60 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 61 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) |
+| 62 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) |
+| 63 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
+| 64 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 65 | [Rotate Array](https://leetcode.com/problems/rotate-array) |
+| 66 | [Count Primes](https://leetcode.com/problems/count-primes) |
+| 67 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 68 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
+| 69 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+| 70 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+| 71 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 72 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+| 73 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
+| 74 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 75 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |
+| 76 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
+| 77 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
+| 78 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
+| 79 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 80 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) |
+| 81 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |
+| 82 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |
+| 83 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |
+| 84 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |
+| 85 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) |
+| 86 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
+| 87 | [Majority Element](https://leetcode.com/problems/majority-element/) |
+| 88 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
+| 89 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
+| 90 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
+| 91 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 92 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) |
+| 93 | [4Sum](https://leetcode.com/problems/4sum/) |
+| 94 | [N-Queens](https://leetcode.com/problems/n-queens/) |
+| 95 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
+| 96 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
+| 97 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
+| 98 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |
+| 99 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) |
+
+---
+### Netflix
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |                                                                                                   
+| -- | --------- | ------------------- |
+| 1 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [Department Top Three Salaries](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/SQL%20Solutions/Department%20Top%20Three%20Salaries/department.myd) |
+| 2 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+
 ---
 ### Google Top
 [(Back to top)](#table-of-contents)
@@ -693,14 +809,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |23 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |
 |24 | [Valid Number](https://leetcode.com/problems/valid-number) |
 |25 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
----
-### Netflix
-[(Back to top)](#table-of-contents)
 
-| No. | Questions | Solution in PyCharm |                                                                                                   
-| -- | --------- | ------------------- |
-| 1 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [Department Top Three Salaries](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/SQL%20Solutions/Department%20Top%20Three%20Salaries/department.myd) |
-| 2 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 
 [comment]: <> (- [Public]&#40;#Public&#41;)
 
