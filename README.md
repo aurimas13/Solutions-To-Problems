@@ -363,7 +363,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |126 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
 ---
 ### Apple
-[(Back to top)](#table-of-contents)---
+[(Back to top)](#table-of-contents)
 
 | No. | Questions | Solution in PyCharm |
 | -- | --------- | ------------------ |
