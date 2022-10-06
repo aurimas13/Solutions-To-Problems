@@ -198,22 +198,22 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |48 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
 |49 | [Add Strings](https://leetcode.com/problems/add-strings) | [Add Strings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py)|
 |50 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [First Bad Version](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/First%20Bad%20Version/first.py) |
-|51 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|52 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
-|53 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|54 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|55 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|56 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
-|57 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|58 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-|59 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
-|60 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|61 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
-|62 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
-|63 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-|64 | [Valid Number](https://leetcode.com/problems/valid-number) |
-|65 | [Add Binary](https://leetcode.com/problems/add-binary) |
-|66 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) |
+|51 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [Is Graph Bipartite?](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Is%20Graph%20Bipartite%3F/graph.py) |
+|52 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|53 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+|54 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|55 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|56 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+|57 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
+|58 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|59 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+|60 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
+|61 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|62 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
+|63 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
+|64 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+|65 | [Valid Number](https://leetcode.com/problems/valid-number) |
+|66 | [Add Binary](https://leetcode.com/problems/add-binary) |
 |67 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
 |68 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) |
 |69 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) |
