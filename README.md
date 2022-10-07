@@ -420,12 +420,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
 | 52 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 | 53 | [H-Index](https://leetcode.com/problems/h-index) | [H-Index](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/H-Index/index.py) |
-| 54 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 55 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 56 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 57 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-| 58 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 59 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+| 54 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
+| 55 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 56 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 57 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 58 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
+| 59 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
 | 60 | [Min Stack](https://leetcode.com/problems/min-stack) |
 | 61 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) |
 | 62 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) |
