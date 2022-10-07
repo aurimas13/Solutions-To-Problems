@@ -274,14 +274,14 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |37 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [Find All Anagrams in a String](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20All%20Anagrams%20in%20a%20String/anagrams.py) |
 |38 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [Basic Calculator](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator/calculate.py) |
 |39 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
-|40 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|41 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-|42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|43 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|44 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|45 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|46 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
-|47 | [Sort Colors](https://leetcode.com/problems/sort-colors) |
+|40 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
+|41 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|42 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|43 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|44 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|45 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|47 | [Edit Distance](https://leetcode.com/problems/edit-distance) |
 |48 | [Subsets](https://leetcode.com/problems/subsets) |
 |49 | [Gray Code](https://leetcode.com/problems/gray-code) |
 |50 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
