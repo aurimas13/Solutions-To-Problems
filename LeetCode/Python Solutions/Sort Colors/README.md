@@ -1,1 +1,1 @@
-Problem description of "Sort Colors" can be found [here](https://leetcode.com/problems/sort-colors/) adn its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Is%20Graph%20Bipartite%3F/graph.py).
+Problem description of "Sort Colors" can be found [here](https://leetcode.com/problems/sort-colors/) adn its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py).
