@@ -275,8 +275,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |38 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [Basic Calculator](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator/calculate.py) |
 |39 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
 |40 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
-|41 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|42 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+|41 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
+|42 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |43 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
 |44 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
 |45 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
@@ -421,11 +421,11 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 52 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 | 53 | [H-Index](https://leetcode.com/problems/h-index) | [H-Index](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/H-Index/index.py) |
 | 54 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
-| 55 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 56 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 57 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 58 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
-| 59 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 55 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
+| 56 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 57 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 58 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 59 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 | 60 | [Min Stack](https://leetcode.com/problems/min-stack) |
 | 61 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) |
 | 62 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) |
@@ -568,8 +568,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 41 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
 | 43 | [Add Strings](https://leetcode.com/problems/add-strings) | [Add Strings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py) |
-| 44 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 45 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 44 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
+| 45 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 46 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
 | 47 | [Word Ladder](https://leetcode.com/problems/word-ladder) |
 | 48 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
