@@ -1,1 +1,1 @@
-Problem description of "Generate Parentheses" can be found [here](https://leetcode.com/problems/generate-parentheses/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/First%20Bad%20Version/first.py).
+Problem description of "Generate Parentheses" can be found [here](https://leetcode.com/problems/generate-parentheses/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py).
