@@ -15,7 +15,8 @@ class Solution:
 
 
 # Checking in terminal/console:
-if __name__ == '__main__':cd
+if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.generateParenthesis(n=3)  # n=1 -> ["()"] | n=3 -> ["((()))","(()())","(())()","()(())","()()()"]
     print(Solve)
+
