@@ -276,7 +276,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |39 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
 |40 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
 |41 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
-|42 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word ladded](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
+|42 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word Ladder](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
 |43 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |44 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
 |45 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
@@ -422,7 +422,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 53 | [H-Index](https://leetcode.com/problems/h-index) | [H-Index](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/H-Index/index.py) |
 | 54 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
 | 55 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
-| 56 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word ladded](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
+| 56 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word Ladder](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
 | 57 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 58 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 59 | [Happy Number](https://leetcode.com/problems/happy-number) |
@@ -569,7 +569,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
 | 43 | [Add Strings](https://leetcode.com/problems/add-strings) | [Add Strings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py) |
 | 44 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
-| 45 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word ladded](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
+| 45 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word Ladder](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
 | 46 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
 | 48 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
