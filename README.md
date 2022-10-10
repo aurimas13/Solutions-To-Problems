@@ -570,16 +570,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 43 | [Add Strings](https://leetcode.com/problems/add-strings) | [Add Strings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py) |
 | 44 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
 | 45 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word Ladder](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
-| 46 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 48 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
-| 49 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 50 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 51 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-| 52 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
-| 53 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-| 54 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
-| 55 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |
+| 46 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | [Shortest Palindrome](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Shortest%20Palindrome/shortest.py) |
+| 47 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 48 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 49 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 50 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 51 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 52 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+| 53 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
+| 54 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+| 55 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
 | 56 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
 | 57 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
 | 58 | [Power of Two](https://leetcode.com/problems/power-of-two) |
