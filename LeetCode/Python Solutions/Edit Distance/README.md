@@ -1,1 +1,1 @@
-Problem description of "Edit Distance" can be found [here](https://leetcode.com/problems/edit-distance/) and its solution [here]().
+Problem description of "Edit Distance" can be found [here](https://leetcode.com/problems/edit-distance/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Edit%20Distance/edit.py).
