@@ -1,1 +1,1 @@
-Problem description of "Rotate Image" can be found [here](https://leetcode.com/problems/rotate-image/).
+Problem description of "Rotate Array" can be found [here](https://leetcode.com/problems/rotate-array/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Array/rotate.py).
