@@ -3,7 +3,7 @@ class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
         pivot = len(nums) - k % len(nums)
         nums[:] = nums[pivot:] + nums[:pivot]
-        return nums[:]  # Delete this when running in Leetcode 
+        return nums[:]  # Delete when running in Leetcode
 
 
 # Checking in PyCharm/terminal:
