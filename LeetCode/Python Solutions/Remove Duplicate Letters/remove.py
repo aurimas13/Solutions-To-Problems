@@ -10,7 +10,7 @@ class Solution:
             if i == last[s[i]]:
                 break
 
-        return s[pos]+self.removeDuplicateLetters(s[pos+1:].replace(s[pos],''))
+        return s[pos]+self.removeDuplicateLetters(s[pos+1:].replace(s[pos], ''))
 
 
 # Checking in console
