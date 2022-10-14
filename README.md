@@ -425,40 +425,40 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 56 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word Ladder](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
 | 57 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Rotate Array](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Array/rotate.py) |
 | 58 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [Remove Duplicate Letters](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicate%20Letters/remove.py) |
-| 59 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 60 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 61 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 62 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 63 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) |
-| 64 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
-| 65 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-| 66 | [Count Primes](https://leetcode.com/problems/count-primes) |
-| 67 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 68 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
-| 69 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-| 70 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-| 71 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
-| 72 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-| 73 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
-| 74 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 75 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |
-| 76 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
-| 77 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
-| 78 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
-| 79 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
-| 80 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) |
-| 81 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |
-| 82 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |
-| 83 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |
-| 84 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |
-| 85 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) |
-| 86 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
-| 87 | [Majority Element](https://leetcode.com/problems/majority-element/) |
-| 88 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
-| 89 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
-| 90 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
-| 91 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
-| 92 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) |
+| 59 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [3Sum Closest](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum%20Closest/closest.py) |
+| 60 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 61 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 62 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 63 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 64 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) |
+| 65 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
+| 66 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 67 | [Count Primes](https://leetcode.com/problems/count-primes) |
+| 68 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 69 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
+| 70 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+| 71 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+| 72 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 73 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+| 74 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
+| 75 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 76 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |
+| 77 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
+| 78 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
+| 79 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
+| 80 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 81 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) |
+| 82 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |
+| 83 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |
+| 84 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |
+| 85 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |
+| 86 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) |
+| 87 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
+| 88 | [Majority Element](https://leetcode.com/problems/majority-element/) |
+| 89 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
+| 90 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
+| 91 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
+| 92 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 93 | [4Sum](https://leetcode.com/problems/4sum/) |
 | 94 | [N-Queens](https://leetcode.com/problems/n-queens/) |
 | 95 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
