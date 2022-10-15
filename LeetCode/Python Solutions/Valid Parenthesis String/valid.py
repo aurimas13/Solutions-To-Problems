@@ -1,5 +1,6 @@
 class Solution:
-    def checkValidString(self, s: str) -> bool:
+    @staticmethod
+    def checkValidString(s: str) -> bool:
         # CC O(n), SC O(n)
         stack = []
         star = []
@@ -25,5 +26,5 @@ class Solution:
 
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.checkValidString(s = "(*))")  # s = "(*))" -> true
+    Solve = Instant.checkValidString(s = "(*))")  # s = "(*))" -> True
     print(Solve)
