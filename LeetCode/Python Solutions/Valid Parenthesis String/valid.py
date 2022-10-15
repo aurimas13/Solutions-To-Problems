@@ -28,4 +28,3 @@ if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.checkValidString(s = "(*))")  # s = "(*))" -> True
     print(Solve)
-
