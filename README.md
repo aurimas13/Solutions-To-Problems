@@ -279,26 +279,26 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |42 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word Ladder](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
 |43 | [Edit Distance](https://leetcode.com/problems/edit-distance) | [Edit Distance](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Edit%20Distance/edit.py)
 |44 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Rotate Array](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Array/rotate.py) |
-|45 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|46 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|47 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|48 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|49 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
-|50 | [Subsets](https://leetcode.com/problems/subsets) |
-|51 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|52 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|53 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
-|54 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|55 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|56 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|57 | [Sort List](https://leetcode.com/problems/sort-list) |
-|58 | [Min Stack](https://leetcode.com/problems/min-stack) |
-|59 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|60 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
-|61 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|62 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
-|63 | [Happy Number](https://leetcode.com/problems/happy-number) |
-|64 | [Count Primes](https://leetcode.com/problems/count-primes) |
+|45 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
+|46 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|48 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|49 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|50 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|51 | [Subsets](https://leetcode.com/problems/subsets) |
+|52 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|53 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|54 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
+|55 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|56 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|57 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|58 | [Sort List](https://leetcode.com/problems/sort-list) |
+|59 | [Min Stack](https://leetcode.com/problems/min-stack) |
+|60 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+|62 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|63 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
+|64 | [Happy Number](https://leetcode.com/problems/happy-number) |
 |65 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
 |66 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
 |67 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
@@ -427,13 +427,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 58 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [Remove Duplicate Letters](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicate%20Letters/remove.py) |
 | 59 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [3Sum Closest](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum%20Closest/closest.py) |
 | 60 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | [Valid Parenthesis String](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parenthesis%20String/valid.py) |
-| 61 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 62 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 63 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 64 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 65 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
-| 66 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-| 67 | [Count Primes](https://leetcode.com/problems/count-primes) |
+| 61 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
+| 62 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 63 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 64 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 65 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 66 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
+| 67 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 | 68 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
 | 69 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
 | 70 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |

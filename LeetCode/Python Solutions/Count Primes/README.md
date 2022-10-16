@@ -1,1 +1,1 @@
-Problem description of "Count Primes" can be found [here](https://leetcode.com/problems/count-primes/) and its solution [here]().
+Problem description of "Count Primes" can be found [here](https://leetcode.com/problems/count-primes/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py).
