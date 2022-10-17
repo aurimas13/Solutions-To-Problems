@@ -1,1 +1,1 @@
-Problem description of "Minimum Path Sum" can be found [here](https://leetcode.com/problems/minimum-path-sum/) and its solution [here]().
+Problem description of "Minimum Path Sum" can be found [here](https://leetcode.com/problems/minimum-path-sum/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py).
