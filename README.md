@@ -280,11 +280,11 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |43 | [Edit Distance](https://leetcode.com/problems/edit-distance) | [Edit Distance](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Edit%20Distance/edit.py)
 |44 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Rotate Array](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Array/rotate.py) |
 |45 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
-|46 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-|48 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|49 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|50 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+|46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
+|47 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|48 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+|49 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|50 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
 |51 | [Subsets](https://leetcode.com/problems/subsets) |
 |52 | [Gray Code](https://leetcode.com/problems/gray-code) |
 |53 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
@@ -428,16 +428,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 59 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [3Sum Closest](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum%20Closest/closest.py) |
 | 60 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | [Valid Parenthesis String](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parenthesis%20String/valid.py) |
 | 61 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
-| 62 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 63 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 64 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 65 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 66 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
-| 67 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-| 68 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 69 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
-| 70 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-| 71 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |
+| 62 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
+| 63 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 64 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 65 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 66 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 67 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
+| 68 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 69 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 70 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
+| 71 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
 | 72 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
 | 73 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
 | 74 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
