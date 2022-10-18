@@ -1,40 +1,49 @@
-from typing import List
-
-
+from math import sqrt
 class Solution:
     @staticmethod
-    def isValidSudoku(board: List[List[str]]) -> bool:
-        # Rows, Cols and Quadrant will store seen numbers at the Nth bit
-        rows = [0] * 9
-        cols = [0] * 9
-        quadrant = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+    def isPerfectSquare(num: int) -> bool:
+        if num < 2:
+            return True
 
-        for i in range(len(board)):
-            for j in range(len(board[i])):
-                if board[i][j] == '.':
-                    continue
+        left = 2
+        right = num // 2
 
-                # character to number
-                num = ord(board[i][j]) - ord('0')
+        while left <= right:
+            x = (left + right) // 2
+            guess_squared = x * x
+            if guess_squared == num:
+                return True
+            if guess_squared > num:
+                right = x - 1
+            else:
+                left = x + 1
+        return False
 
-                # Shift 1 to num position
-                bit = (1 << num)
+        # or
 
-                # if number has been seen at a row, column or quadrant, AND operation will
-                # result in a greater than zero number (which is bit), if haven't seen,
-                # AND operation will result to zero.
-                if (bit & rows[i]) or (bit & cols[j]) or (bit & quadrant[i // 3][j // 3]):
-                    return False
+        # x = num // 2
+        # y = set([x])
+        # while x * x != num:
+        #     if x == 0:
+        #         return True
+        #     else:
+        #         x = (x + (num // x)) // 2
+        #     if x in y: return False
+        #     y.add(x)
+        # return True
 
-                # Marking rows, cols and quadrant that num has been seen at that position.
-                rows[i] ^= bit
-                cols[j] ^= bit
-                quadrant[i // 3][j // 3] ^= bit
+        # or
 
-        return True
+        # import math
+        # if (num < 0):
+        #     return False
+        # if (int(math.sqrt(num)) == math.sqrt(num)):
+        #     return True
+        # else:
+        #     return False
 
 
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.isValidSudoku(board = [["5","3",".",".","7",".",".",".","."],["6",".",".","1","9","5",".",".","."],[".","9","8",".",".",".",".","6","."],["8",".",".",".","6",".",".",".","3"],["4",".",".","8",".","3",".",".","1"],["7",".",".",".","2",".",".",".","6"],[".","6",".",".",".",".","2","8","."],[".",".",".","4","1","9",".",".","5"],[".",".",".",".","8",".",".","7","9"]]) # board = [["5","3",".",".","7",".",".",".","."],["6",".",".","1","9","5",".",".","."],[".","9","8",".",".",".",".","6","."],["8",".",".",".","6",".",".",".","3"],["4",".",".","8",".","3",".",".","1"],["7",".",".",".","2",".",".",".","6"],[".","6",".",".",".",".","2","8","."],[".",".",".","4","1","9",".",".","5"],[".",".",".",".","8",".",".","7","9"]] -> true
+    Solve = Instant.isPerfectSquare(49) # 36 -> True | 17 -> False
     print(Solve)
