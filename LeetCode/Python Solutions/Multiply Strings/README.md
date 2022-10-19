@@ -1,0 +1,1 @@
+Problem description of "Multiply Strings" can be found [here](https://leetcode.com/problems/multiply-strings/) and its solution [here]().
