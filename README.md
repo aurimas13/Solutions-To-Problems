@@ -443,7 +443,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 74 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
 | 75 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
 | 76 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 77 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |
+| 77 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Reverse Integer](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Integer/reverse.py |
 | 78 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
 | 79 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
 | 80 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
