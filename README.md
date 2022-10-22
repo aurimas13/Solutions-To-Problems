@@ -573,25 +573,25 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 46 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | [Shortest Palindrome](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Shortest%20Palindrome/shortest.py) |
 | 47 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [Remove Duplicate Letters](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicate%20Letters/remove.py) |
 | 48 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | [Valid Parenthesis String](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parenthesis%20String/valid.py) |
-| 49 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 50 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
-| 51 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
-| 52 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 53 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 54 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-| 55 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
-| 56 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-| 57 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
-| 58 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
-| 59 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
-| 60 | [Power of Two](https://leetcode.com/problems/power-of-two) |
-| 61 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
-| 62 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 63 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-| 64 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
-| 65 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
-| 66 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
-| 67 | [Game of Life](https://leetcode.com/problems/game-of-life) |
+| 49 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
+| 50 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 51 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |
+| 52 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 53 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 54 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 55 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+| 56 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
+| 57 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+| 58 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
+| 59 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
+| 60 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
+| 61 | [Power of Two](https://leetcode.com/problems/power-of-two) |
+| 62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+| 63 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 64 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+| 65 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
+| 66 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
+| 67 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
 | 68 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 | 69 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) |
 | 70 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |
