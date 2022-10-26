@@ -434,7 +434,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 65 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Multiply Strings](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Multiply%20Strings/multiply.py) |
 | 66 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Integer to Roman](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Integer%20to%20Roman/integer.py) |
 | 67 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [First Missing Positive](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/First%20Missing%20Positive/first.py) |
-| 68 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number](Problem description can be found [here](https://leetcode.com/problems/palindrome-number/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Palindrome%20Number/palindrome.py).) 
+| 68 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Palindrome%20Number/palindrome.py) | 
 | 69 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 70 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 71 | [Happy Number](https://leetcode.com/problems/happy-number) |
@@ -442,8 +442,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 73 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
 | 74 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 | 75 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 76 | [Next Greater Element II](https://leetcode.com/problems/next-greater-
-element-ii) |
+| 76 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
 | 77 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
 | 78 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
 | 79 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
