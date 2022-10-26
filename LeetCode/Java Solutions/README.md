@@ -1,0 +1,1 @@
+This folder of Java solutions is not being updated daily.
