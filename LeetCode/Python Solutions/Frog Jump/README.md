@@ -1,0 +1,1 @@
+Problem description of "Frog Jump" can be found [here](hhttps://leetcode.com/problems/frog-jump/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py).
