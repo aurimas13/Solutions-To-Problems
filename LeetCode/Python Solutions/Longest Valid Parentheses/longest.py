@@ -1,18 +1,19 @@
 class Solution:
-    def longestValidParentheses(self, s: str) -> int:
+    @staticmethod
+    def longestValidParentheses(s: str) -> int:
         bal = [-1]
         maxWin = 0
         validWin = 0
-        for cind, c in enumerate(s):
+        for find, c in enumerate(s):
             if c == '(':
-                bal.append(cind)
+                bal.append(find)
             if c == ')':
                 bal.pop()
                 if len(bal) > 0:
-                    validWin = cind - bal[-1]
+                    validWin = find - bal[-1]
                     maxWin = max(maxWin,validWin)
                 else:
-                    bal.append(cind)
+                    bal.append(find)
         return maxWin
 
 
