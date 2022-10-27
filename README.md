@@ -281,7 +281,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |44 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Rotate Array](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Array/rotate.py) |
 |45 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
 |46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
-|47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trspping Rsin Wster](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
+|47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trapping Rain Water](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
 |48 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |49 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
 |50 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
@@ -574,7 +574,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 47 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [Remove Duplicate Letters](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicate%20Letters/remove.py) |
 | 48 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | [Valid Parenthesis String](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parenthesis%20String/valid.py) |
 | 49 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
-| 50 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trspping Rsin Wster](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
+| 50 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trapping Rain Water](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
 | 51 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 52 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
 | 53 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
