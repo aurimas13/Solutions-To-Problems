@@ -437,32 +437,32 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 68 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Palindrome%20Number/palindrome.py) | 
 | 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 | 70 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Valid%20Parentheses/longest.py) |
-| 71 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 72 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 73 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 74 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 75 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
-| 76 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-| 77 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 78 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
-| 79 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-| 80 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
-| 81 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-| 82 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
-| 83 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 84 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
-| 85 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
-| 86 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
-| 87 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
-| 88 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
-| 89 | [Majority Element](https://leetcode.com/problems/majority-element/) |
-| 90 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
-| 91 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
-| 92 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
-| 93 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
-| 94 | [4Sum](https://leetcode.com/problems/4sum/) |
-| 95 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
-| 96 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
+| 71 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Largest Rectangle in Histogram](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Largest%20Rectangle%20in%20Histogram/largest.py) |
+| 72 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 73 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 74 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 75 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 76 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
+| 77 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 78 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 79 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
+| 80 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+| 81 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 82 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+| 83 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
+| 84 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 85 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
+| 86 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
+| 87 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 88 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
+| 89 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
+| 90 | [Majority Element](https://leetcode.com/problems/majority-element/) |
+| 91 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
+| 92 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
+| 93 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
+| 94 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 95 | [4Sum](https://leetcode.com/problems/4sum/) |
+| 96 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
 | 97 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 | 98 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |
 | 99 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) |
