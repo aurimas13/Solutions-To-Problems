@@ -438,16 +438,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 | 70 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Valid%20Parentheses/longest.py) |
 | 71 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Largest Rectangle in Histogram](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Largest%20Rectangle%20in%20Histogram/largest.py) |
-| 72 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 73 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 74 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 75 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 76 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
-| 77 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-| 78 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 79 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
-| 80 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-| 81 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 72 | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Word Break II](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break%20II/break.py) |
+| 73 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 74 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 75 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 76 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 77 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) |
+| 78 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 79 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 80 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |
+| 81 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
 | 82 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
 | 83 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
 | 84 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
@@ -575,8 +575,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 48 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | [Valid Parenthesis String](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parenthesis%20String/valid.py) |
 | 49 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
 | 50 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trapping Rain Water](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
-| 51 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 52 | [Word Break II](https://leetcode.com/problems/word-break-ii) |
+| 51 | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Word Break II](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break%20II/break.py) |
+| 52 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 53 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 54 | [Min Stack](https://leetcode.com/problems/min-stack) |
 | 55 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
