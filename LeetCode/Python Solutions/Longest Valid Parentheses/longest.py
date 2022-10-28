@@ -11,7 +11,7 @@ class Solution:
                 bal.pop()
                 if len(bal) > 0:
                     validWin = find - bal[-1]
-                    maxWin = max(maxWin,validWin)
+                    maxWin = max(maxWin, validWin)
                 else:
                     bal.append(find)
         return maxWin
