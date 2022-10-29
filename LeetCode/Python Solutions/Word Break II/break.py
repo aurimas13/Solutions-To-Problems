@@ -6,13 +6,13 @@ class Solution:
     def wordBreak(s: str, wordDict: List[str]) -> List[str]:
         dp = [[] for i in range(len(s) + 1)]
         dp[0].append([])
-        for i in range(len(dp)):  # N
+        for i in range(len(dp)):
             if dp[i]:
-                for word in wordDict:  # M
+                for word in wordDict:
                     offset = len(word)
-                    if s[i:].startswith(word):  # N
-                        for sentence in dp[i]:  # N
-                            dp[i + offset].append(sentence + [word])  # N
+                    if s[i:].startswith(word):
+                        for sentence in dp[i]:
+                            dp[i + offset].append(sentence + [word])
         result = []
         for sent in dp[-1]:
             result.append(" ".join(sent))
