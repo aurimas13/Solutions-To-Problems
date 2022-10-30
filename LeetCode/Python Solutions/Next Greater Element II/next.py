@@ -12,6 +12,7 @@ class Solution:
             stack.append(i%n)
         return res
 
+
 # Checking in console
 if __name__ == '__main__':
     Instant = Solution()
