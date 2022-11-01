@@ -462,7 +462,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 93 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
 | 94 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 95 | [4Sum](https://leetcode.com/problems/4sum/) |
-| 96 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
+| 96 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Sqrt(x)](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sqrt(x)/sqrt_x.py) |
 | 97 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 | 98 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |
 | 99 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) |
