@@ -444,21 +444,21 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 75 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/find.py) |
 | 76 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Sqrt(x)](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sqrt(x)/sqrt_x.py) |
 | 77 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Integer to English Words](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Integer%20to%20English%20Words/integer.py) |
-| 78 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 79 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 80 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 81 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 82 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-| 83 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 84 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-| 85 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-| 86 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
-| 87 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 88 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
-| 89 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
-| 90 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
-| 91 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
-| 92 | [Majority Element](https://leetcode.com/problems/majority-element/) |
+| 78 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Majority Element](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Majority%20Element/majority.py) |
+| 79 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 80 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 81 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 82 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 83 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 84 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 85 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+| 86 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+| 87 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
+| 88 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 89 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
+| 90 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
+| 91 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
+| 92 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
 | 93 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
 | 94 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
 | 95 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
