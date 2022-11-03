@@ -1,33 +1,42 @@
-import re
-from typing import Tuple
 class Solution:
-    def calculate(self, s: str) -> int:
-        s = re.sub(" +", "", s)
-        n = len(s)
+    @staticmethod
+    def calculate(s: str) -> int:
+        stack = []
+        curr = 0
+        ope = "+"
+        if not s:
+            return 0
 
-        def f(i: int) -> Tuple[int, int]:
-            output, op = 0, '+'
-            while i < n and s[i] != ')':
-                if s[i] in {"+", "-"}:
-                    op = s[i]
-                    i += 1
+        operators = {'+', '-', '*', '/'}
+        nums = set(str(x) for x in range(0, 10))
 
-                if s[i] == '(':
-                    i, num = f(i + 1)
-                else:
-                    num = 0
-                    while i < n and s[i].isdigit():
-                        num = num * 10 + int(s[i])
-                        i += 1
-                output += -num if op == '-' else num
+        for i in range(0, len(s)):
+            char = s[i]
 
-            return i + 1, output
-        _, output = f(0)
-        return output
+            if char in nums:
+                curr = curr * 10 + int(char)
+
+            if char in operators or i == len(s) - 1:
+                if ope == '+':
+                    stack.append(curr)
+
+                elif ope == '-':
+                    stack.append(-curr)
+
+                elif ope == '*':
+                    stack[-1] *= curr
+
+                elif ope == '/':
+                    stack[-1] = int(stack[-1] / curr)
+
+                curr = 0
+                ope = char
+
+        return sum(stack)
 
 
 # Checking in PyCharm/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.calculate(s = "1 + 1")  # s = "1 + 1" -> 2 | s = "(1+(4+5+2)-3)+(6+8)" -> 23 | s = " 2-1 + 2 " -> 3
+    Solve = Sol.calculate(" 3+5 / 2 ")  # s = "3+2*2" -> 7 | s = " 3+5 / 2 " -> 5
     print(Solve)
