@@ -446,23 +446,23 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 77 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Integer to English Words](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Integer%20to%20English%20Words/integer.py) |
 | 78 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Majority Element](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Majority%20Element/majority.py) |
 | 79 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator%20II/calculate.py) |
-| 80 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 81 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 82 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 83 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 84 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-| 85 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 86 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-| 87 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-| 88 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
-| 89 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 90 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
-| 91 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
-| 92 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
-| 93 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
-| 94 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
-| 95 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
-| 96 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
+| 80 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Reverse Words in a String III](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String%20III/reverse.py) |
+| 81 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 82 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 83 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 84 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 85 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 86 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 87 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+| 88 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+| 89 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
+| 90 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 91 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
+| 92 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
+| 93 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
+| 94 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
+| 95 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
+| 96 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
 | 97 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 98 | [4Sum](https://leetcode.com/problems/4sum/) |
 | 99 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
