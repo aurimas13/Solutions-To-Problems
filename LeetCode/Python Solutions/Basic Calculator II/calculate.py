@@ -40,5 +40,3 @@ if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.calculate(" 3+5 / 2 ")  # s = "3+2*2" -> 7  | s = " 3+5 / 2 " -> 5
     print(Solve)
-
-
