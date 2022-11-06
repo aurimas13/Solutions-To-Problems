@@ -453,24 +453,24 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 78 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Majority Element](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Majority%20Element/majority.py) |
 | 79 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator%20II/calculate.py) |
 | 80 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Reverse Words in a String III](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String%20III/reverse.py) |
-| 81 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 82 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 83 | [Happy Number](https://leetcode.com/problems/happy-number) |
-| 84 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 85 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-| 86 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 87 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-| 88 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-| 89 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
-| 90 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 91 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
-| 92 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
-| 93 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
-| 94 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
-| 95 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
-| 96 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
-| 97 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
-| 98 | [4Sum](https://leetcode.com/problems/4sum/) |
+| 81 | [4Sum](https://leetcode.com/problems/4sum/) | [4Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/4Sum/4Sum.py) |
+| 82 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 83 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 84 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 85 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 86 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 87 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 88 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+| 89 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+| 90 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
+| 91 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 92 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
+| 93 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
+| 94 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
+| 95 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
+| 96 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |
+| 97 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
+| 98 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 99 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 
 ---
