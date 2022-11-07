@@ -289,10 +289,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
 |47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trapping Rain Water](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
 |48 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [K Closest Points to Origin](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/K%20Closest%20Points%20to%20Origin/closest.py) |
-|49 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|50 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|51 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|52 | [Subsets](https://leetcode.com/problems/subsets) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|50 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|51 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|52 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
 |53 | [Gray Code](https://leetcode.com/problems/gray-code) |
 |54 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
 |55 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
