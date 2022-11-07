@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     @staticmethod
     def subsets(nums: List[int]) -> List[List[int]]:
