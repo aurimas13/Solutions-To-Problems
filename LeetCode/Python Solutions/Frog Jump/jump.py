@@ -29,3 +29,4 @@ if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.canCross(stones=[0, 1, 3, 5, 6, 8, 12, 17]) # stones = [0,1,3,5,6,8,12,17] -> True | stones = [0,1,2,3,4,8,9,11] -> False
     print(Solve)
+
