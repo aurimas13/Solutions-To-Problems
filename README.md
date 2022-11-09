@@ -208,12 +208,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |51 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [Is Graph Bipartite?](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Is%20Graph%20Bipartite%3F/graph.py) |
 |52 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [Max Consecutive Ones III](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Max%20Consecutive%20Ones%20III/max.py) |
 |53| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [K Closest Points to Origin](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/K%20Closest%20Points%20to%20Origin/closest.py) |
-|54 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|55 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
-|56 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|57 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|58 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|59 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
+|54 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | [Expression Add Operators](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Expression%20Add%20Operators/express.py) |
+|55 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|56 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+|57 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|58 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|59 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
 |60 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 |61 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
 |62 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
@@ -584,21 +584,21 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 51 | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Word Break II](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break%20II/break.py) |
 | 52 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | [Next Greater Element II](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Next%20Greater%20Element%20II/next.py) |
 | 53 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [K Closest Points to Origin](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/K%20Closest%20Points%20to%20Origin/closest.py) |
-| 54 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 55 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 56 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 57 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-| 58 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
-| 59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-| 60 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
-| 61 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
-| 62 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
-| 63 | [Power of Two](https://leetcode.com/problems/power-of-two) |
-| 64 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
-| 65 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
-| 66 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-| 67 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
-| 68 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) |
+| 54 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | [Expression Add Operators](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Expression%20Add%20Operators/express.py) |
+| 55 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 56 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 57 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 58 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+| 59 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
+| 60 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+| 61 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
+| 62 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
+| 63 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
+| 64 | [Power of Two](https://leetcode.com/problems/power-of-two) |
+| 65 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+| 66 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
+| 67 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+| 68 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
 | 69 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
 | 70 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 | 71 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) |
