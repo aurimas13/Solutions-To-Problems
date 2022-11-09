@@ -1,0 +1,1 @@
+Problem description of "Happy Number" can be found [here](https://leetcode.com/problems/happy-number/) and its solution [here]().
