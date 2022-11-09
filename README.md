@@ -290,22 +290,22 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trapping Rain Water](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
 |48 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [K Closest Points to Origin](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/K%20Closest%20Points%20to%20Origin/closest.py) |
 |49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
-|50 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|51 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|52 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|53 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|54 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|55 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
-|56 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|57 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|58 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|59 | [Sort List](https://leetcode.com/problems/sort-list) |
-|60 | [Min Stack](https://leetcode.com/problems/min-stack) |
-|61 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|62 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
-|63 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|64 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
-|65 | [Happy Number](https://leetcode.com/problems/happy-number) |
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
+|51 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|52 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|53 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|54 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|55 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|56 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
+|57 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|58 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|59 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|60 | [Sort List](https://leetcode.com/problems/sort-list) |
+|61 | [Min Stack](https://leetcode.com/problems/min-stack) |
+|62 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+|63 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+|64 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|65 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
 |66 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
 |67 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
 |68 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |
@@ -455,9 +455,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 80 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Reverse Words in a String III](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String%20III/reverse.py) |
 | 81 | [4Sum](https://leetcode.com/problems/4sum/) | [4Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/4Sum/4Sum.py) |
 | 82 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Frog Jumo](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Frog%20Jump/jump.py) |
-| 83 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 84 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 85 | [Happy Number](https://leetcode.com/problems/happy-number) |
+| 83 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
+| 84 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 85 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 86 | [Min Stack](https://leetcode.com/problems/min-stack) |
 | 87 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 | 88 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
