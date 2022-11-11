@@ -209,18 +209,18 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |52 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [Max Consecutive Ones III](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Max%20Consecutive%20Ones%20III/max.py) |
 |53| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [K Closest Points to Origin](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/K%20Closest%20Points%20to%20Origin/closest.py) |
 |54 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | [Expression Add Operators](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Expression%20Add%20Operators/express.py) |
-|55 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|56 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
-|57 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|58 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|59 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|60 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|61 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-|62 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
-|63 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|64 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
-|65 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
-|66 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+|55 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Sudoku Solver](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sudoku%20Solver/solver.py) |
+|56 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|57 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+|58 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|60 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+|61 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|62 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+|63 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) |
+|64 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|65 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
+|66 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
 |67 | [Valid Number](https://leetcode.com/problems/valid-number) |
 |68 | [Add Binary](https://leetcode.com/problems/add-binary) |
 |69 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
@@ -456,10 +456,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 81 | [4Sum](https://leetcode.com/problems/4sum/) | [4Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/4Sum/4Sum.py) |
 | 82 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Frog Jumo](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Frog%20Jump/jump.py) |
 | 83 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
-| 84 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 85 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 86 | [Min Stack](https://leetcode.com/problems/min-stack) |
-| 87 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 84 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Sudoku Solver](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sudoku%20Solver/solver.py) |
+| 85 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 86 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 87 | [Min Stack](https://leetcode.com/problems/min-stack) |
 | 88 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
 | 89 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
 | 90 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
