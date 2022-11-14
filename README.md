@@ -292,17 +292,17 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
 |50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 |51 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
-|52 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|53 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
-|54 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
-|55 | [Gray Code](https://leetcode.com/problems/gray-code) |
-|56 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|57 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
-|58 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|59 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|60 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|61 | [Sort List](https://leetcode.com/problems/sort-list) |
-|62 | [Min Stack](https://leetcode.com/problems/min-stack) |
+|52 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
+|53 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|54 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|55 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
+|56 | [Gray Code](https://leetcode.com/problems/gray-code) |
+|57 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|58 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
+|59 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|60 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|61 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|62 | [Sort List](https://leetcode.com/problems/sort-list) |
 |63 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
 |64 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
 |65 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
@@ -458,9 +458,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 83 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 | 84 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Sudoku Solver](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sudoku%20Solver/solver.py) |
 | 85 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
-| 86 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 87 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 88 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 86 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
+| 87 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 88 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 89 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
 | 90 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
 | 91 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
@@ -587,9 +587,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 54 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | [Expression Add Operators](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Expression%20Add%20Operators/express.py) |
 | 55 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
 | 56 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [Combination Sum IV](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20IV/combination.py) |
-| 57 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 58 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 59 | [Min Stack](https://leetcode.com/problems/min-stack) |
+| 57 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
+| 58 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 59 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 60 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
 | 61 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |
 | 62 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
