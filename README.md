@@ -211,17 +211,17 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |54 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | [Expression Add Operators](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Expression%20Add%20Operators/express.py) |
 |55 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Sudoku Solver](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sudoku%20Solver/solver.py) |
 |56 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [Combination Sum IV](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20IV/combination.py) |
-|57 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
-|58 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
-|59 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|60 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|61 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|62 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|63 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-|64 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|65 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
-|66 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
-|67 | [Valid Number](https://leetcode.com/problems/valid-number) |
+|57 | [Valid Number](https://leetcode.com/problems/valid-number) | [Valid Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Number/valid.py) |
+|58 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|59 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+|60 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|61 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|62 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+|63 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|64 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+|65 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|66 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
+|67 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
 |68 | [Add Binary](https://leetcode.com/problems/add-binary) |
 |69 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
 |70 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) |
@@ -791,29 +791,29 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | No. | Questions | Solution in PyCharm |
 | -- | --------- | ------------------ |
 |1 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
-|2 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
-|3 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) |
-|4 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) |
-|5 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) |
-|6 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) |
-|7 | [Max Stack](https://leetcode.com/problems/max-stack) |
-|8 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree) |
-|9 | [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |
-|10 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) |
-|11 | [Factor Combinations](https://leetcode.com/problems/factor-combinations) |
-|12 | [Paint House](https://leetcode.com/problems/paint-house) |
-|13 | [Paint House II](https://leetcode.com/problems/paint-house-ii) |
-|14 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) |
-|15 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) |
-|16 | [Text Justification](https://leetcode.com/problems/text-justification) |
-|17 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences) |
-|18 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) |
-|19 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) |
-|20 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) |
-|21 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|22 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
-|23 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |
-|24 | [Valid Number](https://leetcode.com/problems/valid-number) |
+|2 | [Valid Number](https://leetcode.com/problems/valid-number) | [Valid Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Number/valid.py) |
+|3 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
+|4 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) |
+|5 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) |
+|6 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) |
+|7 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) |
+|8 | [Max Stack](https://leetcode.com/problems/max-stack) |
+|9 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree) |
+|10 | [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |
+|11 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) |
+|12 | [Factor Combinations](https://leetcode.com/problems/factor-combinations) |
+|13 | [Paint House](https://leetcode.com/problems/paint-house) |
+|14 | [Paint House II](https://leetcode.com/problems/paint-house-ii) |
+|15 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) |
+|16 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) |
+|17 | [Text Justification](https://leetcode.com/problems/text-justification) |
+|18 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences) |
+|19 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) |
+|20 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) |
+|21 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) |
+|22 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|23 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
+|24 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |
 |25 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
 
 
