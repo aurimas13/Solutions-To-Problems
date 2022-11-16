@@ -1,1 +1,1 @@
-Problem description of "Valid Number" can be found [here](https://leetcode.com/problems/valid-number/submissions/) and its solution [here]().
+Problem description of "Valid Number" can be found [here](https://leetcode.com/problems/valid-number/submissions/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Number/valid.py).
