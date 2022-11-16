@@ -1,0 +1,1 @@
+Problem description of "Valid Number" can be found [here](https://leetcode.com/problems/valid-number/submissions/) and its solution [here]().
