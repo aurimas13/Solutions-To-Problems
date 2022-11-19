@@ -1,1 +1,1 @@
-Problem description of "Spiral Matrix II" can be found [here](https://leetcode.com/problems/spiral-matrix-ii/) and its solution [here]().
+Problem description of "Spiral Matrix II" can be found [here](https://leetcode.com/problems/spiral-matrix-ii/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix%20II/spiral.py).
