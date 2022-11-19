@@ -293,8 +293,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 |51 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
 |52 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
-|53 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|54 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |
+|53 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [Spiral Matrix II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix%20II/spiral.py) |
+|54 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 |55 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |
 |56 | [Gray Code](https://leetcode.com/problems/gray-code) |
 |57 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
