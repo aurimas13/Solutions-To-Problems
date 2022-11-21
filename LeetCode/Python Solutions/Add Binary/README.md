@@ -1,1 +1,1 @@
-Problem description of "Add Binary" can be found [here](https://leetcode.com/problems/add-binary/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py).
+Problem description of "Add Binary" can be found [here](https://leetcode.com/problems/add-binary/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Binary/add.py).
