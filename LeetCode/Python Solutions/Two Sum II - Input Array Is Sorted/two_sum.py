@@ -14,7 +14,7 @@ class Solution:
         return -1
 
 
-# Checking in console
+# Checking in Console
 if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.twoSum(numbers = [2, 3, 4], target = 6 )
