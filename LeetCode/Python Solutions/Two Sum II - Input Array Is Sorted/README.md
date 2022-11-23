@@ -1,0 +1,1 @@
+Problem description of "Two Sum II - Input Array Is Sorted" can be found [here](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) and its solution [here]().
