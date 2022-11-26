@@ -1,1 +1,1 @@
-Problem description of "Gray Code" can be found [here](https://leetcode.com/problems/gray-code/) and its solution [here]().
+Problem description of "Gray Code" can be found [here](https://leetcode.com/problems/gray-code/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Gray%20Code/gray.py).
