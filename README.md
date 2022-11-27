@@ -297,9 +297,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |54 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Unique%20Paths%20II/unique.py) |
 |55 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | [Accounts Merge](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Accounts%20Merge/merge.py) |
 |56 | [Gray Code](https://leetcode.com/problems/gray-code) | [Gray Code](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Gray%20Code/gray.py) |
-|57 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|58 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|59 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |
+|57 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [Word Ladder II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder%20II/ladder.py) |
+|58 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|59 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
 |60 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
 |61 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
 |62 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
