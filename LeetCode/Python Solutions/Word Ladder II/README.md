@@ -1,1 +1,1 @@
-Problem description of "Word Ladder II" can be found [here](https://leetcode.com/problems/word-ladder-ii/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py).
+Problem description of "Word Ladder II" can be found [here](https://leetcode.com/problems/word-ladder-ii/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder%20II/ladder.py).
