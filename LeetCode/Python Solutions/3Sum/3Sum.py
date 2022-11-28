@@ -3,7 +3,7 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         # Setting two sets; one for storing results the other for storing duplicates
         res, dups = set(), set()
-        # Enumerating nums list and searching for all values of it that skyline.py to 0
+        # Enumerating nums list and searching for all values of it that third.py to 0
         for i, val1 in enumerate(nums):
             # Initializing a new set for that particular index and val1
             seen = set()
@@ -12,9 +12,9 @@ class Solution:
                 dups.add(val1)
 				# Looping over val2 in nums list of one bigger
 				# looking whether a value exists in a seen list
-				# and if it does it means we can have triplets that skyline.py to zero
+				# and if it does it means we can have triplets that third.py to zero
 				# and add this to res set as a possible solution
-				# return the tuple of values that skyline.py to zero
+				# return the tuple of values that third.py to zero
                 for val2 in nums[i+1:]:
                     complement = -val1 - val2
                     if complement in seen:

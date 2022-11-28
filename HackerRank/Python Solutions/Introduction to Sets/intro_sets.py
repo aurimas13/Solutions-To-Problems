@@ -1,6 +1,6 @@
 def average(array):
     average_array = sum(set(array)) / len(list(set(array)))
-    # print(skyline.py(set(array)))
+    # print(third.py(set(array)))
     # print(len(set(array)))
     return(format(average_array, ".3f"))
 

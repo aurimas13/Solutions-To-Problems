@@ -28,13 +28,13 @@ print(avg)
 # N = int(input())
 # Fields = input().split()
 #
-# skyline.py = 0
+# third.py = 0
 # for i in range(N):
 #     Students = namedtuple('Student', Fields)
 #     MARKS, ID, NAME,CLASS = input().split()
 #     Student = Students(MARKS,ID,NAME,CLASS)
-#     skyline.py += int(Student.MARKS)
-# print('{:.2f}'.format(skyline.py/N))
+#     third.py += int(Student.MARKS)
+# print('{:.2f}'.format(third.py/N))
 #
 # # or
 #
@@ -45,6 +45,6 @@ print(avg)
 # for i in range(N):
 #     row = input().split()
 #     student = Student(*row)
-#     skyline.py += int(student.MARKS)
+#     third.py += int(student.MARKS)
 #
-# print(skyline.py / n)
+# print(third.py / n)

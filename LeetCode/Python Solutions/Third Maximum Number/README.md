@@ -1,0 +1,1 @@
+Problem description of "Third Maximum Number" can be found [here](https://leetcode.com/problems/third-maximum-number/) and its solution [here]().
