@@ -298,25 +298,25 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |55 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | [Accounts Merge](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Accounts%20Merge/merge.py) |
 |56 | [Gray Code](https://leetcode.com/problems/gray-code) | [Gray Code](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Gray%20Code/gray.py) |
 |57 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [Word Ladder II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder%20II/ladder.py) |
-|58 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|59 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|60 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|61 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|62 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|63 | [Sort List](https://leetcode.com/problems/sort-list) |
-|64 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|65 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
-|66 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
-|67 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
-|68 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
-|69 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
-|70 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|71 | [Design Twitter](https://leetcode.com/problems/design-twitter) |
-|72 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|73 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) |
-|74 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) |
-|75 | [Rotate Function](https://leetcode.com/problems/rotate-function) |
-|76 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) |
+|58 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Third Maximum Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Third%20Maximum%20Number/third.py) |
+|59 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|60 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|61 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|62 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|63 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|64 | [Sort List](https://leetcode.com/problems/sort-list) |
+|65 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+|66 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+|67 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
+|68 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
+|69 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
+|70 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+|71 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|72 | [Design Twitter](https://leetcode.com/problems/design-twitter) |
+|73 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|74 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) |
+|75 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) |
+|76 | [Rotate Function](https://leetcode.com/problems/rotate-function) |
 |77 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) |
 |78 | [String Compression](https://leetcode.com/problems/string-compression) |
 |79 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |
