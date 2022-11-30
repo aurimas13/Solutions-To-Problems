@@ -17,7 +17,7 @@ class Solution:
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.strStr([1, 3, 4, 2, 2])
+    Solve = Sol.strStr(haystack = "sadbutsad", needle = "sad")
     # haystack = "sadbutsad", needle = "sad" -> 0
     # haystack = "leetcode", needle = "leeto" -> -1
     print(Solve)
