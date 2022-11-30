@@ -1,41 +1,23 @@
-fclass Solution:
+from typing import List
+
+
+class Solution:
     @staticmethod
-    def reverseKGroup(head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        new = ListNode()
-        new.next = head
+    def strStr(haystack: str, needle: str) -> int:
+        m = len(haystack)
+        n = len(needle)
 
-        curr = head
-        prev = new
-        last_end = new
-        is_valid = True
+        for i in range(m - n + 1):
+            if haystack[i:i + n] == needle:
+                return i
 
-        while curr:
+        return -1
 
-            counter = 1
-            checker = curr
 
-            while counter < k:
-                checker = checker.next
-                if checker is None:
-                    is_valid = False
-                    break
-                counter += 1
-
-            if not is_valid:
-                break
-
-            counter = 0
-
-            while counter < k:
-                temp = curr.next
-                curr.next = prev
-                prev = curr
-                curr = temp
-                counter += 1
-
-            swap_end = last_end.next
-            last_end.next = prev
-            swap_end.next = curr
-            last_end = swap_end
-
-        return new.next
+# Checking in terminal/console:
+if __name__ == '__main__':
+    Sol = Solution()
+    Solve = Sol.strStr(haystack = "sadbutsad", needle = "sad")
+    # haystack = "sadbutsad", needle = "sad" -> 0
+    # haystack = "leetcode", needle = "leeto" -> -1
+    print(Solve)

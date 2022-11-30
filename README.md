@@ -217,7 +217,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |60 | [Add Binary](https://leetcode.com/problems/add-binary) | [Add Binary](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Binary/add.py) |
 |61 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Partition Equal Subset Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Partition%20Equal%20Subset%20Sum/partition.py) |
 |62 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | [Search in Rotated Sorted Array II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Search%20in%20Rotated%20Sorted%20Array%20II/search.py) |
-|63 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|63 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
 |64 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 |65 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |66 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
@@ -759,9 +759,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |26 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [Binary Tree Maximum Path Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Maximum%20Path%20Sum/binary.py) |
 |27 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
 |28 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Rotate Array](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Array/rotate.py) |
-|29 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|30 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|31 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |
+|29 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
+|30 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|31 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
 |32 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
 |33 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
 |34 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
