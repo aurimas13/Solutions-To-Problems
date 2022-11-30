@@ -218,7 +218,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |61 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Partition Equal Subset Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Partition%20Equal%20Subset%20Sum/partition.py) |
 |62 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | [Search in Rotated Sorted Array II](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Search%20in%20Rotated%20Sorted%20Array%20II/search.py) |
 |63 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
-|64 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+|64 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Find the Index of the First Occurrence in a String](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String%20/find.py) |
 |65 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |66 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) |
 |67 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
