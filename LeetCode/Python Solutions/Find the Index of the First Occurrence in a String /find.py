@@ -17,5 +17,7 @@ class Solution:
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.findDuplicate([1, 3, 4, 2, 2])  # [1,3,4,2,2] -> 2 | nums = [3,1,3,4,2] -> 3
+    Solve = Sol.strStr([1, 3, 4, 2, 2])
+    # haystack = "sadbutsad", needle = "sad" -> 0
+    # haystack = "leetcode", needle = "leeto" -> -1
     print(Solve)
