@@ -590,16 +590,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 57 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
 | 58 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Fraction to Recurring Decimal](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Fraction%20to%20Recurring%20Decimal/fraction.py) |
 | 59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
-| 60 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 61 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 62 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-| 63 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
-| 64 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
-| 65 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
-| 66 | [Power of Two](https://leetcode.com/problems/power-of-two) |
-| 67 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
-| 68 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-| 69 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |
+| 60 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [Perfect Squares](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Perfect%20Squares/perfect.py) |
+| 61 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 62 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 63 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+| 64 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
+| 65 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
+| 66 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
+| 67 | [Power of Two](https://leetcode.com/problems/power-of-two) |
+| 68 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+| 69 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
 | 70 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
 | 71 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 | 72 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) |
