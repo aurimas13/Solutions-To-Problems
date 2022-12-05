@@ -792,17 +792,17 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | -- | --------- | ------------------ |
 |1 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 |2 | [Valid Number](https://leetcode.com/problems/valid-number) | [Valid Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Number/valid.py) |
-|3 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
-|4 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) |
-|5 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) |
-|6 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) |
-|7 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) |
-|8 | [Max Stack](https://leetcode.com/problems/max-stack) |
-|9 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree) |
-|10 | [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |
-|11 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) |
-|12 | [Factor Combinations](https://leetcode.com/problems/factor-combinations) |
-|13 | [Paint House](https://leetcode.com/problems/paint-house) |
+|3 | [Paint House](https://leetcode.com/problems/paint-house) | [Paint House](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Paint%20House/paint.py) |]
+|4 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
+|5 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) |
+|6 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) |
+|7 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) |
+|8 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) |
+|9 | [Max Stack](https://leetcode.com/problems/max-stack) |
+|10 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree) |
+|11 | [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |
+|12 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) |
+|13 | [Factor Combinations](https://leetcode.com/problems/factor-combinations) |
 |14 | [Paint House II](https://leetcode.com/problems/paint-house-ii) |
 |15 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) |
 |16 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) |
