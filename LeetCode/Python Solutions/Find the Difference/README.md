@@ -1,1 +1,1 @@
-Problem description of "Find the Difference" can be found [here](https://leetcode.com/problems/find-the-difference/description/) and its solution [here]().
+Problem description of "Find the Difference" can be found [here](https://leetcode.com/problems/find-the-difference/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20the%20Difference/find.py).
