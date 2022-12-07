@@ -1,0 +1,1 @@
+Problem description of "Daily Temperatures" can be found [here](https://leetcode.com/problems/daily-temperatures/description/) and its solution [here]().
