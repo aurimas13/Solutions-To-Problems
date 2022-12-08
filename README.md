@@ -761,18 +761,18 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |28 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Rotate Array](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Rotate%20Array/rotate.py) |
 |29 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
 |30 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
-|31 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-|32 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|33 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|34 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|35 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|36 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
-|37 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-|38 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |
-|39 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |
-|40 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
-|41 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
-|42 | [Add Digits](https://leetcode.com/problems/add-digits) |
+|31 | [Add Digits](https://leetcode.com/problems/add-digits) | [Add Digits](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Digits/add.py) |
+|32 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+|33 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
+|34 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|35 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|36 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|37 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
+|38 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+|39 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |
+|40 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |
+|41 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
+|42 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
 |43 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 |44 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) |
 |45 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) |
