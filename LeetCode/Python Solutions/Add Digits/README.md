@@ -1,1 +1,1 @@
-Problem description of "Add Digits" can be found [here](https://leetcode.com/problems/add-digits/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py).
+Problem description of "Add Digits" can be found [here](https://leetcode.com/problems/add-digits/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Add%20Digits/add.py).
