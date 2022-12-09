@@ -593,10 +593,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 60 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [Perfect Squares](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Perfect%20Squares/perfect.py) |
 | 61 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [Find the Difference](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20the%20Difference/find.py) |
 | 62 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Daily Temperatures](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Daily%20Temperatures/daily.py) |
-| 63 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 64 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 65 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-| 66 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) |
+| 63 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Isomorphic Strings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Isomorphic%20Strings/isomorphic.py) |
+| 64 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 65 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 66 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
 | 67 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
 | 68 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
 | 69 | [Power of Two](https://leetcode.com/problems/power-of-two) |
