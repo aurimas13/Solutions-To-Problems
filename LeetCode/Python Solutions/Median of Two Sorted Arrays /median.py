@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     @staticmethod
     def findMedianSortedArrays(nums1: List[int], nums2: List[int]) -> float:
