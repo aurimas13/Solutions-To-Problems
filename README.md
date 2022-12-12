@@ -301,13 +301,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |58 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Third Maximum Number](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Third%20Maximum%20Number/third.py) |
 |59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
 |60 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
-|61 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|62 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|63 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|64 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|65 | [Sort List](https://leetcode.com/problems/sort-list) |
-|66 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|67 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
+|62 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|63 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|64 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|65 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|66 | [Sort List](https://leetcode.com/problems/sort-list) |
+|67 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
 |68 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
 |69 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
 |70 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
