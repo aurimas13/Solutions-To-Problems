@@ -302,15 +302,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
 |60 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
 |61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
-|62 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|63 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|64 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|65 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|66 | [Sort List](https://leetcode.com/problems/sort-list) |
-|67 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|68 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
-|69 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
-|70 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+|62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+|63 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|64 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|65 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|66 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|67 | [Sort List](https://leetcode.com/problems/sort-list) |
+|68 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+|69 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
+|70 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
 |71 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
 |72 | [Design Twitter](https://leetcode.com/problems/design-twitter) |
 |73 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
@@ -596,12 +596,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 63 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Isomorphic Strings](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Isomorphic%20Strings/isomorphic.py) |
 | 64 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Max Concsecutive Ones](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Max%20Consecutive%20Ones/max.py) |
 | 65 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
-| 66 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 67 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-| 68 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
-| 69 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
-| 70 | [Power of Two](https://leetcode.com/problems/power-of-two) |
-| 71 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |
+| 66 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+| 67 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 68 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+| 69 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
+| 70 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |
+| 71 | [Power of Two](https://leetcode.com/problems/power-of-two) |
 | 72 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
 | 73 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) |
 | 74 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
