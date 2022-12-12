@@ -221,15 +221,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |64 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Find the Index of the First Occurrence in a String](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String%20/find.py) |
 |65 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
 |66 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [Verifying an Alien Dictionary](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Verifying%20an%20Alien%20Dictionary/verify.py) |
-|67 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|68 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|69 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|70 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-|71 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|72 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
-|73 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
-|74 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
-|75 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) |
+|67 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) | [Shortest Bridge](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Shortest%20Bridge/shortest.py) |
+|68 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|69 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+|70 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|71 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+|72 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|73 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
+|74 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
+|75 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
 |76 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) |
 |77 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) |
 |78 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
