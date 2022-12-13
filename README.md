@@ -222,17 +222,17 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |65 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
 |66 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [Verifying an Alien Dictionary](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Verifying%20an%20Alien%20Dictionary/verify.py) |
 |67 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) | [Shortest Bridge](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Shortest%20Bridge/shortest.py) |
-|68 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | [Continuous Subarray Sum]](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Continuous%20Subarray%20Sum/continous_sum.py) |
-|69 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|70 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|71 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|72 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-|73 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|74 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
-|75 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
-|76 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
-|77 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) |
-|78 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) |
+|68 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | [Continuous Subarray Sum](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Continuous%20Subarray%20Sum/continous_sum.py) |
+|69 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [Minimum Remove to Make Valid Parentheses](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Remove%20to%20Make%20Valid%20Parentheses/minimum.py) |
+|70 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|71 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+|72 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|73 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+|74 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|75 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
+|76 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
+|77 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
+|78 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) |
 |79 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
 |80 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) |
 ---
