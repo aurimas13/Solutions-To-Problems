@@ -1,6 +1,3 @@
-from typing import List
-
-
 class Solution:
     # Function to find the first non-repeating character in
     # the string by doing only a single traversal of it
