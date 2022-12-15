@@ -13,7 +13,7 @@ class Solution:
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.pivotIndex([11, 13, 15, 17])
+    Solve = Sol.pivotIndex(nums = [1,7,3,6,5,6])
     # nums = [1,7,3,6,5,6] -> 3
     # nums = [1,2,3] -> -1
     print(Solve)
