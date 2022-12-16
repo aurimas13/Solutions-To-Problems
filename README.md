@@ -1,7 +1,7 @@
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/SolutionsToProblems/blob/main/Public/solution.jpeg"/>
 </p>
-<p align="center" > Most common <b>solutions</b> to <b>problems</b> from interviews of <b> MAANG </b> and other high-tier companies. </p>
+<p align="center" > Most common <b>solutions</b> to <b>problems</b> from interviews of high-tier companies. </p>
 <p align="center" > <b> Solutions </b> to <b> LeetCode </b> & HackerRank problems. </p>
 <br>
 <p align=center>
