@@ -28,7 +28,7 @@
 
 The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) or [HackerRank](https://www.hackerrank.com/domains/python) is solved. 
 The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder. 
-If the solved **Leetcode** problem is one of the problems asked by MAANG companies then that solution of specific company is added as my GitHub solution found through [contents](#table-of-contents).
+If the solved **Leetcode** problem is one of the problems asked by MAANG companies then that solution of specific company is added as my GitHub solution found through [contents](#table-of-contents). Otherwise it is added here
 
 The progress of my **LeetCode** account regarding these solutions with additional information on them can be found by looking at my [LeetCode profile](https://leetcode.com/aurimas13/).
 
@@ -816,6 +816,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |24 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |
 |25 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
 
+---
+### Other Problems
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 
 [comment]: <> (- [Public]&#40;#Public&#41;)
 
