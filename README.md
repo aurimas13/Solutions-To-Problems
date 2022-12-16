@@ -28,7 +28,8 @@
 
 The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) or [HackerRank](https://www.hackerrank.com/domains/python) is solved. 
 The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder. 
-If the solved **Leetcode** problem is one of the problems asked by MAANG companies then that solution of specific company is added as my GitHub solution found through [contents](#table-of-contents). Otherwise it is added here
+If the solved **Leetcode** problem is one of the problems asked by MAANG companies then that solution of specific company is added to the company's section as my GitHub solution found through [contents](#table-of-contents). 
+Otherwise it is added [here](#others) as the solved problem is not glued to any of the MAANG companies; it is just a random problem that was solved.
 
 The progress of my **LeetCode** account regarding these solutions with additional information on them can be found by looking at my [LeetCode profile](https://leetcode.com/aurimas13/).
 
@@ -54,6 +55,7 @@ The problems for a particular company is seen through [contents list](#table-of-
 - [Google](#google) 
 - [Microsoft](#microsoft) 
 - [LinkedIn](#linkedin) 
+- [Others](#others)
 
 ## Preparation for Interviews
 [(Back to top)](#table-of-contents)
@@ -817,11 +819,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |25 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
 
 ---
-### Other Problems
+### Others
 [(Back to top)](#table-of-contents)
 
 | No. | Questions | Solution in PyCharm |
 | -- | --------- | ------------------ |
+| 1 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Mirror Reflection](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py) |
 
 [comment]: <> (- [Public]&#40;#Public&#41;)
 
