@@ -827,6 +827,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |23 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
 |24 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |
 |25 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
+|26 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 
 ### Adobe
 | 1 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Mirror Reflection](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py) |
@@ -838,6 +839,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 7 | [Missing Number](https://leetcode.com/problems/missing-number) | [Missing Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Missing%20Number/missing_number.py) |
 | 8 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Counting bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Counting%20Bits/bits.py)                                       |
 | 9 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
+| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 
 ---
 ### Airbnb
@@ -853,6 +855,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 7 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | [Meeting Rooms](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Meeting%20Rooms/meeting_rooms.py).                             
 | 8 | [Missing Number](https://leetcode.com/problems/missing-number) | [Missing Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Missing%20Number/missing_number.py) |
 | 9 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
+| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 
 ### DE Shaw
 | 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
@@ -877,6 +880,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 ---
 ### Spotify
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
+| 2 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 
 ### TikTok
 | 1 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
