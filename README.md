@@ -820,13 +820,20 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |25 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
 
 ---
+### Airbnb
+| 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
+
+---
+### Reddit
+| 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
+
+---
 ### Others
 [(Back to top)](#table-of-contents)
 
 | No. | Questions | Solution in PyCharm |
 | -- | --------- | ------------------ |
 | 1 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Mirror Reflection](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py) |
-| 2 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
 
 
 
