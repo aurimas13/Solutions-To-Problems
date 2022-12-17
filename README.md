@@ -59,6 +59,8 @@ The problems for a particular company is seen through [contents list](#table-of-
 - [Airbnb](#airbnb) 
 - [Bloomberg](#bloomberg) 
 - [Reddit](#reddit) 
+- [Uber](#uber)
+- [Spotify](#spotify)
 - [Others](#others)
 
 ## Preparation for Interviews
@@ -825,6 +827,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ### Adobe
 | 1 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Mirror Reflection](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py) |
+| 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
 
 ---
 ### Airbnb
@@ -832,10 +835,20 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ### Bloomberg
 | 1 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Mirror Reflection](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py) |
+| 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
 
 ---
 ### Reddit
 | 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
+
+---
+### Uber
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
+| 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
+
+---
+### Spotify
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
 
 ---
 ### Others
