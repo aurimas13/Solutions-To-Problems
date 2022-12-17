@@ -863,6 +863,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 13 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
 | 14 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) |
 | 15 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
+| 16 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 
 ---
 ### Airbnb
@@ -884,6 +885,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 13 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 | 14 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) |
 | 15 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
+| 16 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 
 ### DE Shaw
 | 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
@@ -894,6 +896,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 3 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Counting bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Counting%20Bits/bits.py)                                       |
 | 4 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 | 5 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
+| 6 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 
 ---
 ### Reddit
@@ -908,6 +911,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 5 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 | 6 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
 | 7 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
+| 8 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 
 ---
 ### Spotify
