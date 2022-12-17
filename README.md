@@ -26,13 +26,13 @@
 
 ------
 
-The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) (primarily) or [HackerRank](https://www.hackerrank.com/domains/python) is solved. <br>
+The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) (primarily) or [HackerRank](https://www.hackerrank.com/domains/python) is solved.
 The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder. <br>
 If the solved **Leetcode** problem is one of the problems asked by high-tier companies like [Adobe](#adobe), 
 [Airbnb](#airbnb), [Amazon](#amazon), [Apple](#apple), [Bloomberg](#bloomberg), [DE Shaw](#de-shaw), [Goldman Sachs](#goldman-sachs),
 [Google](#google) with [Google Top](#google-top), [LinkedIn](#linkedin), [Meta](#meta), [Microsoft](#microsoft),
 [Netflix](#netflix), [Reddit](#reddit), [Spotify](#spotify), [TikTok](#tiktok) or [Uber](#uber)
-then that solution of specific company is added to the company's section as my GitHub solution found through [contents](#table-of-contents). <br>
+then that solution of specific company is added to the company's section as my GitHub solution found through [contents](#table-of-contents).
 Otherwise it is added [here](#others) as the solved problem is not glued to any of the high-tier companies' section; it is just a random problem that was solved. <br>
 
 The progress of my **LeetCode** account regarding these solutions with additional information on them can be found by looking at my [LeetCode profile](https://leetcode.com/aurimas13/).
@@ -42,7 +42,7 @@ Each problem folder has the description of the problem found through pressing th
 By pressing on that company you will be redirected to the problem description (1<sup>st</sup> column) followed by the solution implemented in PyCharm (2<sup>nd</sup> column).
 
 Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems were finished on May and from *28<sup>th</sup> of May 2022* am working on solving at least one **Python** problem from [LeetCode](https://leetcode.com/problemset/all/) daily. 
-The solution is put at the respective **LeetCode** folder and added to the list of a MAANG company where it is a common interview question to be asked to solve.
+The solution is put at the respective **LeetCode** folder and added to the list of a high-tier company where it is a common interview question to be asked to solve.
 The problems for a particular company is seen through [contents list](#table-of-contents). 
 
 **SQL** solutions of problems at *HackerRank* & *LeetCode* will come in Fall while they will be updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
