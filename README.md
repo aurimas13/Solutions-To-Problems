@@ -166,6 +166,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ---
 ### Adobe
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 | 1 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Mirror Reflection](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py) |
 | 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
 | 3 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
@@ -195,6 +199,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ---
 ### Airbnb
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 | 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
 | 2 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 
@@ -449,6 +457,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ---
 ### Bloomberg
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 | 1 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Mirror Reflection](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py) |
 | 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
 | 3 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
@@ -478,12 +490,20 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ---
 ### DE Shaw
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 | 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
 | 2 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
 | 3 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
 
 ---
 ### Goldman Sachs
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
 | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
 | 3 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Counting bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Counting%20Bits/bits.py)                                       |
@@ -952,10 +972,18 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ---
 ### Reddit
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 | 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py) |
 
 ---
 ### Spotify
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
 | 2 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 | 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
@@ -964,6 +992,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 6 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 
 ### TikTok
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 | 1 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 | 2 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
@@ -975,6 +1007,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ---
 ### Uber
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
 | 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
 | 3 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
