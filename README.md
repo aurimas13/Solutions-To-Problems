@@ -247,6 +247,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |79 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
 |80 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) |
 |81 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
+|82 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
+
 ---
 ### Amazon
 [(Back to top)](#table-of-contents)
@@ -811,6 +813,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |54 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 |55 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
 |56 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
+|57 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
 
 ---
 ### LinkedIn
@@ -868,6 +871,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 16 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 | 17 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
 | 18 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
+| 19 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
 
 ---
 ### Airbnb
@@ -892,6 +896,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 16 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 | 17 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
 | 18 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
+| 19 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
 
 ### DE Shaw
 | 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
@@ -922,6 +927,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 8 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 | 9 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
 | 10 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
+| 11 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
 
 ---
 ### Spotify
