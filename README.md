@@ -747,6 +747,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 196 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 | 197 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
 | 198 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
+| 199 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
 
 ---
 ### Microsoft
@@ -866,6 +867,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 15 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
 | 16 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 | 17 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
+| 18 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
 
 ---
 ### Airbnb
@@ -889,6 +891,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 15 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
 | 16 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 | 17 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
+| 18 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
 
 ### DE Shaw
 | 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
@@ -901,6 +904,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 5 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 | 6 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 | 7 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
+| 8 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
 
 ---
 ### Reddit
@@ -917,6 +921,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 7 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
 | 8 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
 | 9 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
+| 10 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
 
 ---
 ### Spotify
