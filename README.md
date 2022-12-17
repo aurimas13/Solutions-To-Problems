@@ -833,6 +833,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 3 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
 | 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
 | 5 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Number of 1 bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%201%20bits/bits.py) |
+| 6 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py)                        |
 
 ---
 ### Airbnb
@@ -844,6 +845,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 3 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
 | 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
 | 5 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Number of 1 bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%201%20bits/bits.py) |
+| 6 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py)                        |
 
 ### DE Shaw
 | 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
@@ -862,6 +864,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
 | 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Two%20Sorted%20Lists/merge_sorted.py)                                                                                                                                           |
 | 3 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Merge k Sorted Lists](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20k%20Sorted%20Lists/sorted.py) |
+| 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py)                        |
 
 ---
 ### Spotify
