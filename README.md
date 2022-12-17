@@ -26,9 +26,13 @@
 
 ------
 
-The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/)(primarily) or [HackerRank](https://www.hackerrank.com/domains/python) is solved. <br>
-The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder. 
-If the solved **Leetcode** problem is one of the problems asked by MAANG companies then that solution of specific company is added to the company's section as my GitHub solution found through [contents](#table-of-contents). 
+The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) (primarily) or [HackerRank](https://www.hackerrank.com/domains/python) is solved. <br>
+The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder. <br>
+If the solved **Leetcode** problem is one of the problems asked by high-tier companies like [Adobe](#adobe), 
+[Airbnb](#airbnb), [Amazon](#amazon), [Apple](#apple), [Bloomberg](#bloomberg), [DE Shaw](#de-shaw), [Goldman Sachs](#goldman-sachs),
+[Google](#google) with [Google Top](#google-top), [LinkedIn](#linkedin), [Meta](#meta), [Microsoft](#microsoft),
+[Netflix](#netflix), [Reddit](#reddit), [Spotify](#spotify), [TikTok](#tiktok) or [Uber](#uber)
+then that solution of specific company is added to the company's section as my GitHub solution found through [contents](#table-of-contents). <br>
 Otherwise it is added [here](#others) as the solved problem is not glued to any of the MAANG companies; it is just a random problem that was solved.
 
 The progress of my **LeetCode** account regarding these solutions with additional information on them can be found by looking at my [LeetCode profile](https://leetcode.com/aurimas13/).
