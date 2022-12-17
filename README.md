@@ -309,66 +309,67 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |64 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [First Unique Character in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/First%20Unique%20Character%20in%20a%20String/first.py) |
 |65 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Find Pivot Index](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20Pivot%20Index/find.py) |
 |66 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation) | [Solve the Equation](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
-|67 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|68 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|69 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|70 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|71 | [Sort List](https://leetcode.com/problems/sort-list) |
-|72 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|73 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
-|74 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
-|75 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|76 | [Design Twitter](https://leetcode.com/problems/design-twitter) |
-|77 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|78 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) |
-|79 | [Rotate Function](https://leetcode.com/problems/rotate-function) |
-|80 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) |
-|81 | [String Compression](https://leetcode.com/problems/string-compression) |
-|82 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |
-|83 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) |
-|84 | [LFU Cache](https://leetcode.com/problems/lfu-cache) |
-|85 | [Concatenated Words](https://leetcode.com/problems/concatenated-words) |
-|86 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) |
-|87 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) |
-|88 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines) |
-|89 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) |
-|90 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |
-|91 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) |
-|92 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) |
-|93 | [01 Matrix](https://leetcode.com/problems/01-matrix) |
-|94 | [Optimal Division](https://leetcode.com/problems/optimal-division) |
-|95 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) |
-|96 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) |
-|97 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |
-|98 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) |
-|99 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) |
-|100 | [Image Smoother](https://leetcode.com/problems/image-smoother) |
-|101 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) |
-|102 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event) |
-|103 | [Baseball Game](https://leetcode.com/problems/baseball-game) |
-|104 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) |
-|105 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) |
-|106 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits) |
-|107 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) |
-|108 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) |
-|109 | [Partition Labels](https://leetcode.com/problems/partition-labels) |
-|110 | [Reorganize String](https://leetcode.com/problems/reorganize-string) |
-|111 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) |
-|112 | [Most Common Word](https://leetcode.com/problems/most-common-word) |
-|113 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) |
-|114 | [Knight Dialer](https://leetcode.com/problems/knight-dialer) |
-|115 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files) |
-|116 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days) |
-|117 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) |
-|118 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) |
-|119 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) |
-|120 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes) |
-|121 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) |
-|122 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) |
-|123 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) |
-|124 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) |
-|125 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
-|126 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
+|67 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
+|68 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|69 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|70 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|71 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|72 | [Sort List](https://leetcode.com/problems/sort-list) |
+|73 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+|74 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
+|75 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
+|76 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|77 | [Design Twitter](https://leetcode.com/problems/design-twitter) |
+|78 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|79 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) |
+|80 | [Rotate Function](https://leetcode.com/problems/rotate-function) |
+|81 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) |
+|82 | [String Compression](https://leetcode.com/problems/string-compression) |
+|83 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |
+|84 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) |
+|85 | [LFU Cache](https://leetcode.com/problems/lfu-cache) |
+|86 | [Concatenated Words](https://leetcode.com/problems/concatenated-words) |
+|87 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) |
+|88 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) |
+|89 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines) |
+|90 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) |
+|91 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |
+|92 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) |
+|93 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) |
+|94 | [01 Matrix](https://leetcode.com/problems/01-matrix) |
+|95 | [Optimal Division](https://leetcode.com/problems/optimal-division) |
+|96 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) |
+|97 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) |
+|98 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |
+|99 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) |
+|100 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) |
+|101 | [Image Smoother](https://leetcode.com/problems/image-smoother) |
+|102 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) |
+|103 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event) |
+|104 | [Baseball Game](https://leetcode.com/problems/baseball-game) |
+|105 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) |
+|106 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) |
+|107 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits) |
+|108 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) |
+|109 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) |
+|110 | [Partition Labels](https://leetcode.com/problems/partition-labels) |
+|111 | [Reorganize String](https://leetcode.com/problems/reorganize-string) |
+|112 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) |
+|113 | [Most Common Word](https://leetcode.com/problems/most-common-word) |
+|114 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) |
+|115 | [Knight Dialer](https://leetcode.com/problems/knight-dialer) |
+|116 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files) |
+|117 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days) |
+|118 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) |
+|119 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) |
+|120 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) |
+|121 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes) |
+|122 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) |
+|123 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) |
+|124 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) |
+|125 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) |
+|126 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
+|127 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
 ---
 ### Apple
 [(Back to top)](#table-of-contents)
