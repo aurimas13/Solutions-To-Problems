@@ -46,7 +46,7 @@ The problems for a particular company is seen through [contents list](#table-of-
 # Table of Contents
 - [Table of contents](#table-of-contents)
 - [Preparation for Interiews](#preparation-for-interviews)
-- [MAANG Must Do Problems](#maang-must-do-problems) 
+- [Must Do Problems](#must-do-problems) 
 - [Meta](#meta) 
 - [Amazon](#amazon)
 - [Apple](#apple)
@@ -77,7 +77,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ------
 
-### MAANG Must Do Problems
+### Must Do Problems
 [(Back to top)](#table-of-contents)
 
 | No. | Questions | Solution in PyCharm | 
@@ -881,6 +881,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 19 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
 | 20 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 | 21 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
+| 22 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 
 ---
 ### Airbnb
@@ -909,6 +910,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 20 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 | 21 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
 | 22 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
+| 23 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 
 ### DE Shaw
 | 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
@@ -942,6 +944,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 11 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
 | 12 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 | 13 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
+| 14 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 
 ---
 ### Spotify
@@ -958,6 +961,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 4 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 | 5 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
 | 6 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
+| 7 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 
 ---
 ### Others
