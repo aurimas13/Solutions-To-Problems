@@ -218,7 +218,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |50 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [First Bad Version](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/First%20Bad%20Version/first.py) |
 |51 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [Is Graph Bipartite?](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Is%20Graph%20Bipartite%3F/graph.py) |
 |52 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [Max Consecutive Ones III](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Max%20Consecutive%20Ones%20III/max.py) |
-|53| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [K Closest Points to Origin](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/K%20Closest%20Points%20to%20Origin/closest.py) |
+|53 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [K Closest Points to Origin](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/K%20Closest%20Points%20to%20Origin/closest.py) |
 |54 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | [Expression Add Operators](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Expression%20Add%20Operators/express.py) |
 |55 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Sudoku Solver](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sudoku%20Solver/solver.py) |
 |56 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [Combination Sum IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20IV/combination.py) |
@@ -474,19 +474,20 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 85 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
 | 86 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
 | 87 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
-| 88 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-| 89 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-| 90 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-| 91 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-| 92 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
-| 93 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
-| 94 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
-| 95 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
-| 96 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
-| 97 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
-| 98 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
-| 99 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
-| 100 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
+| 88 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
+| 89 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
+| 90 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+| 91 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+| 92 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+| 93 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+| 94 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
+| 95 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) |
+| 96 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |
+| 97 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | |
+| 98 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
+| 99 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |
+| 100 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 
 ---
 ### Netflix
@@ -742,6 +743,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 193 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares) |
 | 194 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) |
 | 195 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
+| 196 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 ---
 ### Microsoft
 [(Back to top)](#table-of-contents)
@@ -801,6 +803,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |51 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) |
 |52 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) |
 |53 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) |
+|54 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
+
 ---
 ### LinkedIn
 [(Back to top)](#table-of-contents)
@@ -869,6 +873,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 | 11 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 | 12 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+| 13 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 
 ### DE Shaw
 | 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
@@ -878,6 +883,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
 | 3 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Counting bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Counting%20Bits/bits.py)                                       |
 | 4 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
+| 5 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 
 ---
 ### Reddit
@@ -897,6 +903,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py)                                                |
 | 2 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 | 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
+| 4 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 
 ### TikTok
 | 1 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
