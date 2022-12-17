@@ -33,12 +33,12 @@ If the solved **Leetcode** problem is one of the problems asked by high-tier com
 [Google](#google) with [Google Top](#google-top), [LinkedIn](#linkedin), [Meta](#meta), [Microsoft](#microsoft),
 [Netflix](#netflix), [Reddit](#reddit), [Spotify](#spotify), [TikTok](#tiktok) or [Uber](#uber)
 then that solution of specific company is added to the company's section as my GitHub solution found through [contents](#table-of-contents). <br>
-Otherwise it is added [here](#others) as the solved problem is not glued to any of the MAANG companies; it is just a random problem that was solved.
+Otherwise it is added [here](#others) as the solved problem is not glued to any of the high-tier companies' section; it is just a random problem that was solved. <br>
 
 The progress of my **LeetCode** account regarding these solutions with additional information on them can be found by looking at my [LeetCode profile](https://leetcode.com/aurimas13/).
 
 The **Leetcode** solutions of **Python** are found  [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/Python%20Solutions) while **HackerRank** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/Python%20Solutions). 
-Each problem folder has the description of the problem found through pressing the link in **README** at the respective folder or if it is provided for the particular MAANG company found through [contents](#table-of-contents). 
+Each problem folder has the description of the problem found through pressing the link in **README** at the respective folder or if it is provided for the particular high-tier company found through [contents](#table-of-contents). 
 By pressing on that company you will be redirected to the problem description (1<sup>st</sup> column) followed by the solution implemented in PyCharm (2<sup>nd</sup> column).
 
 Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems were finished on May and from *28<sup>th</sup> of May 2022* am working on solving at least one **Python** problem from [LeetCode](https://leetcode.com/problemset/all/) daily. 
