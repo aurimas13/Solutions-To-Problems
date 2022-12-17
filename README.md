@@ -55,6 +55,10 @@ The problems for a particular company is seen through [contents list](#table-of-
 - [Google](#google) 
 - [Microsoft](#microsoft) 
 - [LinkedIn](#linkedin) 
+- [Adobe](#adobe) 
+- [Airbnb](#airbnb) 
+- [Bloomberg](#bloomberg) 
+- [Reddit](#reddit) 
 - [Others](#others)
 
 ## Preparation for Interviews
@@ -819,9 +823,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |24 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |
 |25 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |
 
+### Adobe
+| 1 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Mirror Reflection](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py) |
+
 ---
 ### Airbnb
 | 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
+
+### Bloomberg
+| 1 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Mirror Reflection](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py) |
 
 ---
 ### Reddit
