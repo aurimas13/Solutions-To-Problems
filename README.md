@@ -256,6 +256,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 49 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
 | 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+| 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 
 ---
 ### Airbnb
@@ -266,6 +268,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 | 16 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Combination Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum/combine.py) |
 | 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
+| 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py)                        |
 | 2 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 | 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
 |75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
@@ -279,6 +282,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 |70 | [Search in Rotated Sorted Array](ttps://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+| 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
+| 58 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Fraction to Recurring Decimal](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Fraction%20to%20Recurring%20Decimal/fraction.py) |
+|5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 
 ---
 ### Amazon
@@ -395,6 +402,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 49 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
 | 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+| 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
+|5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
 
@@ -642,6 +651,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 11 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) |
 | 49 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+| 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
+|5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -754,6 +765,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 49 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
 | 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+| 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
+|5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 
 ---
 ### DE Shaw
@@ -1053,6 +1067,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |3 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [String to Integer (atoi)](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/String%20to%20Integer%20(atoi)/atoi.py) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
 | 11 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) |
+| 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
+|5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1508,6 +1525,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
 | 7 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Daily Temperatures](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Daily%20Temperatures/daily.py) |
 |38 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [Basic Calculator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator/calculate.py) |
+| 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
+|5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1618,6 +1638,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 49 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
 | 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+| 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
+|5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
 
@@ -1784,6 +1807,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 22 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
 |28 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
 | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 
 ---
 ### Twitter
@@ -1813,6 +1837,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 11 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) |
 | 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+|50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 
 ---
 ### Uber
@@ -1894,6 +1919,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 11 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) |
 | 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
+|5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
 
 ---
 ### Others
