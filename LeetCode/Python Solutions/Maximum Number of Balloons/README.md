@@ -1,1 +1,1 @@
-Problem description of "Maximum Number of Balloons" can be found [here](https://leetcode.com/problems/maximum-number-of-balloons/) aand its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Balloons/maximum.py).
+Problem description of "Maximum Number of Balloons" can be found [here](https://leetcode.com/problems/maximum-number-of-balloons/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Balloons/maximum.py).
