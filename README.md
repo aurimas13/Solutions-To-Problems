@@ -258,6 +258,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
 | 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
 |50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
+| 5 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 
 ---
 ### Airbnb
@@ -268,7 +269,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
 | 16 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Combination Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum/combine.py) |
 | 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
-| 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py)                        |
+| 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py) |
+| 5 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 | 2 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 | 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
 |75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
@@ -404,6 +406,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
 | 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
 |5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
+| 5 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
 
@@ -768,6 +771,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
 |5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
 |50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
+| 5 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 
 ---
 ### DE Shaw
@@ -1070,6 +1074,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
 |5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
 |50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
+| 5 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1528,6 +1533,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
 |5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
 |50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
+| 5 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1641,6 +1647,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 90 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
 |5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
 |50 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
+| 5 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
 
@@ -1920,6 +1927,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
 | 42 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
 |5 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
+| 5 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 
 ---
 ### Others
