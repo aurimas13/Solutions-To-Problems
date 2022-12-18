@@ -204,6 +204,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 | 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
 |36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+|31 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
 |75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
 |72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
 | 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
@@ -223,6 +224,14 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |45 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
 | 27 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
+|46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
+|47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+| 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 
 ---
 ### Airbnb
@@ -333,6 +342,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 26 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 | 27 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+| 6 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
+| 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 |76 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
 |77 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
 |78 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
@@ -506,6 +521,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 13 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Pascal's%20Triangle/pascals.py) |
 |19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|54 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths%20II/unique.py) |
+|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
 | 92 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 93 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
 | 94 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
@@ -546,20 +565,20 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 19 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py)
 | 20 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 | 21 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
-| 22 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
-| 23 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
-| 24 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
-| 25 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
-| 26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
-| 27 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
-| 28 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)) | [Remove All Adjacent Duplicates in String II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/remove.py)
-| 29 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
+| 22 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+| 23 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
+| 24 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
+| 25 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
+| 26 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
+| 27 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
+| 28 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
+| 29 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)) | [Remove All Adjacent Duplicates in String II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/remove.py)
+| 30 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
 |51 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
 |62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
 |71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 |12 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
 |36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
-|75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
 |72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
 | 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
 |59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
@@ -576,6 +595,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
 | 27 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
+|46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|54 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths%20II/unique.py) |
+|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
+|47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+| 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 
 ---
 ### DE Shaw
@@ -593,14 +622,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 8 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [Longest Increasing Path in a Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Path%20in%20a%20Matrix/longest.py) |
 | 9 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
 | 10 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
-| 11 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
-| 12 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anagrams](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
-| 13 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py) |
-| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trapping Rain Water](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
-| 15 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [First Missing Positive](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/First%20Missing%20Positive/first.py) |
-| 16 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Next Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Next%20Permutaion/permutation.py) |
-| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
-| 18 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
+| 11 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anagrams](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
+| 12 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py) |
+| 13 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trapping Rain Water](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
+| 14 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [First Missing Positive](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/First%20Missing%20Positive/first.py) |
+| 15 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Next Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Next%20Permutaion/permutation.py) |
+| 16 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
+| 17 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
 
 ---
 ### Goldman Sachs
@@ -652,6 +680,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
 |12 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
 |36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+| 21 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
 |75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
 |72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
 | 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
@@ -673,6 +702,18 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |45 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
 | 27 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
+| 6 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+|46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|54 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths%20II/unique.py) |
+|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+|11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
+|47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+| 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 
 ---
 ### Google Top
@@ -812,6 +853,15 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 26 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 |19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
+| 6 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+|46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|54 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths%20II/unique.py) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
+| 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 | 77 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 78 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
 | 79 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
@@ -965,6 +1015,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |45 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
 |42 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Word Ladder](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py)
 | 27 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+| 6 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+|11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 |13 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) |
 |14 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
 |15 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) |
@@ -1069,6 +1123,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |1 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | [Shortest Word Distance](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Shortest%20Word%20Distance/shortest.py) |
 |1 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
 |62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+| 21 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
 |7 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
 |61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
 |52 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
@@ -1080,6 +1135,14 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
 | 27 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
+| 6 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|54 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths%20II/unique.py) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
+|47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+| 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 |74 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |75 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
 |76 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
@@ -1155,7 +1218,16 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 9 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Pascal's Triangle II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Pascal's%20Triangle%20II/pascals.py) |
 |45 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
 | 27 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|43 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Set Matrix Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py) |
+| 6 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+|46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|54 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths%20II/unique.py) |
+|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+| 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 |42 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
 |43 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
 |44 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
@@ -1187,6 +1259,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 2 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
 | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+|11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 
 ---
 ### Reddit
@@ -1196,6 +1269,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | -- | --------- | ------------------ |
 | 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py) |
 | 14 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
 
 ---
 ### Spotify
@@ -1223,7 +1299,6 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 18 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
 | 19 | [Plus One](https://leetcode.com/problems/plus-one) | [Plus One](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Plus%20One/plus_one.py) |
 | 20 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
-|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 
 ---
 ### TikTok
@@ -1250,6 +1325,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |45 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
 | 27 | [House Robber](https://leetcode.com/problems/house-robber) | [House Robber](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/House%20Robber/house.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+| 21 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
+|47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+|19 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
+| 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 
 ---
 ### Twitter
@@ -1266,6 +1348,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |45 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Longest Consecutive Sequence](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py) |
 | 13 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Pascal's%20Triangle/pascals.py) |
 |45 | [Count Primes](https://leetcode.com/problems/count-primes) | [Count Primes](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Count%20Primes/count.py) |
+| 21 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+|11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
 
 ---
 ### Uber
@@ -1315,6 +1401,17 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 26 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Valid Palindrome](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Palindrome/palidrome.py) | 
 |19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Reverse Linked List](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Linked%20List/reverse.py) |
 |36 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [Decode Ways](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py) |
+| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+| 21 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
+|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+| 6 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb_stairs.py) |
+|46 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Minmum Path Sum](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Path%20Sum/minimum.py) |
+|50 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Unique%20Paths/unique.py) |
+|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+|11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
+|23 | [Jump Game](https://leetcode.com/problems/jump-game) | [Jump Game](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game/jump.py) |
+|47 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Spiral Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) |
+| 69 | [N-Queens](https://leetcode.com/problems/n-queens/) | [N-Queens](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/N-Queens/n-queens.py) |
 
 ---
 ### Others

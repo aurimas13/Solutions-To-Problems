@@ -1,1 +1,1 @@
-Problem description of "Pow(x, n)" can be found [here](https://leetcode.com/problems/powx-n/).
+Problem description of "Pow(x, n)" can be found [here](https://leetcode.com/problems/powx-n/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Pow(x%2C%20n)/power.py).
