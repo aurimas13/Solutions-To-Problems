@@ -31,7 +31,7 @@ The solutions to **LeetCode** problems are posted at the discussion sections in 
 If the solved **Leetcode** problem is one of the problems asked by high-tier companies like [Adobe](#adobe), 
 [Airbnb](#airbnb), [Amazon](#amazon), [Apple](#apple), [Bloomberg](#bloomberg), [DE Shaw](#de-shaw), [Goldman Sachs](#goldman-sachs),
 [Google](#google) with [Google Top](#google-top), [LinkedIn](#linkedin), [Meta](#meta), [Microsoft](#microsoft),
-[Netflix](#netflix), [Reddit](#reddit), [Spotify](#spotify), [TikTok](#tiktok), [Twitter](#twitter) or [Uber](#uber)
+[Netflix](#netflix), [Reddit](#reddit), [Spotify](#spotify), [Tesla](#tesla),  [TikTok](#tiktok), [Twitter](#twitter) or [Uber](#uber)
 then that solution of specific company is added to the company's section as my GitHub solution found through [contents](#table-of-contents).
 Otherwise it is added [here](#others) as the solved problem is not glued to any of the high-tier companies' section; it is just a random problem that was solved. <br>
 
