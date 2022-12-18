@@ -1100,6 +1100,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 116 |  [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Contains Duplicate III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20III/duplicate.py) |
 | 117 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator%20II/calculate.py) |
 | 118 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Alien Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Alien%20Dictionary/alien.py) |
+| 119 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
