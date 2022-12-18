@@ -1726,9 +1726,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 1 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [Department Top Three Salaries](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/SQL%20Solutions/Department%20Top%20Three%20Salaries/department.myd) |
 | 2 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
-| 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
-|11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
-|23 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anagrams](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
+| 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+| 5 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
+| 6 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Group Anagrams](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py) |
 
 ---
 ### Reddit
@@ -1736,19 +1736,19 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 | No. | Questions | Solution in PyCharm |
 | -- | --------- | ------------------ |
-| 16 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Combination Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum/combine.py) |
-| 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py) |
-| 14 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
-| 36 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
-|49 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
-|12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
+| 1 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Combination Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum/combine.py) |
+| 2 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py) |
+| 3 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
+| 4 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Merge Sorted Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Sorted%20Array/sorted.py) |
+| 5 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subsets/subsets.py) |
+| 6 | [Insert Interval](https://leetcode.com/problems/insert-interval) | [Insert Interval](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Insert%20Interval/insert.py) |
 | 7 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Daily Temperatures](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Daily%20Temperatures/daily.py) |
-|11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
-| 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
-|38 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [Basic Calculator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator/calculate.py) |
-|31 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
-| 11 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) |
-| 49 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
+| 8 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
+| 9 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Best Time to Buy and Sell Stock](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
+| 10 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [Basic Calculator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator/calculate.py) |
+| 11 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 12 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) |
+| 13 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Game of Life](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) |
 
 ---
 ### Spotify
