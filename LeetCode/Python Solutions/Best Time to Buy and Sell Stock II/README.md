@@ -1,1 +1,1 @@
-Problem description of "Best Time to Buy and Sell Stock II" can be found [here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/).
+Problem description of "Best Time to Buy and Sell Stock II" can be found [here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/best_buy_sell.py).
