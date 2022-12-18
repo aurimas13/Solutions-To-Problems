@@ -794,6 +794,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 85 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 | 86 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Alien Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Alien%20Dictionary/alien.py) |
 | 87 | [Add Strings](https://leetcode.com/problems/add-strings) | [Add Strings](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py) |
+| 88 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
 
 ---
 ### DE Shaw
@@ -1563,6 +1564,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 113 | [Contains Duplicate II](hhttps://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
 | 114 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator%20II/calculate.py) |
 | 115 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Alien Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Alien%20Dictionary/alien.py) |
+| 116 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1852,6 +1854,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 40 | [Happy Number](https://leetcode.com/problems/happy-number) | [Happy Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Happy%20Number/happy.py) |
 | 41 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
 | 42 | [Add Strings](https://leetcode.com/problems/add-strings) | [Add Strings](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py) |
+| 43 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
 
 ---
 ### Twitter
@@ -1970,6 +1973,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 77 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator%20II/calculate.py) |
 | 78 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Alien Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Alien%20Dictionary/alien.py) |
 | 79 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
+| 80 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
 
 ---
 ### Others
