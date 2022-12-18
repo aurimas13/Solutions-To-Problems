@@ -1,1 +1,1 @@
-Problem description of "High Five" can be found [here](https://leetcode.com/problems/high-five/).
+Problem description of "High Five" can be found [here](https://leetcode.com/problems/high-five/) and iots solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/High%20Five/high.py).
