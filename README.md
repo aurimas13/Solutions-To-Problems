@@ -31,7 +31,7 @@ The solutions to **LeetCode** problems are posted at the discussion sections in 
 If the solved **Leetcode** problem is one of the problems asked by high-tier companies like [Adobe](#adobe), 
 [Airbnb](#airbnb), [Amazon](#amazon), [Apple](#apple), [Bloomberg](#bloomberg), [DE Shaw](#de-shaw), [Goldman Sachs](#goldman-sachs),
 [Google](#google) with [Google Top](#google-top), [LinkedIn](#linkedin), [Meta](#meta), [Microsoft](#microsoft),
-[Netflix](#netflix), [Reddit](#reddit), [Spotify](#spotify), [TikTok](#tiktok) or [Uber](#uber)
+[Netflix](#netflix), [Reddit](#reddit), [Spotify](#spotify), [TikTok](#tiktok), [Twitter](#twitter) or [Uber](#uber)
 then that solution of specific company is added to the company's section as my GitHub solution found through [contents](#table-of-contents).
 Otherwise it is added [here](#others) as the solved problem is not glued to any of the high-tier companies' section; it is just a random problem that was solved. <br>
 
@@ -67,6 +67,7 @@ The problems for a particular company is seen through [contents list](#table-of-
 - [Reddit](#reddit)
 - [Spotify](#spotify)
 - [TikTok](#tiktok)
+- [Twitter](#twitter)
 - [Uber](#uber)
 - [Others](#others)
 
@@ -197,6 +198,18 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 25 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
 | 26 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 | 27 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
+|21 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
+|51 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
+|62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
+|36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+|75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+|72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
+| 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
+|59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
+|52 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
 
 ---
 ### Airbnb
@@ -206,6 +219,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | -- | --------- | ------------------ |
 | 1 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
 | 2 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
+| 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
+|75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+| 58 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Fraction to Recurring Decimal](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Fraction%20to%20Recurring%20Decimal/fraction.py) |
 
 ---
 ### Amazon
@@ -287,7 +303,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |72 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 |73 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
 |74 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)) | [Remove All Adjacent Duplicates in String II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/remove.py)
-|74 | [High Five](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/High%20Five/README.md) | [High Five](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/High%20Five/high.py) |
+|75 | [High Five](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/High%20Five/README.md) | [High Five](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/High%20Five/high.py) |
+|1 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | [Shortest Word Distance](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Shortest%20Word%20Distance/shortest.py) |
+| 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
+|72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
+|12 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
+| 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
+| 58 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Fraction to Recurring Decimal](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Fraction%20to%20Recurring%20Decimal/fraction.py) |
 |76 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
 |77 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
 |78 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
@@ -446,6 +468,14 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 89 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
 | 90 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 | 91 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)) | [Remove All Adjacent Duplicates in String II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/remove.py)
+| 2 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+|12 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
+|36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+| 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
+|59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
+| 58 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Fraction to Recurring Decimal](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Fraction%20to%20Recurring%20Decimal/fraction.py) |
 | 92 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 93 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
 | 94 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
@@ -493,6 +523,18 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
 | 27 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
 | 28 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)) | [Remove All Adjacent Duplicates in String II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/remove.py)
+| 29 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
+|51 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
+|62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+|12 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
+|36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+|75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+|72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
+| 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
+|59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
+|52 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
 
 ---
 ### DE Shaw
@@ -562,6 +604,20 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 6 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
 |50 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [First Bad Version](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/First%20Bad%20Version/first.py) |
 | 38 | [H-Index](https://leetcode.com/problems/h-index) | [H-Index](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/H-Index/index.py) |
+|74 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | [Meeting Rooms II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Meeting%20Rooms%20II/meeting_rooms.py) |
+|12 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | [Shortest Word Distance](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Shortest%20Word%20Distance/shortest.py) |
+|51 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
+|12 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
+|36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+|75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+|72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
+| 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
+|59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
+| 58 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Fraction to Recurring Decimal](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Fraction%20to%20Recurring%20Decimal/fraction.py) |
+|52 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
 
 ---
 ### Google Top
@@ -689,6 +745,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 75 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 | 76 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
 | 1 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+|36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+| 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
 | 77 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 78 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
 | 79 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
@@ -833,19 +893,22 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |9 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 |10 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
 |11 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
-|12 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
+|12 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | [Shortest Word Distance](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Shortest%20Word%20Distance/shortest.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+|36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+|59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
 |13 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) |
-|14 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) |
-|15 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) |
-|16 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) |
-|17 | [Max Stack](https://leetcode.com/problems/max-stack) |
-|18 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree) |
-|19 | [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |
-|20 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) |
-|21 | [Factor Combinations](https://leetcode.com/problems/factor-combinations) |
-|22 | [Paint House II](https://leetcode.com/problems/paint-house-ii) |
-|23 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) |
-|24 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) |
+|14 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii) |
+|15 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii) |
+|16 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) |
+|17 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) |
+|18 | [Max Stack](https://leetcode.com/problems/max-stack) |
+|19 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree) |
+|20 | [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |
+|21 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) |
+|22 | [Factor Combinations](https://leetcode.com/problems/factor-combinations) |
+|23 | [Paint House II](https://leetcode.com/problems/paint-house-ii) |
+|24 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) |
 |25 | [Text Justification](https://leetcode.com/problems/text-justification) |
 |26 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences) |
 |27 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) |
@@ -935,6 +998,12 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |71 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py) |
 |72 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
 |73 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
+|1 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | [Shortest Word Distance](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Shortest%20Word%20Distance/shortest.py) |
+|1 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
+|62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+|7 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
+|52 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
 |74 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 |75 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
 |76 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
@@ -994,6 +1063,13 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |39 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
 |40 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 |41 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
+|1 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+|62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+| 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
+| 58 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Fraction to Recurring Decimal](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Fraction%20to%20Recurring%20Decimal/fraction.py) |
+|52 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
 |42 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
 |43 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
 |44 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
@@ -1059,6 +1135,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 18 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
 | 19 | [Plus One](https://leetcode.com/problems/plus-one) | [Plus One](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Plus%20One/plus_one.py) |
 | 20 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 
 ---
 ### TikTok
@@ -1075,6 +1152,22 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 7 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Number of Islands](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Islands/number.py) |
 | 8 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 | 9 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
+|62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+| 16 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+|36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+|75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+
+---
+### Twitter
+[(Back to top)](#table-of-contents)
+
+| No. | Questions | Solution in PyCharm |
+| -- | --------- | ------------------ |
+|62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+| 51 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
+|75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+|72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
 
 ---
 ### Uber
@@ -1100,6 +1193,18 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 16 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
 | 17 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
 | 18 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
+| 19 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | [Shortest Word Distance](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Shortest%20Word%20Distance/shortest.py) |
+| 20 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Search a 2D Matrix II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix%20II/search.py) |
+|62 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Sliding Window Maximum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py) |
+|71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+|12 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [The Skyline Problem](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py)|
+|36 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Kth Largest Element in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Kth%20Largest%20Element%20in%20an%20Array/largest.py) |
+|75 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
+|72 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Implement Trie (Prefix Tree)](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Implement%20Trie%20(Prefix%20Tree))| 
+| 7 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Best Time to Buy and Sell Stock IV](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |
+|59 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Binary Search Tree Iterator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py) |
+|61 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Two Sum II - Input Array Is Sorted](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
+|52 | [Min Stack](https://leetcode.com/problems/min-stack) | [Min Stack](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py) |
 
 ---
 ### Others
