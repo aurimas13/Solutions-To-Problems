@@ -1,1 +1,1 @@
-Problem description can be found [here](https://leetcode.com/problems/palindrome-permutation/).
+Problem description of 'Palindrome Permutation' can be found [here](https://leetcode.com/problems/palindrome-permutation/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py).

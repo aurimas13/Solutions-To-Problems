@@ -287,66 +287,67 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |72 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 |73 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
 |74 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)) | [Remove All Adjacent Duplicates in String II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/remove.py)
-|75 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
-|76 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
-|77 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|78 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|79 | [Sort List](https://leetcode.com/problems/sort-list) |
-|80 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
-|81 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
-|82 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
-|83 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|84 | [Design Twitter](https://leetcode.com/problems/design-twitter) |
-|85 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|86 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) |
-|87 | [Rotate Function](https://leetcode.com/problems/rotate-function) |
-|88 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) |
-|89 | [String Compression](https://leetcode.com/problems/string-compression) |
-|90 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |
-|91 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) |
-|92 | [LFU Cache](https://leetcode.com/problems/lfu-cache) |
-|93 | [Concatenated Words](https://leetcode.com/problems/concatenated-words) |
-|94 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) |
-|95 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) |
-|96 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines) |
-|97 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) |
-|98 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |
-|99 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) |
-|100 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) |
-|101 | [01 Matrix](https://leetcode.com/problems/01-matrix) |
-|102 | [Optimal Division](https://leetcode.com/problems/optimal-division) |
-|103 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) |
-|104 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) |
-|105 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |
-|106 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) |
-|107 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) |
-|108 | [Image Smoother](https://leetcode.com/problems/image-smoother) |
-|109 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) |
-|110 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event) |
-|111 | [Baseball Game](https://leetcode.com/problems/baseball-game) |
-|112 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) |
-|113 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) |
-|114 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits) |
-|115 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) |
-|116 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) |
-|117 | [Partition Labels](https://leetcode.com/problems/partition-labels) |
-|118 | [Reorganize String](https://leetcode.com/problems/reorganize-string) |
-|119 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) |
-|120 | [Most Common Word](https://leetcode.com/problems/most-common-word) |
-|121 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) |
-|122 | [Knight Dialer](https://leetcode.com/problems/knight-dialer) |
-|123 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files) |
-|124 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days) |
-|125 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) |
-|126 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) |
-|127 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) |
-|128 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes) |
-|129 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) |
-|130 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) |
-|131 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) |
-|132 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) |
-|133 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
-|134 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
+|74 | [High Five](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/High%20Five/README.md) | [High Five](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/High%20Five/high.py) |
+|76 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) |
+|77 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |
+|78 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|79 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|80 | [Sort List](https://leetcode.com/problems/sort-list) |
+|81 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) |
+|82 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) |
+|83 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) |
+|84 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|85 | [Design Twitter](https://leetcode.com/problems/design-twitter) |
+|86 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|87 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) |
+|88 | [Rotate Function](https://leetcode.com/problems/rotate-function) |
+|89 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) |
+|90 | [String Compression](https://leetcode.com/problems/string-compression) |
+|91 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |
+|92 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) |
+|93 | [LFU Cache](https://leetcode.com/problems/lfu-cache) |
+|94 | [Concatenated Words](https://leetcode.com/problems/concatenated-words) |
+|95 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) |
+|96 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) |
+|97 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines) |
+|98 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) |
+|99 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |
+|100 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) |
+|101 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) |
+|102 | [01 Matrix](https://leetcode.com/problems/01-matrix) |
+|103 | [Optimal Division](https://leetcode.com/problems/optimal-division) |
+|104 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) |
+|105 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) |
+|106 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |
+|107 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) |
+|108 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) |
+|109 | [Image Smoother](https://leetcode.com/problems/image-smoother) |
+|110 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) |
+|111 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event) |
+|112 | [Baseball Game](https://leetcode.com/problems/baseball-game) |
+|113 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) |
+|114 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) |
+|115 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits) |
+|116 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) |
+|117 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) |
+|118 | [Partition Labels](https://leetcode.com/problems/partition-labels) |
+|119 | [Reorganize String](https://leetcode.com/problems/reorganize-string) |
+|120 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) |
+|121 | [Most Common Word](https://leetcode.com/problems/most-common-word) |
+|122 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) |
+|123 | [Knight Dialer](https://leetcode.com/problems/knight-dialer) |
+|124 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files) |
+|125 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days) |
+|126 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) |
+|127 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) |
+|128 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) |
+|129 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes) |
+|130 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) |
+|131 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) |
+|132 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) |
+|133 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) |
+|134 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
+|135 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) |
 
 ---
 ### Apple
@@ -545,6 +546,22 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 19 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Next Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Next%20Permutaion/permutation.py) |
 | 20 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
 | 21 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
+| 22 | [High Five](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/High%20Five/README.md) | [High Five](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/High%20Five/high.py) |
+| 23 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
+|65 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Find Pivot Index](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20Pivot%20Index/find.py) |
+|46 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Palindromic Substrings](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindromic%20Substrings/palindromic.py) |
+|45 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [Find All Anagrams in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Anagrams%20in%20a%20String/anagrams.py) |
+| 25 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [Pacific Atlantic Water Flow](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Pacific%20Atlantic%20Water%20Flow) |
+|7 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | [Evaluate Division](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Evaluate%20Division/evaluate.py) |
+|8 | [Decode String](https://leetcode.com/problems/decode-string) | [Decode String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Decode%20String/decode.py)
+| 9 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Pascal's Triangle](https://github.com/aurimas13/SolutionsToProblems/tree/main/LeetCode/Python%20Solutions/Pascal's%20Triangle) |
+|10 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Counting bits](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Counting%20Bits/bits.py)                                       |
+| 75 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
+|14 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
+|39 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20the%20Duplicate%20Number/find.py) |
+| 6 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
+|50 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [First Bad Version](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/First%20Bad%20Version/first.py) |
+| 38 | [H-Index](https://leetcode.com/problems/h-index) | [H-Index](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/H-Index/index.py) |
 
 ---
 ### Google Top
@@ -671,6 +688,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 74 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
 | 75 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 | 76 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
+| 1 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
 | 77 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
 | 78 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
 | 79 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |
@@ -916,17 +934,18 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |70 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Depth%20of%20Binary%20Tree/maximum_depth.py) |
 |71 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Rotate Image](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Rotate%20Image/rotate.py) |
 |72 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
-|73 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|74 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
-|75 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|76 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
-|77 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
-|78 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
-|79 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
-|80 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
-|81 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) |
-|82 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
-|83 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) |
+|73 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
+|74 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|75 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |
+|76 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|77 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) |
+|78 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) |
+|79 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |
+|80 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
+|81 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
+|82 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) |
+|83 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |
+|84 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) |
 
 ---
 ### Microsoft
@@ -974,26 +993,27 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 |38 | [Word Search](https://leetcode.com/problems/word-search) | [Word Search](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Search/search.py) |
 |39 | [Word Break](https://leetcode.com/problems/word-break) | [Word Break](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Break/break.py) |
 |40 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
-|41 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
-|42 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
-|43 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
-|44 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
-|45 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
-|46 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
-|47 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |
-|48 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |
-|49 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
-|50 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
-|51 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) |
-|52 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) |
-|53 | [String Compression](https://leetcode.com/problems/string-compression) |
-|54 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) |
-|55 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state) |
-|56 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) |
-|57 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) |
-|58 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) |
-|59 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) |
-|60 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) |
+|41 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
+|42 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |
+|43 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |
+|44 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |
+|45 | [LRU Cache](https://leetcode.com/problems/lru-cache) |
+|46 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) |
+|47 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |
+|48 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |
+|49 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |
+|50 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) |
+|51 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) |
+|52 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) |
+|53 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) |
+|54 | [String Compression](https://leetcode.com/problems/string-compression) |
+|55 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) |
+|56 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state) |
+|57 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) |
+|58 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) |
+|59 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) |
+|60 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) |
+|61 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) |
 
 ---
 ### Netflix
@@ -1079,6 +1099,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 15 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Subarray/maximum.py) |
 | 16 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Product of Array Except Self](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py) |
 | 17 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Median of Two Sorted Arrays](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py) |
+| 18 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)  [Palindrome Permutation](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Permutation/palindrome.py) |
 
 ---
 ### Others
