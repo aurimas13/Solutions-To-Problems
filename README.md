@@ -995,6 +995,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 4 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Anagram/valid.py) |
 | 5 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Substring%20Without%20Repeating%20Characters/longest.py) |
 | 6 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
+| 7 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Daily Temperatures](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Daily%20Temperatures/daily.py) |
+| 8 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
 
 ### TikTok
 [(Back to top)](#table-of-contents)
