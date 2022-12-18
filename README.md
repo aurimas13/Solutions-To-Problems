@@ -1783,19 +1783,19 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 | No. | Questions | Solution in PyCharm |
 | -- | --------- | ------------------ |
-|1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
-|12 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
-|39 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
-| 8 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
-|35 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
-|28 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
-|41 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
-|11 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
-|38 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [Basic Calculator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator/calculate.py) |
-| 79 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator%20II/calculate.py) |
-| 30 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
-|47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trapping Rain Water](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Two Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) |
+| 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Valid Parentheses](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py) |
+| 3 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) |
+| 4 | [3Sum](https://leetcode.com/problems/3sum) | [3Sum](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) |
+| 5 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Container With Most Water](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py) |
+| 6 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py)
+| 7 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
+| 8 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
+| 9 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Merge Intervals](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py) |
+| 10 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [Basic Calculator](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator/calculate.py) |
+| 11 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator%20II/calculate.py) |
+| 12 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Regular Expression Matching](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py) |
+| 13 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Trapping Rain Water](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py) |
 
 ---
 ### TikTok
