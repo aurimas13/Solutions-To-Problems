@@ -1127,6 +1127,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 122 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
 | 123 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Course Schedule](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py) |
 | 124 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
+| 125 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | [Perfect Rectangle](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Perfect%20Rectangle/perfect.py) |
 
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
