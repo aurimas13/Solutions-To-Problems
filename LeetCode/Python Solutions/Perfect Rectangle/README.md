@@ -1,1 +1,1 @@
-Problem description of "Perfect Squares" can be found [here](https://leetcode.com/problems/perfect-squares/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Perfect%20Squares/perfect.py).
+Problem description of "Perfect Rectangle" can be found [here](https://leetcode.com/problems/perfect-rectangle/description/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Perfect%20Rectangle/perfect.py).
