@@ -271,6 +271,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 105 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 | 106 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 107 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Balloons/maximum.py) |
+| 108 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 
 ---
 ### Airbnb
@@ -434,6 +435,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 119 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Multiply Strings](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Multiply%20Strings/multiply.py) |
 | 120 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Course Schedule](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py) |
 | 121 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
+| 122 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
 
@@ -689,6 +691,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 126 | [Add Strings](https://leetcode.com/problems/add-strings) | [Add Strings](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py) |
 | 127 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
 | 128 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
+| 129 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -815,6 +818,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 93 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
 | 94 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 | 95 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
+| 96 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 
 ---
 ### DE Shaw
@@ -938,6 +942,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 92 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Roman%20to%20Integer/roman.py) |
 | 93 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [String to Integer (atoi)](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/String%20to%20Integer%20(atoi)/atoi.py) |
 | 94 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
+| 95 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 
 ---
 ### Google Top
@@ -1128,6 +1133,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 123 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Course Schedule](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py) |
 | 124 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 | 125 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | [Perfect Rectangle](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Perfect%20Rectangle/perfect.py) |
+| 126 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1722,6 +1728,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 94 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 | 95 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 96 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Balloons/maximum.py) |
+| 97 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
+
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
 
@@ -1861,6 +1869,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 29 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 | 30 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 31 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Balloons/maximum.py) |
+| 32 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 
 ### TikTok
 [(Back to top)](#table-of-contents)
@@ -1915,6 +1924,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 46 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
 | 47 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 | 48 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
+| 49 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 
 ---
 ### Twitter
@@ -2040,6 +2050,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 82 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
 | 83 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
 | 84 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
+| 85 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 
 ---
 ### Others
