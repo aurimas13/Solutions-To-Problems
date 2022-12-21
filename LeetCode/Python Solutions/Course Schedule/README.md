@@ -1,1 +1,1 @@
-Problem description of "Course Schedule" can be found [here](https://leetcode.com/problems/course-schedule/).
+Problem description of "Course Schedule III" can be found [here](https://leetcode.com/problems/course-schedule-iii/solutions/) and its solution [here]().
