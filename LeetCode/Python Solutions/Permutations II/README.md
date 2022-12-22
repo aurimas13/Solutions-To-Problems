@@ -1,1 +1,1 @@
-Problem description of "Permutations II" can be found [here](https://leetcode.com/problems/permutations-ii/solutions/) and its solution [here]().
+Problem description of "Permutations II" can be found [here](https://leetcode.com/problems/permutations-ii/solutions/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Permutations%20II/permute.py).
