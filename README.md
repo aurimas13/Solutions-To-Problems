@@ -272,6 +272,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 106 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 107 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Balloons/maximum.py) |
 | 108 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
+| 109 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 
 ---
 ### Airbnb
@@ -437,6 +438,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 121 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Move Zeroes](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Move%20Zeroes/zeroes.py) |
 | 122 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 123 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | [Course Schedule III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule%20III/course.py) |
+| 124 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
 
@@ -693,6 +695,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 127 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
 | 128 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 129 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
+| 130 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -821,6 +824,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 95 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 96 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 97 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | [Course Schedule III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule%20III/course.py) |
+| 98 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 
 ---
 ### DE Shaw
@@ -1138,6 +1142,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 126 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py) |
 | 127 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | [Course Schedule III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule%20III/course.py) |
 | 128 | [Permutations II](https://leetcode.com/problems/permutations-ii/solutions/) | [Permutations II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Permutations%20II/permute.py) |
+| 129 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
+
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1606,6 +1612,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 117 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Multiply Strings](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Multiply%20Strings/multiply.py) |
 | 118 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
 | 119 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
+| 120 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1733,6 +1740,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 96 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Balloons/maximum.py) |
 | 97 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 98 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | [Course Schedule III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule%20III/course.py) |
+| 99 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
