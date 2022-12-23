@@ -1137,6 +1137,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 125 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | [Perfect Rectangle](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Perfect%20Rectangle/perfect.py) |
 | 126 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py) |
 | 127 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | [Course Schedule III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule%20III/course.py) |
+| 128 | [Permutations II](https://leetcode.com/problems/permutations-ii/solutions/) | [Permutations II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Permutations%20II/permute.py) |
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
