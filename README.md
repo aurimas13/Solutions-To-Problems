@@ -2080,6 +2080,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 85 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 86 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
 | 87 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
+| 88 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/solutions/2948502/python-solution/) | [Strobogrammatic Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Strobogrammatic%20Number/strobogrammatic.py) |
 
 ---
 ### Others
