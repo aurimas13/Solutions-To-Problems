@@ -273,6 +273,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 107 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Balloons/maximum.py) |
 | 108 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 109 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
+| 110 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 
 ---
 ### Airbnb
@@ -440,6 +441,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 123 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | [Course Schedule III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule%20III/course.py) |
 | 124 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 | 125 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
+| 126 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
+
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
 
@@ -697,6 +700,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 128 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 129 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 130 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
+| 131 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -826,6 +830,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 96 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 97 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | [Course Schedule III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule%20III/course.py) |
 | 98 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
+| 99 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 
 ---
 ### DE Shaw
@@ -1145,6 +1150,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 128 | [Permutations II](https://leetcode.com/problems/permutations-ii/solutions/) | [Permutations II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Permutations%20II/permute.py) |
 | 129 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 | 130 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
+| 131 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
+
+
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1444,6 +1452,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 36 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](https://github.com/aurimas13/LSolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Basic%20Calculator%20II/calculate.py) |
 | 37 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 | 38 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
+| 39 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 
 
 [//]: # (|13 | [Shortest Word Distance II]&#40;https://leetcode.com/problems/shortest-word-distance-ii&#41; |)
@@ -1615,6 +1624,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 119 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 | 120 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 | 121 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
+| 122 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1744,6 +1754,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 98 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | [Course Schedule III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule%20III/course.py) |
 | 99 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 | 100 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
+| 101 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
@@ -2068,6 +2079,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 84 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 85 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 86 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
+| 87 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 
 ---
 ### Others
