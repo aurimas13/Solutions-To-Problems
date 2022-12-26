@@ -1,1 +1,1 @@
-Problem description of "Word Pattern" can be found [here](https://leetcode.com/problems/word-pattern/solutions/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder%20II/ladder.py).
+Problem description of "Word Pattern" can be found [here](https://leetcode.com/problems/word-pattern/solutions/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py).
