@@ -275,6 +275,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 109 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 | 110 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 111 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
+| 112 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
+
 ---
 ### Airbnb
 [(Back to top)](#table-of-contents)
@@ -443,6 +445,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 125 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
 | 126 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 127 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
+| 128 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
@@ -703,6 +706,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 130 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 | 131 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 132 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
+| 133 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -833,6 +837,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 97 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | [Course Schedule III](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule%20III/course.py) |
 | 98 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find All Duplicates in an Array](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py) |
 | 99 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
+| 100 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 
 ---
 ### DE Shaw
@@ -957,6 +962,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 93 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [String to Integer (atoi)](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/String%20to%20Integer%20(atoi)/atoi.py) |
 | 94 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
 | 95 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
+| 96 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 
 ---
 ### Google Top
@@ -1154,6 +1160,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 130 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
 | 131 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 132 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/solutions/2948502/python-solution/) | [Strobogrammatic Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Strobogrammatic%20Number/strobogrammatic.py) |
+| 133 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 
 
 
@@ -1630,6 +1637,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 122 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 123 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/solutions/2948502/python-solution/) | [Strobogrammatic Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Strobogrammatic%20Number/strobogrammatic.py) |
 | 124 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
+| 125 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1763,6 +1771,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 101 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 102 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/solutions/2948502/python-solution/) | [Strobogrammatic Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Strobogrammatic%20Number/strobogrammatic.py) |
 | 103 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
+| 104 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
@@ -2089,6 +2098,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 86 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
 | 87 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 88 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/solutions/2948502/python-solution/) | [Strobogrammatic Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Strobogrammatic%20Number/strobogrammatic.py) |
+| 89 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 
 ---
 ### Others
