@@ -1,0 +1,1 @@
+Problem description of "Search a 2D Matrix" can be found [here](https://leetcode.com/problems/search-a-2d-matrix/description/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py).
