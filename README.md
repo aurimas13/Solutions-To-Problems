@@ -707,6 +707,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 131 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 132 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
 | 133 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
+| 134 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Check If N and Its Double Exist](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Check%20If%20N%20and%20Its%20Double%20Exist/check.py) |
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1161,7 +1162,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 131 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 132 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/solutions/2948502/python-solution/) | [Strobogrammatic Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Strobogrammatic%20Number/strobogrammatic.py) |
 | 133 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
-
+| 134 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Check If N and Its Double Exist](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Check%20If%20N%20and%20Its%20Double%20Exist/check.py) |
 
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
