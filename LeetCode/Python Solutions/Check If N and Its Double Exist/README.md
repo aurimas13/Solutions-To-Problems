@@ -1,0 +1,1 @@
+Problem description of "Check If N and Its Double Exist" can be found [here](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) and its solution [here]().
