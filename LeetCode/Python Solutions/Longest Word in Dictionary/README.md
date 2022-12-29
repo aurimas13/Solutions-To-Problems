@@ -1,0 +1,1 @@
+Problem description of "Longest Word in Dictionary" can be found [here](https://leetcode.com/problems/longest-word-in-dictionary/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Valid%20Parentheses/longest.py).
