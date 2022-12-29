@@ -276,6 +276,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 110 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 111 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
 | 112 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
+| 113 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 
 ---
 ### Airbnb
@@ -446,6 +447,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 126 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 127 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
 | 128 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
+| 129 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
@@ -964,6 +966,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 94 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Add Two Numbers](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers/add.py) |
 | 95 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 96 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
+| 97 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 
 ---
 ### Google Top
@@ -1163,6 +1166,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 132 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/solutions/2948502/python-solution/) | [Strobogrammatic Number](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Strobogrammatic%20Number/strobogrammatic.py) |
 | 133 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 | 134 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Check If N and Its Double Exist](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Check%20If%20N%20and%20Its%20Double%20Exist/check.py) |
+| 135 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1970,6 +1974,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 48 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 49 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 50 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
+| 51 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 
 ---
 ### Twitter
