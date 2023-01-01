@@ -967,6 +967,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 95 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 96 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
 | 97 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
+| 98 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/) | [Determine if Two Events Have Conflict](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Determine%20if%20Two%20Events%20Have%20Conflict/determine.py) |
 
 ---
 ### Google Top
@@ -1167,6 +1168,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 133 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 | 134 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Check If N and Its Double Exist](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Check%20If%20N%20and%20Its%20Double%20Exist/check.py) |
 | 135 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
+| 136 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/) | [Determine if Two Events Have Conflict](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Determine%20if%20Two%20Events%20Have%20Conflict/determine.py) |
 
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
