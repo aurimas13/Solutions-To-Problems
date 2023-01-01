@@ -1,1 +1,1 @@
-Problem description of "Determine if Two Events Have Conflict" can be found [here](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/) and its solution [here]().
+Problem description of "Determine if Two Events Have Conflict" can be found [here](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Determine%20if%20Two%20Events%20Have%20Conflict/determine.py).
