@@ -1,1 +1,1 @@
-Problem description of 'Largest Number' can be found [here](https://leetcode.com/problems/largest-number/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Largest%20Rectangle%20in%20Histogram/largest.py).
+Problem description of 'Largest Number' can be found [here](https://leetcode.com/problems/largest-number/description/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py).
