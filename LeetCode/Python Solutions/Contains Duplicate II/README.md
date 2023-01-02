@@ -1,1 +1,1 @@
-Problem description of "Contains Duplicate II" can be found [here](hhttps://leetcode.com/problems/contains-duplicate-ii/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py).
+Problem description of "Contains Duplicate II" can be found [here](hhttps://leetcode.com/problems/contains-duplicate-ii/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py).

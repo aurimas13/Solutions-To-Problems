@@ -1,1 +1,1 @@
-Problem description of "Excel Sheet Column Title" can be found [here](https://leetcode.com/problems/expression-add-operators/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py).
+Problem description of "Excel Sheet Column Title" can be found [here](https://leetcode.com/problems/expression-add-operators/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py).

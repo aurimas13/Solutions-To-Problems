@@ -1,1 +1,1 @@
-Problem description of "Combination Sum II" can be found [here](https://leetcode.com/problems/combination-sum-ii/description/) and its solution [here](https://github.com/aurimas13/SolutionsToProblems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py).
+Problem description of "Combination Sum II" can be found [here](https://leetcode.com/problems/combination-sum-ii/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py).
