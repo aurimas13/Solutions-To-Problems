@@ -1,0 +1,1 @@
+Problem description of "Guess Number Higher or Lower" can be found [here](https://leetcode.com/problems/guess-number-higher-or-lower/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Gray%20Code/gray.py).
