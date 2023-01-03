@@ -278,6 +278,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 112 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
 | 113 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 | 114 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
+| 115 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 116 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 
 ---
 ### Airbnb
@@ -450,6 +452,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 128 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
 | 129 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 | 130 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
+| 131 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 132 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
@@ -713,6 +717,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 133 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
 | 134 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Check%20If%20N%20and%20Its%20Double%20Exist/check.py) |
 | 135 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
+| 136 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 137 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
+
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -845,6 +852,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 99 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 100 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
 | 101 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
+| 102 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 103 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 
 ---
 ### DE Shaw
@@ -973,6 +982,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 97 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 | 98 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/) | [Determine if Two Events Have Conflict](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Determine%20if%20Two%20Events%20Have%20Conflict/determine.py) |
 | 99 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
+| 100 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 
 ---
 ### Google Top
@@ -1175,7 +1185,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 135 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 | 136 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/) | [Determine if Two Events Have Conflict](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Determine%20if%20Two%20Events%20Have%20Conflict/determine.py) |
 | 137 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
-
+| 138 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 139 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1476,6 +1487,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 37 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Top K Frequent Elements](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py) |
 | 38 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 39 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
+| 40 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 
 
 [//]: # (|13 | [Shortest Word Distance II]&#40;https://leetcode.com/problems/shortest-word-distance-ii&#41; |)
@@ -1652,6 +1664,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 124 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
 | 125 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 | 126 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
+| 127 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1787,6 +1800,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 103 | [Word Pattern](https://leetcode.com/problems/word-pattern/solutions/) | [Word Pattern](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Word%20Pattern/pattern.py) |
 | 104 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 | 105 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
+| 106 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
@@ -2117,6 +2131,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 88 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/solutions/2948502/python-solution/) | [Strobogrammatic Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Strobogrammatic%20Number/strobogrammatic.py) |
 | 89 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Search%20a%202D%20Matrix/search.py) |
 | 90 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
+| 91 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 92 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 
 ---
 ### Others
