@@ -31,7 +31,9 @@ class Solution:
                 cord_y, cord_x = move_dir
                 dy = y + cord_y
                 dx = x + cord_x
-                if 0 < dy < m - 1 and 0 < dx < n - 1 and grid[dy][dx] == 1 and (dy, dx) not in visited:
+                if 0 < dy < m - 1 and 0 < dx < n - 1 \
+                        and grid[dy][dx] == 1 and \
+                        (dy, dx) not in visited:
                     stack.append((dy, dx))
                     grid[dy][dx] = 0
                     visited.add((y, x))
