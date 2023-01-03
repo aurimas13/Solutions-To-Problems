@@ -1,4 +1,4 @@
-<p align=center>
+git<p align=center>
   <img height="222px" src="https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/solution.jpeg"/>
 </p>
 <p align="center" > Most common <b>solutions</b> to <b>problems</b> from interviews of high-tier companies. </p>
