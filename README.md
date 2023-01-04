@@ -455,6 +455,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 131 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 132 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 | 133 | [Number of Enclaves" can be found](https://leetcode.com/problems/number-of-enclaves/description/) | [Number of Enclaves" can be found](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Enclaves/number.py) |
+| 134 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
@@ -720,6 +721,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 135 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
 | 136 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 137 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
+| 138 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -855,6 +857,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 101 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
 | 102 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 103 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
+| 104 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 
 ---
 ### DE Shaw
@@ -1189,6 +1192,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 138 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 139 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 | 140 | [Number of Enclaves" can be found](https://leetcode.com/problems/number-of-enclaves/description/) | [Number of Enclaves" can be found](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Enclaves/number.py) |
+| 141 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
+
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1667,6 +1672,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 125 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 | 126 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
 | 127 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 128 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1803,6 +1809,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 104 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Search a 2D Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Seach%20a%202D%20Matrix/search.py) |
 | 105 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
 | 106 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 107 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
@@ -1905,6 +1912,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 18 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Sort Colors](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py) |
 | 19 | [Plus One](https://leetcode.com/problems/plus-one) | [Plus One](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Plus%20One/plus_one.py) |
 | 20 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Generate%20Parentheses/generate.py) |
+| 21 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
+
 
 ---
 ### Tesla
@@ -2002,6 +2011,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 49 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Jump Gmae II](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20II/jump.py).
 | 50 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
 | 51 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
+| 52 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 
 ---
 ### Twitter
@@ -2135,6 +2145,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 90 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
 | 91 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 92 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
+| 93 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 
 ---
 ### Others
