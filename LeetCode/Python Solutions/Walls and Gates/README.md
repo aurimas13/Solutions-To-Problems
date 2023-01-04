@@ -1,0 +1,1 @@
+Problem description of "Walls And Gates" can be found [here](https://leetcode.com/problems/walls-and-gates/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py).
