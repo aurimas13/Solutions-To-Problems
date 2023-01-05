@@ -280,6 +280,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 114 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
 | 115 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 116 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
+| 117 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 
 ---
 ### Airbnb
@@ -456,6 +457,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 132 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 | 133 | [Number of Enclaves" can be found](https://leetcode.com/problems/number-of-enclaves/description/) | [Number of Enclaves" can be found](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Enclaves/number.py) |
 | 134 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
+| 135 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
@@ -722,6 +724,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 136 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 137 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 | 138 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
+| 139 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -858,6 +861,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 102 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 103 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 | 104 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
+| 105 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 
 ---
 ### DE Shaw
@@ -1193,6 +1197,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 139 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 | 140 | [Number of Enclaves" can be found](https://leetcode.com/problems/number-of-enclaves/description/) | [Number of Enclaves" can be found](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Enclaves/number.py) |
 | 141 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
+| 142 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1673,6 +1678,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 126 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
 | 127 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 128 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
+| 129 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
