@@ -3,7 +3,8 @@ from collections import deque, defaultdict
 
 
 class Solution:
-    def treeDiameter(self, edges: List[List[int]]) -> int:
+    @staticmethod
+    def treeDiameter(edges: List[List[int]]) -> int:
         graph = defaultdict(list)
 
         for i, j in edges:
