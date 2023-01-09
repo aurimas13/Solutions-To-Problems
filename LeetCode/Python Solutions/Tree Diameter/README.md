@@ -1,1 +1,1 @@
-The problem description of "Tree Diameter" can be found [here](https://leetcode.com/problems/tree-diameter/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py).
+The problem description of "Tree Diameter" can be found [here](https://leetcode.com/problems/tree-diameter/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py).
