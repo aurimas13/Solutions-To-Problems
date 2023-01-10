@@ -282,6 +282,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 116 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 | 117 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 | 118 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
+| 119 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Find if Path Exists in Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20if%20Path%20Exists%20in%20Graph/find.py) |
+| 120 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 
 ---
 ### Airbnb
@@ -294,7 +296,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 3 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum II](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)
 | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Contains Duplicate](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate/duplicate.py) |
 | 5 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20II/duplicate.py) |
-| 6 |  [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Contains Duplicate III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20III/duplicate.py) |
+| 6 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Contains Duplicate III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20III/duplicate.py) |
 | 7 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Minimum Window Substring](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Window%20Substring/window.py) | 
 | 8 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Maximal Square](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py) |
 | 9 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Word Search II](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Word%20Search%20II/search.py) |
@@ -460,7 +462,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 134 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 | 135 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 | 136 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
-
+| 137 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Find if Path Exists in Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20if%20Path%20Exists%20in%20Graph/find.py) |
+| 138 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
 
@@ -728,6 +731,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 138 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 | 139 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 | 140 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
+| 141 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Find if Path Exists in Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20if%20Path%20Exists%20in%20Graph/find.py) |
+| 142 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -866,6 +871,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 104 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 | 105 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 | 106 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
+| 107 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 
 ---
 ### DE Shaw
@@ -995,6 +1001,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 98 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/) | [Determine if Two Events Have Conflict](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Determine%20if%20Two%20Events%20Have%20Conflict/determine.py) |
 | 99 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
 | 100 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 
 ---
 ### Google Top
@@ -1203,6 +1210,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 141 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 | 142 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 | 143 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
+| 144 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Find if Path Exists in Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20if%20Path%20Exists%20in%20Graph/find.py) |
+| 145 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) | [Tree Diameter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py) |
+| 146 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1504,6 +1514,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 38 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Subarray Sum Equals K](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Subarray%20Sum%20Equals%20K/subarray.py) |
 | 39 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Reverse Words in a String](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py) |
 | 40 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
+| 41 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 
 
 [//]: # (|13 | [Shortest Word Distance II]&#40;https://leetcode.com/problems/shortest-word-distance-ii&#41; |)
@@ -1684,6 +1695,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 128 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 | 129 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 | 130 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
+| 131 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) | [Tree Diameter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py) |
+| 132 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1821,6 +1834,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 105 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py) |
 | 106 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 107 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
+| 108 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Find if Path Exists in Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20if%20Path%20Exists%20in%20Graph/find.py) |
+| 109 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) | [Tree Diameter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py) |
+| 110 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
@@ -2157,7 +2173,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 91 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 92 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Guess Number Higher or Lower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Guess%20Number%20Higher%20or%20Lower/guess.py) |
 | 93 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
-
+| 94 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 ---
 ### Others
 [(Back to top)](#table-of-contents)
