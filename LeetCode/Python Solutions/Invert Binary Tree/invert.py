@@ -11,24 +11,22 @@ class TreeNode:
 
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        if not root:
+        if root is None:
             return None
-
-        queue = deque([root])
+        queue = [root]
         while queue:
-            current = queue.popleft()
-            current.left, current.right = current.right, current.left
-
-            if current.left:
-                queue.append(current.left)
-
-            if current.right:
-                queue.append(current.right)
+            node = queue.pop(0)
+            node.left, node.right = node.right, node.left
+            if node.left:
+                queue.append(node.left)
+            if node.right:
+                queue.append(node.right)
         return root
 
 
 # Running in terminal/console:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.invertTree(TreeNode([4,2,7,1,3,6,9])) # root = [4,2,7,1,3,6,9] -> [4,7,2,9,6,3,1]
+    Solve = Instant.invertTree(TreeNode([4,2,7,1,3,6,9]))
+    # root = [4,2,7,1,3,6,9] -> [4,7,2,9,6,3,1]
     print(Solve.val)
