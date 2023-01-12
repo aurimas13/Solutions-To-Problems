@@ -464,6 +464,10 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 136 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
 | 137 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Find if Path Exists in Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20if%20Path%20Exists%20in%20Graph/find.py) |
 | 138 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
+| 139 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
+
+
+
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
 
@@ -714,7 +718,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 121 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Wildvard Matching](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Wildcard%20Matching/wildcard.py) | 
 | 122 | [Single Number](https://leetcode.com/problems/single-number/) | [Single Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py) |
 | 123 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Reverse bits](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reverse%20Bits/reverse.py).
-| 124 |  [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Contains Duplicate III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20III/duplicate.py) |
+| 124 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Contains Duplicate III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Contains%20Duplicate%20III/duplicate.py) |
 | 125 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | [Alien Dictionary](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Alien%20Dictionary/alien.py) |
 | 126 | [Add Strings](https://leetcode.com/problems/add-strings) | [Add Strings](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py) |
 | 127 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Reverse Nodes in k-Group](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py) |
@@ -733,7 +737,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 140 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
 | 141 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Find if Path Exists in Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20if%20Path%20Exists%20in%20Graph/find.py) |
 | 142 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
-
+| 143 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -872,7 +876,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 105 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Island%20Perimeter/island.py) |
 | 106 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
 | 107 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
-
+| 108 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 ---
 ### DE Shaw
 [(Back to top)](#table-of-contents)
@@ -1213,6 +1217,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 144 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Find if Path Exists in Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20if%20Path%20Exists%20in%20Graph/find.py) |
 | 145 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) | [Tree Diameter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py) |
 | 146 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
+| 147 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1697,7 +1702,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 130 | [Flood fill](https://leetcode.com/problems/flood-fill/description/) | [Flood fill](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flood%20Fill/flood.py) |
 | 131 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) | [Tree Diameter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py) |
 | 132 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
-
+| 133 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1837,7 +1842,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 108 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Find if Path Exists in Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20if%20Path%20Exists%20in%20Graph/find.py) |
 | 109 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) | [Tree Diameter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py) |
 | 110 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
-
+| 111 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
 
