@@ -1,0 +1,2 @@
+Problem description of "Minimum Obstacle Removal to Reach Corner" can be found [here](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)
+and its solution [here]() as explanation with the solution as well as comments on time and space complexities [here](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/solutions/3044361/python-solution-slowish-yet-very-efficient-bfs/).
