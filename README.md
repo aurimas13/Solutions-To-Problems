@@ -1218,6 +1218,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 145 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) | [Tree Diameter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py) |
 | 146 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 147 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
+| 148 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/) | [Minimum Obstacle Removal to Reach Corner](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/minimum.py) | 
+
+
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
