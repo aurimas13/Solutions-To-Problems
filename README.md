@@ -319,6 +319,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 26 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Find Median from Data Stream](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py) |
 | 27 | [Coin Change](https://leetcode.com/problems/coin-change) | [Coin Change](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py) |
 | 28 | [Add Strings](https://leetcode.com/problems/add-strings) | [Add Strings](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Add%20Strings/add.py) |
+| 29 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
+
 
 ---
 ### Amazon
@@ -466,6 +468,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 138 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 139 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 140 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
+| 141 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
 
 
 
@@ -740,6 +743,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 142 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 143 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 144 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
+| 145 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
+
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -880,6 +885,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 107 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 108 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 109 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
+| 110 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
 
 
 
@@ -1228,6 +1234,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 147 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 148 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/) | [Minimum Obstacle Removal to Reach Corner](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/minimum.py) | 
 | 149 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
+| 150 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
 
 
 
@@ -1715,6 +1722,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 131 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) | [Tree Diameter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py) |
 | 132 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 133 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
+| 134 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
+
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
 
@@ -1855,6 +1864,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 109 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) | [Tree Diameter](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Tree%20Diameter/tree.py) |
 | 110 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 111 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
+| 112 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
+
+
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
 
@@ -2056,6 +2068,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 50 | [Excel Sheet Column Title](https://leetcode.com/problems/expression-add-operators/) | [Excel Sheet Column Title](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Excel%20Sheet%20Column%20Title/excel.py) |
 | 51 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Longest Word in Dictionary](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Word%20in%20Dictionary/longest.py) |
 | 52 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
+| 53 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
+
 
 ---
 ### Twitter
@@ -2193,6 +2207,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 93 | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py) |
 | 94 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 95 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
+| 96 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
 
 
 ---
