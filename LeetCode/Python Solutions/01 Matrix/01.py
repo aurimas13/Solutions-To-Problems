@@ -3,7 +3,8 @@ from typing import List
 
 
 class Solution:
-    def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
+    @staticmethod
+    def updateMatrix(mat: List[List[int]]) -> List[List[int]]:
         # Initialize a queue and a 2D array to store the distances
         queue = deque()
         dist = [[float('inf') for _ in range(len(mat[0]))] for _ in range(len(mat))]
@@ -32,6 +33,12 @@ if __name__ == '__main__':
     Solve = Sol.updateMatrix([[0,0,0],[0,1,0],[0,0,0]])
     # mat = [[0,0,0],[0,1,0],[0,0,0]] -> [[0,0,0],[0,1,0],[0,0,0]]
     print(Solve)
+
+
+
+
+
+
 
 
 
