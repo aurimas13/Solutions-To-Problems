@@ -469,7 +469,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 139 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 140 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
 | 141 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
-
+| 142 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Jump Game III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20III/jump.py) |
 
 
 
@@ -744,6 +744,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 143 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 144 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
 | 145 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
+| 146 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Jump Game III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20III/jump.py) |
 
 
 [//]: # (| 92 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1019,6 +1020,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 100 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 102 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
+| 103 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Jump Game III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20III/jump.py) |
 
 
 ---
@@ -1235,6 +1237,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 148 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/) | [Minimum Obstacle Removal to Reach Corner](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/minimum.py) | 
 | 149 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
 | 150 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
+| 151 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Jump Game III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20III/jump.py) |
 
 
 
@@ -1723,6 +1726,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 132 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 133 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 134 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
+| 135 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Jump Game III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20III/jump.py) |
 
 
 [//]: # (|74 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1865,6 +1869,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 110 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Symmetric Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Symmetric%20Tree/symmetric.py) |
 | 111 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 112 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
+| 113 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Jump Game III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20III/jump.py) |
 
 
 
