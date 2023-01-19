@@ -470,7 +470,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 140 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
 | 141 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
 | 142 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Jump Game III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20III/jump.py) |
-
+| 143 | [Kill process](https://leetcode.com/problems/kill-process/description/) | [Kill process](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Kill%20Process/kill.py) |
 
 
 [//]: # (|76 | [Path Sum II]&#40;https://leetcode.com/problems/path-sum-ii&#41; |)
@@ -887,7 +887,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 108 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 109 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
 | 110 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
-
+| 111 | [Kill process](https://leetcode.com/problems/kill-process/description/) | [Kill process](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Kill%20Process/kill.py) |
 
 
 ---
@@ -1238,7 +1238,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 149 | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/) | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) |
 | 150 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
 | 151 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Jump Game III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20III/jump.py) |
-
+| 152 | [Kill process](https://leetcode.com/problems/kill-process/description/) | [Kill process](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Kill%20Process/kill.py) |
 
 
 [//]: # (| 77 | [LRU Cache]&#40;https://leetcode.com/problems/lru-cache&#41; |)
@@ -1870,7 +1870,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 111 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Binary Tree Vertical Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Vertical%20Order%20Traversal/binary.py) |
 | 112 | [Check If N and Its Double Exist](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Check If N and Its Double Exist](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) |
 | 113 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Jump Game III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Jump%20Game%20III/jump.py) |
-
+| 114 | [Kill process](https://leetcode.com/problems/kill-process/description/) | [Kill process](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Kill%20Process/kill.py) |
 
 
 [//]: # (|42 | [Swap Nodes in Pairs]&#40;https://leetcode.com/problems/swap-nodes-in-pairs&#41; |)
