@@ -25,7 +25,7 @@ class Solution:
         for key in anagrams_dict:
             result.append(anagrams_dict[key])
 
-        return result\
+        return result
 
 
 # Checking in terminal/console:
