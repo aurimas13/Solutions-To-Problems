@@ -28,7 +28,6 @@ class Solution:
         findNsum(0, len(nums)-1, target, 4, [], results)
         return results
 
-
 # or
 
 # class Solution:
@@ -58,7 +57,6 @@ class Solution:
 #                     else:
 #                         hi -= 1
 #         return output
-
 
 # Checking in terminal/console:
 if __name__ == '__main__':
