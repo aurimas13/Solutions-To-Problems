@@ -1,1 +1,3 @@
-Problem description of "The Skyline Problem" can be found [here](https://leetcode.com/problems/the-skyline-problem/).
+Problem description of "The Skyline Problem" can be found [here](https://leetcode.com/problems/the-skyline-problem/)
+and solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/The%20Skyline%20Problem/skyline.py) with its explanation and more 
+[here](https://leetcode.com/problems/the-skyline-problem/solutions/2586185/python-solution-super-fast-updated/).
