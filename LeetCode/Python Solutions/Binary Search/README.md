@@ -1,0 +1,2 @@
+Problem description of "Binary Search" can be found [here](https://leetcode.com/problems/binary-search/description/) 
+and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20Iterator/binary.py).
