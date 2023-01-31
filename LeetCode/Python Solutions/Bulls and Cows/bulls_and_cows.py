@@ -16,6 +16,15 @@ class Solution:
         return f"{bulls}A{cows}B"
 
 
+# Checking in terminal/console:
+if __name__ == '__main__':
+    Sol = Solution()
+    Solve = Sol.getHint(secret = "1807", guess = "7810")
+    # secret = "1807", guess = "7810" -> "1A3B"
+    # secret = "1123", guess = "0111" -> "1A1B"
+    print(Solve)
+
+
 # # OR
 #
 #     def getHint(self, secret: str, guess: str) -> str:
@@ -58,10 +67,3 @@ class Solution:
 #                 h[g] -= 1
 #
 #         return "{}A{}B".format(bulls, cows)
-
-
-# Checking in terminal/console:
-if __name__ == '__main__':
-    Sol = Solution()
-    Solve = Sol.getHint(secret = "1807", guess = "7810")  # secret = "1807", guess = "7810" -> "1A3B" | secret = "1123", guess = "0111" -> "1A1B"
-    print(Solve)
