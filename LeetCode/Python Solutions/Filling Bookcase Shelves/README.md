@@ -1,0 +1,3 @@
+Problem description of "Filling Bookcase Shelves" can be found [here](https://leetcode.com/problems/filling-bookcase-shelves/description/) 
+and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20All%20Anagrams%20in%20a%20String/anagrams.py)
+as the explanation and the solution at LeetCode [here](https://leetcode.com/problems/filling-bookcase-shelves/solutions/3134792/python-solution-beats-99/).
