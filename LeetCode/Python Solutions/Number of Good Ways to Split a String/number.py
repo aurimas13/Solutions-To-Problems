@@ -1,3 +1,4 @@
+# Solution implementing dynamic programming
 class Solution:
     @staticmethod
     def numSplits(s: str) -> int:
@@ -22,7 +23,7 @@ class Solution:
 
 
 
-# Checking in console
+# Checking in console/PyCharm
 if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.numSplits(s = "aacaba")
