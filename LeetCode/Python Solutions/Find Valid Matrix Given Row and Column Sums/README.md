@@ -1,0 +1,3 @@
+Problem description of "Find Valid Matrix Given Row and Column Sums" can be found [here](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/) 
+and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String%20/find.py)
+while the explanation with solution at LeetCode [here](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/solutions/3151503/python-solution-fast-efficient-well-explained/).
