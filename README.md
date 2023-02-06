@@ -8,8 +8,8 @@
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions"><img alt="sql" src="https://img.shields.io/badge/language-sql-orange.svg?style=social&logo=sql")></a>
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
-  <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems?style=social" alt="stars"
-[//]: # (  <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express?style=social"></a>)
+  <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems?style=social" alt="stars">
+//]: # (  <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express?style=social"></a>)
 [//]: # (  <a href="https://github.com/badges/shields/pulse"><img alt="activity" src="https://img.shields.io/github/checks-status/aurimas13/Solutions-To-Problems></a>)
 [//]: # (  <a href="https://coveralls.io/github/badges/shields"><img alt="coverage" src="https://img.shields.io/coveralls/github/badges/shields"></a>)
 </p>
