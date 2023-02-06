@@ -28,13 +28,13 @@ print(avg)
 # N = int(input())
 # Fields = input().split()
 #
-# third.py = 0
+# time.py = 0
 # for i in range(N):
 #     Students = namedtuple('Student', Fields)
 #     MARKS, ID, NAME,CLASS = input().split()
 #     Student = Students(MARKS,ID,NAME,CLASS)
-#     third.py += int(Student.MARKS)
-# print('{:.2f}'.format(third.py/N))
+#     time.py += int(Student.MARKS)
+# print('{:.2f}'.format(time.py/N))
 #
 # # or
 #
@@ -45,6 +45,6 @@ print(avg)
 # for i in range(N):
 #     row = input().split()
 #     student = Student(*row)
-#     third.py += int(student.MARKS)
+#     time.py += int(student.MARKS)
 #
-# print(third.py / n)
+# print(time.py / n)
