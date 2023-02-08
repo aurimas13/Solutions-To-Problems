@@ -15,5 +15,3 @@ if __name__ == '__main__':
     # n = 2 -> 1
     # n = 10 -> 36
     print(Solve)
-
-
