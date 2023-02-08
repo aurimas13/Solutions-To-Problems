@@ -1099,7 +1099,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 161 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)             | [Count Square Submatrices with All Ones](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Square%20Submatrices%20with%20All%20Ones/count.py)                                   | O(n^2)          | O(n^2)           |
 | 162 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)                   | [Time Needed to Inform All Employees](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Time%20Needed%20to%20Inform%20All%20Employees/time.py)                                          | O(n)            | O(n)             |
 | 163 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/)   | [Find Valid Matrix Given Row and Column Sums](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums/find.py)                      | O(n^2)          | O(n^2)           |
-
+| 164 | [Output Contest Matches](https://leetcode.com/problems/output-contest-matches/description/)                                             | [Output Contest Matches](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Output%20Contest%20Matches/output.py)                                                                        | O(log n)        | O(n)             |
 
 ---
 ### LinkedIn
