@@ -1,0 +1,2 @@
+Problem description of "Minimum Difference Between Largest and Smallest Value in Three Moves
+" can be found [here](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/) and its solution [here]() while explanation with solution at LeetCode [here](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/solutions/3166619/python-solution/)
