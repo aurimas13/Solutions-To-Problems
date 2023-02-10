@@ -88,8 +88,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 |No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Meta|Microsoft|Adobe|Bloomberg|DE Shaw|Goldman Sachs|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|1| 01 Matrix| 01 Matrix | 01 Matrix |||[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|
-|2| 3Sum|[3Sum](https://leetcode.com/problems/3sum)| [3Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py)|O(n^2)|O(n)|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> - [ ] </li></ul>|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|[]|
+|1| 01 Matrix| 01 Matrix | 01 Matrix |||<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
+|2| 3Sum|[3Sum](https://leetcode.com/problems/3sum)| [3Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py)|O(n^2)|O(n)|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
 ### Must Do Problems
 [(Back to top)](#table-of-contents)
 
