@@ -484,7 +484,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 151 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)             | [Count Square Submatrices with All Ones](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Square%20Submatrices%20with%20All%20Ones/count.py)                                   | O(n^2)          | O(n^2)           |
 | 152 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)                   | [Time Needed to Inform All Employees](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Time%20Needed%20to%20Inform%20All%20Employees/time.py)                                          | O(n)            | O(n)             |
 | 153 | [Integer Break](https://leetcode.com/problems/integer-break/description/)                                                               | [Integer Break](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Integer%20Break/integer.py)                                                                                           | O(n^2)          | O(n)             |
-
+| 154 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)             | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/minimum.py)                                   | O(n log n)          | O(n)           |
 
 ---
 ### Apple
@@ -1105,6 +1105,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 163 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/)   | [Find Valid Matrix Given Row and Column Sums](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums/find.py)                      | O(n^2)          | O(n^2)           |
 | 164 | [Output Contest Matches](https://leetcode.com/problems/output-contest-matches/description/)                                             | [Output Contest Matches](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Output%20Contest%20Matches/output.py)                                                                        | O(log n)        | O(n)             |
 | 165 | [Integer Break](https://leetcode.com/problems/integer-break/description/)                                                               | [Integer Break](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Integer%20Break/integer.py)                                                                                           | O(n^2)          | O(n)             |
+| 166 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)             | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/minimum.py)                                   | O(n log n)          | O(n)           |
 
 ---
 ### LinkedIn
@@ -1426,7 +1427,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 117 | [4Sum](https://leetcode.com/problems/4sum/)                                                                                             | [4Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/4Sum/4Sum.py)                                                                                                                  | O(n^2)         | O(n)             |
 | 118 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                               | [Binary Search](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Search/binary.py)                                                                               | O(log n)        | O(1)             |
 | 119 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)             | [Count Square Submatrices with All Ones](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Square%20Submatrices%20with%20All%20Ones/count.py)                                   | O(n^2)          | O(n^2)           |
-
+| 120 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)             | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/minimum.py)                                   | O(n log n)          | O(n)           |
 
 ---
 ### Netflix
@@ -1440,6 +1441,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 4   | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                 | [Merge Intervals](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Merge%20Intervals/merge.py)                                                   | O(n log n)      | O(n)             |
 | 5   | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                   | [Group Anagrams](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py)                                                     | O(n)            | O(n)             |
 | 6   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)                 | [Top K Frequent Elements](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py)                            | O(n)            | O(n)             |
+
 
 ---
 ### Reddit
