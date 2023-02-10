@@ -51,6 +51,7 @@ The problems for a particular company is seen through [contents list](#table-of-
 # Table of Contents
 - [Table of contents](#table-of-contents)
 - [Preparation for Interiews](#preparation-for-interviews)
+- [Problems and Solutions](#problems-and-solutions)
 - [Must Do Problems](#must-do-problems) 
 - [Adobe](#adobe) 
 - [Airbnb](#airbnb)
@@ -83,6 +84,11 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 - Looking at possible [Multiple Choice Questions](https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/MCQ.txt)
 
 ------
+### Problems and Solutions
+
+|No.| Questions | Solution in IDE|Google|Amazon|Apple|Meta|Microsoft|Adobe|Bloomberg|DE Shaw|Goldman Sachs|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|Time Complexity | Space Complexity |
+|1| 01 Matrix|
+|2|
 
 ### Must Do Problems
 [(Back to top)](#table-of-contents)
