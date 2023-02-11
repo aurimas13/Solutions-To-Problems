@@ -43,7 +43,7 @@ By pressing on the name of the problem at the [Problems and Solutions](#problems
 Currently, doing **Python** & a bit of **Java** problems of **LeetCode**. **HackerRank** problems were finished on May and from *28<sup>th</sup> of May 2022* am working on solving at least one **Python** problem from [LeetCode](https://leetcode.com/problemset/all/) daily. 
 The solution is put at the respective **LeetCode** folder and added to the list of a [problems and solutions](#problems-and-solutions) where companies that provide that problem are identified.
 
-**SQL** solutions of problems at *HackerRank* & *LeetCode* will come this year while they will be updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
+**SQL** solutions of problems at *HackerRank* & *LeetCode* will come this year while they will be updated [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
 
 # Table of Contents
 - [Table of contents](#table-of-contents)
