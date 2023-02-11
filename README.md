@@ -32,7 +32,7 @@ The solutions to **LeetCode** problems are posted at the discussion sections in 
 If the solved **LeetCode** problem is one of the problems asked by high-tier companies like Adobe, Airbnb, Amazon, Apple, Bloomberg, DE Shaw, Goldman Sachs,
 Google, LinkedIn, Meta (previously facebook), Microsoft, Netflix, Reddit, Spotify, Tesla], TikTok, Twitter or Uber then that solution for all the companies that had given it as a
 problem are indentified [here](#problems-and-solutions) while the total number of solved problems per comapny is given [here](#total-number). If the solution wasn't asked to be solved by any of the companies
-then it is added [here](#others) as the solved problem is not glued to any of the high-tier companies; it is just a random problem that was solved. <br>
+and the solved problem is not glued to any of the high-tier companies; it is just a random problem that was solved. <br>
 
 The progress of my **LeetCode** account regarding these solutions with additional information like blog post for some solutions giving explanations on them can be found by looking at my [LeetCode profile](https://leetcode.com/aurimas13/).
 
