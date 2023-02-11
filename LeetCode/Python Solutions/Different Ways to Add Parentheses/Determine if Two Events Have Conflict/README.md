@@ -1,0 +1,1 @@
+Problem description of "Different Ways to Add Parentheses" can be found [here](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) and its solution [here](https://leetcode.com/problems/different-ways-to-add-parentheses/solutions/3173112/python-solution-beats-98/).
