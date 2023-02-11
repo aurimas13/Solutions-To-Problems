@@ -86,9 +86,28 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 ------
 ### Problems and Solutions
 
-|No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Meta|Microsoft|Adobe|Bloomberg|DE Shaw|Goldman Sachs|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Airbnb|
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|1| [01 Matrix](https://leetcode.com/problems/01-matrix/) | [01 Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/01%20Matrix/01.py) |O(n^2)|O(n^2)|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|
+|No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Meta|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|
+| Google | 163 |
+| Amazon | 152 |
+| Apple | 152 |
+| Meta | 138 |
+| Microsoft | 120 |
+| Adobe | 123 |
+| Airbnb | 29 |
+| Bloomberg | 118|
+| DE Shaw| 17 |
+| Goldman Sachs | 103 |
+| LinkedIn | 42 |
+| Netflix | 6 |
+| Reddit | 13 |
+| Spotify | 21 |
+| Tesla | 33 |
+| TikTok | 54 |
+| Twitter | 28 |
+| Uber | 99 |
+| Others | 1 |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|1| [01 Matrix](https://leetcode.com/problems/01-matrix/) | [01 Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/01%20Matrix/01.py) |O(n^2)|O(n^2)|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|
 |2| [3Sum](https://leetcode.com/problems/3sum)| [3Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py)|O(n^2)|O(n)|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
 | 3  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                    | [3Sum Closest](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/3Sum%20Closest/closest.py)                                                                                | O(n^2)          | O(1)             |<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
 | 4 | [4Sum](https://leetcode.com/problems/4sum/)                                                                                    | [4Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/4Sum/4Sum.py)                                                                                                     | O(n^2)          | O(n)             |<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
@@ -363,27 +382,27 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 ### Total Number
 Here is a table that shows how many solutions there are per company:<br><sup>x</sup></br>
 
-|<center>Company Name</center> | Total Solutions |
+| Company Name | Total Solutions |
 |-------------|-----------------|
-|Google|<center>163</center>|
-|Amazon|<center>152|
-|Apple|<center>152|
-|Meta|<center>138
-|Microsoft|<center>120|
-|Adobe|<center>123|
-|Airbnb|<center>29|
-|Bloomberg|<center>118|
-|DE Shaw|<center>17|
-|Goldman Sachs|<center>103|
-|LinkedIn|<center>42|
-|Netflix|<center>6|
-|Reddit|<center>13|
-|Spotify|<center>21|
-|Tesla|<center>33|
-|TikTok|<center>54|
-|Twitter|<center>28|
-|Uber|<center>99|
-|Others|<center>1|
+| Google | 163 |
+| Amazon | 152 |
+| Apple | 152 |
+| Meta | 138 |
+| Microsoft | 120 |
+| Adobe | 123 |
+| Airbnb | 29 |
+| Bloomberg | 118|
+| DE Shaw| 17 |
+| Goldman Sachs | 103 |
+| LinkedIn | 42 |
+| Netflix | 6 |
+| Reddit | 13 |
+| Spotify | 21 |
+| Tesla | 33 |
+| TikTok | 54 |
+| Twitter | 28 |
+| Uber | 99 |
+| Others | 1 |
 
 <br><sup>x</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
 
