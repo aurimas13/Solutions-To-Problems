@@ -363,27 +363,27 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 ### Total Number
 Here is a table that shows how many solutions there are per company:<br><sup>x</sup></br>
 
-|Company Name | Total Solutions |
+|<center>Company Name</center> | Total Solutions |
 |-------------|-----------------|
-|Google|163
-|Amazon|152|
-|Apple|152|
-|Meta|138
-|Microsoft|120|
-|Adobe|123|
-|Airbnb|29|
-|Bloomberg|118|
-|DE Shaw|17|
-|Goldman Sachs|103|
-|LinkedIn|42|
-|Netflix|6|
-|Reddit|13|
-|Spotify|21|
-|Tesla|33|
-|TikTok|54|
-|Twitter|28|
-|Uber|99|
-|Others|1|
+|Google|<center>163
+|Amazon|<center>152|
+|Apple|<center>152|
+|Meta|<center>138
+|Microsoft|<center>120|
+|Adobe|<center>123|
+|Airbnb|<center>29|
+|Bloomberg|<center>118|
+|DE Shaw|<center>17|
+|Goldman Sachs|<center>103|
+|LinkedIn|<center>42|
+|Netflix|<center>6|
+|Reddit|<center>13|
+|Spotify|<center>21|
+|Tesla|<center>33|
+|TikTok|<center>54|
+|Twitter|<center>28|
+|Uber|<center>99|
+|Others|<center>1|
 
 <br><sup>x</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
 
