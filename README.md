@@ -339,34 +339,6 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 
 ---
-### Total Number
-Total number of LeetCode solutions per comapny are shown below:<sup*</sup>
-
-| Company Name | Total Solutions |
-|--------|----------|
-| Google | 163 |
-| Amazon | 152 |
-| Apple | 152 |
-| Meta | 138 |
-| Microsoft | 120 |
-| Adobe | 123 |
-| Airbnb | 29 |
-| Bloomberg | 118|
-| DE Shaw| 17 |
-| Goldman Sachs | 103 |
-| LinkedIn | 42 |
-| Netflix | 6 |
-| Reddit | 13 |
-| Spotify | 21 |
-| Tesla | 33 |
-| TikTok | 54 |
-| Twitter | 28 |
-| Uber | 99 |
-| Others | 1 |
-
-<br><sup>*</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
-
----
 ### Must Do Problems
 [(Back to top)](#table-of-contents)
 
@@ -479,6 +451,40 @@ Total number of LeetCode solutions per comapny are shown below:<sup*</sup>
 | 21  | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)       | [Minimum Domino Rotations For Equal Row](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Domino%20Rotations%20For%20Equal%20Row/minimum.py)   |
 | 22  | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)                                     | [Random Pick with Weight](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Random%20Pick%20with%20Weight/random.py)                                      |
 
+---
+### Total Number
+Total number of LeetCode solutions per comapny are shown below:<sup*</sup>
+
+| Company Name | Total Solutions |
+|--------|----------|
+| Google | 163 |
+| Amazon | 152 |
+| Apple | 152 |
+| Meta | 138 |
+| Microsoft | 120 |
+| Adobe | 123 |
+| Airbnb | 29 |
+| Bloomberg | 118|
+| DE Shaw| 17 |
+| Goldman Sachs | 103 |
+| LinkedIn | 42 |
+| Netflix | 6 |
+| Reddit | 13 |
+| Spotify | 21 |
+| Tesla | 33 |
+| TikTok | 54 |
+| Twitter | 28 |
+| Uber | 99 |
+| Others | 1 |
+
+<br><sup>*</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
+
+---
+
+# License
+
+[//]: # ()
+[LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
 
 
 <!-- ### Adobe
@@ -2083,7 +2089,3 @@ There is only one solution for Other companies found through [here][#problems-an
 [//]: # (The folder includes [**foto**]&#40;https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solve.png"&#41;.)
 
 [//]: # () -->
-# License
-
-[//]: # ()
-[LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
