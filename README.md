@@ -453,7 +453,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ---
 ### Total Number
-Total number of LeetCode solutions per comapny are shown below:<sup*</sup>
+Total number of LeetCode solutions per comapny are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
