@@ -365,7 +365,7 @@ Here is a table that shows how many solutions there are per company:<br><sup>x</
 
 |<center>Company Name</center> | Total Solutions |
 |-------------|-----------------|
-|Google|<center>163
+|Google|<center>163</center>|
 |Amazon|<center>152|
 |Apple|<center>152|
 |Meta|<center>138
