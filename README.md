@@ -27,31 +27,29 @@
 
 ------
 
-The repository is constantly updated when **Python** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) (primarily) or [HackerRank](https://www.hackerrank.com/domains/python) is solved.
+The repository is constantly updated when **Python**, **Java** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) (primarily) or [HackerRank](https://www.hackerrank.com/domains/python) is solved.
 The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem folder. <br>
-If the solved **Leetcode** problem is one of the problems asked by high-tier companies like [Adobe](#adobe), 
-[Airbnb](#airbnb), [Amazon](#amazon), [Apple](#apple), [Bloomberg](#bloomberg), [DE Shaw](#de-shaw), [Goldman Sachs](#goldman-sachs),
-[Google](#google) with [Google Top](#google-top), [LinkedIn](#linkedin), [Meta](#meta), [Microsoft](#microsoft),
-[Netflix](#netflix), [Reddit](#reddit), [Spotify](#spotify), [Tesla](#tesla),  [TikTok](#tiktok), [Twitter](#twitter) or [Uber](#uber)
-then that solution of specific company is added to the company's section as my GitHub solution found through [contents](#table-of-contents).
-Otherwise it is added [here](#others) as the solved problem is not glued to any of the high-tier companies' section; it is just a random problem that was solved. <br>
+If the solved **LeetCode** problem is one of the problems asked by high-tier companies like Adobe, Airbnb, Amazon, Apple, Bloomberg, DE Shaw, Goldman Sachs,
+Google, LinkedIn, Meta (previously facebook), Microsoft, Netflix, Reddit, Spotify, Tesla], TikTok, Twitter or Uber then that solution for all the companies that had given it as a
+problem are indentified [here][#problems-and-solutions] while the total number of solved problems per comapny is given [here]((#total-number)). If the solution wasn't asked to be solved by any of the companies
+then it is added [here](#others) as the solved problem is not glued to any of the high-tier companies; it is just a random problem that was solved. <br>
 
 The progress of my **LeetCode** account regarding these solutions with additional information on them can be found by looking at my [LeetCode profile](https://leetcode.com/aurimas13/).
 
-The **Leetcode** solutions of **Python** are found  [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/Python%20Solutions) while **HackerRank** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/Python%20Solutions). 
-Each problem folder has the description of the problem found through pressing the link in **README** at the respective folder or if it is provided for the particular high-tier company found through [contents](#table-of-contents). 
-By pressing on that company you will be redirected to the problem description (1<sup>st</sup> column) followed by the solution implemented in PyCharm (2<sup>nd</sup> column).
+The **LeetCode** solutions of **Python** are found  [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/Python%20Solutions) while **HackerRank** solutions of **Python** are found [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/Python%20Solutions), while **LeetCode** solutions implementing Java are found [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions).
+Each problem folder has the description of the problem found through pressing the link in **README** at the respective folder or if it is provided for the particular high-tier company as described above. Some also havce the solution and explanation for the problem that redirects to the solution of the explanation at LeetCode post.
+By pressing on the name of the problem at the [Problems and Solutions](#problems-and-solutions), [Must Do Problems](#must-do-problems) or [Google Top](#google-top) you will be redirected to the problem description (1<sup>st</sup> column) followed by the solution implemented in PyCharm (2<sup>nd</sup> column) while the 3<sup>rd</sup> and 4<sup>th</sup> columns give time and space complexities of teh solution. 
 
-Currently, doing **Python** problems of **LeetCode**. **HackerRank** problems were finished on May and from *28<sup>th</sup> of May 2022* am working on solving at least one **Python** problem from [LeetCode](https://leetcode.com/problemset/all/) daily. 
-The solution is put at the respective **LeetCode** folder and added to the list of a high-tier company where it is a common interview question to be asked to solve.
-The problems for a particular company is seen through [contents list](#table-of-contents). 
+Currently, doing **Python** & a bit of **Java** problems of **LeetCode**. **HackerRank** problems were finished on May and from *28<sup>th</sup> of May 2022* am working on solving at least one **Python** problem from [LeetCode](https://leetcode.com/problemset/all/) daily. 
+The solution is put at the respective **LeetCode** folder and added to the list of a [problems and solutions](#problems-and-solutions) where companies that provide that problem are identified.
 
-**SQL** solutions of problems at *HackerRank* & *LeetCode* will come in Fall while they will be updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
+**SQL** solutions of problems at *HackerRank* & *LeetCode* will come this year while they will be updated [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/HackerRank-LeetCode/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
 
 # Table of Contents
 - [Table of contents](#table-of-contents)
 - [Preparation for Interiews](#preparation-for-interviews)
 - [Problems and Solutions](#problems-and-solutions)
+- [Tota Number][#total-number]
 - [Must Do Problems](#must-do-problems) 
 - [Google Top](#google-top) 
 - [License](#license)
@@ -341,7 +339,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 
 ---
-### Total 
+### Total Number
 Total number of LeetCode solutions per comapny are shown below:<sup*</sup>
 
 | Company Name | Total Solutions |
