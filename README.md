@@ -49,7 +49,7 @@ The solution is put at the respective **LeetCode** folder and added to the list 
 - [Table of contents](#table-of-contents)
 - [Preparation for Interiews](#preparation-for-interviews)
 - [Problems and Solutions](#problems-and-solutions)
-- [Tota Number][#total-number]
+- [Total Number](#total-number)
 - [Must Do Problems](#must-do-problems) 
 - [Google Top](#google-top) 
 - [License](#license)
