@@ -54,25 +54,7 @@ The problems for a particular company is seen through [contents list](#table-of-
 - [Problems and Solutions](#problems-and-solutions)
 - [Must Do Problems](#must-do-problems) 
 - [Google Top](#google-top) 
-- [Adobe](#adobe) 
-- [Airbnb](#airbnb)
-- [Amazon](#amazon)
-- [Apple](#apple)
-- [Bloomberg](#bloomberg) 
-- [DE Shaw](#de-shaw)
-- [Goldman Sachs](#goldman-sachs)
-- [Google](#google)
-- [LinkedIn](#linkedin) 
-- [Meta](#meta) 
-- [Microsoft](#microsoft) 
-- [Netflix](#netflix)
-- [Reddit](#reddit)
-- [Spotify](#spotify)
-- [Tesla](#tesla)
-- [TikTok](#tiktok)
-- [Twitter](#twitter)
-- [Uber](#uber)
-- [Others](#others)
+- [License](#license)
 
 ## Preparation for Interviews
 [(Back to top)](#table-of-contents)
@@ -359,11 +341,11 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 
 ---
-### Total Number
-Here is a table that shows how many solutions there are per company:<br><sup>x</sup></br>
+### Total 
+Total number of LeetCode solutions per comapny are shown below:<sup*</sup>
 
 | Company Name | Total Solutions |
-|-------------|-----------------|
+|--------|----------|
 | Google | 163 |
 | Amazon | 152 |
 | Apple | 152 |
@@ -384,7 +366,7 @@ Here is a table that shows how many solutions there are per company:<br><sup>x</
 | Uber | 99 |
 | Others | 1 |
 
-<br><sup>x</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
+<br><sup>*</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
 
 ---
 ### Must Do Problems
@@ -2080,9 +2062,9 @@ There are a total of 99 solutions for Uber found through [here][#problems-and-so
 | 98 | [4Sum](https://leetcode.com/problems/4sum/)                                                                                             | [4Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/4Sum/4Sum.py)                                                                                                                  | O(n^2)          | O(n)             |
 | 99 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                               | [Binary Search](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Search/binary.py)                                                                               | O(log n)        | O(1)             | -->
 
-### Others
+<!-- ### Others
 [(Back to top)](#table-of-contents)
-There is only one solution for Other companies found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the Others subsection by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There is only one solution for Other companies found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the Others subsection by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- 
 | No. | Questions                                                                          | Solution in PyCharm                                                                                                                           | Time Complexity | Space Complexity |
@@ -2090,19 +2072,19 @@ There is only one solution for Other companies found through [here][#problems-an
 | 1   | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/)  | [Mirror Reflection](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py)   | O(n^2)          | O(1)             |  -->
 
 
-
+<!-- 
 [comment]: <> (- [Public]&#40;#Public&#41;)
 
 [comment]: <> (- [License]&#40;#License&#41;)
 
-[comment]: <> (- )
+[comment]: <> (- ) -->
 
-[//]: # (# Public)
+<!-- [//]: # (# Public)
 
 [//]: # ()
 [//]: # (The folder includes [**foto**]&#40;https://github.com/aurimas13/HackerRank-Leetcode/blob/main/Public/solve.png"&#41;.)
 
-[//]: # ()
+[//]: # () -->
 # License
 
 [//]: # ()
