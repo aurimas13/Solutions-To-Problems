@@ -87,25 +87,6 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 ### Problems and Solutions
 
 |No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Meta|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|
-| Google | 163 |
-| Amazon | 152 |
-| Apple | 152 |
-| Meta | 138 |
-| Microsoft | 120 |
-| Adobe | 123 |
-| Airbnb | 29 |
-| Bloomberg | 118|
-| DE Shaw| 17 |
-| Goldman Sachs | 103 |
-| LinkedIn | 42 |
-| Netflix | 6 |
-| Reddit | 13 |
-| Spotify | 21 |
-| Tesla | 33 |
-| TikTok | 54 |
-| Twitter | 28 |
-| Uber | 99 |
-| Others | 1 |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |1| [01 Matrix](https://leetcode.com/problems/01-matrix/) | [01 Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/01%20Matrix/01.py) |O(n^2)|O(n^2)|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|
 |2| [3Sum](https://leetcode.com/problems/3sum)| [3Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py)|O(n^2)|O(n)|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
