@@ -86,7 +86,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 ------
 ### Problems and Solutions
 
-|No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Meta|Microsoft|Adobe|Bloomberg|DE Shaw|Goldman Sachs|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|
+|No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Meta|Microsoft|Adobe|Bloomberg|DE Shaw|Goldman Sachs|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Airbnb|
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |1| [01 Matrix](https://leetcode.com/problems/01-matrix/) | [01 Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/01%20Matrix/01.py) |O(n^2)|O(n^2)|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|
 |2| [3Sum](https://leetcode.com/problems/3sum)| [3Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py)|O(n^2)|O(n)|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
@@ -358,6 +358,35 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 267 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)                       | [X of a Kind in a Deck of Cards](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/deck.py)                | O(n log n)      | O(n)             |<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul
 | 268 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)                                                                    | [ZigZag Conversion](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Zigzag%20Conversion/zigzag.py)                                                                                    |||<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul
 
+
+---
+### Total Number
+Here is a table that shows how many solutions there are per company:<br><sup>x</sup></br>
+
+|Company Name | Total Solutions |
+|-------------|-----------------|
+|Google|163
+|Amazon|152|
+|Apple|152|
+|Meta|138
+|Microsoft|120|
+|Adobe|123|
+|Airbnb|29|
+|Bloomberg|118|
+|DE Shaw|17|
+|Goldman Sachs|103|
+|LinkedIn|42|
+|Netflix|6|
+|Reddit|13|
+|Spotify|21|
+|Tesla|33|
+|TikTok|54|
+|Twitter|28|
+|Uber|99|
+|Others|1|
+
+<br><sup>x</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
+
 ---
 ### Must Do Problems
 [(Back to top)](#table-of-contents)
@@ -472,11 +501,11 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 22  | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)                                     | [Random Pick with Weight](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Random%20Pick%20with%20Weight/random.py)                                      |
 
 
----
-### Adobe
+
+<!-- ### Adobe
 [(Back to top)](#table-of-contents)
 
-There are a total of 123 solutions for Airbnb found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 123 solutions for Airbnb found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 
 <!-- 
@@ -598,11 +627,13 @@ There are a total of 123 solutions for Airbnb found through [here][#problems-and
 | 122 | [4Sum](https://leetcode.com/problems/4sum/)                                                                                    | [4Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/4Sum/4Sum.py)                                                                                                     | O(n^2)          | O(n)             |
 | 123 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                      | [Binary Search](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Search/binary.py)                                                                               | O(log n)        | O(1)             | -->
 
+
+<!-- 
 ### Airbnb
 [(Back to top)](#table-of-contents)
 
 
-There are a total of 29 solutions for Airbnb found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 29 solutions for Airbnb found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- | No. | Questions                                                                                                   | Solution in PyCharm                                                                                                                                                            | Time Complexity | Space Complexity |
 |----|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
@@ -637,10 +668,10 @@ There are a total of 29 solutions for Airbnb found through [here][#problems-and-
 | 29 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/) | [Cheapest Flights Within K Stops](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Cheapest%20Flights%20Within%20K%20Stops/cheapest.py) | O(n^2)          | O(n)             | -->
 
 
-### Amazon
+<!-- ### Amazon
 [(Back to top)](#table-of-contents)
 
-There are a total of 152 solutions for Amazon found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 152 solutions for Amazon found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 
 <!-- | No. | Questions                                                                                                                               | Solution in PyCharm                                                                                                                                                                                                            | Time Complexity | Space Complexity |
@@ -802,10 +833,10 @@ There are a total of 152 solutions for Amazon found through [here][#problems-and
 | 152 | [Integer Break](https://leetcode.com/problems/integer-break/description/)                                                               | [Integer Break](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Integer%20Break/integer.py)                       | O(n^2)          | O(n)             | -->
 
 
-### Apple
+<!-- ### Apple
 [(Back to top)](#table-of-contents)
 
-There are a total of 152 solutions for Apple found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 152 solutions for Apple found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- | No. | Questions                                                                                                                                         | Solution in PyCharm                                                                                                                                                                                                                   | Time Complexity | Space Complexity |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
@@ -962,10 +993,10 @@ There are a total of 152 solutions for Apple found through [here][#problems-and-
 | 151 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)                             | [Time Needed to Inform All Employees](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Time%20Needed%20to%20Inform%20All%20Employees/time.py)                                          | O(n)       | O(n)          |
 | 152 | [Integer Break](https://leetcode.com/problems/integer-break/description/)                                                               | [Integer Break](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Integer%20Break/integer.py)                                                                                           | O(n^2)          | O(n)             | -->
 
-### Bloomberg
+<!-- ### Bloomberg
 [(Back to top)](#table-of-contents)
 
-There are a total of 118 solutions for Bloomberg found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 118 solutions for Bloomberg found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- | No. | Questions                                                                                                                               | Solution in PyCharm                                                                                                                                                                                                        | Time Complexity | Space Complexity |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
@@ -1089,10 +1120,10 @@ There are a total of 118 solutions for Bloomberg found through [here][#problems-
 | 118 | [Integer Break](https://leetcode.com/problems/integer-break/description/)                                                               | [Integer Break](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Integer%20Break/integer.py)                                                                                           | O(n^2)          | O(n)             | -->
 
 
-### DE Shaw
+<!-- ### DE Shaw
 [(Back to top)](#table-of-contents)
 
-There are a total of 17 solutions for DE Shaw found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 17 solutions for DE Shaw found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 
 <!-- | No. | Questions                                                                                                    | Solution in PyCharm                                                                                                                                                                               | Time Complexity | Space Complexity |
@@ -1115,10 +1146,10 @@ There are a total of 17 solutions for DE Shaw found through [here][#problems-and
 | 16  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Letter Combinations of a Phone Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py) | O(2^n)          | O(2^n)           |
 | 17  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)                         | [Container With Most Water](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Container%20With%20Most%20Water/container.py)                                | O(n)            | O(1)             | -->
 
-### Goldman Sachs
+<!-- ### Goldman Sachs
 [(Back to top)](#table-of-contents)
 
-There are a total of 103 solutions for Goldman Sachs found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 103 solutions for Goldman Sachs found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- | No. | Questions                                                                                                                                | Solution in PyCharm                                                                                                                                                                                                             | Time Complexity | Space Complexity  |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-------------------|
@@ -1226,10 +1257,10 @@ There are a total of 103 solutions for Goldman Sachs found through [here][#probl
 | 102 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                                    | [Count Complete Tree Nodes](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Complete%20Tree%20Nodes/count.py)                                                                  | O(log n)        | O(log n)          |
 | 103 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                      | [Binary Search](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Search/binary.py)                                                                               | O(log n)        | O(1)             | -->
 
-### Google
+<!-- ### Google
 [(Back to top)](#table-of-contents)
 
-There are a total of 163 solutions for Google found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 163 solutions for Google found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- 
 | No. | Questions                                                                                                                               | Solution in PyCharm                                                                                                                                                                                                            | Time Complexity | Space Complexity |
@@ -1401,10 +1432,10 @@ There are a total of 163 solutions for Google found through [here][#problems-and
 | 165 | [Integer Break](https://leetcode.com/problems/integer-break/description/)                                                               | [Integer Break](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Integer%20Break/integer.py)                                                                                           | O(n^2)          | O(n)             |
 | 166 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)             | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/minimum.py)                                   | O(n log n)          | O(n)           | -->
 
-### LinkedIn
+<!-- ### LinkedIn
 [(Back to top)](#table-of-contents)
 
-There are a total of 42 solutions for GoLinkedIn found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 42 solutions for GoLinkedIn found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 
 <!-- 
@@ -1454,10 +1485,10 @@ There are a total of 42 solutions for GoLinkedIn found through [here][#problems-
 | 42  | [4Sum](https://leetcode.com/problems/4sum/)                                                                                     | [4Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/4Sum/4Sum.py)                                                                                                     | O(n^2)          | O(n)             | -->
 
 
-### Meta
+<!-- ### Meta
 [(Back to top)](#table-of-contents)
 
-There are a total of 138 solutions for Meta (previously Facebook) found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 138 solutions for Meta (previously Facebook) found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- 
 | No. | Questions                                                                                                                               | Solution in PyCharm                                                                                                                                                                                                            | Time Complexity | Space Complexity |
@@ -1602,10 +1633,10 @@ There are a total of 138 solutions for Meta (previously Facebook) found through 
 | 138 | [Integer Break](https://leetcode.com/problems/integer-break/description/)                                                               | [Integer Break](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Integer%20Break/integer.py)                                                                                           | O(n^2)          | O(n)             | -->
 
 
-### Microsoft
+<!-- ### Microsoft
 [(Back to top)](#table-of-contents)
 
-There are a total of 120 solutions for Microsoft found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 120 solutions for Microsoft found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- 
 | No. | Questions                                                                                                                               | Solution in PyCharm                                                                                                                                                                                                            | Time Complexity | Space Complexity |
@@ -1731,10 +1762,10 @@ There are a total of 120 solutions for Microsoft found through [here][#problems-
 | 119 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)             | [Count Square Submatrices with All Ones](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Square%20Submatrices%20with%20All%20Ones/count.py)                                   | O(n^2)          | O(n^2)           |
 | 120 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)             | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/minimum.py)                                   | O(n log n)          | O(n)           | -->
 
-### Netflix
+<!-- ### Netflix
 [(Back to top)](#table-of-contents)
 
-There are a total of 6 solutions for Netflix found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 6 solutions for Netflix found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- | No. | Questions                                                                                        | Solution in PyCharm                                                                                                                                                                      | Time Complexity | Space Complexity |
 |-----|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
@@ -1746,10 +1777,10 @@ There are a total of 6 solutions for Netflix found through [here][#problems-and-
 | 6   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)                 | [Top K Frequent Elements](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py)                            | O(n)            | O(n)             | -->
 
 
-### Reddit
+<!-- ### Reddit
 [(Back to top)](#table-of-contents)
 
-There are a total of 13 solutions for Reddit found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 13 solutions for Reddit found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- 
 | No. | Questions                                                                                                                      | Solution in PyCharm                                                                                                                                                                                               | Time Complexity | Space Complexity |
@@ -1768,10 +1799,10 @@ There are a total of 13 solutions for Reddit found through [here][#problems-and-
 | 12  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowest.py) | O(n)            | O(1)             |
 | 13  | [Game of Life](https://leetcode.com/problems/game-of-life)                                                                     | [Game of Life](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py)                                                                                 | -->
 
-### Spotify
+<!-- ### Spotify
 [(Back to top)](#table-of-contents)
 
-There are a total of 21 solutions for Spotify found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 21 solutions for Spotify found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- 
 | No. | Questions                                                                                                                              | Solution in PyCharm                                                                                                                                                                                               | Time Complexity | Space Complexity |
@@ -1799,10 +1830,10 @@ There are a total of 21 solutions for Spotify found through [here][#problems-and
 | 21  | [Walls And Gates](https://leetcode.com/problems/walls-and-gates/description/)                                                          | [Walls And Gates](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py)                                                                | -->
 
 
-### Tesla
+<!-- ### Tesla
 [(Back to top)](#table-of-contents)
 
-There are a total of 33 solutions for Tesla found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 33 solutions for Tesla found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- | No. | Questions                                                                                                    | Solution in PyCharm                                                                                                                                                                               | Time Complexity | Space Complexity |
 |-----|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
@@ -1841,11 +1872,11 @@ There are a total of 33 solutions for Tesla found through [here][#problems-and-s
 | 33  | [Largest Number](https://leetcode.com/problems/largest-number/description/)                                  | [Largest Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Number/largest.py)                                                            | -->
 
 
-### TikTok
+<!-- ### TikTok
 [(Back to top)](#table-of-contents)
 
 
-There are a total of 54 solutions for TikTok found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 54 solutions for TikTok found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- 
 | No. | Questions                                                                                                                     | Solution in PyCharm                                                                                                                                                                                          | Time Complexity | Space Complexity |
@@ -1906,10 +1937,10 @@ There are a total of 54 solutions for TikTok found through [here][#problems-and-
 | 54  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                         | [Count Complete Tree Nodes](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Complete%20Tree%20Nodes/count.py)                                               | O(log n)        | O(log n)         |
  -->
 
-### Twitter
+<!-- ### Twitter
 [(Back to top)](#table-of-contents)
 
-There are a total of 28 solutions for Twitter found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 28 solutions for Twitter found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- | No. | Questions                                                                                                                      | Solution in PyCharm                                                                                                                                                                                               | Time Complexity | Space Complexity |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
@@ -1943,10 +1974,10 @@ There are a total of 28 solutions for Twitter found through [here][#problems-and
 | 28  | [Number of Islands](https://leetcode.com/problems/number-of-provinces/description/)                                            | [Number of Islands](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py)                                                                   | O(n^2)          | O(n^2)           | -->
 
 
-### Uber
+<!-- ### Uber
 [(Back to top)](#table-of-contents)
 
-There are a total of 99 solutions for Uber found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
+There are a total of 99 solutions for Uber found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the company name by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md). -->
 
 <!-- | No. | Questions                                                                                                                               | Solution in PyCharm                                                                                                                                                                                                            | Time Complexity | Space Complexity |
 |----|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
@@ -2050,14 +2081,14 @@ There are a total of 99 solutions for Uber found through [here][#problems-and-so
 | 98 | [4Sum](https://leetcode.com/problems/4sum/)                                                                                             | [4Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/4Sum/4Sum.py)                                                                                                                  | O(n^2)          | O(n)             |
 | 99 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                               | [Binary Search](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Search/binary.py)                                                                               | O(log n)        | O(1)             | -->
 
-
----
 ### Others
 [(Back to top)](#table-of-contents)
+There is only one solution for Other companies found through [here][#problems-and-solutions]. To be updaded as going through the list [there][#problems-and-solutions] and updating weekly. Currently details commented under the Others subsection by inspecting [README](https://github.com/aurimas13/Solutions-To-Problems/blob/main/README.md).
 
+<!-- 
 | No. | Questions                                                                          | Solution in PyCharm                                                                                                                           | Time Complexity | Space Complexity |
 |-----|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
-| 1   | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/)  | [Mirror Reflection](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py)   | O(n^2)          | O(1)             | 
+| 1   | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/)  | [Mirror Reflection](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py)   | O(n^2)          | O(1)             |  -->
 
 
 
