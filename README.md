@@ -337,13 +337,42 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 267 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)                       | [X of a Kind in a Deck of Cards](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/deck.py)                | O(n log n)      | O(n)            |<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
 | 268 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)                                                                    | [ZigZag Conversion](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Zigzag%20Conversion/zigzag.py)                                                                                    |||<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
 | 269 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) | [Different Ways to Add Parentheses](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Different%20Ways%20to%20Add%20Parentheses/Determine%20if%20Two%20Events%20Have%20Conflict/different.py) | O(2^n) | O(2^n) | <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
-
+| 270 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-complete-tree-nodes/) | [Count Odd Numbers in an Interval Range](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Odd%20Numbers%20in%20an%20Interval%20Range/count.py) | O(1) | O(1) | <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 
 
 
 
 
 <!-- |Google|Amazon|Apple|Meta|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
+
+---
+### Total Number
+Total number of LeetCode solutions per comapny are shown below:<sup>*</sup>
+
+| Company Name | Total Solutions |
+|--------|----------|
+| Google | 165 |
+| Amazon | 154 |
+| Apple | 153 |
+| Meta | 139 |
+| Adobe | 124 |
+| Microsoft | 121 |
+| Bloomberg | 119|
+| Goldman Sachs | 103 |
+| Uber | 99 |
+| TikTok | 54 |
+| LinkedIn | 42 |
+| Tesla | 33 |
+| Airbnb | 29 |
+| Twitter | 28 |
+| Spotify | 21 |
+| DE Shaw| 17 |
+| Reddit | 13 |
+| Netflix | 6 |
+| Others | 1 |
+
+<br><sup>*</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
+
 ---
 ### Must Do Problems
 [(Back to top)](#table-of-contents)
@@ -456,34 +485,6 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 20  | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)                                     | [Split Array Largest Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Split%20Array%20Largest%20Sum%20/split.py)                                    |
 | 21  | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)       | [Minimum Domino Rotations For Equal Row](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Domino%20Rotations%20For%20Equal%20Row/minimum.py)   |
 | 22  | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)                                     | [Random Pick with Weight](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Random%20Pick%20with%20Weight/random.py)                                      |
-
----
-### Total Number
-Total number of LeetCode solutions per comapny are shown below:<sup>*</sup>
-
-| Company Name | Total Solutions |
-|--------|----------|
-| Google | 163 |
-| Amazon | 152 |
-| Apple | 152 |
-| Meta | 138 |
-| Adobe | 123 |
-| Microsoft | 120 |
-| Bloomberg | 118|
-| Goldman Sachs | 103 |
-| Uber | 99 |
-| TikTok | 54 |
-| LinkedIn | 42 |
-| Tesla | 33 |
-| Airbnb | 29 |
-| Twitter | 28 |
-| Spotify | 21 |
-| DE Shaw| 17 |
-| Reddit | 13 |
-| Netflix | 6 |
-| Others | 1 |
-
-<br><sup>*</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
 
 ---
 
