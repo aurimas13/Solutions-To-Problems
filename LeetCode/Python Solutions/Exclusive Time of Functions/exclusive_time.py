@@ -2,37 +2,32 @@ from typing import List
 
 
 class Solution:
-    @staticmethod
-    def addOperators(num: str, target: int) -> List[str]:
-        def calculate(pos, res, pre, value, expression):
-            if pos == len(num):
-                if target == value:
-                    res.append(''.join(expression))
-                return
-            for j in range(pos, len(num)):
-                number = num[pos: j + 1]
-                if number[0] == '0' and j - pos > 0:
-                    break
-                number = int(number)
-                if pos == 0:
-                    calculate(j + 1, res, number, number, expression + [str(number)])
-                    continue
-                # add
-                calculate(j + 1, res, number, value + number, expression + ['+'] + [str(number)])
-                # subtract
-                calculate(j + 1, res, -number, value - number, expression + ['-'] + [str(number)])
-                # multiply
-                calculate(j + 1, res, pre * number,
-                          value - pre + pre * number, expression + ['*'] + [str(number)])
+    def exclusiveTime(self, n: int, logs: List[str]) -> List[int]:
+        stack = []
+        exclusive_times = [0] * n
+        prev_time = 0
+        for log in logs:
+            fn_id, event, timestamp = log.split(":")
+            fn_id = int(fn_id)
+            timestamp = int(timestamp)
+            
+            if event == "start":
+                if stack:
+                    exclusive_times[stack[-1]] += timestamp - prev_time
+                stack.append(fn_id)
+                prev_time = timestamp
+            else:
+                exclusive_times[stack.pop()] += timestamp - prev_time + 1
+                prev_time = timestamp + 1
+                
+        return exclusive_times
 
-        result = []
-        calculate(0, result, None, 0, [])
-        return result
-
-
+        
+        
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.addOperators(num = "232", target = 8)
-    # num = "232", target = 8 -> ["2*3+2","2+3*2"]
+    Solve = Sol.exclusiveTime(n = 2, logs = ["0:start:0","1:start:2","1:end:5","0:end:6"])
+    # n = 2, logs = ["0:start:0","1:start:2","1:end:5","0:end:6"] -> [3,4]
+    # n = 1, logs = ["0:start:0","0:start:2","0:end:5","0:start:6","0:end:6","0:end:7"] -> [8]
     print(Solve)
