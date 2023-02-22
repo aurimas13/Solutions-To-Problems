@@ -1,23 +1,27 @@
-from typing import List
-
-
 class Solution:
-    @staticmethod
-    def strStr(haystack: str, needle: str) -> int:
-        m = len(haystack)
-        n = len(needle)
+    def findMinFibonacciNumbers(self, k: int) -> int:
+         # Generate Fibonacci sequence up to k
+        fib = [1, 1]
+        while fib[-1] < k:
+            fib.append(fib[-1] + fib[-2])
+        
+        # Use a greedy approach to choose largest Fibonacci numbers that fit into remaining sum
+        count = 0
+        i = len(fib) - 1
+        while k > 0:
+            if fib[i] <= k:
+                k -= fib[i]
+                count += 1
+            i -= 1
+        
+        return count
 
-        for i in range(m - n + 1):
-            if haystack[i:i + n] == needle:
-                return i
-
-        return -1
 
 
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.strStr(haystack = "sadbutsad", needle = "sad")
-    # haystack = "sadbutsad", needle = "sad" -> 0
-    # haystack = "leetcode", needle = "leeto" -> -1
+    # k = 7 -> 2 
+    # k = 10 -> 2 
     print(Solve)

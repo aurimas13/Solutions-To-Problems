@@ -1,21 +1,16 @@
 from typing import List
-import random
-
 
 class Solution:
+    def reconstructQueue(self, people: List[List[int]]) -> List[List[int]]:
+        # sort the array of people in decreasing order of height and increasing order of k
+        people.sort(key=lambda x: (-x[0], x[1]))
+        
+        # initialize an empty list to store the reconstructed queue
+        queue = []
+        
+        # insert each person in the sorted array at the kth index in the queue
+        for p in people:
+            queue.insert(p[1], p)
+        
+        return queue
 
-    def __init__(self, w: List[int]):
-        curr = 0
-        self.prefix_sums = [curr := curr + i for i in w]
-        self.sum = curr
-
-    def pickIndex(self) -> int:
-        res = self.sum * random.random()
-        l, r = 0, len(self.prefix_sums)
-        while l < r:
-            m = l + (r - l) // 2
-            if res > self.prefix_sums[m]:
-                l = m + 1
-            else:
-                r = m
-        return l
