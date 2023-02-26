@@ -30,3 +30,6 @@ if __name__ == '__main__':
     # s = "abcd", indices = [0, 2], sources = ["a", "cd"], targets = ["eee", "ffff"] -> "eeebffff"
     # s = "abcd", indices = [0, 2], sources = ["ab","ec"], targets = ["eee","ffff"] -> "eeecd"
     print(Solve)
+
+
+
