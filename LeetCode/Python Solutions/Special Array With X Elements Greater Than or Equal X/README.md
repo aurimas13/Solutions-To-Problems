@@ -1,0 +1,1 @@
+Problem description of "Special Array With X Elements Greater Than or Equal X" can be found [here](https://leetcode.com/problems/spiral-matrix/) and its solution [here]() while the explanation with mode  details like complexities description [here](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/).
