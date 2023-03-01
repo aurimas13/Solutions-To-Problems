@@ -29,5 +29,8 @@ class Solution:
 # Checking in PyCharm/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.calculate(s = "1 + 1")  # s = "1 + 1" -> 2 | s = "(1+(4+5+2)-3)+(6+8)" -> 23 | s = " 2-1 + 2 " -> 3
+    Solve = Sol.calculate(s = "1 + 1")  
+    # s = "1 + 1" -> 2 
+    # s = "(1+(4+5+2)-3)+(6+8)" -> 23
+    # s = " 2-1 + 2 " -> 3
     print(Solve)
