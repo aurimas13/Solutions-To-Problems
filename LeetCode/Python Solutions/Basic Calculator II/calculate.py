@@ -1,16 +1,16 @@
 class Solution:
-    @staticmethod
-    def calculate(s: str) -> int:
+    def calculate(self, s: str) -> int:
         stack = []
         curr = 0
         ope = "+"
+        
         if not s:
             return 0
+        
+        operators = set(['+', '-', '*', '/'])
+        nums = set([str(x) for x in range(0, 10)])
 
-        operators = {'+', '-', '*', '/'}
-        nums = set(str(x) for x in range(0, 10))
-
-        for i in range(0, len(s)):
+        for i in range(len(s)):
             char = s[i]
 
             if char in nums:
@@ -35,8 +35,11 @@ class Solution:
         return sum(stack)
 
 
-# Checking in PyCharm/console:
+
+# Checking in Terminal/Console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.calculate(" 3+5 / 2 ")  # s = "3+2*2" -> 7  | s = " 3+5 / 2 " -> 5
+    Solve = Sol.calculate(" 3+5 / 2 ")  
+    # s = "3+2*2" -> 7  
+    # s = " 3+5 / 2 " -> 5
     print(Solve)
