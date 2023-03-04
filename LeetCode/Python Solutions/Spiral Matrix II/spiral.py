@@ -30,4 +30,3 @@ if __name__ == '__main__':
     Solve = Instant.generateMatrix(n=3)
     # n=3 -> [[1,2,3],[8,9,4],[7,6,5]] | n=1 -> [[1]]
     print(Solve)
-
