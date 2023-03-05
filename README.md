@@ -97,7 +97,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 28 | [Clone Graph](https://leetcode.com/problems/clone-graph)                                                                                          | [Clone Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Clone%20Graph/clone.py)                                                                                                        | O(n)            | O(n)             |<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
 | 29  | [Coin Change](https://leetcode.com/problems/coin-change)                                                                                | [Coin Change](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Coin%20Change/change.py)                                                                                            | O(n^2)          | O(n)             |<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
 | 30  | [Combination Sum](https://leetcode.com/problems/combination-sum)                                                                        | [Combination Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum/combine.py)                                                                                   | O(2^n)          | O(n)             |<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
-| 31  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)                                            | [Combination Sum II](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)                                                              |||<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
+| 31  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)                                            | [Combination Sum II](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20II/combination.py)                                                              |O(n^2)|O(n)|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|
 | 32  | [Combination Sum III](https://leetcode.com/problems/combination-sum/)                                            | [Combination Sum III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Combination%20Sum%20III/combination.py)                                                              |||<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
 | 33  | [Combination Sum IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)                                            | [Combination Sum IV](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best_buy_sell.py) |||<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
 |34| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/construct.py) |||<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|
@@ -366,23 +366,23 @@ Total number of LeetCode solutions per comapny are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Google | 178 |
-| Amazon | 162 |
-| Apple | 158 |
-| Meta | 144 |
+| Google | 179 |
+| Amazon | 163 |
+| Apple | 159 |
+| Meta | 145 |
 | Adobe | 129 |
-| Bloomberg | 124 |
-| Microsoft | 124 |
+| Microsoft | 125 |
+| Bloomberg | 125 |
 | Goldman Sachs | 105 |
-| Uber | 102 |
-| TikTok | 56 |
+| Uber | 103 |
+| TikTok | 57 |
 | LinkedIn | 45 |
 | Tesla | 35 |
-| Airbnb | 32 |
+| Airbnb | 33 |
 | Twitter | 30 |
 | Spotify | 21 |
 | DE Shaw| 17 |
-| Reddit | 14 |
+| Reddit | 15 |
 | Netflix | 7 |
 | Others | ALL |
 
