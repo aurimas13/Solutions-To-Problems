@@ -4,25 +4,37 @@ import copy
 
 
 class Solution:
-    def DFS(self,target,path,recoder):
+    def dfs(self, target: int, path: List[int], recorder: dict):
+        """
+        Recursive function that performs DFS to find all unique combinations that sum to target
+        """
         if target == 0:
-            self.res.append(path)
+            self.result_set.append(path)  # If the target is achieved, add the path to the result set
         else:
-            for key in recoder:
-                if recoder[key] > 0 and target - key >= 0:
-                    recoder_copy = copy.copy(recoder)
-                    recoder[key] = 0
-                    recoder_copy[key] -= 1
-                    self.DFS(target - key,path+[key],recoder_copy)
+            for key in recorder:
+                # Check if the number is available and can be used to achieve the target
+                if recorder[key] > 0 and target - key >= 0:
+                    # Create a copy of the recorder to avoid mutation
+                    recorder_copy = copy.copy(recorder)
+                    # Update the copy of the recorder
+                    recorder[key] = 0
+                    recorder_copy[key] -= 1
+                    # Recursively call the DFS function
+                    self.dfs(target - key, path + [key], recorder_copy)
 
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        recoder = collections.Counter(candidates)
-        self.res = []
-        self.DFS(target,[],recoder)
-        return self.res
+        """
+        Finds all unique combinations in candidates where the candidate numbers sum to target
+        Each number in candidates may only be used once in the combination
+        Note: The solution set must not contain duplicate combinations
+        """
+        recorder = collections.Counter(candidates) # Use Counter to create a dictionary of candidate numbers with their frequency
+        self.result_set = []
+        self.dfs(target, [], recorder) # Call the DFS function to find all unique combinations
+        return self.result_set
 
 
-# Checking in PyCharm/console:
+# Checking in Terminal/Console:
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.combinationSum2(candidates = [10,1,2,7,6,1,5], target = 8)
