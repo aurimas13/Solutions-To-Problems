@@ -23,7 +23,7 @@ class Solution:
 
 
 
-# Checking in PyCharm/terminal:
+# Checking in Terminal:
 if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.getMaximumGold([[0,6,0],[5,8,7],[0,9,0]])  
