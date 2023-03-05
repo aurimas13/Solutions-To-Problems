@@ -16,7 +16,6 @@ class Solution:
         return left
 
 
-
 # Checking in Terminal/Console:
 if __name__ == '__main__':
     Instant = Solution()
