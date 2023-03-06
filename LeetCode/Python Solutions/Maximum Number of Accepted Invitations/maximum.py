@@ -30,7 +30,7 @@ class Solution:
 # Checking in console
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.maxNumberOfBalloons('balon')  
+    Solve = Instant.maximumInvitations(grid = [[1,1,1], [1,0,1], [0,0,1]])  
     # grid = [[1,1,1], [1,0,1], [0,0,1]] -> 3
     # grid = [[1,0,1,0], [1,0,0,0],
     #         [0,0,1,0], [1,1,1,0]] -> 3

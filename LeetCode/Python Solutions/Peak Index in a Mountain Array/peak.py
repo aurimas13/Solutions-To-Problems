@@ -19,7 +19,7 @@ class Solution:
 # Checking in Terminal/Console:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.getMaximumGold([[0,6,0],[5,8,7],[0,9,0]])  
+    Solve = Instant.peakIndexInMountainArray(arr = [0,2,1,0])  
     # arr = [0,1,0] -> 1
     # arr = [0,2,1,0] -> 1
     print(Solve)
