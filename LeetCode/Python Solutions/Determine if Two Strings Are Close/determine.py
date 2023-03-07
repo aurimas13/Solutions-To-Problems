@@ -30,3 +30,4 @@ if __name__ == '__main__':
     # word1 = "a", word2 = "aa" -> false
     print(Solve)
     
+    
