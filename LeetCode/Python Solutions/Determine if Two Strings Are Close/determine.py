@@ -29,5 +29,3 @@ if __name__ == '__main__':
     # word1 = "abc", word2 = "bca" -> true
     # word1 = "a", word2 = "aa" -> false
     print(Solve)
-    
-    
