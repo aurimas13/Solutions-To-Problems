@@ -25,7 +25,7 @@ class Solution:
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.closeStrings(event1 = ["01:15","02:00"], event2 = ["02:00","03:00"])
+    Solve = Sol.closeStrings(word1 = "abc", word2 = "bca")
     # word1 = "abc", word2 = "bca" -> true
     # word1 = "a", word2 = "aa" -> false
     print(Solve)
