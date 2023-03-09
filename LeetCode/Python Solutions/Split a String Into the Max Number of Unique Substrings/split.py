@@ -1,35 +1,44 @@
-from typing import List
-from heapq import heappop, heappush
-
 class Solution:
-    def isPossible(self, nums: List[int]) -> bool:
-        subsequences = []
+    def maxUniqueSplit(self, s: str) -> int:
+        # Create a set to store unique substrings
+        unique_substrings = set()
 
-        for num in nums:
-            while subsequences and subsequences[0][0] + 1 < num:
-                sub = heappop(subsequences)
-                if sub[1] < 3:
-                    return False
+        def backtrack(start):
+            # Base case: all substrings have been processed
+            if start == len(s):
+                return 0
 
-            if not subsequences or subsequences[0][0] == num:
-                heappush(subsequences, [num, 1])  # end, len
-            else:
-                # Pop and push to maintain order
-                sub = heappop(subsequences)
-                sub[0] += 1
-                sub[1] += 1
-                heappush(subsequences, sub)
+            # Initialize the maximum number of unique substrings
+            max_count = 0
 
-        while subsequences:
-            sub = heappop(subsequences)
-            if sub[1] < 3:
-                return False
+            # Try all possible substrings starting from the current position
+            for end in range(start + 1, len(s) + 1):
+                substring = s[start:end]
 
-        return True
+                # If the substring has not been seen before, add it to the set
+                if substring not in unique_substrings:
+                    unique_substrings.add(substring)
+
+                    # Recursively process the remaining part of the string
+                    count = backtrack(end)
+
+                    # Update the maximum count
+                    max_count = max(max_count, count + 1)
+
+                    # Remove the substring from the set for backtracking
+                    unique_substrings.remove(substring)
+
+            return max_count
+
+        # Call the backtrack function starting from the first character
+        return backtrack(0)
 
 
 # Checking in console
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.isPossible(nums = [1,2,3,3,4,5])  # nums = [1,2,3,3,4,5] -> true | nums = [1,2,3,3,4,4,5,5] -> true
+    Solve = Instant.maxUniqueSplit(nums = [s = "ababccc") 
+    # s = "ababccc" -> 5
+    # s = "aba" -> 2
+    # s = "aa" -> 1
     print(Solve)
