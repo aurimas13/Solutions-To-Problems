@@ -42,3 +42,4 @@ if __name__ == '__main__':
     # s = "aba" -> 2
     # s = "aa" -> 1
     print(Solve)
+
