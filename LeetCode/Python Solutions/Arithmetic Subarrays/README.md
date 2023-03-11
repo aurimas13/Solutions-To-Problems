@@ -1,1 +1,1 @@
-Problem description of "Alien Dictionary" can be found [here](https://leetcode.com/problems/alien-dictionary/).
+Problem description of "Arithmetic Subarrays" can be found [here](https://leetcode.com/problems/alien-dictionary/) and solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Arithmetic%20Subarrays/arithmetic.py) while the explanation with comments on complexities and solution [here](https://leetcode.com/problems/arithmetic-subarrays/solutions/3283570/python-solution-beats-90/).
