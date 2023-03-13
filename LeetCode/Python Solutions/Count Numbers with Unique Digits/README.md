@@ -1,1 +1,3 @@
-Problem description of "Count of Smaller Numbers After Self" can be found [here](https://leetcode.com/problems/count-of-smaller-numbers-after-self/).
+Problem description of "Count Numbers with Unique Digits" can be found [here](https://leetcode.com/problems/count-of-smaller-numbers-after-self/),
+the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Numbers%20with%20Unique%20Digits/count.py) and explanation with comments on complexities [here](https://leetcode.com/problems/count-numbers-with-unique-digits/solutions/3290532/python-problem/).
+
