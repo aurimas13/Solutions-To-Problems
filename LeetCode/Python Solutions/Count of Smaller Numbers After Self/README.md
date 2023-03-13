@@ -1,2 +1,2 @@
-Problem description of "Count of Smaller Numbers After Self" can be found [here](https://leetcode.com/problems/count-of-smaller-numbers-after-self/), the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Odd%20Numbers%20in%20an%20Interval%20Range/count.py)
+Problem description of "Count of Smaller Numbers After Self" can be found [here](https://leetcode.com/problems/count-of-smaller-numbers-after-self/), the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20of%20Smaller%20Numbers%20After%20Self/count.py)
 and explanation [here](https://leetcode.com/problems/count-numbers-with-unique-digits/solutions/3290532/python-problem/).
