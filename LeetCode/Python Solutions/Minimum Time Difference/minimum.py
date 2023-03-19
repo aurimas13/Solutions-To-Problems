@@ -1,4 +1,4 @@
-from collections import deque
+from typing import List
 
 
 class Solution:
@@ -12,10 +12,11 @@ class Solution:
         # Return the minimum difference
         return min(diffs)
 
+
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.findMinDifference(timePoints = ["23:59","00:00"]" )
+    Solve = Sol.findMinDifference(timePoints = ["23:59","00:00"])
     # timePoints = ["23:59","00:00"] -> 1
     # timePoints = ["00:00","23:59","00:00"] -> 0
     print(Solve)
