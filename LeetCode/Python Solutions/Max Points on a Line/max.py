@@ -1,54 +1,67 @@
-from copy import deepcopy
-import bisect
+from typing import List
+from collections import defaultdict
+from fractions import Fraction
 
+class Solution:
+    def maxPoints(self, points: List[List[int]]) -> int:
+        # Function to calculate the slope between two points
+        def get_slope(p1, p2):
+            # If the x-coordinates are equal, the slope is infinity (vertical line)
+            if p1[0] == p2[0]:
+                return float('inf')
+            # Otherwise, return the slope as a Fraction to avoid floating-point precision issues
+            return Fraction(p2[1] - p1[1], p2[0] - p1[0])
 
-class Solution(object):
-    @staticmethod
-    def transpose(matrix):
-        return [[matrix[i][j] for i in range(len(matrix))] for j in range(len(matrix[0]))]
+        # If the points list is empty, return 0
+        if not points:
+            return 0
+        
+        # Initialize the maximum number of points on a line to 0
+        max_points = 0
+        # Convert the points from lists to tuples
+        points = [tuple(point) for point in points]
 
-    def maxSumSubmatrix(self, matrix, k):
-        """
-        :type matrix: List[List[int]]
-        :type k: int
-        :rtype: int
-        """
-        if len(matrix) > len(matrix[0]):
-            matrix = self.transpose(matrix)
+        # Iterate through the points with index i
+        for i in range(len(points)):
+            # Create a defaultdict to store the count of points for each slope
+            slopes_count = defaultdict(int)
+            # Initialize the count of duplicate points to 1
+            duplicates = 1
 
-        numRows = len(matrix)
-        numCols = len(matrix[0])
+            # Iterate through the remaining points with index j
+            for j in range(i + 1, len(points)):
+                # If points i and j have the same coordinates, increase the duplicates count
+                if points[i] == points[j]:
+                    duplicates += 1
+                # Otherwise, calculate the slope and increment the count for that slope
+                else:
+                    slope = get_slope(points[i], points[j])
+                    slopes_count[slope] += 1
+            
+            # Calculate the maximum number of points on the current line by adding duplicates
+            max_points_on_line = max(slopes_count.values(), default=0) + duplicates
+            # Update the overall maximum points if needed
+            max_points = max(max_points, max_points_on_line)
 
-        assert numCols >= numRows
+        # Return the overall maximum number of points on a line
+        return max_points
+    
+if __name__ == "__main__":
+    # Initialize the Solution class
+    solution = Solution()
 
-        partialSumMatrix = deepcopy(matrix)
+    # Test case 1
+    points1 = [[1, 1], [2, 2], [3, 3]]
+    assert solution.maxPoints(points1) == 3, f"Expected 3, but got {solution.maxPoints(points1)}"
 
-        for i in range(numRows):
-            for j in range(numCols):
-                if i > 0:         partialSumMatrix[i][j] += partialSumMatrix[i - 1][j]
-                if j > 0:         partialSumMatrix[i][j] += partialSumMatrix[i][j - 1]
-                if i > 0 and j > 0: partialSumMatrix[i][j] -= partialSumMatrix[i - 1][j - 1]
+    # Test case 2
+    points2 = [[1, 1], [3, 2], [5, 3], [4, 1], [2, 3], [1, 4]]
+    assert solution.maxPoints(points2) == 4, f"Expected 4, but got {solution.maxPoints(points2)}"
 
-        # enumerate all first and last rows, then determine best among different cols
-        ret = float("-inf")
-        for firstRow in range(numRows):
-            for lastRow in range(firstRow, numRows):
-                sortedSums = [0]
+    # Test case 3
+    points3 = [[0, 0], [1, 1], [0, 0]]
+    assert solution.maxPoints(points3) == 3, f"Expected 3, but got {solution.maxPoints(points3)}"
 
-                for j in range(numCols):
-                    nextSum = partialSumMatrix[lastRow][j] - (partialSumMatrix[firstRow - 1][j] if firstRow > 0 else 0)
-                    ind = bisect.bisect_left(sortedSums, nextSum - k)
-                    if ind < len(sortedSums):
-                        ret = max(ret, nextSum - sortedSums[ind])
-                        if ret == k: # shortcut
-                            return ret
-                    bisect.insort(sortedSums, nextSum)
-
-        return ret
-
-
-# Checking in PyCharm/terminal
-if __name__ == '__main__':
-    Instant = Solution()
-    Solve = Instant.maxSumSubmatrix(matrix = [[1,0,1],[0,-2,3]], k = 2)  # matrix = [[1,0,1],[0,-2,3]], k = 2 -> 2
-    print(Solve)
+    # Test case 4
+    points4 = [[0, 0], [1, 65536], [65536, 0], [65536, 65536], [0, 1]]
+    assert solution.maxPoints(points4) == 2, f"Expected 2, but got {solution.maxPoints(points4)}"
