@@ -6,7 +6,7 @@
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
-  <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions"><img alt="java" src="https://img.shields.io/badge/language-sql-orange.svg?style=social&logo=java")></a>
+  <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions"><img alt="java" src="https://img.shields.io/badge/language-java-orange.svg?style=social&logo=java")></a>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions"><img alt="sql" src="https://img.shields.io/badge/language-sql-orange.svg?style=social&logo=sql")></a>
   <a href="https://img.shields.io/github/last-commit/aurimas13/Revenue-Forecast"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Solutions-To-Problems?style=social"/></a
   <a href="https://img.shields.io/github/issues/aurimas13/Solutions-To-Problems"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/Solutions-To-Problems?style=social"/></a
