@@ -4,12 +4,10 @@
 <p align="center" > Most common <b>solutions</b> to <b>problems</b> from interviews of high-tier companies. </p>
 <p align="center" > <b> Solutions </b> to <b> LeetCode </b> & HackerRank problems. </p>
 <br>
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300d3d3.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 <p align=center>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
-  <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions"><img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white")></a>
-  <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions"><img alt="sql" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white")></a>
+  <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions"><img alt="java" src="https://img.shields.io/badge/language-Java-blue.svg?style=social&logo=java")></a>
+  <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions"><img alt="sql" src="https://img.shields.io/badge/language-SQL-blue.svg?style=social&logo=mysql")></a>
   <a href="https://img.shields.io/github/last-commit/aurimas13/Revenue-Forecast"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Solutions-To-Problems?style=social"/></a
   <a href="https://img.shields.io/github/issues/aurimas13/Solutions-To-Problems"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/Solutions-To-Problems?style=social"/></a
   <a href="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems?style=social"/></a
