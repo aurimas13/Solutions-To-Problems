@@ -13,6 +13,8 @@
   <a href="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems?style=social"/></a
   <a href="https://img.shields.io/github/forks/aurimas13/Solutions-To-Problems"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Solutions-To-Problems?style=social"/>
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=social&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300d3d3.svg?style=social&logo=MySQL&logoColor=white)
 
 [//]: # (  <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express?style=social"></a>)
 
