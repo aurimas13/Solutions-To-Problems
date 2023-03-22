@@ -4,6 +4,8 @@
 <p align="center" > Most common <b>solutions</b> to <b>problems</b> from interviews of high-tier companies. </p>
 <p align="center" > <b> Solutions </b> to <b> LeetCode </b> & HackerRank problems. </p>
 <br>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300d3d3.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 <p align=center>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions"><img alt="java" src="https://img.shields.io/badge/language-java-orange.svg?style=social&logo=java")></a>
@@ -13,8 +15,6 @@
   <a href="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems?style=social"/></a
   <a href="https://img.shields.io/github/forks/aurimas13/Solutions-To-Problems"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Solutions-To-Problems?style=social"/>
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=social&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300d3d3.svg?style=social&logo=MySQL&logoColor=white)
 
 [//]: # (  <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express?style=social"></a>)
 
