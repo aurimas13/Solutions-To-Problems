@@ -7,11 +7,12 @@
 <p align=center>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions"><img alt="sql" src="https://img.shields.io/badge/language-sql-orange.svg?style=social&logo=sql")></a>
-  <a href="https://img.shields.io/github/last-commit/aurimas13/Revenue-Forecast"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Solutions-To-Problem?style=social"/></a
-  <a href="https://img.shields.io/github/issues/aurimas13/Solutions-To-Problem"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/Solutions-To-Problem?style=social"/></a
-  <a href="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problem"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problem?style=social"/>
+  <a href="https://img.shields.io/github/last-commit/aurimas13/Revenue-Forecast"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Solutions-To-Problems?style=social"/></a
+  <a href="https://img.shields.io/github/issues/aurimas13/Solutions-To-Problems"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/Solutions-To-Problems?style=social"/></a
+  <a href="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems?style=social"/></a
+  <a href="https://img.shields.io/github/forks/aurimas13/Solutions-To-Problems"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Solutions-To-Problems?style=social"/>
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
-  <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems?style=social" alt="stars">
+  <img height="20px" title="stars" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems?style=social" alt="stars">
 
 [//]: # (  <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express?style=social"></a>)
 
