@@ -1,5 +1,6 @@
 from typing import List, Tuple
 
+
 class Solution:
     def outerTrees(self, trees: List[List[int]]) -> List[List[int]]:
         def orientation(p: Tuple[int, int], q: Tuple[int, int], r: Tuple[int, int]) -> int:
@@ -20,7 +21,6 @@ class Solution:
 
         return list(set(lower_hull + upper_hull))
 
-
 def main():
     solution = Solution()
 
@@ -36,7 +36,9 @@ def main():
         result = solution.outerTrees(trees)
     assert result == expected_output, f"Expected {expected_output}, but got {result}"
 
-print("All test cases passed!")                
+print("All test cases passed!")   
+
+
 # Checking in terminal/console::
 if __name__ == "main":
     main()
