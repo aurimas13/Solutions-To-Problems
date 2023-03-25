@@ -1,29 +1,27 @@
 from typing import List
 
-
 class Solution:
     def maximumScore(self, nums: List[int], k: int) -> int:
-        # Initialize the maximum score and the current minimum element
-        max_score = nums[k]
-        curr_min = nums[k]
-        
-        # Iterate through the subarrays that include nums[k]
-        for i in range(k, -1, -1):
-            # Update the current minimum element
-            curr_min = min(curr_min, nums[i])
-            
-            # Update the maximum score by extending the subarray to the right
-            for j in range(k + 1, len(nums) + 1):
-                # Calculate the score of the current subarray
-                score = curr_min * (j - i)
-                
-                # Update the maximum score
-                max_score = max(max_score, score)
-                
-                # Break the loop if we reach the end of the array
-                if j == len(nums) or nums[j] < curr_min:
-                    break
-                    
+        # Initialize the maximum score, left pointer, and right pointer
+        max_score = curr_min = nums[k]
+        left, right = k, k
+
+        # Iterate until the left and right pointers reach the ends of the array
+        while left > 0 or right < len(nums) - 1:
+            # Choose the direction to move (left or right)
+            if left == 0:
+                right += 1
+            elif right == len(nums) - 1:
+                left -= 1
+            elif nums[left - 1] > nums[right + 1]:
+                left -= 1
+            else:
+                right += 1
+
+            # Update the current minimum element and maximum score
+            curr_min = min(curr_min, nums[left], nums[right])
+            max_score = max(max_score, curr_min * (right - left + 1))
+
         return max_score
 
 
