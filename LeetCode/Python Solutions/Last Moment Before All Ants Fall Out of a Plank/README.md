@@ -1,0 +1,1 @@
+Problem description of "Last Moment Before All Ants Fall Out of a Plank" can be found [here](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Largest%20Rectangle%20in%20Histogram/largest.py).
