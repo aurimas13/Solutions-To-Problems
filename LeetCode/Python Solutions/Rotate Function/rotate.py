@@ -36,3 +36,4 @@ if __name__ == "__main__":
     s = Solution()
     nums = [4, 3, 2, 6]
     print(s.maxRotateFunction(nums))
+
