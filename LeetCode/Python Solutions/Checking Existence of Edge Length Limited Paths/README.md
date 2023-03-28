@@ -1,1 +1,1 @@
-Problem description of "Check if Numbers Are Ascending in a Sentence" can be found [here](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/).
+Problem description of "Checking Existence of Edge Length Limited Paths" can be found [here](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths/check.py).
