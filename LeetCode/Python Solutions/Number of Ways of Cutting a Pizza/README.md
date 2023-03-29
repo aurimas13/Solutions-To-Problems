@@ -1,2 +1,1 @@
-Problem description of "Number of Islands" can be found [here](https://leetcode.com/problems/number-of-provinces/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Provinces/number.py) 
-with solution and explanation at LeetCode [here](https://leetcode.com/problems/number-of-provinces/solutions/3048685/python-solution-beats-95/).
+Problem description of "Number of Ways of Cutting a Pizza" can be found [here](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Ways%20of%20Cutting%20a%20Pizza/number.py).
