@@ -1,24 +1,51 @@
-class Solution:
-    def totalNQueens(self, n: int) -> int:
-        def is_safe(queen, queens):
-            return all(q != queen and abs(queen - q) != len(queens) - i for i, q in enumerate(queens))
-
-        def n_queens_helper(queens):
-            if len(queens) == n:
-                return 1
-            return sum(n_queens_helper(queens + [q]) for q in range(n) if is_safe(q, queens))
-
-        return n_queens_helper([])
+from typing import List
 
 
-def run_tests():
-    solution = Solution()
-    assert solution.totalNQueens(4) == 2
-    assert solution.totalNQueens(1) == 1
-    assert solution.totalNQueens(8) == 92
-    print("All tests passed!")
+class Solution(object):
+    @staticmethod
+    def solveNQueens(n):
+        currRes = []
+        res = []
+
+        def backtrack(row, colSet, diagSet, antiDiagSet):
+            # moved past the grid, we could place all
+            if row == n:
+                acc = []
+                for r in currRes:
+                    string = ['.'] * n
+                    string[r] = 'Q'
+
+                    acc.append(''.join(string))
+                res.append(acc)
+
+                return
+
+            for col in range(n):
+                diag = row - col
+                antiDiag = row + col
+
+                if (col in colSet) or (diag in diagSet) or (antiDiag in antiDiagSet):
+                    continue
+
+                currRes.append(col)
+                colSet.add(col)
+                diagSet.add(diag)
+                antiDiagSet.add(antiDiag)
+
+                backtrack(row + 1, colSet, diagSet, antiDiagSet)
+
+                currRes.pop()
+                colSet.remove(col)
+                diagSet.remove(diag)
+                antiDiagSet.remove(antiDiag)
+
+        backtrack(0, set(), set(), set())
+
+        return res
 
 
-# Checking in terminal
+# Checking in console
 if __name__ == '__main__':
-    run_tests()
+    Instant = Solution()
+    Solve = Instant.solveNQueens(n=4)  # n = 4 ->  [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
+    print(Solve)
