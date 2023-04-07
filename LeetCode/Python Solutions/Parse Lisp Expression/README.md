@@ -1,1 +1,1 @@
-Problem description of "Parse Lisp Expression" can be found [here](https://leetcode.com/problems/parse-lisp-expression/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Partition%20Equal%20Subset%20Sum/partition.py).
+Problem description of "Parse Lisp Expression" can be found [here](https://leetcode.com/problems/parse-lisp-expression/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Parse%20Lisp%20Expression/parse.py).

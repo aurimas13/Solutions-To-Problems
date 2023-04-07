@@ -1,0 +1,1 @@
+Problem description of "Delete Columns to Make Sorted III" can be found [here](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/) and its solution [here]().
