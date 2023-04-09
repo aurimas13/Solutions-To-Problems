@@ -11,3 +11,19 @@ class Solution:
             n >>= 1
         
         return result
+
+
+# Test cases to try in the terminal/console
+if __name__ == "__main__":
+    solution = Solution()
+
+    test1 = 0
+    test2 = 3
+    test3 = 9
+    test4 = 333
+
+    print(solution.minimumOneBitOperations(test1))  # Expected output: 0
+    print(solution.minimumOneBitOperations(test2))  # Expected output: 2
+    print(solution.minimumOneBitOperations(test3))  # Expected output: 14
+    print(solution.minimumOneBitOperations(test4))  # Expected output: 392
+
