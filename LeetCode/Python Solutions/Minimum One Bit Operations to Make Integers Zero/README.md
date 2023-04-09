@@ -1,0 +1,1 @@
+Problem description of "Minimum One Bit Operations to Make Integers Zero" can be found [here](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/minimum.py).
