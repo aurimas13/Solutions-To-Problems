@@ -1,25 +1,36 @@
 from typing import List
-from collections import Counter
 
 class Solution:
-    def subarraySum(self, nums: List[int], k: int) -> int:
-        if not nums:
+    def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:
+        # Check if k is less than or equal to 1
+        if k <= 1:
             return 0
 
-        preSum, ret, size = [0], 0, len(nums)
-        count = Counter(preSum)
-        if size == 1:
-            return 1 if nums[0] == k else 0
-        for val in nums:
-            s = preSum[-1] + val
-            preSum.append(s)
-            ret += count.get(s - k, 0)
-            count[s] = count.get(s, 0) + 1
+        # Initialize the product, left pointer, and the result count
+        prod = 1
+        left = 0
+        count = 0
 
-        return ret
+        # Iterate through the nums list with a right pointer
+        for right, val in enumerate(nums):
+            # Update the product by multiplying it with the current value
+            prod *= val
 
-# Running in terminal/console:
-if __name__ == '__main__':
-    Instant = Solution()
-    Solve = Instant.subarraySum(nums = [1,1,1], k = 2 ) # nums = [1,1,1], k = 2 -> 2 | nums = [1,2,3], k = 3 -> 2
-    print(Solve)
+            # Move the left pointer to the right and divide the product by the nums[left] until the product is less than k
+            while prod >= k:
+                prod /= nums[left]
+                left += 1
+
+            # Update the count by adding the length of the current subarray
+            count += right - left + 1
+
+        return count
+
+# Test cases to run in the terminal/console
+if __name__ == "__main__":
+    s = Solution()
+
+    assert s.numSubarrayProductLessThanK([10, 5, 2, 6], 100) == 8
+    assert s.numSubarrayProductLessThanK([1, 1, 1], 1) == 0
+    assert s.numSubarrayProductLessThanK([1, 1, 1], 2) == 6
+    assert s.numSubarrayProductLessThanK([1, 2, 3], 0) == 0
