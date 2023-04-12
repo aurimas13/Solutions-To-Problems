@@ -1,1 +1,1 @@
-Problem description of "Battleships in a Board" can be found [here](https://leetcode.com/problems/battleships-in-a-board/description/) and its solution [here]().
+Problem description of "Battleships in a Board" can be found [here](https://leetcode.com/problems/battleships-in-a-board/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Battleships%20in%20a%20Board/battle.py).
