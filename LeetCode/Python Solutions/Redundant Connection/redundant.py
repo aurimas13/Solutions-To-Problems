@@ -32,3 +32,10 @@ class Solution:
 
         # Iterate through each edge and try to perform a union operation
         return next(edge for edge in edges if not uf.union(edge[0], edge[1]))
+
+
+# Test cases to run in the terminal/console
+if __name__ == "__main__":
+    s = Solution()
+    print(s.findRedundantConnection([[1, 2], [1, 3], [2, 3]]))  # Output: [2, 3]
+    print(s.findRedundantConnection([[1, 2], [2, 3], [3, 4], [1, 4], [1, 5]]))  # Output: [1, 4]
