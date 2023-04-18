@@ -2,34 +2,42 @@ from typing import List
 
 
 class Solution:
-    @staticmethod
-    def combinationSum4(nums: List[int], target: int) -> int:
-        nums.sort()
+    def combine(self, n: int, k: int) -> List[List[int]]:
+        # Initialize an empty list to store the combinations
+        result = []
 
-        # Notice that we cap the size of our circular dp array by max(nums)+1
-        dp = [0 for i in range(min(target, max(nums)) + 1)]
-        dp[0] = 1
+        # Define a recursive function to generate combinations
+        def backtrack(start, current_combination):
+            # If the current combination is of the required length, add it to the result
+            if len(current_combination) == k:
+                result.append(current_combination[:])
+                return
 
-        # We need to skip comb_sum == 0 since that's a special seed value and
-        # we don't want to clear it in the next line
-        for comb_sum in range(1, target + 1):
-            # We need to clear entries to prevent carry-over of old values
-            dp[comb_sum % len(dp)] = 0
+            # Iterate through the remaining numbers and generate combinations
+            for i in range(start, n + 1):
+                # Add the current number to the combination
+                current_combination.append(i)
+                # Recursively generate combinations with the remaining numbers
+                backtrack(i + 1, current_combination)
+                # Remove the last added number to explore other possibilities
+                current_combination.pop()
 
-            for num in nums:
-                if comb_sum - num >= 0:
-                    # We use modular arithmetic for indexing since our dp array is circular
-                    dp[comb_sum % len(dp)] += dp[(comb_sum - num) % len(dp)]
+        # Call the recursive function to generate combinations starting from 1
+        backtrack(1, [])
 
-                else:
-                    break
-
-        return dp[target % len(dp)]
+        return result
 
 
-# Checking in PyCharm/console:
-if __name__ == '__main__':
-    Sol = Solution()
-    Solve = Sol.combinationSum4(nums = [1,2,3], target = 4)
-    # nums = [1,2,3], target = 4 -> 7 | nums = [9], target = 3 -> 0
-    print(Solve)
+# Test cases
+solution = Solution()
+
+# Test case 1
+assert solution.combine(4, 2) == [[1, 2], [1, 3], [1, 4], [2, 3], [2, 4], [3, 4]]
+
+# Test case 2
+assert solution.combine(1, 1) == [[1]]
+
+# Test case 3
+assert solution.combine(4, 4) == [[1, 2, 3, 4]]
+
+print("All test cases passed!")
