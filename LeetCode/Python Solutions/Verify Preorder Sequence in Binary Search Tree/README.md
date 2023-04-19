@@ -1,0 +1,1 @@
+Problem description of "Verify Preorder Sequence in Binary Search Tree" can be found [here](hhttps://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Verifying%20an%20Alien%20Dictionary/verify.py).
