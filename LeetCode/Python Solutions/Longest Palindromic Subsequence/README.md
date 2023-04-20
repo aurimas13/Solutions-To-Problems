@@ -1,0 +1,1 @@
+Problem description of "Longest Palindromic Subsequence" can be found [here](https://leetcode.com/problems/longest-palindromic-substring/) and its solution [here](https://leetcode.com/problems/longest-palindromic-subsequence/description/).
