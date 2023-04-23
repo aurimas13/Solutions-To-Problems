@@ -1,6 +1,5 @@
 
 
-
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/solution.jpeg"/>
 </p>
