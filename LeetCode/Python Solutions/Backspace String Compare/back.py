@@ -1,36 +1,38 @@
-import re
-from typing import Tuple
 class Solution:
-    def calculate(self, s: str) -> int:
-        s = re.sub(" +", "", s)
-        n = len(s)
+    def backspaceCompare(self, s: str, t: str) -> bool:
+        # Helper function to apply backspaces to the input string
+        def process_string(string: str) -> str:
+            stack = []
 
-        def f(i: int) -> Tuple[int, int]:
-            output, op = 0, '+'
-            while i < n and s[i] != ')':
-                if s[i] in {"+", "-"}:
-                    op = s[i]
-                    i += 1
-
-                if s[i] == '(':
-                    i, num = f(i + 1)
+            # Iterate through the string characters
+            for char in string:
+                if char == '#':
+                    # If a backspace is encountered, pop the last element from the stack
+                    if stack:
+                        stack.pop()
                 else:
-                    num = 0
-                    while i < n and s[i].isdigit():
-                        num = num * 10 + int(s[i])
-                        i += 1
-                output += -num if op == '-' else num
+                    # Otherwise, add the character to the stack
+                    stack.append(char)
 
-            return i + 1, output
-        _, output = f(0)
-        return output
+            # Return the processed string as a result
+            return "".join(stack)
+
+        # Apply the process_string function to both input strings and compare the results
+        return process_string(s) == process_string(t)
 
 
-# Checking in PyCharm/console:
-if __name__ == '__main__':
-    Sol = Solution()
-    Solve = Sol.calculate(s = "1 + 1")  
-    # s = "1 + 1" -> 2 
-    # s = "(1+(4+5+2)-3)+(6+8)" -> 23
-    # s = " 2-1 + 2 " -> 3
-    print(Solve)
+if __name__ == "__main__":
+    s = Solution()
+
+    # Test cases
+    test_cases = [
+        ({"s": "ab#c", "t": "ad#c"}, True),
+        ({"s": "ab##", "t": "c#d#"}, True),
+        ({"s": "a##c", "t": "#a#c"}, True),
+        ({"s": "a#c", "t": "b"}, False),
+    ]
+
+    for i, (test_input, expected_output) in enumerate(test_cases):
+        result = s.backspaceCompare(**test_input)
+        assert result == expected_output, f"Test case {i} failed: expected {expected_output}, got {result}"
+        print(f"Test case {i} succeeded")
