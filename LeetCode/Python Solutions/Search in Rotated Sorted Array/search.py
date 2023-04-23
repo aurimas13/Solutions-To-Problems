@@ -1,30 +1,49 @@
 from typing import List
+
+
 class Solution:
-    def search(self, nums: List[int], t: int) -> int:
-        l, r = 0, len(nums) - 1  # left & right
-        while l <= r:
-            m = l + ((r - l) >> 1)  # mid
+    def search(self, nums: List[int], target: int) -> int:
+        # Initialize left and right pointers for binary search.
+        left, right = 0, len(nums) - 1
 
-            if nums[m] == t: return m
+        while left <= right:
+            mid = left + (right - left) // 2
 
-            if nums[l] <= nums[m]:
-                # sorted left, see if target lies on left
-                if nums[l] <= t < nums[m]:
-                    r = m - 1
+            # If the target is found, return its index.
+            if nums[mid] == target:
+                return mid
+
+            # If the left half of the array is sorted.
+            if nums[left] <= nums[mid]:
+                # If target is in the sorted left half, search there.
+                if nums[left] <= target < nums[mid]:
+                    right = mid - 1
                 else:
-                    l = m + 1
+                    left = mid + 1
+            # Else, the right half of the array is sorted.
             else:
-                # sorted right, see if target lies on right
-                if nums[m] < t <= nums[r]:
-                    l = m + 1
+                # If target is in the sorted right half, search there.
+                if nums[mid] < target <= nums[right]:
+                    left = mid + 1
                 else:
-                    r = m - 1
+                    right = mid - 1
 
+        # If target is not found, return -1.
         return -1
 
 
-# Checking in console
-if __name__ == '__main__':
-    Instant = Solution()
-    Solve = Instant.search(nums = [4,5,6,7,0,1,2], t = 3)  # nums = [4,5,6,7,0,1,2], t = 3 -> -1 | nums = [4,5,6,7,0,1,2], t = 0 -> 4
-    print(Solve)
+if __name__ == "__main__":
+    s = Solution()
+
+    # Test cases
+    test_cases = [
+        ({"nums": [4, 5, 6, 7, 0, 1, 2], "target": 0}, 4),
+        ({"nums": [4, 5, 6, 7, 0, 1, 2], "target": 3}, -1),
+        ({"nums": [1], "target": 0}, -1),
+        ({"nums": [1], "target": 1}, 0)
+    ]
+
+    for i, (test_input, expected_output) in enumerate(test_cases):
+        result = s.search(**test_input)
+        assert result == expected_output, f"Test case {i} failed: expected {expected_output}, got {result}"
+        print(f"Test case {i} succeeded")

@@ -2,40 +2,49 @@ from typing import List
 
 
 class Solution:
-    @staticmethod
-    def searchRange(nums: List[int], target: int) -> List[int]:
-        n = len(nums)
-        left = None
-        right = None
+    def searchRange(self, nums: List[int], target: int) -> List[int]:
+        # Initialize the result list with -1 as both the first and last position.
+        res = [-1, -1]
 
-        def find(start, end, side=False):
-            left = None
-            right = None
-            while start <= end:
-                mid = (start + end) // 2
+        # Find the first occurrence of target using binary search.
+        left, right = 0, len(nums) - 1
+        while left <= right:
+            mid = left + (right - left) // 2
+            if nums[mid] < target:
+                left = mid + 1
+            else:
+                right = mid - 1
+        res[0] = left
 
-                if nums[mid] == target:
-                    if not side or side == "left":
-                        left, _ = find(start, mid - 1, 'left')
-                        if left == -1:
-                            left = mid
-                    if not side or side == 'right':
-                        _, right = find(mid + 1, end, 'right')
-                        if right == -1:
-                            right = mid
-                    return [left, right]
-                elif target > nums[mid]:
-                    start = mid + 1
-                else:
-                    end = mid - 1
-            return [-1, -1]
+        # Find the last occurrence of target using binary search.
+        right = len(nums) - 1
+        while left <= right:
+            mid = left + (right - left) // 2
+            if nums[mid] <= target:
+                left = mid + 1
+            else:
+                right = mid - 1
+        res[1] = right
 
-        return find(0, n - 1)
+        # Check if target was not found.
+        if res[0] > res[1]:
+            res = [-1, -1]
+
+        return res
 
 
-# Checking in terminal/console:
-if __name__ == '__main__':
-    Sol = Solution()
-    Solve = Sol.searchRange(nums = [5,7,7,8,8,10],  target = 8)  # nums = [5,7,7,8,8,10], target = 6 -> [-1,-1] | nums = [5,7,7,8,8,10],
-    # target = 8 -> [3,4]
-    print(Solve)
+if __name__ == "__main__":
+    s = Solution()
+
+    # Test cases
+    test_cases = [
+        ({"nums": [5, 7, 7, 8, 8, 10], "target": 8}, [3, 4]),
+        ({"nums": [5, 7, 7, 8, 8, 10], "target": 6}, [-1, -1]),
+        ({"nums": [], "target": 0}, [-1, -1]),
+        ({"nums": [1], "target": 1}, [0, 0])
+    ]
+
+    for i, (test_input, expected_output) in enumerate(test_cases):
+        result = s.searchRange(**test_input)
+        assert result == expected_output, f"Test case {i} failed: expected {expected_output}, got {result}"
+        print(f"Test case {i} succeeded")
