@@ -1,5 +1,3 @@
-from typing import Optional
-
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -10,78 +8,39 @@ class TreeNode:
 
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-
-        def areIdentical(root1, root2):
-            # Base Case
-            if root1 is None and root2 is None:
-                return True
-            if root1 is None or root2 is None:
-                return False
-
-            # Check fi the data of both roots is same and data of
-            # left and right subtrees are also same
-            return (root1.val == root2.val and
-                    areIdentical(root1.left, root2.left) and
-                    areIdentical(root1.right, root2.right)
-                    )
-
-        # Base Case
-        if subRoot is None:
-            return True
-
+        # Base case: if root is None, return False
         if root is None:
             return False
-
-        # Check the tree with root as current node
-        if (areIdentical(root, subRoot)):
+        
+        # Check if the current tree is equal to the subtree
+        if self.is_equal(root, subRoot):
             return True
-
-        # IF the tree with root as current node doesn't match
-        # then try left and right subtree one by one
-        return Solution().isSubtree(root.left, subRoot) or Solution().isSubtree(root.right, subRoot)
-
-
-# OR
-
-#         # Base cases
-#         if not root and not subRoot: return True
-#         if not root or not subRoot: return False
-#         if not root.left and not root.right:
-#             if root.val==subRoot.val and not subRoot.left and not subRoot.right:
-#                 return True
-#             return False
-
-#         # Search decendant until (sub of root).val=subroot.val
-#         # then check if after this
-#         # all nodes are identical before reaching none
-#         def isSame(root, subRoot):
-#             if not root and not subRoot: return True
-#             if not root or not subRoot: return False
-#             if not root.left and not root.right:
-#                 if root.val==subRoot.val and not subRoot.left and not subRoot.right:
-#                     return True
-#                 return False
-
-#             # still has decendant
-#             left = isSame(root.left, subRoot.left)
-#             right = isSame(root.right, subRoot.right)
-#             return root.val==subRoot.val and left and right
-
-#         left = self.isSubtree(root.left, subRoot)
-#         right = self.isSubtree(root.right, subRoot)
-#         return isSame(root, subRoot) or left or right
+        
+        # Recursively check the left and right subtrees
+        return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
+    
+    def is_equal(self, tree1: Optional[TreeNode], tree2: Optional[TreeNode]) -> bool:
+        # Base cases: if both trees are None, return True
+        if tree1 is None and tree2 is None:
+            return True
+        # If either tree is None, return False
+        if tree1 is None or tree2 is None:
+            return False
+        
+        # Check if the values of the trees are equal and recurse on left and right subtrees
+        return (tree1.val == tree2.val) and self.is_equal(tree1.left, tree2.left) and self.is_equal(tree1.right, tree2.right)
 
 
-# Running in terminal/console:
 if __name__ == '__main__':
-    Instant = Solution()
-    root = TreeNode(3)
-    root.left = TreeNode(4)
-    root.right = TreeNode(5)
-    root.left.left = TreeNode(1)
-    root.left.right = TreeNode(2)
-    subRoot = TreeNode(4)
-    subRoot.left = TreeNode(1)
-    subRoot.right = TreeNode(2)
-    Solve = Instant.isSubtree(root, subRoot) #  root representing a list of [3,4,5,1,2], subRoot representing a list of [4,1,2] -> true
-    print(Solve)
+    # Test cases
+    solution = Solution()
+    
+    # Test case 1
+    tree1 = TreeNode(3, TreeNode(4, TreeNode(1), TreeNode(2)), TreeNode(5))
+    tree2 = TreeNode(4, TreeNode(1), TreeNode(2))
+    assert solution.isSubtree(tree1, tree2) == True
+
+    # Test case 2
+    tree1 = TreeNode(3, TreeNode(4, TreeNode(1), TreeNode(2, TreeNode(0))), TreeNode(5))
+    tree2 = TreeNode(4, TreeNode(1), TreeNode(2))
+    assert solution.isSubtree(tree1, tree2) == False
