@@ -1,1 +1,1 @@
-Problem description of "All Paths From Source to Target" can be found [here](https://leetcode.com/problems/all-paths-from-source-to-target/description/?envType=study-plan&id=algorithm-ii) while its solution [here]().
+Problem description of "All Paths From Source to Target" can be found [here](https://leetcode.com/problems/all-paths-from-source-to-target/description/?envType=study-plan&id=algorithm-ii) while its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/All%20Paths%20From%20Source%20to%20Target/all.py).
