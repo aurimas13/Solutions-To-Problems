@@ -422,7 +422,7 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 
 ### Total Number
 
-Total number of LeetCode solutions per comapny are shown below:<sup>*</sup>
+Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
@@ -446,7 +446,7 @@ Total number of LeetCode solutions per comapny are shown below:<sup>*</sup>
 | Netflix | 7 |
 | Others | ALL |
 
-<br><sup>*</sup> To be updaded as going through the list of Problems and Solutions section and updating weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README</br>
+<br><sup>*</sup> To be updated as going through the list of Problems and Solutions section and updating daily or less often weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README.</br>
 
 ---
 
