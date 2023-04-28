@@ -1,40 +1,76 @@
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+
 class Solution:
-    def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        new = ListNode()
-        new.next = head
+    def reverseKGroup(self, head: ListNode, k: int) -> ListNode:
+        if not head or k == 1:
+            return head
 
-        curr = head
-        prev = new
-        last_end = new
-        is_valid = True
+        # Calculate the length of the list
+        length, current = 0, head
+        while current:
+            length += 1
+            current = current.next
 
-        while curr:
+        dummy = ListNode(next=head)
+        prev_node = dummy
 
-            counter = 1
-            checker = curr
+        # Reverse k-group
+        while length >= k:
+            start_node, end_node = prev_node.next, prev_node
+            for _ in range(k + 1):
+                end_node = end_node.next
 
-            while counter < k:
-                checker = checker.next
-                if checker is None:
-                    is_valid = False
-                    break
-                counter += 1
+            next_group_start = start_node.next
+            for _ in range(k - 1):
+                tmp = start_node.next
+                start_node.next = tmp.next
+                tmp.next = prev_node.next
+                prev_node.next = tmp
 
-            if not is_valid:
-                break
+            start_node.next = end_node
 
-            counter = 0
+            prev_node = start_node
+            length -= k
 
-            while counter < k:
-                temp = curr.next
-                curr.next = prev
-                prev = curr
-                curr = temp
-                counter += 1
+        return dummy.next
 
-            swap_end = last_end.next
-            last_end.next = prev
-            swap_end.next = curr
-            last_end = swap_end
 
-        return new.next
+def create_linked_list(values):
+    dummy = ListNode()
+    current = dummy
+    for value in values:
+        current.next = ListNode(value)
+        current = current.next
+    return dummy.next
+
+
+def linked_list_to_list(head):
+    values = []
+    current = head
+    while current:
+        values.append(current.val)
+        current = current.next
+    return values
+
+
+if __name__ == '__main__':
+    solution = Solution()
+
+    test_cases = [
+        ([1, 2, 3, 4, 5], 2, [2, 1, 4, 3, 5]),
+        ([1, 2, 3, 4, 5], 3, [3, 2, 1, 4, 5]),
+        ([1, 2, 3, 4, 5], 1, [1, 2, 3, 4, 5]),
+        ([], 3, [])
+    ]
+
+    for values, k, expected in test_cases:
+        head = create_linked_list(values)
+        result = solution.reverseKGroup(head, k)
+        result_values = linked_list_to_list(result)
+        assert result_values == expected, f"For {values}, k={k}, expected {expected} but got {result_values}"
+
+    print("All tests passed!")
