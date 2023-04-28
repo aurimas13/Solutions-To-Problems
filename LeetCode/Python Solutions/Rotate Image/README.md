@@ -1,1 +1,1 @@
-Problem description of "Rotate List" can be found [here](https://leetcode.com/problems/rotate-list/description/) and its solution [here]().
+Problem description of "Rotate Image" can be found [here](https://leetcode.com/problems/rotate-image/).
