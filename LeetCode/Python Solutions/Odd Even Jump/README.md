@@ -1,0 +1,1 @@
+Problem description of "Odd Even Jump" can be found [here]https://leetcode.com/problems/odd-even-jump/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Visible%20People%20in%20a%20Queue/number.py).
