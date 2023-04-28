@@ -25,3 +25,25 @@ class Solution:
             lower[i] = higher[next_lower[i]]
 
         return sum(higher)
+    
+    # Write tests for this solution for input [10,13,12,14,15]  output 2
+    if __name__ == "__main__":
+        def test_OddEvenJumps():
+            """
+            Tests for OddEvenJumps
+            """
+            solution = Solution()
+            assert solution.oddEvenJumps([10,13,12,14,15]) == 2
+            assert solution.oddEvenJumps([2,3,1,1,4]) == 3
+            assert solution.oddEvenJumps([5,1,3,4,2]) == 3
+            assert solution.oddEvenJumps([1,2,3,2,1,4,4,5]) == 6
+            assert solution.oddEvenJumps([1,2,3,2,1,4,4,5,6,7,8,9,10]) == 12
+            assert solution.oddEvenJumps([1,2,3,2,1,4,4,5,6,7,8,9,10,11,12,13]) == 16
+            assert solution.oddEvenJumps([1,2,3,2,1,4,4,5,6,7,8,9,10,11,12,13,14,15]) == 18
+            assert solution.oddEvenJumps([1,2,3,2,1,4,4,5,6,7,8,9,10,11,12,13,14,15,16]) == 20
+            assert solution.oddEvenJumps([1,2,3,2,1,4,4,5,6,7,8,9,10,11,12,13,14,15,16,17]) == 22
+            assert solution.oddEvenJumps([1,2,3,2,1,4,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]) == 24
+            assert solution.oddEvenJumps([1,2,3,2,1,4,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]) == 26
+            assert solution.oddEvenJumps([1,2,3,2,1,4,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]) == 28  
+
+        test_OddEvenJumps()
