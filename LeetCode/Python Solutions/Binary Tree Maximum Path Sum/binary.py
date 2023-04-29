@@ -10,19 +10,22 @@ class TreeNode:
 
 class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
-        self.largest = -sys.maxsize
-        self.dfs(root)
-        return self.largest
+        def dfs(node):
+            if not node:
+                return 0
 
-    def dfs(self, root):
-        if root is None:
-            return 0
-        left_single_max = self.dfs(root.left)
-        right_single_max = self.dfs(root.right)
+            left_gain = max(dfs(node.left), 0)
+            right_gain = max(dfs(node.right), 0)
 
-        single_max = max(root.val, left_single_max + root.val, right_single_max + root.val)
-        self.largest = max(self.largest, single_max, root.val + left_single_max + right_single_max)
-        return single_max
+            current_path_sum = node.val + left_gain + right_gain
+
+            self.max_sum = max(self.max_sum, current_path_sum)
+
+            return node.val + max(left_gain, right_gain)
+
+        self.max_sum = -sys.maxsize - 1
+        dfs(root)
+        return self.max_sum
 
 
 # Checking in terminal/console:
