@@ -26,7 +26,7 @@ class Solution:
 
         return sum(higher)
     
-    # Write tests for this solution for input [10,13,12,14,15]  output 2
+    # Write tests for this solution
     if __name__ == "__main__":
         def test_OddEvenJumps():
             """
@@ -47,3 +47,4 @@ class Solution:
             assert solution.oddEvenJumps([1,2,3,2,1,4,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]) == 28  
 
         test_OddEvenJumps()
+        print("All tests passed successfully.") 
