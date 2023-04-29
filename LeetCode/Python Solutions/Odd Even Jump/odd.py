@@ -26,7 +26,7 @@ class Solution:
 
         return sum(higher)
     
-    # Write tests for this solution
+    # Tests for this solution
     if __name__ == "__main__":
         def test_OddEvenJumps():
             """
