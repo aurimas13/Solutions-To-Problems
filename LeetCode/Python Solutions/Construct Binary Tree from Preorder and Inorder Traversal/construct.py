@@ -1,10 +1,10 @@
 from typing import List, Optional
 
-# class TreeNode():
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+class TreeNode():
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
 
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
@@ -26,22 +26,15 @@ class Solution:
         return build(0, 0, N - 1)
 
 
-# # Checking in terminal/console:
-# if __name__ == '__main__':
-#     Instant = Solution()
-#     preorder = TreeNode(3)
-#     preorder.left = TreeNode(9)
-#     preorder.right = TreeNode(20)
-#     # root.left.left = TreeNode()
-#     # root.left.right = TreeNode()
-#     preorder.right.left = TreeNode(15)
-#     preorder.right.right = TreeNode(7)
-#     inorder = TreeNode(9)
-#     inorder.left = TreeNode(3)
-#     inorder.right = TreeNode(15)
-#     # root.left.left = TreeNode()
-#     # root.left.right = TreeNode()
-#     inorder.right.left = TreeNode(20)
-#     inorder.right.right = TreeNode(7)
-#     Solve = Instant.buildTree(preorder, inorder) # preorder = [3,9,20,15,7], inorder = [9,3,15,20,7] -> [3,9,20,null,null,15,7]
-#     print(Solve)
+# Checking in terminal/console:
+if __name__ == '__main__':
+    
+    assert Solution().buildTree([3,9,20,15,7], [9,3,15,20,7]) == [3,9,20,null,null,15,7]
+    assert Solution().buildTree([-1], [-1]) == [-1]
+    assert Solution().buildTree([1,2,3], [3,2,1]) == [1,2,null,null,3]
+    assert Solution().buildTree([1,2,3], [1,2,3]) == [1,null,2,null,3]
+    assert Solution().buildTree([1,2,3], [2,3,1]) == [1,2,null,null,3]
+    assert Solution().buildTree([1,2,3], [3,1,2]) == [1,null,2,null,3]
+
+    print("All tests passed successfully.")
+    
