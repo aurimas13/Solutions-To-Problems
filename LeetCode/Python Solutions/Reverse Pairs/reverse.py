@@ -25,7 +25,7 @@ class Solution:
         return merge_sort(nums, 0, len(nums) - 1)
     
 if __name__ == "__main__":
-    
+
     assert Solution().reversePairs([1, 3, 2, 3, 1]) == 2
     assert Solution().reversePairs([2, 4, 3, 5, 1]) == 3
     assert Solution().reversePairs([5, 4, 3, 2, 1]) == 4
