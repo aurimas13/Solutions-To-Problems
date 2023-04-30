@@ -37,5 +37,3 @@ if __name__ == '__main__':
     assert sorted(sol.subsetsWithDup(nums3)) == sorted([[], [1], [1, 4], [1, 4, 4], [1, 4, 4, 4], [1, 4, 4, 4, 4], [4], [4, 4], [4, 4, 4], [4, 4, 4, 4]])
 
     print("All tests passed.")
-
-
