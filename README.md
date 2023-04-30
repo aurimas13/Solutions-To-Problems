@@ -456,7 +456,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Netflix | 9 |
 | Others | ALL |
 
-<br><sup>*</sup> To be updated as going through the list of Problems and Solutions section and updating daily or less often weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README.</br>
+<br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
 ---
 
