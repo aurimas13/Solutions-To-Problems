@@ -63,4 +63,3 @@ if __name__ == '__main__':
     edges = [[3, 1, 2], [3, 2, 3], [1, 1, 3], [1, 2, 4], [1, 1, 2], [2, 3, 4]]
     result = solution.maxNumEdgesToRemove(n, edges)
     print("Result:", result)  # Expected output: 2
-
