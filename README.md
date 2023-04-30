@@ -295,9 +295,9 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 219 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)                                                                                 | [Set Matrix Zeroes](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Set%20Matrix%20Zeroes/set.py)                                                                                                 | O(n^2)          | O(n)           |<ul><li> [x] <ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 | 220 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge)                                                                        | [Shortest Bridge](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shortest%20Bridge/shortest.py)                                                                                      |O(n^2)|O(n^2)|<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 | 221 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)                                                                | [Shortest Palindrome](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shortest%20Palindrome/shortest.py)                                                                              |O(n^2)|O(n)|<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
-| 222 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance)                                                          | [Shortest Word Distance](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shortest%20Word%20Distance/shortest.py)                                                                      |O(n)|O(1)|<ul><li> [x] <ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
+| 222 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance)                                                          | [Shortest Word Distance](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shortest%20Word%20Distance/shortest.py)                                                                      |O(n)|O(1)|<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 | 223 | [Simplify Path](https://leetcode.com/problems/simplify-path)                                                                            | [Simplify Path](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Simplify%20Path/simplify.py)                                                                                          |O(n)|O(n)|<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
-| 224 | [Single Number](https://leetcode.com/problems/single-number/)                                                                  | [Single Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py)                                                                               |O(n)|O(1)|<ul><li> [x] <ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
+| 224 | [Single Number](https://leetcode.com/problems/single-number/)                                                                  | [Single Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py)                                                                               |O(n)|O(1)|<ul><li> [ ] </li></ul> | <ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 | 225 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)                                                 | [Sliding Window Maximum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sliding%20Window%20Maximum/sliding.py)                                                          | O(n)            | O(n)            |<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 | 226 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation)                                                                  | [Solve the Equation](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Solve%20the%20Equation/solve.py)                                                                                           |O(n)|O(1)|<ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 | 227 | [Sort Colors](https://leetcode.com/problems/sort-colors)                                                                       | [Sort Colors](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py)                                                                                     |O(n)|O(1)|<ul><li> [x] </li></ul> | <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
@@ -436,24 +436,24 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Google | 223 |
-| Amazon | 201 |
-| Apple | 186 |
-| Facebook | 168 |
-| Microsoft | 152 |
-| Adobe | 149 |
-| Bloomberg | 147 |
-| Uber | 120 |
-| Goldman Sachs | 112 |
-| TikTok | 66 |
-| LinkedIn | 53 |
-| Airbnb | 37 |
-| Tesla | 35 |
-| Twitter | 34 |
-| Spotify | 21 |
-| DE Shaw| 17 |
-| Reddit | 16 |
-| Netflix | 7 |
+| Google | 293 |
+| Amazon | 261 |
+| Apple |236 |
+| Facebook | 218 |
+| Microsoft | 202 |
+| Adobe | 189 |
+| Bloomberg | 187 |
+| Uber | 170 |
+| Goldman Sachs | 152 |
+| TikTok | 126 |
+| LinkedIn | 103 |
+| Airbnb | 87 |
+| Tesla | 75 |
+| Twitter | 54 |
+| Spotify | 31 |
+| DE Shaw| 27 |
+| Reddit | 19 |
+| Netflix | 9 |
 | Others | ALL |
 
 <br><sup>*</sup> To be updated as going through the list of Problems and Solutions section and updating daily or less often weekly after the solution is added and visualising which companies have that problem. Currently details of the problems that belong to specific company are commented under the company name by inspecting README.</br>
