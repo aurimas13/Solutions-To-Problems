@@ -1,0 +1,1 @@
+Problem description of "Reverse Pairs" can be found [here](https://leetcode.com/problems/reverse-pairs/submissions/941957203/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Reverse%20Nodes%20in%20k-Group/reverse.py).
