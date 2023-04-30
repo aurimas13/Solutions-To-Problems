@@ -11,7 +11,7 @@
   <a href="https://img.shields.io/github/last-commit/aurimas13/Solutions-To-Problems"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Solutions-To-Problems?style=social"/></a>
   <a href="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Solutions-To-Problems?style=social"/></a>
   <a href="https://img.shields.io/github/forks/aurimas13/Solutions-To-Problems"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Solutions-To-Problems?style=social"/>
-  <a href="https://twitter.com/anausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/anausedas?label=follow Aurimas&style=social" alt="anausedas" /></a> 
+  <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
 [//]: # (  <a href="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express?style=social"></a>)
 
 [//]: # (  <a href="https://github.com/badges/shields/pulse"><img alt="activity" src="https://img.shields.io/github/checks-status/aurimas13/Solutions-To-Problems></a>)
