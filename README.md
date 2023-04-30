@@ -422,8 +422,8 @@ To prepare for a MAANG interview or a MAANG-level company interview as well as l
 | 346 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/) | [Minimum Height Trees](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Height%20Trees/minimum.py) | O(n) | O(n) | <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 | 347 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Maximum Width of Binary Treere](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximum%20Width%20of%20Binary%20Tree/maximum.py) | O(n) | O(n) | <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|
 | 348 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable/remove.py) | O(n) | O(n) | <ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|
-
-
+| 349 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Binary Tree Zigzag Level Order Traversal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/binary.py) | O(n) | O(n) | <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
+| 350 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [All Nodes Distance K in Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/All%20Nodes%20Distance%20K%20in%20Binary%20Tree/nodes.py) | O(n) | O(n) | <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|
 
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
@@ -436,17 +436,17 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Google | 298 |
-| Amazon | 261 |
-| Apple |236 |
-| Facebook | 218 |
-| Microsoft | 202 |
-| Adobe | 189 |
-| Bloomberg | 187 |
-| Uber | 170 |
-| Goldman Sachs | 152 |
-| TikTok | 126 |
-| LinkedIn | 103 |
+| Google | 299 |
+| Amazon | 263 |
+| Apple |238 |
+| Facebook | 220 |
+| Microsoft | 204 |
+| Adobe | 191 |
+| Bloomberg | 189 |
+| Uber | 171 |
+| Goldman Sachs | 153 |
+| TikTok | 127 |
+| LinkedIn | 104 |
 | Airbnb | 87 |
 | Tesla | 75 |
 | Twitter | 54 |
