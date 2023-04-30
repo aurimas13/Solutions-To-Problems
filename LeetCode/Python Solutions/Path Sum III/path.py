@@ -32,8 +32,8 @@ class Solution:
         return dfs(root, 0)
     
 
-# Write some test cases for your solution 
- if __name__ == "__main__":
+# Test cases:
+if __name__ == "__main__":
     def test_pathSum(): 
         """ 
         Tests for pathSum function 
