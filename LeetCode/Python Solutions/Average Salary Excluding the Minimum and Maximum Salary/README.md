@@ -1,0 +1,1 @@
+Problem description of "Average Salary Excluding the Minimum and Maximum Salary" can be found [here](https://leetcode.com/problems/alien-dictionary/) and solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Arithmetic%20Subarrays/arithmetic.py).
