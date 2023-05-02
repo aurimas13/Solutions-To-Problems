@@ -59,6 +59,7 @@ class Solution:
         return 0
 
 
+# Tests
 if __name__ == '__main__':
     instance = Solution()
     result = instance.ladderLength(
