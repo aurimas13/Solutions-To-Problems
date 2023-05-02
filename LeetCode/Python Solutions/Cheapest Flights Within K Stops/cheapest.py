@@ -2,7 +2,6 @@ from typing import List
 
 
 class Solution:
-    @staticmethod
     def findCheapestPrice(n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
         # Create a list to store the shortest distance to each city
         dist = [float('inf')] * n
