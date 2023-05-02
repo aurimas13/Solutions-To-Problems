@@ -1,2 +1,2 @@
 Problem description of "Bus Routes" can be found [here](hhttps://leetcode.com/problems/bus-routes/description/?envType=study-plan&id=level-3)
-and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Bulls%20and%20Cows/bulls_and_cows.py).
+and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Bus%20Routes/bus.py).
