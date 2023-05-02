@@ -26,8 +26,10 @@ class Solution:
         return results
 
 
-# Checking in PyCharm/console:
+# Checking test cases:
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.combinationSum([2,3,6,7], 7)  # [3, 9] -> [[1, 2, 6], [1, 3, 5], [2, 3, 4]]
+    Solve_2 = Sol.combinationSum([2,3,5], 8)  # [3, 9] -> [[1, 2, 6], [1, 3, 5], [2, 3, 4]]
     print(Solve)
+    print(Solve_2)
