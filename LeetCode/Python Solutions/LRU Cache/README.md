@@ -1,0 +1,1 @@
+Problem description of "LFU Cache" can be found [here](https://leetcode.com/problems/lfu-cache/description/) and its solution [here]() while in depth explanation [here](https://leetcode.com/problems/lru-cache/solutions/3479673/python-solution-beats-99/).
