@@ -1,4 +1,6 @@
 from typing import List
+
+
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         if len(board) == 0 or len(word) == 0 or len(word) > len(board) * len(board[0]):
