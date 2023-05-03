@@ -1,0 +1,2 @@
+Problem description of " Time Based Key-Value Store" can be found [here](https://leetcode.com/problems/time-based-key-value-store/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Time%20Needed%20to%20Inform%20All%20Employees/time.py)
+while the explanation and solution in LeetCode [here](https://leetcode.com/problems/time-based-key-value-store/solutions/3479676/python-solution-well-explained/).
