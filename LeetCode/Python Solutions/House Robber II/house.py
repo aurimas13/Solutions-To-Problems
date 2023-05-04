@@ -23,7 +23,7 @@ class Solution:
         return Max
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
     sol = Solution()
     test_cases = [
