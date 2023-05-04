@@ -1,1 +1,1 @@
-The problem of "Dota2 Senate" is found [here](https://leetcode.com/problems/dota2-senate/submissions/944115558/) as the solution is found [here]().
+The problem of "Dota2 Senate" is found [here](https://leetcode.com/problems/dota2-senate/submissions/944115558/) as the solution is found [here]() and the detailed explanation [here](https://leetcode.com/problems/dota2-senate/solutions/3483463/python-solution-well-explained/).
