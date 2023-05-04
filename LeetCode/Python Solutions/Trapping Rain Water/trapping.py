@@ -1,52 +1,38 @@
 from typing import List
 
-
 class Solution:
     @staticmethod
     def trap(height: List[int]) -> int:
-
+        # Initialize variables
+        left_max, right_max = 0, 0
+        left, right = 0, len(height) - 1
         volume = 0
-        shift = 0
 
-        landscape = []
+        # Iterate through the landscape until the left and right pointers meet
+        while left < right:
+            # Update left_max if a higher left boundary is found
+            if height[left] > left_max:
+                left_max = height[left]
+            
+            # Update right_max if a higher right boundary is found
+            if height[right] > right_max:
+                right_max = height[right]
 
-        def checkSegment(l, r, arr):
-            v = 0
-            edge = min(r, l)
-            while len(arr) > 0:
-                h = arr.pop()
-                if h > edge:
-                    edge = h
-                else:
-                    v += edge - h
-            return v
-
-        for i in range(len(height)):
-
-            if shift >= len(height):
-                break
-
-            left = height[shift]
-            right = 0
-            for j in range(1 + shift, len(height)):
-                right = height[j]
-                shift += 1
-                if right >= left:
-                    volume += checkSegment(left, right, landscape)
-                    shift = j
-                    break
-                else:
-                    landscape.append(right)
-
-            if len(landscape) > 0:
-                volume += checkSegment(left, right, landscape)
+            # Calculate trapped water volume based on the current minimum boundary
+            if left_max < right_max:
+                volume += left_max - height[left]
+                left += 1
+            else:
+                volume += right_max - height[right]
+                right -= 1
 
         return volume
 
-
 if __name__ == '__main__':
-    Instant = Solution()
-    Solve = Instant.trap(
-        height=[4, 2, 0, 3, 2, 5])  # height = [0,1,0,2,1,0,1,3,2,1,2,1] -> 6 | height = [4,2,0,3,2,5] -> 9
-    print(Solve)
-      
+    # Instantiate the solution class
+    instant = Solution()
+    # Call the 'trap' method with the input landscape heights
+    solve = instant.trap(height=[4, 2, 0, 3, 2, 5])  # height=[4, 2, 0, 3, 2, 5] -> 9
+    # Print the result
+    print(solve)
+    

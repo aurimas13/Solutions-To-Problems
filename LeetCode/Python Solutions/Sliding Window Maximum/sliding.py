@@ -31,7 +31,7 @@ class Solution:
 
         return res
 
-# Checking in console
+#  Tests:
 if __name__ == '__main__':
     # Call the 'maxSlidingWindow' method with the input list and window size
     result1 = Solution.maxSlidingWindow(nums=[1, 3, -1, -3, 5, 3, 6, 7], k=3)  # Expected output: [3, 3, 5, 5, 6, 7]
