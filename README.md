@@ -1,8 +1,9 @@
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/solution.jpeg"/>
 </p>
-<p align="center" > Most common <b>solutions</b> to <b>problems</b> from interviews of high-tier companies. </p>
-<p align="center" > <b> Solutions </b> to <b> LeetCode </b> & HackerRank problems. </p>
+<h1 align="center"> Welcome to the Amazing World of Solutions! 🎉🎩🔮 </h1>
+<p align="center"> Brace yourself as we dive into the most common <b>solutions</b> to <b>problems</b> from interviews of high-tier companies. </p>
+<p align="center"> Featuring dazzling <b> Solutions </b> to challenges on <b> LeetCode </b> & HackerRank. </p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
@@ -30,25 +31,19 @@
 
 ------
 
-The repository is constantly updated when **Python**, **Java** or **SQL** solution to the problem found at [LeetCode](https://leetcode.com/problemset/all/) (mostly) or [HackerRank](https://www.hackerrank.com/domains/python) is solved.
-The solutions to **LeetCode** problems are posted at the discussion sections in each solved problem's folder. <br>
 
-Currently solving probnlems of different study programs and each day a daily [LeetCode](https://leetcode.com/problemset/all/) problem.
+📢 Roll up, roll up! Welcome to the grand repository of brilliant code solutions. Constantly updated with enchanting **Python**, **Java** or **SQL** solutions to bewitching problems found at [LeetCode](https://leetcode.com/problemset/all/) (mostly) or [HackerRank](https://www.hackerrank.com/domains/python). Share the thrill as we unravel the mysteries of high-tier companies like Adobe, Airbnb, Amazon, Apple, Bloomberg, and more!
 
-If the solved **LeetCode** problem is one of the problems asked by high-tier companies like Adobe, Airbnb, Amazon, Apple, Bloomberg, DE Shaw, Goldman Sachs, Google, LinkedIn, Meta (previously facebook), Microsoft, Netflix, Reddit, Spotify, Tesla], TikTok, Twitter or Uber then that solution for all the companies that had given it as a problem are indentified [here](#problems-and-solutions) while the total number of solved problems per company is given [here](#total-number). If the solution wasn't asked to be solved by any of the companies and the solved problem is not glued to any of the high-tier companies; it is just a random problem that was solved through other companies. <br>
+🎪 Behold the mesmerizing progress of the LeetCode account, sprinkled with magical blog posts providing explanations on select solutions. Gaze upon it [here](https://leetcode.com/aurimas13/).
 
-The progress of my **LeetCode** account regarding these solutions with additional information like blog post for some solutions giving explanations on them can be found by looking at my [LeetCode profile](https://leetcode.com/aurimas13/).
+🎡 Marvel at the colorful array of LeetCode solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions), **HackerRank** solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), and **LeetCode** solutions in Java [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions).
 
-The **LeetCode** solutions of **Python** are found  [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions), **HackerRank** solutions of **Python** are found [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions) while **LeetCode** solutions implementing Java are found [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions).
+🔮 Each problem folder unveils the description of the problem and, sometimes, the solution and explanation. Click the name of the problem in the [Problems and Solutions](#problems-and-solutions), [Must Do Problems](#must-do-problems) or [Google Top](#google-top) to reveal its secrets.
 
-Each problem folder has the description of the problem found through pressing the link in **README** at the respective folder or if it is provided for the particular high-tier company as described above. Some **README**'s in the problem's forder also have the solution and explanation for the problem that redirects to the solution and the explanation to LeetCode post.
-By pressing on the name of the problem at the [Problems and Solutions](#problems-and-solutions), [Must Do Problems](#must-do-problems) or [Google Top](#google-top) you will be redirected to the problem description (1<sup>st</sup> column) followed by the solution (2<sup>nd</sup> column) while the 3<sup>rd</sup> and 4<sup>th</sup> columns give time and space complexities of the solution.
+🎭 Currently enchanting the world with **Python** & a touch of **Java** a touch of Java from **LeetCode**. A daily Python problem from [LeetCode](https://leetcode.com/problemset/all/) has been vanquished since 28<sup>th</sup> of May 2022.
 
-Currently, doing **Python** & a bit of **Java** problems of **LeetCode**. **HackerRank** problems were finished on May and from *28<sup>th</sup> of May 2022* am working on solving at least one **Python** problem from [LeetCode](https://leetcode.com/problemset/all/) daily.
+🎠 The magic continues with **SQL** solutions of problems at *HackerRank* & *LeetCode*, coming soon to [HackerRank SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/SQL%20Solutions)) and [LeetCode SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions).
 
-The solution is put at the respective **LeetCode** folder and added to the list of a [problems and solutions](#problems-and-solutions) where companies that provide that problem are identified.
-
-**SQL** solutions of problems at *HackerRank* & *LeetCode* might come later while they will be updated [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/SQL%20Solutions) for **HackerRank** and [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions) for **LeetCode**.  
 
 # Table of Contents
 
@@ -64,12 +59,14 @@ The solution is put at the respective **LeetCode** folder and added to the list 
 
 [(Back to top)](#table-of-contents)
 
-To prepare for a MAANG interview or a MAANG-level company interview as well as land a job there I highly recommend solving as many problems below as possible and doing one or all of these:
+🎩 To prepare for a mystical journey through a MAANG interview or a MAANG-level company interview and land a job in the enchanted realm of tech giants, we highly recommend the following spells:
 
-- Joining [Hackpack](https://www.hackpack.io/) community
-- Solving [Top LeetCode Problems](https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/TopLeetCodeProblems.md)
-- Honing [Python Skills](https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/PythonResources.md)
-- Looking at possible [Multiple Choice Questions](https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/MCQ.txt)
+1. Solve as many problems from our mesmerizing list as possible.
+2. Join the mystical [Hackpack](https://www.hackpack.io/) community to learn the art of sorcery from fellow wizards.
+3. Conjure your skills by solving the [Top LeetCode Problems](https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/TopLeetCodeProblems.md).
+4. Master the incantations of [Python Skills](https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/PythonResources.md).
+5. Test your wit with [Multiple Choice Questions]((https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/MCQ.txt)) to prove your magical prowess.
+Embrace the magical journey of interview preparation, and may your code be ever enchanting! 🌟🌈🔮
 
 ------
 
