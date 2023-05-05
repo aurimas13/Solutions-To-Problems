@@ -2,35 +2,38 @@ from typing import List
 
 
 class Solution:
-    @staticmethod
-    def jump(nums: List[int]) -> int:
+    def jump(self, nums: List[int]) -> int:
         n = len(nums)
-        c = {n - 1: 0}
-        i = n - 2
-        while 0 <= i < n:
-            if nums[i] == 0:
-                c[i] = float('inf')
-                i -= 1
-                continue
-            jump = i + nums[i]
-            if jump >= n:
-                jump = n - 1
-            c[i] = c[jump] + 1
-            for j in range(i + 1, jump):
-                if j > n - 2:
-                    break
-                if c[i] < c[j]:
-                    c[j] = c[i]
-                else:
-                    break
-            i -= 1
-        return c[0]
+        if n <= 1:
+            return 0
+        
+        max_reachable = max_steps = nums[0]
+        jumps = 1
+        
+        for i in range(1, n):
+            if i > max_steps:
+                max_steps = max_reachable
+                jumps += 1
+            
+            max_reachable = max(max_reachable, i + nums[i])
+        
+        return jumps
 
 
-# Checking in terminal/console:
+
+# Tests:
 if __name__ == '__main__':
-    Sol = Solution()
-    Solve = Sol.jump([2, 3, 1, 1, 4])
-    # nums = [2,3,1,1,4] -> 2
-    # nums = [2,3,0,1,4] -> 2
-    print(Solve)
+    def test_solution():
+        s = Solution()
+        
+        assert s.jump([2, 3, 1, 1, 4]) == 2
+        assert s.jump([1, 1, 1, 1, 1, 1]) == 5
+        assert s.jump([5, 4, 3, 2, 1, 1, 1]) == 1
+        assert s.jump([2, 3, 0, 1, 4]) == 2
+        assert s.jump([1, 2, 3, 4, 5, 6, 7, 8]) == 4
+        assert s.jump([2, 2, 2, 2, 2, 2]) == 3
+        assert s.jump([]) == 0
+        assert s.jump([1]) == 0
+
+    test_solution()
+    print('All tests passed')
