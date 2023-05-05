@@ -19,8 +19,6 @@ class Solution:
         
         return jumps
 
-
-
 # Tests:
 if __name__ == '__main__':
     def test_solution():
