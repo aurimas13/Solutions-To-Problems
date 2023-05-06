@@ -1,1 +1,1 @@
-Problem description of "Longest Palindromic Substring" can be found [here](https://leetcode.com/problems/longest-palindromic-substring/).
+Problem description of "Longest Palindromic Substring" can be found [here](https://leetcode.com/problems/longest-palindromic-substring/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindromic%20Substring/longest.py).

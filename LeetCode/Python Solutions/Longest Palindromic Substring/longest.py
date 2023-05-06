@@ -23,7 +23,7 @@ class Solution:
         return right - left - 1
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.longestPalindrome("babad")  # "babad" -> "bab" | "cbbd" -> "bb"
