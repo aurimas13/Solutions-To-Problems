@@ -25,7 +25,8 @@ class Solution:
             index += 1
         return sign * result
 
-# Checking in PyCharm console:
+
+# Tests:
 if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.myAtoi("+1")  # "42" -> 42 | "-42" -> -42 | "words with 971" -> 0 | "   564" -> 564 | "-91283472332" -> -2147483647 | "3.1423 -> 3 | '+1' -> 1

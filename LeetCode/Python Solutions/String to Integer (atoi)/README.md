@@ -1,1 +1,1 @@
-Problem description of "String to Integer (atoi)" can be found [here](https://leetcode.com/problems/string-to-integer-atoi/).
+Problem description of "String to Integer (atoi)" can be found [here](https://leetcode.com/problems/string-to-integer-atoi/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/String%20to%20Integer%20(atoi)/atoi.py).
