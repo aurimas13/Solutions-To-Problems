@@ -1,5 +1,7 @@
 from collections import defaultdict, deque
 from typing import List
+
+
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
         adj = defaultdict(list)
@@ -28,7 +30,7 @@ class Solution:
         ans.append(-1.0)
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.calcEquation(equations = [["a","b"],["b","c"],["bc","cd"]], values = [1.5,2.5,5.0], queries = [["a","c"],["c","b"],["bc","cd"],["cd","bc"]])  # sequations = [["a","b"],["b","c"]], values = [2.0,3.0], queries = [["a","c"],["b","a"],["a","e"],["a","a"],["x","x"]] -> [6.0,0.5,-1.0, 1.0,-1.0] | equations = [["a","b"],["b","c"],["bc","cd"]], values = [1.5,2.5,5.0], queries = [["a","c"],["c","b"],["bc","cd"],["cd","bc"]] -> [3.75,0.4,5.0,0.2]
