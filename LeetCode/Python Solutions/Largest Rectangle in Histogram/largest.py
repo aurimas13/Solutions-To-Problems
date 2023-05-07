@@ -1,4 +1,6 @@
 from typing import List
+
+
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         stack = [-1]
@@ -15,10 +17,11 @@ class Solution:
             current_width = len(heights) - stack[-1] - 1
             max_area = max(max_area, current_height * current_width)
         return max_area
+    
 
-
-# Checking in PyCharm/terminal
+# Tests:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.largestRectangleArea([2,1,5,6,2,3])  # [2,1,5,6,2,3] -> 10
+    Solve = Instant.largestRectangleArea([2,1,5,6,2,3])  
+    # [2,1,5,6,2,3] -> 10
     print(Solve)

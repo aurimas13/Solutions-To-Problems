@@ -1,1 +1,1 @@
-Problem description of "Daily Temperatures" can be found [here](https://leetcode.com/problems/daily-temperatures/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Daily%20Temperatures/daily.py).
+Problem description of "Daily Temperatures" can be found [here](https://leetcode.com/problems/daily-temperatures/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Daily%20Temperatures/daily.py). 
