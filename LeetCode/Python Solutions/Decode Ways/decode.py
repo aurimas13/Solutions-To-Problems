@@ -1,57 +1,31 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
-
-        memo = dict()
-
-        def getDecodings(index, s):
-
-            if index in memo:
-                return memo[index]
-
-            # If got to the end of the string return 1
-            if index == len(s):
-                return 1
-
-            # If 0, cannot decode (1 - 26 only A-Z)
-            if s[index] == "0":
-                return 0
-
-            if index == len(s) - 1:
-                return 1
-
-            answer = getDecodings(index + 1, s)
-
-            # Double digit
-            if int(s[index: index + 2]) <= 26:
-                answer += getDecodings(index + 2, s)
-
-            memo[index] = answer
-            return answer
-
-        return getDecodings(0, s)
+        
+        # base cases:
+        if not s or s[0] == "0":
+            return 0
+        if len(s) == 1:
+            return 1
+        
+        # initialize the dp array
+        dp = [0] * (len(s) + 1)
+        dp[0], dp[1] = 1, 1
+        
+        # fill in the rest of the dp array
+        for i in range(2, len(s) + 1):
+            # check if we can decode the current digit alone
+            if s[i - 1] != "0":
+                dp[i] += dp[i - 1]
+            # check if we can decode the current and previous digits as a double-digit number
+            if s[i - 2] == "1" or (s[i - 2] == "2" and s[i - 1] <= "6"):
+                dp[i] += dp[i - 2]
+        
+        return dp[-1]
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.numDecodings("12")  # "12" -> 2 | "226" -> 3 | "06" -> 0
+    Solve = Sol.numDecodings("12")  
+    # "12" -> 2 | "226" -> 3 | "06" -> 0
     print(Solve)
-
-# OR
-
-# def numDecodings(self, s: str) -> int:
-#         def dfs(i):
-#             if i >= len(s):
-#                 return 1
-#             if s[i] == "0":
-#                 return 0
-#             if i in dp:
-#                 return dp[i]
-#             res = 0
-#             for j in range(i+1,len(s)+1):
-#                 if 0 < int(s[i:j]) <= 26:
-#                     res += dfs(j)
-#             dp[i] = res
-#             return dp[i]
-#         dp = {}
-#         return dfs(0)\
