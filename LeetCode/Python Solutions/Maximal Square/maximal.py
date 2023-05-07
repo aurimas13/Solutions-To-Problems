@@ -1,4 +1,6 @@
 from typing import List
+
+
 class Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:
         row = len(matrix)  # no. of rows in matrix[][]
@@ -51,8 +53,11 @@ class Solution:
 
 
 
-# Running in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.maximalSquare([["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]])  # [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]] -> 4 | matrix = [["0"]] -> 0 | matrix = [["0","1"],["1","0"]] -> 1
+    Solve = Instant.maximalSquare([["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]])  
+    # [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]] -> 4  
+    # matrix = [["0"]] -> 0 
+    # matrix = [["0","1"],["1","0"]] -> 1
     print(Solve)

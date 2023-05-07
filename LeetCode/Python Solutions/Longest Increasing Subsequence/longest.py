@@ -1,5 +1,7 @@
 from typing import List
 from bisect import bisect_left
+
+
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
         i = -1
@@ -11,7 +13,7 @@ class Solution:
         return i + 1
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.lengthOfLIS(nums = [0,1,0,3,2,3])  # nums = [0,1,0,3,2,3] -> 4
