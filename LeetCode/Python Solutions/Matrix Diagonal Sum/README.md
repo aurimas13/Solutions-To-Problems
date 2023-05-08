@@ -1,0 +1,1 @@
+The problem of "Matrix Diagonal Sum" can be found [here](https://leetcode.com/problems/matrix-diagonal-sum/description/) while its solution [here]() and a detailed explanation with complexities [here](https://leetcode.com/problems/matrix-diagonal-sum/solutions/3498563/python-well-explained/).
