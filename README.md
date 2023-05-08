@@ -436,6 +436,7 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 | 361 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/) | [Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition/number.py) with solution and explanation at LeetCode [here](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/solutions/3491563/python-solution-beat-94/) | O(n log n) | O(1) | <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 | 362 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/) | [Find the Longest Valid Obstacle Course at Each Position](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position/find.py) | O(n log n) | O(n) | <ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 | 363 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Number of Longest Increasing Subsequence](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Longest%20Increasing%20Subsequence/number.py) | O(n^2) | O(n) | <ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [x] </li></ul>|
+| 364 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | [Matrix Diagonal Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Matrix%20Diagonal%20Sum/diagonal.py) | O(n) | O(1) | <ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [x] </li></ul>|
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- <ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>|<ul><li> [ ] </li></ul>| -->
 ---
@@ -447,12 +448,12 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Company Name | Total Solutions |
 |--------|----------|
 | Google | 307 |
-| Amazon | 271 |
+| Amazon | 272 |
 | Apple | 243 |
 | Facebook | 227 |
 | Microsoft | 211 |
 | Adobe | 195 |
-| Bloomberg | 194 |
+| Bloomberg | 195 |
 | Uber | 175 |
 | Goldman Sachs | 155 |
 | TikTok | 127 |
