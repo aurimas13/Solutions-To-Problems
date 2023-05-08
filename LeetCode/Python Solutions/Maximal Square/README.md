@@ -1,1 +1,1 @@
-Problem description of "Maximal Square" can be found [here](https://leetcode.com/problems/maximal-square/).
+Problem description of "Maximal Square" can be found [here](https://leetcode.com/problems/maximal-square/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximal%20Square/maximal.py).
