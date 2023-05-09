@@ -21,8 +21,10 @@ def test_solution():
     assert s.numSubseq([3,5,6,7], 9) == 4
     assert s.numSubseq([3,3,6,8], 10) == 6
     assert s.numSubseq([2,3,3,4,6,7], 12) == 61
-    assert s.numSubseq([1,1,2,2,3,3,4,4,5,5], 8) == 147
-    assert s.numSubseq([1,2,3,4,5,6,7,8,9,10], 10) == 15
+    assert s.numSubseq([1,1,2,2,3,3,4,4,5,5], 8) == 1011
+    assert s.numSubseq([1,2,3,4,5,6,7,8,9,10], 10) == 341
+    print("All tests passed!")
 
+    
 if __name__ == '__main__':
     test_solution()
