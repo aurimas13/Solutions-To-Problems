@@ -6,18 +6,32 @@ class Solution:
             return []
 
         result = []
-        while matrix:
-            result += matrix.pop(0)
-            if matrix and matrix[0]:
-                for row in matrix:
-                    result.append(row.pop())
-            if matrix and matrix[-1]:
-                result += matrix.pop()[::-1]
-            if matrix and matrix[0]:
-                for row in matrix[::-1]:
-                    result.append(row.pop(0))
+        top, bottom, left, right = 0, len(matrix)-1, 0, len(matrix[0])-1
+        
+        while top <= bottom and left <= right:
+            # Traverse right
+            for i in range(left, right+1):
+                result.append(matrix[top][i])
+            top += 1
+            
+            # Traverse down
+            for i in range(top, bottom+1):
+                result.append(matrix[i][right])
+            right -= 1
+            
+            # Traverse left
+            if top <= bottom:
+                for i in range(right, left-1, -1):
+                    result.append(matrix[bottom][i])
+                bottom -= 1
+            
+            # Traverse up
+            if left <= right:
+                for i in range(bottom, top-1, -1):
+                    result.append(matrix[i][left])
+                left += 1
+                
         return result
-
 # Tests:
 if __name__ == '__main__':
     s = Solution()
@@ -34,4 +48,3 @@ if __name__ == '__main__':
     expected_output3 = []
     assert output3 == expected_output3, f"Expected {expected_output3}, but got {output3}"
     print("All tests passed!")
-    
