@@ -8,7 +8,7 @@ class Solution:
         return dp[n]
 
 
-# Checking in PyCharm/terminal:
+# Tests:
 if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.integerBreak(n = 10)

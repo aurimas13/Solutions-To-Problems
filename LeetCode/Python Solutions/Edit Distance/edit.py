@@ -25,8 +25,9 @@ class Solution:
         return edit(word1, word2, 0, 0)
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.minDistance(word1="intention", word2="execution")  # word1 = "intention", word2 = "execution" -> 5
+    Solve = Sol.minDistance(word1="intention", word2="execution")
+     # word1 = "intention", word2 = "execution" -> 5
     print(Solve)
