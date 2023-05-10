@@ -38,5 +38,7 @@ class Solution:
 
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.exist([["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], "ABCCED") # board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED" -> true | [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], "SEE" -> true
+    Solve = Instant.exist([["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], "ABCCED") 
+    # board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED" -> true
+    # board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], "SEE" -> true
     print(Solve)
