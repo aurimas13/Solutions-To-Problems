@@ -16,7 +16,7 @@ class Solution:
 
         return memo[n]
 
-# Checking in terminal/console:
+# Tests
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.longestCommonSubsequence(text1 = "abc", text2 = "abc" )  # text1 = "abc", text2 = "abc" -> 3

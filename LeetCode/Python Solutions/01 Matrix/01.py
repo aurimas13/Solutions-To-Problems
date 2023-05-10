@@ -27,7 +27,7 @@ class Solution:
         return dist
 
 
-# Checking in terminal/console:
+# Notes:
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.updateMatrix([[0,0,0],[0,1,0],[0,0,0]])
