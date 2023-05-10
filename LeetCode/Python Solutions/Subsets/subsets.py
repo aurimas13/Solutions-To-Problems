@@ -9,7 +9,9 @@ class Solution:
         return result
     
 
-# Driver Code
+# Tests
 if __name__ == "__main__":
-    nums = [1, 2, 3]
-    print(Solution.subsets(nums))
+    s = Solution()
+    assert s.subsets([1,2,3]) == [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]]
+    assert s.subsets([0]) == [[],[0]]
+    print("All tests passed!")
