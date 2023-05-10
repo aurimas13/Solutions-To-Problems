@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution:
-    def subsets(nums: List[int]) -> List[List[int]]:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
         result = [[]]
         for num in nums:
             result += [i + [num] for i in result]

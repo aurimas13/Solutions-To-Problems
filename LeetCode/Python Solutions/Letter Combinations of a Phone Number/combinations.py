@@ -22,8 +22,9 @@ class Solution:
         return [''.join(x) for x in product(*iterables)]
 
 
-# Checking in PyCharm/terminal
+# Tests:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.letterCombinations(digits="23")  # digits = "23" -> ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+    Solve = Instant.letterCombinations(digits="23")  
+    # digits = "23" -> ["ad","ae","af","bd","be","bf","cd","ce","cf"]
     print(Solve)
