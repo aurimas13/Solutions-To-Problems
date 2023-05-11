@@ -1,0 +1,1 @@
+The problem of "Earliest Possible Day of Full Bloom" is found [here](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description) while its solution [here]() and the detail description of the solution [here](). 
