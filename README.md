@@ -440,6 +440,7 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 | 366 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/?envType=study-plan&id=level-3) | [Smallest Range Covering Elements from K Lists](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/smallest.py) | O(n log n) | O(n) | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 367| [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/submissions/948156829/) | [Uncrossed Lines](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Uncrossed%20Lines/uncrossed.py) | O(n^2) | O(n^2) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 368 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=study-plan&id=algorithm-ii) | [Bitwise AND of Numbers Range](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Bitwise%20AND%20of%20Numbers%20Range/bitwise.py) | O(log n) | O(1) |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 369 |[Gas Station](https://leetcode.com/problems/gas-station/) | [Gas Station](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) | O(n) | O(1) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 
 <!-- | 354 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) | [Time Based Key-Value Store](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Time%20Based%20Key-Value%20Store/time.py) | O(1) | O(1) |  :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:| -->
 <!-- | 329 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | [Largest Color Value in a Directed Graph](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Color%20Value%20in%20a%20Directed%20Graph/largest.py) | O(n^2) | O(n^2) | :heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:| -->
@@ -455,16 +456,16 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Google | 309 |
-| Amazon | 276 |
-| Apple | 246 |
-| Facebook | 229 |
-| Microsoft | 212 |
-| Bloomberg | 197 |
-| Adobe | 197 |
-| Uber | 175 |
+| Google | 310 |
+| Amazon | 277 |
+| Apple | 247 |
+| Facebook | 230 |
+| Microsoft | 213 |
+| Bloomberg | 198 |
+| Adobe | 198 |
+| Uber | 176 |
 | Goldman Sachs | 155 |
-| TikTok | 127 |
+| TikTok | 128 |
 | LinkedIn | 106 |
 | Airbnb | 88 |
 | Tesla | 76 |
