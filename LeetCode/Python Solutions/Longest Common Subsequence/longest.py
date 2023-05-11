@@ -19,6 +19,9 @@ class Solution:
 # Tests
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.longestCommonSubsequence(text1 = "abc", text2 = "abc" )  # text1 = "abc", text2 = "abc" -> 3
+    Solve = Sol.longestCommonSubsequence(text1 = "abc", text2 = "abc" ) 
+    # text1 = "abc", text2 = "abc" -> 3
     print(Solve)
-    
+    Solve = Sol.longestCommonSubsequence(text1 = "abc", text2 = "def" )  
+    # text1 = "abc", text2 = "def" -> 0
+    print(Solve)
