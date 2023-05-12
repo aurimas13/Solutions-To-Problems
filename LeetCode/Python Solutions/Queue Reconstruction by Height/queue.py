@@ -16,13 +16,12 @@ class Solution:
         return queue
 
 
-
-# Checking in console
+# Tests:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.reconstructQueue(nums = [1,2,3,4])  
-    # people = [[7,0],[4,4],[7,1],[5,0],[6,1],[5,2]]
+    Solve = Instant.reconstructQueue(people = [[7,0],[4,4],[7,1],[5,0],[6,1],[5,2]]) 
     # -> [[5,0],[7,0],[5,2],[6,1],[4,4],[7,1]]
     # people = [[6,0],[5,0],[4,0],[3,2],[2,2],[1,4]]
     # -> [[4,0],[5,0],[2,2],[3,2],[1,4],[6,0]]
     print(Solve)
+    
