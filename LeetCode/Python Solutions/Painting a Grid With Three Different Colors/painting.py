@@ -35,11 +35,10 @@ class Solution:
         return adj_matrix
 
 
-# Checking in Terminal/Console:
+# Tests:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.colorTheGrid(121)  
-    # m = 1, n = 1 -> 3
+    Solve = Instant.colorTheGrid(m = 1, n = 1) # m = 1, n = 1 -> 3
     # m = 1, n = 2 -> 6
     # m = 5, n = 5 -> 5809861234
     print(Solve)
