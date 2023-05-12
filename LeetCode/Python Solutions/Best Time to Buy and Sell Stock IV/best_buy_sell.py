@@ -1,4 +1,7 @@
 from typing import List
+import math
+
+
 class Solution:
     def maxProfit(self, k: int, prices: List[int]) -> int:
         n = len(prices)
@@ -34,8 +37,8 @@ class Solution:
         return res
 
 
-# Checking in PyCharm/console:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.maxProfit([2,4,1])  # [2,4,1] -> 2
+    Solve = Sol.maxProfit(k = 2, prices = [2,4,1])  # k = 2, prices = [2,4,1] -> 2
     print(Solve)

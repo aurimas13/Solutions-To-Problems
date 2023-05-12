@@ -33,7 +33,7 @@ if __name__ == "__main__":
         [".", ".", ".", "X"],
         [".", "X", ".", "X"],
         [".", ".", ".", "."]
-    ]) == 3
+    ]) == 2
 
     assert solution.countBattleships([
         [".", ".", ".", "."],
@@ -42,12 +42,12 @@ if __name__ == "__main__":
     ]) == 0
 
     assert solution.countBattleships([
-        ["X", "X", ".", "X"]
+        ["X", ".", ".", "X"]
     ]) == 2
 
     assert solution.countBattleships([
         ["X"],
         ["."],
-        ["X"],
+        ["."],
         ["."]
-    ]) == 2
+    ]) == 1

@@ -21,7 +21,7 @@ class Solution:
 # Checking in console
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.isMatch(s = "ab", p = ".*")  
+    Solve = Instant.computeArea(ax1 = -3, ay1 = 0, ax2 = 3, ay2 = 4, bx1 = 0, by1 = -1, bx2 = 9, by2 = 2)  
     # ax1 = -3, ay1 = 0, ax2 = 3, ay2 = 4, bx1 = 0, by1 = -1, bx2 = 9, by2 = 2 -> 45
     # ax1 = -2, ay1 = -2, ax2 = 2, ay2 = 2, bx1 = -2, by1 = -2, bx2 = 2, by2 = 2 -> 16
     print(Solve)

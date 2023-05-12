@@ -1,3 +1,6 @@
+from functools import lru_cache
+
+
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
 
@@ -24,5 +27,6 @@ class Solution:
 # Checking in console:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.minDistance(word1="intention", word2="execution")  # word1 = "intention", word2 = "execution" -> 5
+    Solve = Instant.minDistance(word1="intention", word2="execution") 
+    # word1 = "intention", word2 = "execution" -> 5
     print(Solve)
