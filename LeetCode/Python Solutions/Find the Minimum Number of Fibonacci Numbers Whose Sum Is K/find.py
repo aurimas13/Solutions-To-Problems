@@ -17,11 +17,9 @@ class Solution:
         return count
 
 
-
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.findMinFibonacciNumbers(haystack = "sadbutsad", needle = "sad")
-    # k = 7 -> 2 
+    Solve = Sol.findMinFibonacciNumbers(k = 7) # k = 7 -> 2 
     # k = 10 -> 2 
     print(Solve)
