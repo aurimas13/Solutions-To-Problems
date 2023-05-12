@@ -46,11 +46,11 @@ class Solution:
         return find_all_concatenated_words(s, words)
 
 
-# Write some test cases for your solution 
+# Test cases:
 if __name__ == "__main__":
     def test_solution(s, words, expected):
-        s = Solution()
-        result = s.findSubstring(s, words)
+        sol = Solution()
+        result = sol.findSubstring(s, words)
         assert result == expected, f"Test case failed: expected {expected}, got {result}"
         print("Test case succeeded")
 

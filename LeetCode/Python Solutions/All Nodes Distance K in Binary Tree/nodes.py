@@ -43,4 +43,5 @@ if __name__ == "__main__":
     root.right.right = TreeNode(8)
     target = root.left
     k = 2
-    print(Solution.distanceK(root, target, k))
+    sol = Solution()  # Create an instance of Solution class
+    print(sol.distanceK(root, target, k))  # Call the method on the instance

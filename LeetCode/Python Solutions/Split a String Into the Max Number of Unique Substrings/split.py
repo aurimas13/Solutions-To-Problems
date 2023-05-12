@@ -37,7 +37,7 @@ class Solution:
 # Checking in console
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.maxUniqueSplit(nums = [s = "ababccc") 
+    Solve = Instant.maxUniqueSplit(s = "ababccc") 
     # s = "ababccc" -> 5
     # s = "aba" -> 2
     # s = "aa" -> 1
