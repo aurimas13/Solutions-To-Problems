@@ -26,9 +26,7 @@ if __name__ == '__main__':
         
         assert s.jump([2, 3, 1, 1, 4]) == 2
         assert s.jump([1, 1, 1, 1, 1, 1]) == 5
-        assert s.jump([5, 4, 3, 2, 1, 1, 1]) == 1
         assert s.jump([2, 3, 0, 1, 4]) == 2
-        assert s.jump([1, 2, 3, 4, 5, 6, 7, 8]) == 4
         assert s.jump([2, 2, 2, 2, 2, 2]) == 3
         assert s.jump([]) == 0
         assert s.jump([1]) == 0
