@@ -6,7 +6,7 @@ class Solution:
         # Calculate the max distance for ants on the left side
         max_left = max(left) if left else 0
         
-        # Calculate the min distance for ants on the right side
+        # Calculate the min position for ants on the right side and then its distance from the left end
         min_right = n - min(right) if right else 0
         
         # Return the max of max_left and min_right as the last moment before all ants fall
@@ -20,9 +20,9 @@ def run_tests():
     test_cases = [
         (4, [4, 3], [0, 1], 4),
         (7, [], [0, 1, 2, 3, 4, 5, 6, 7], 7),
-        (9, [5, 3, 7], [2, 4, 8], 8),
+        (9, [5, 3, 7], [2, 4, 6], 7),
         (6, [1, 3, 5], [], 5),
-        (100, [50, 60], [30, 20, 10], 80),
+        (100, [50, 60], [30, 20, 10], 90),
     ]
     
     for i, (n, left, right, expected) in enumerate(test_cases):
