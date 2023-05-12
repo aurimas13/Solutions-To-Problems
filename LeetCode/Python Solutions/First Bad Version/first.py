@@ -1,3 +1,10 @@
+# Assume the first bad version is 4
+first_bad_version = 4
+
+def isBadVersion(version: int) -> bool:
+    return version >= first_bad_version
+
+
 class Solution:
     def firstBadVersion(self, n: int) -> int:
         left, right = 0, n
@@ -16,8 +23,9 @@ class Solution:
         return -1
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.firstBadVersion(n = 5)  # n = 5, bad = 4 -> 4
+    Solve = Sol.firstBadVersion(n = 5)  
+    # n = 5, bad = 4 -> 4
     print(Solve)

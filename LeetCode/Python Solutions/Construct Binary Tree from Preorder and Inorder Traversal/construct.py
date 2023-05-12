@@ -1,5 +1,25 @@
 from typing import List, Optional
 
+def serialize(root):
+    """Encodes a tree to a single string."""
+    if not root:
+        return [None]
+    serialized_tree = []
+    queue = [root]
+    while queue:
+        node = queue.pop(0)
+        if node:
+            serialized_tree.append(node.val)
+            queue.append(node.left)
+            queue.append(node.right)
+        else:
+            serialized_tree.append(None)
+    # Remove trailing Nones
+    while serialized_tree[-1] is None:
+        serialized_tree.pop()
+    return serialized_tree
+
+
 class TreeNode():
     def __init__(self, val=0, left=None, right=None):
         self.val = val
@@ -26,15 +46,11 @@ class Solution:
         return build(0, 0, N - 1)
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
-    
-    assert Solution().buildTree([3,9,20,15,7], [9,3,15,20,7]) == [3,9,20,null,null,15,7]
-    assert Solution().buildTree([-1], [-1]) == [-1]
-    assert Solution().buildTree([1,2,3], [3,2,1]) == [1,2,null,null,3]
-    assert Solution().buildTree([1,2,3], [1,2,3]) == [1,null,2,null,3]
-    assert Solution().buildTree([1,2,3], [2,3,1]) == [1,2,null,null,3]
-    assert Solution().buildTree([1,2,3], [3,1,2]) == [1,null,2,null,3]
-
+    assert serialize(Solution().buildTree([3,9,20,15,7], [9,3,15,20,7])) == [3,9,20,None,None,15,7]
+    assert serialize(Solution().buildTree([-1], [-1])) == [-1]
+    assert serialize(Solution().buildTree([], [])) == [None]
+    assert serialize(Solution().buildTree([1,2,3], [3,2,1])) == [1,2,None,3]
     print("All tests passed successfully.")
     

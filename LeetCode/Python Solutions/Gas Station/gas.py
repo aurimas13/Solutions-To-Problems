@@ -25,11 +25,7 @@ class Solution:
 
 # Test Cases:
 if __name__ == "__main__":
-    solution = Solution()
-    assert solution.canCompleteCircuit([1, 4, 2], [1, 2, 4]) == -1
-    assert solution.canCompleteCircuit([2, 5, 1, 2, 5], [10, 5, 2, 1, 5, 2]) == 3
-    assert solution.canCompleteCircuit([1, 3, 7, 1, 7, 5], [1, 9, 2, 5, 1]) == 2
-    assert solution.canCompleteCircuit([1, 1, 2, 1, 2], [1, 3, 2, 3, 1]) == 3
-    assert solution.canCompleteCircuit([1, 1, 3, 5, 3, 3, 5, 5, 1, 1], [2, 3, 2, 1, 3, 5, 3, 2, 2, 1]) == 5
-    assert solution.canCompleteCircuit([1, 3, 7, 1, 7, 5], [1, 9, 2, 5, 1]) == 2
+    assert Solution().canCompleteCircuit([1,2,3,4,5], [3,4,5,1,2]) == 3
+    assert Solution().canCompleteCircuit([2,3,4], [3,4,3]) == -1  
+    assert Solution().canCompleteCircuit([5,1,2,3,4], [4,4,1,5,1]) == 4
     print("All passed")

@@ -38,10 +38,10 @@ class Solution:
         return max_gap
     
 
-# Checking in Terminal/Console:
+# Tests:
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.maximumInvitations(grid = [[1,1,1], [1,0,1], [0,0,1]])  
+    Solve = Instant.maximumGap(nums = [3,6,9,1])  
     # nums = [3,6,9,1] -> 3
     # nums = [10] -> 0
     print(Solve)

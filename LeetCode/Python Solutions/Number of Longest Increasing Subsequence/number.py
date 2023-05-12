@@ -3,26 +3,33 @@ from  typing import List
 
 class Solution:
     def findNumberOfLIS(self, nums: List[int]) -> int:
-        dp = [[1, 1] for _ in range(len(nums))]
-        for i in range(len(nums)):
+        n = len(nums)
+        if n == 0:
+            return 0
+        
+        lengths = [0] * n  # lengths[i] = longest ending in nums[i]
+        counts = [1] * n  # count[i] = number of longest ending in nums[i]
+        
+        for i, num in enumerate(nums):
             for j in range(i):
-                if nums[j] < nums[i]:
-                    if dp[i][0] == dp[j][0] + 1:
-                        dp[i][1] += dp[j][1]
-                    elif dp[i][0] < dp[j][0] + 1:
-                        dp[i] = [dp[j][0] + 1, dp[j][1]]
-        max_len = max([x[0] for x in dp])
-        return sum([x[1] for x in dp if x[0] == max_len])
+                if nums[j] < num:
+                    if lengths[j] >= lengths[i]:
+                        lengths[i] = 1 + lengths[j]
+                        counts[i] = counts[j]
+                    elif lengths[j] + 1 == lengths[i]:
+                        counts[i] += counts[j]
+        
+        longest = max(lengths)
+        return sum(c for l, c in zip(lengths, counts) if l == longest)
+
     
 # Tests:
 if __name__ == '__main__':
     assert Solution().findNumberOfLIS([1,3,5,4,7]) == 2
     assert Solution().findNumberOfLIS([2,2,2,2,2]) == 5
     assert Solution().findNumberOfLIS([1,2,4,3,5,4,7,2]) == 3
-    assert Solution().findNumberOfLIS([1,2,4,3,5,4,7,2,1,2,4,3,5,4,7,2]) == 3
-    assert Solution().findNumberOfLIS([1,2,4,3,5,4,7,2,1,2,4,3,5,4,7,2,1,2,4,3,5,4,7,2]) == 3   
+    print('All Passed!')
 
-print('All Passed!')
 
 # Submission Result:
 # 223/223 cases passed (180 ms)

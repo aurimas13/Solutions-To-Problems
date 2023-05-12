@@ -48,6 +48,6 @@ if __name__ == '__main__':
 
     n2 = 6
     edges2 = [[3, 0], [3, 1], [3, 2], [3, 4], [5, 4]]
-    assert sol.findMinHeightTrees(n2, edges2) == [3, 4]
+    assert set(sol.findMinHeightTrees(n2, edges2)) == set([3, 4])  # convert to sets before comparison
 
     print("All tests passed.")
