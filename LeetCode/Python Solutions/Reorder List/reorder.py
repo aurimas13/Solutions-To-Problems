@@ -31,14 +31,18 @@ class Solution:
       nodes[l].next = None
 
 
-# # Checking in console
+# Test:
 if __name__ == '__main__':
-   val = ListNode(1)
-   val.next = ListNode(2)
-   val.next.next = ListNode(3)
-   val.next.next.next = ListNode(4)
-   val.next.next.next.next = ListNode(5)
-   print_list(val)
-   Instant = Solution()
-   Solve = Instant.reorderList(val)  #  head = make_list([1,2,3,4,5]) -> None
-   print(Solve)
+    val = ListNode(1)
+    val.next = ListNode(2)
+    val.next.next = ListNode(3)
+    val.next.next.next = ListNode(4)
+    val.next.next.next.next = ListNode(5)
+    Instant = Solution()
+    Instant.reorderList(val)  # head = [1,2,3,4,5] -> [1,5,2,4,3]
+
+    # Print reordered list
+    curr = val
+    while curr:
+        print(curr.val, end=" ")
+        curr = curr.next
