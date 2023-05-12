@@ -17,8 +17,11 @@ class Solution:
         return maxWin
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.longestValidParentheses(s = ")()())")  # s = ")()())" -> 4 | s = "(()" -> 2 | s = "" -> 0
+    Solve = Sol.longestValidParentheses(s = ")()())")  
+    # s = ")()())" -> 4 
+    # s = "(()" -> 2 
+    # s = "" -> 0
     print(Solve)

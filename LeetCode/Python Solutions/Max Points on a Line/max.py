@@ -2,6 +2,7 @@ from typing import List
 from collections import defaultdict
 from fractions import Fraction
 
+
 class Solution:
     def maxPoints(self, points: List[List[int]]) -> int:
         # Function to calculate the slope between two points
@@ -46,6 +47,8 @@ class Solution:
         # Return the overall maximum number of points on a line
         return max_points
     
+    
+# Tests:
 if __name__ == "__main__":
     # Initialize the Solution class
     solution = Solution()
