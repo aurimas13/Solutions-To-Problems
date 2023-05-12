@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def countDistinctIntegers(self, nums: List[int]) -> int:
         # reverse the digits of each integer and store it in a set

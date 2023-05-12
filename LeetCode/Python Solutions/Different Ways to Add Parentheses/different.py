@@ -28,7 +28,7 @@ class Solution:
 # Checking in terminal/console:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.haveConflict(expression = "2-1-1")
+    Solve = Sol.diffWaysToCompute(expression = "2-1-1")
     # expression = "2-1-1" -> [0,2]
     # expression = "2*3-4*5" -> [-34,-14,-10,-10,10]
     print(Solve)

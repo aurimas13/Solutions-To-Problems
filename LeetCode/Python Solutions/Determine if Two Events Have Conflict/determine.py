@@ -13,7 +13,7 @@ class Solution:
         return False if event2Start > event1End or event1Start > event2End else True
 
 
-# Checking in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.haveConflict(event1 = ["01:15","02:00"], event2 = ["02:00","03:00"])
