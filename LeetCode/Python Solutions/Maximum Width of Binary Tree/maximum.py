@@ -1,4 +1,4 @@
-from typing import Optional 
+from typing import Optional, List
 from collections import deque
 
 # Definition for a binary tree node.
@@ -31,16 +31,31 @@ class Solution:
             max_width = max(max_width, col_index - level_head_index + 1)
         
         return max_width
-    
+
+def list_to_binarytree(nums: List[int]) -> Optional[TreeNode]:
+    if not nums:
+        return None
+    n = iter(nums)
+    tree = TreeNode(next(n))
+    fringe = deque([tree])
+    while True:
+        head = fringe.popleft()
+        try:
+            head.left = TreeNode(next(n))
+            fringe.append(head.left)
+            head.right = TreeNode(next(n))
+            fringe.append(head.right)
+        except StopIteration:
+            break
+    return tree
+
 # Checking in terminal/console:
 if __name__ == '__main__':
 
-    assert Solution().widthOfBinaryTree([1,3,2,5,3,null,9]) == 4
-    assert Solution().widthOfBinaryTree([1,3,null,5,3]) == 2
-    assert Solution().widthOfBinaryTree([1,3,2,5]) == 2
-    assert Solution().widthOfBinaryTree([1,3,2,5,null,null,9,6,null,null,7]) == 8
-    assert Solution().widthOfBinaryTree([1,3,2,5,null,null,9,6,null,null,null,null,null,null,7]) == 8
-    assert Solution().widthOfBinaryTree([1,3,2,5,null,null,9,6,null,null,7,null,null,null,null,8]) == 8
+    assert Solution().widthOfBinaryTree(list_to_binarytree([1,3,2,5,3,None,9])) == 4
+    assert Solution().widthOfBinaryTree(list_to_binarytree([1,3,None,5,3])) == 2
+    assert Solution().widthOfBinaryTree(list_to_binarytree([1,3,2,5])) == 2
+    assert Solution().widthOfBinaryTree(list_to_binarytree([1,3,2,5,None,None,9,6,None,None,None,None,None,None,7])) == 8
+    assert Solution().widthOfBinaryTree(list_to_binarytree([1,3,2,5,None,None,9,6,None,None,7,None,None,None,None,8])) == 8
 
     print("All tests passed successfully.")
-    
