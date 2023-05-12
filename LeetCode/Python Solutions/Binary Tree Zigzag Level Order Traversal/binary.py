@@ -38,4 +38,5 @@ if __name__ == "__main__":
     root.right = TreeNode(20)
     root.right.left = TreeNode(15)
     root.right.right = TreeNode(7)
-    print(Solution.zigzagLevelOrder(root))
+    sol = Solution()  # create an instance of Solution
+    print(sol.zigzagLevelOrder(root))  # call zigzagLevelOrder on the instance

@@ -18,11 +18,12 @@ class Solution:
 
 # Tests:
 if __name__ == '__main__':
-    assert Solution.arraySign([-1,-2,-3,-4,3,2,1]) == 1, "Should be 1"
-    assert Solution.arraySign([1,5,0,2,-3]) == 0, "Should be 0"
-    assert Solution.arraySign([-1,1,-1,1,-1]) == -1, "Should be -1"
-    assert Solution.arraySign([1,2,3]) == 1, "Should be 1"
-    assert Solution.arraySign([-1,-2,-3]) == -1, "Should be -1"
-    assert Solution.arraySign([0,-1,-2,-3,-4]) == 0, "Should be 0"
+    sol = Solution()  # create an instance of Solution
+    assert sol.arraySign([-1,-2,-3,-4,3,2,1]) == 1, "Should be 1"
+    assert sol.arraySign([1,5,0,2,-3]) == 0, "Should be 0"
+    assert sol.arraySign([-1,1,-1,1,-1]) == -1, "Should be -1"
+    assert sol.arraySign([1,2,3]) == 1, "Should be 1"
+    assert sol.arraySign([-1,-2,-3]) == -1, "Should be -1"
+    assert sol.arraySign([0,-1,-2,-3,-4]) == 0, "Should be 0"
 
     print("All passed")

@@ -14,10 +14,13 @@ class Solution:
             if r % 2 == 0: return 2
 
 
-# Checking in PyCharm/terminal:
+# Tests:
 if __name__ == '__main__':
-    Instant = Solution()
-    Solve = Instant.mirrorReflection([3, 0, 1])
     # p = 3, q = 1 -> 1
-    # p = 2, q = 1 -> 2
+    Solve = Solution.mirrorReflection(3, 1)
     print(Solve)
+    
+    # p = 2, q = 1 -> 2
+    Solve = Solution.mirrorReflection(2, 1)
+    print(Solve)
+
