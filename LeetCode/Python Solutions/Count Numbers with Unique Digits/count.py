@@ -19,7 +19,5 @@ class Solution:
 # Checking in PyCharm:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.countNumbersWithUniqueDigits([5,2,6,1]) 
-    # n = 2 -> 91
-    # n = 0 -> 1
-    print(Solve)
+    print(Sol.countNumbersWithUniqueDigits(2)) # n = 2 -> 91
+    print(Sol.countNumbersWithUniqueDigits(0)) # n = 0 -> 1
