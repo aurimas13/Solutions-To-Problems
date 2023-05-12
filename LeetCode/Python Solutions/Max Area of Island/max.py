@@ -30,7 +30,7 @@ class Solution:
 # Checking in PyCharm/terminal
 if __name__ == '__main__':
     Instant = Solution()
-    Solve = Instant.findMaxConsecutiveOnes(grid = [[0,0,0,0,0,0,0,0]])
+    Solve = Instant.maxAreaOfIsland(grid = [[0,0,0,0,0,0,0,0]])
     # Input: grid = [[0,0,1,0,0,0,0,1,0,0,0,0,0],[0,0,0,0,0,0,0,1,1,1,0,0,0],
     # [0,1,1,0,1,0,0,0,0,0,0,0,0],[0,1,0,0,1,1,0,0,1,0,1,0,0],
     # [0,1,0,0,1,1,0,0,1,1,1,0,0],[0,0,0,0,0,0,0,0,0,0,1,0,0],
