@@ -41,6 +41,6 @@ if __name__ == '__main__':# Test case
     Instant = Solution()
     servers = [3, 3, 2]
     tasks = [1, 2, 3, 2, 1, 2]
-    Solve = Instant.assign_tasks(servers, tasks) 
-    # Expected output: [2, 2, 0, 1, 1, 0]
+    Solve = Instant.assignTasks(servers, tasks) 
+    # Expected output: [2, 2, 0, 2, 1, 2]
     print(Solve)
