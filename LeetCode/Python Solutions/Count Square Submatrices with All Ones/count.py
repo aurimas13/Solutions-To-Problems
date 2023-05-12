@@ -15,10 +15,9 @@ class Solution:
         return res
 
 
-# Checking in Console/PyCharm:
+# Tests:
 if __name__ == '__main__':
     Sol = Solution()
-    Solve = Sol.countPrimes(n=10)
-    # matrix = [[0,1,1,1], [1,1,1,1], [0,1,1,1]] -> 15
+    Solve = Sol.countSquares([[0,1,1,1], [1,1,1,1], [0,1,1,1]]) # 15
     # matrix = [[1,0,1], [1,1,0], [1,1,0]] -> 7
     print(Solve)
