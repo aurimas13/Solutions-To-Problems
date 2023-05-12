@@ -2,8 +2,7 @@ from typing import List
 
 
 class Solution:
-    @staticmethod
-    def countSquares(matrix: List[List[int]]) -> int:
+    def countSquares(self, matrix: List[List[int]]) -> int:
         m, n = len(matrix), len(matrix[0])
         dp = [[0] * (n + 1) for _ in range(m + 1)]
         res = 0
