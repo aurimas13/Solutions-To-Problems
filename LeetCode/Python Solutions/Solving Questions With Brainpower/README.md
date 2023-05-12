@@ -1,0 +1,1 @@
+Tje problem of "Solving Questions With Brainpower" is found [here](https://leetcode.com/problems/solving-questions-with-brainpower/description/), the solution [here]() and detailed explanation with complexities and algorithm in depth [here](https://leetcode.com/problems/solving-questions-with-brainpower/solutions/3514433/python-solution-beat-90-well-explained/).
