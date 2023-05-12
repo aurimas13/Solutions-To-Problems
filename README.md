@@ -445,7 +445,8 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 | 369 |[Gas Station](https://leetcode.com/problems/gas-station/) | [Gas Station](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) | O(n) | O(1) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | 370 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [Minimum Rounds to Complete All Tasks](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Rounds%20to%20Complete%20All%20Tasks/minimum.py) O(n) | O(n) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 371 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description) [Earliest Possible Day of Full Bloom](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Earliest%20Possible%20Day%20of%20Full%20Bloom/earliest.py) | O(n log n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
-| 372 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/) | [Solving Questions With Brainpower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Solving%20Questions%20With%20Brainpower/solving.py) | O(n) | O(n) | :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 372 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/) | [Solving Questions With Brainpower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Solving%20Questions%20With%20Brainpower/solving.py) | O(n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 373 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description) | [Shuffle an Array](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shuffle%20an%20Array/shuffle.py) | O(n) | O(n) |:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
@@ -457,20 +458,20 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Google | 310 |
-| Amazon | 278 |
+| Google | 311 |
+| Amazon | 279 |
 | Apple | 247 |
-| Facebook | 230 |
-| Microsoft | 213 |
-| Bloomberg | 198 |
+| Facebook | 231 |
+| Microsoft | 214 |
+| Bloomberg | 199 |
 | Adobe | 198 |
-| Uber | 176 |
+| Uber | 177 |
 | Goldman Sachs | 155 |
 | TikTok | 128 |
 | LinkedIn | 106 |
 | Airbnb | 88 |
 | Tesla | 76 |
-| Twitter | 56 |
+| Twitter | 57 |
 | Spotify | 32 |
 | DE Shaw| 28 |
 | Reddit | 20 |
