@@ -448,6 +448,7 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 | 372 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/) | [Solving Questions With Brainpower](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Solving%20Questions%20With%20Brainpower/solving.py) | O(n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 373 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description) | [Shuffle an Array](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shuffle%20an%20Array/shuffle.py) | O(n) | O(n) |:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 374 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Count Ways To Build Good Strings](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Ways%20To%20Build%20Good%20Strings/count.py) | O(n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 375 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/) | [Maximize Score After N Operations](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximize%20Score%20After%20N%20Operations/maximize.py) | O(2^n) | O(2^n) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
@@ -460,7 +461,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Company Name | Total Solutions |
 |--------|----------|
 | Google | 311 |
-| Amazon | 279 |
+| Amazon | 280 |
 | Apple | 247 |
 | Facebook | 231 |
 | Microsoft | 214 |
