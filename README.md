@@ -449,6 +449,7 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 | 373 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description) | [Shuffle an Array](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shuffle%20an%20Array/shuffle.py) | O(n) | O(n) |:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 374 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Count Ways To Build Good Strings](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Ways%20To%20Build%20Good%20Strings/count.py) | O(n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 375 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/) | [Maximize Score After N Operations](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximize%20Score%20After%20N%20Operations/maximize.py) | O(2^n) | O(2^n) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 376 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/?envType=study-plan&id=level-3) | [Find K Closest Elements](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20K%20Closest%20Elements/find.py) | O(n log n) | O(n) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
@@ -460,15 +461,15 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Google | 311 |
-| Amazon | 280 |
-| Apple | 247 |
-| Facebook | 231 |
-| Microsoft | 214 |
-| Bloomberg | 199 |
-| Adobe | 198 |
-| Uber | 177 |
-| Goldman Sachs | 155 |
+| Google | 312|
+| Amazon | 281 |
+| Apple | 248 |
+| Facebook | 232 |
+| Microsoft | 215 |
+| Bloomberg | 200 |
+| Adobe | 199 |
+| Uber | 178 |
+| Goldman Sachs | 156 |
 | TikTok | 128 |
 | LinkedIn | 106 |
 | Airbnb | 88 |
@@ -478,7 +479,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | DE Shaw| 28 |
 | Reddit | 20 |
 | Netflix | 10 |
-| Others | 268 |
+| Others | 269 |
 
 <br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
