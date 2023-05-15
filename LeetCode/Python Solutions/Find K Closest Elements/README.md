@@ -1,0 +1,2 @@
+Problem description of "Find K Closest Elements" can be found [here](https://leetcode.com/problems/find-k-closest-elements/?envType=study-plan&id=level-3)
+and its solution [here]() and its explanation with details [here]().
