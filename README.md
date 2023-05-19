@@ -459,6 +459,14 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 
 ---
 
+### Java Solutions
+|No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Facebook/Meta|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Is Graph Bipartite?](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Is%20Graph%20Bipartite%3F/graph.java) 
+
+|1| [01 Matrix](https://leetcode.com/problems/01-matrix/) | [01 Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/01%20Matrix/01.py) |O(n^2)|O(n^2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|
+---
+
 ### Total Number
 
 Total number of LeetCode solutions per company are shown below:<sup>*</sup>
