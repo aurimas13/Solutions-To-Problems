@@ -69,7 +69,7 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 
 # Problems and Solutions
 
-There are over 400 solutions of all three languages of **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), **Java** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions) and **SQL** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions) with details which problems are solved at the particular folder.
+There are over 400 solutions of all three languages of **Python** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), **Java** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions) and **SQL** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions) with details which problems are solved at the particular folder.
 
 ### Total Number
 
