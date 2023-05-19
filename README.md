@@ -36,7 +36,7 @@
 
 🎪 Behold the mesmerizing progress of the LeetCode account, sprinkled with magical blog posts providing explanations on select solutions. Gaze upon it [here](https://leetcode.com/aurimas13/).
 
-🎡 Marvel at the colorful array of LeetCode solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions), **HackerRank** solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), and **LeetCode** solutions in Java [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions).
+🎡 Marvel at the colorful array of LeetCode solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions), **HackerRank** solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), and **LeetCode** solutions in **Java** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions) as well as **LeetCode** [SQL Solutions](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions).
 
 🔮 Each problem folder unveils the description of the problem and, sometimes, the solution and explanation. Click the name of the problem in the [Problems and Solutions](#problems-and-solutions), [Must Do Problems](#must-do-problems) or [Google Top](#google-top) to reveal its secrets.
 
@@ -50,6 +50,7 @@
 - [Table of contents](#table-of-contents)
 - [Preparation for Interiews](#preparation-for-interviews)
 - [Problems and Solutions](#problems-and-solutions)
+- [Python Solutions](#python-solutions)
 - [Java Solutions](#java-solutions)
 - [SQL Solutions](#sql-solutions)
 - [Total Number](#total-number)
@@ -57,7 +58,7 @@
 - [Google Top](#google-top)
 - [License](#license)
 
-## Preparation for Interviews
+# Preparation for Interviews
 
 [(Back to top)](#table-of-contents)
 
@@ -72,8 +73,13 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 
 ------
 
-### Problems and Solutions
+# Problems and Solutions
 
+There are three solutions of [Python](#python-solutions), [Java](#python-solutions) and [SQL](#sql-solutions).
+
+---
+
+### Python Solutions
 
 |No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Facebook/Meta|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
