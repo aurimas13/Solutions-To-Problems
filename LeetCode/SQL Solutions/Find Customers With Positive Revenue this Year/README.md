@@ -1,0 +1,1 @@
+The problem description of "Find Customers With Positive Revenue this Year" is found [here](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/) while solution [here]() and its detailed explanation [here](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/solutions/3541435/sql-solution-well-explained/). 
