@@ -1,4 +1,4 @@
-# Solutions & Descriptions
+# Problems & Solutions
 
 |No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Facebook/Meta|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
