@@ -1,0 +1,1 @@
+Problem description of "Big Countires" can be found [here](https://leetcode.com/problems/big-countries/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Invalid%20Tweets/invalid.sql) and detailed explanation [here](https://leetcode.com/problems/big-countries/solutions/3542200/sql-solution/). 
