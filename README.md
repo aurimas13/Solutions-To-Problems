@@ -42,7 +42,7 @@
 
 🎭 Currently enchanting the world with **Python** & a touch of **Java** a touch of Java from **LeetCode**. A daily Python problem from [LeetCode](https://leetcode.com/problemset/all/) has been vanquished since 28<sup>th</sup> of May 2022 and a daily Java solution also is being addded since 19<sump>th</sup> May 2023.
 
-🎠 The magic continues with **SQL** solutions of problems at *HackerRank* & *LeetCode*, coming soon to [HackerRank SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/SQL%20Solutions)) and [LeetCode SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions).
+🎠 The magic continues with **SQL** solutions of problems at *HackerRank* & *LeetCode*, coming soon to [HackerRank SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/SQL%20Solutions)) while now doing  [LeetCode SQL Solutions](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions).
 
 
 # Table of Contents
