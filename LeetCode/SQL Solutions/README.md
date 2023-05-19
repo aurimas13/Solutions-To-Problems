@@ -8,5 +8,7 @@
 | 4 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&id=top-sql-500)| [Invalid Tweets](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Invalid%20Tweets/invalid.sql) | Easy |
 | 5 | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&id=top-sql-50) | [Article Views I](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Article%20Views%20I/article.sql) | Easy |
 | 6 | [Big Countries](https://leetcode.com/problems/big-countries/description/) | [Big Countries](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Big%20Countries/big.sql) | Easy |
+| 7 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&id=top-sql-50) | F[ind Customer Referee](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions/Find%20Customer%20Refereel) | Easy | 
+
  <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
