@@ -49,9 +49,6 @@
 - [Table of contents](#table-of-contents)
 - [Preparation for Interiews](#preparation-for-interviews)
 - [Problems and Solutions](#problems-and-solutions)
-- [Python Solutions](#python-solutions)
-- [Java Solutions](#java-solutions)
-- [SQL Solutions](#sql-solutions)
 - [Total Number](#total-number)
 - [Must Do Problems](#must-do-problems)
 - [Google Top](#google-top)
@@ -72,20 +69,8 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 
 # Problems and Solutions
 
-There are three solutions of [Python](#python-solutions), [Java](#python-solutions) and [SQL](#sql-solutions).
+There are over 400 solutions of all three languages of **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), **Java** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions) and **SQL** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions) with details which problems are solved at the particular folder.
 
-------
-### Python Solutions
----
-
-### Java Solutions
-
----
-
-
-### SQL Solutions
-
-___
 ### Total Number
 
 Total number of LeetCode solutions per company are shown below:<sup>*</sup>
@@ -114,7 +99,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 <br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
----
+-------
 
 ### Must Do Problems
 
