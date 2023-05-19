@@ -469,8 +469,11 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 
 ---
 
-### SQL Solutions
 
+### SQL Solutions
+|No.| Question | Solution in IDE |Google|Amazon|Apple|Facebook/Meta|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&id=top-sql-50) | [Recyclable and Low Fat Products](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Recyclable%20and%20Low%20Fat%20Products/recyclable.sql) |:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 ___
 ### Total Number
 
@@ -479,9 +482,9 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Company Name | Total Solutions |
 |--------|----------|
 | Google | 313|
-| Amazon | 284 |
+| Amazon | 285 |
 | Apple | 248 |
-| Facebook | 233 |
+| Facebook | 234 |
 | Microsoft | 216 |
 | Bloomberg | 202 |
 | Adobe | 180 |
@@ -496,7 +499,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | DE Shaw| 28 |
 | Reddit | 20 |
 | Netflix | 10 |
-| Others | 269 |
+| Others | 349 |
 
 <br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
