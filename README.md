@@ -40,7 +40,7 @@
 
 🔮 Each problem folder unveils the description of the problem and, sometimes, the solution and explanation. Click the name of the problem in the [Problems and Solutions](#problems-and-solutions), [Must Do Problems](#must-do-problems) or [Google Top](#google-top) to reveal its secrets.
 
-🎭 Currently enchanting the world with **Python** & a touch of **Java** a touch of Java from **LeetCode**. A daily Python problem from [LeetCode](https://leetcode.com/problemset/all/) has been vanquished since 28<sup>th</sup> of May 2022.
+🎭 Currently enchanting the world with **Python** & a touch of **Java** a touch of Java from **LeetCode**. A daily Python problem from [LeetCode](https://leetcode.com/problemset/all/) has been vanquished since 28<sup>th</sup> of May 2022 and a daily Java solution also is being addded since 19<sump>th</sup> May 2023.
 
 🎠 The magic continues with **SQL** solutions of problems at *HackerRank* & *LeetCode*, coming soon to [HackerRank SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/SQL%20Solutions)) and [LeetCode SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions).
 
@@ -50,6 +50,8 @@
 - [Table of contents](#table-of-contents)
 - [Preparation for Interiews](#preparation-for-interviews)
 - [Problems and Solutions](#problems-and-solutions)
+- [Java Solutions](#java-solutions)
+- [SQL Solutions](#sql-solutions)
 - [Total Number](#total-number)
 - [Must Do Problems](#must-do-problems)
 - [Google Top](#google-top)
@@ -460,13 +462,16 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 ---
 
 ### Java Solutions
+
 |No.| Question | Solution in IDE | Time Complexity | Space Complexity |Google|Amazon|Apple|Facebook/Meta|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Is Graph Bipartite?](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Is%20Graph%20Bipartite%3F/graph.java) 
+| 1 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Is Graph Bipartite?](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Is%20Graph%20Bipartite%3F/graph.java) |O(n)|O(n)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
-|1| [01 Matrix](https://leetcode.com/problems/01-matrix/) | [01 Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/01%20Matrix/01.py) |O(n^2)|O(n^2)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ---
 
+### SQL Solutions
+
+___
 ### Total Number
 
 Total number of LeetCode solutions per company are shown below:<sup>*</sup>
