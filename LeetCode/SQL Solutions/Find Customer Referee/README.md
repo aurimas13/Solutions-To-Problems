@@ -1,0 +1,1 @@
+The problem description of "Find Customer Referee" is found [here](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&id=top-sql-50) while solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Find%20Customers%20With%20Positive%20Revenue%20this%20Year/find.sql) 
