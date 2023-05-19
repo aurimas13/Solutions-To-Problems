@@ -44,7 +44,6 @@
 
 🎠 The magic continues with **SQL** solutions of problems at *HackerRank* & *LeetCode*, coming soon to [HackerRank SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/SQL%20Solutions)) while now doing  [LeetCode SQL Solutions](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions).
 
-
 # Table of Contents
 
 - [Table of contents](#table-of-contents)
@@ -71,13 +70,11 @@
 5. Test your wit with [Multiple Choice Questions]((https://github.com/aurimas13/Solutions-To-Problems/blob/main/Public/MCQ.txt)) to prove your magical prowess.
 Embrace the magical journey of interview preparation, and may your code be ever enchanting! 🌟🌈🔮
 
-------
-
 # Problems and Solutions
 
 There are three solutions of [Python](#python-solutions), [Java](#python-solutions) and [SQL](#sql-solutions).
 
----
+------
 
 ### Python Solutions
 
