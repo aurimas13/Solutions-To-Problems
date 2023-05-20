@@ -1,1 +1,1 @@
-Problem description of "Evaluate Division" can be found [here](https://leetcode.com/problems/evaluate-division/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Evaluate%20Division/README.md).
+Problem description of "Evaluate Division" can be found [here](https://leetcode.com/problems/evaluate-division/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Evaluate%20Division/evaluate.py).
