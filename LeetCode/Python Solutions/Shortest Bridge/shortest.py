@@ -54,3 +54,4 @@ if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.shortestBridge(grid = [[0,1,0],[0,0,0],[0,0,1]])
     print(Solve)
+
