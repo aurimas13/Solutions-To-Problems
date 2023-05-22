@@ -1,1 +1,1 @@
-Problem description of "Top K Frequent Elements" can be found [here](https://leetcode.com/problems/top-k-frequent-elements/).
+Problem description of "Top K Frequent Elements" can be found [here](https://leetcode.com/problems/top-k-frequent-elements/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Top%20K%20Frequent%20Elements/frequent.py).
