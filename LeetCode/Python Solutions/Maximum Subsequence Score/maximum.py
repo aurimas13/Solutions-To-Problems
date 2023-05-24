@@ -1,3 +1,8 @@
+from typing import List
+from collections import defaultdict
+import heapq
+
+
 class Solution:
     def maxScore(self, nums1, nums2, k):
         ans = sorted([(i,j) for i,j in zip(nums1,nums2)], key = lambda x: -x[1])
