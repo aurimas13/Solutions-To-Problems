@@ -92,7 +92,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Tesla | 76 |
 | Twitter | 58 |
 | Spotify | 32 |
-| DE Shaw| 28 |
+| DE Shaw| 29 |
 | Reddit | 20 |
 | Netflix | 10 |
 | Others | 355 |
@@ -222,3 +222,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 [//]: # ()
 [LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
+
+
+
+
