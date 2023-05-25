@@ -1,0 +1,1 @@
+The description of "New 21 Game" is [here](https://leetcode.com/problems/new-21-game/description/) while the solution is [here]().
