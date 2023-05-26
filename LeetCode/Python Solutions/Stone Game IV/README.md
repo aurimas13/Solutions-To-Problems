@@ -1,1 +1,1 @@
-Problem description of "Stone Game IV" can be found [here](https://leetcode.com/problems/stone-game-iv/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Stone%20Game%20IV/stone.py).
+Problem description of "Stone Game II" can be found [here](hhttps://leetcode.com/problems/stone-game-ii/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Stone%20Game%20II/stone.py).
