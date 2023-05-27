@@ -2,7 +2,7 @@ class Solution {
     public String stoneGameIII(int[] stoneValue) {
         int n = stoneValue.length;
         int[] dp = new int[n + 1];
-        
+
         // Dynamic programming approach
         for (int i = n - 1; i >= 0; i--) {
             dp[i] = Integer.MIN_VALUE;
@@ -16,7 +16,7 @@ class Solution {
                 }
             }
         }
-        
+
         // Determine the winner based on the score difference
         if (dp[0] > 0) {
             return "Alice";
@@ -25,6 +25,5 @@ class Solution {
         } else {
             return "Tie";
         }
-        
     }
 }
