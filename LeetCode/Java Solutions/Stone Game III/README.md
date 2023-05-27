@@ -1,1 +1,1 @@
-Problem description of "Stone Game III" can be found [here](https://leetcode.com/problems/stone-game-iii/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Stone%20Game%20III/stone.java).
+Problem description of "Stone Game III" can be found [here](https://leetcode.com/problems/stone-game-iii/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Stone%20Game%20III/stone.java).
