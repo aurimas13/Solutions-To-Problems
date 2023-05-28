@@ -52,7 +52,7 @@ class Solution:
 
 
 # Checking in terminal
-if name == "main":
+if __name__ == "main":
     s = Solution()
     pizza = ["A..", "AAA", "..."]
     k = 3

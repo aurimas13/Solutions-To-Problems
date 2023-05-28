@@ -1,0 +1,1 @@
+The problem description is found [here](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) while the solution is [here]().

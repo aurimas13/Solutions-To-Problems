@@ -16,10 +16,9 @@ class Solution:
             nums.add(n)
 
 
-# Running in terminal/console:
+# Tests:
 if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.isHappy(n = 19)
     # n = 19 -> true | n = 2 -> false
     print(Solve)
-
