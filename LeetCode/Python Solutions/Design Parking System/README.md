@@ -1,0 +1,1 @@
+Problem description of "Design Parking System" can be found [here](https://leetcode.com/problems/design-parking-system/description/) and its solution [here]().
