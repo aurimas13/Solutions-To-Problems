@@ -1,24 +1,25 @@
 import java.util.HashSet;
 
 class MyHashSet {
-    private HashSet<Integer> set;
+    private boolean[] hashSet;
 
     public MyHashSet() {
-        set = new HashSet<>();
+        hashSet = new boolean[1000001];
     }
 
     public void add(int key) {
-        set.add(key);
+        hashSet[key] = true;
     }
 
     public void remove(int key) {
-        set.remove(key);
+        hashSet[key] = false;
     }
 
     public boolean contains(int key) {
-        return set.contains(key);
+        return hashSet[key];
     }
 }
+
 
 public class Main {
     public static void main(String[] args) {

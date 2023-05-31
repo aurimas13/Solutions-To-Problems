@@ -1,15 +1,15 @@
 class MyHashSet:
     def __init__(self):
-        self.set = set()
+        self.hashSet = [False] * 1000001
 
     def add(self, key: int) -> None:
-        self.set.add(key)
+        self.hashSet[key] = True
 
     def remove(self, key: int) -> None:
-        self.set.discard(key)
+        self.hashSet[key] = False
 
     def contains(self, key: int) -> bool:
-        return key in self.set
+        return self.hashSet[key]
 
 
 if __name__ == "__main__":
