@@ -1,54 +1,53 @@
-from typing import List
-from collections import deque
+import java.util.*;
 
-class Solution:
-    def shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:
-        # If the starting or ending point is not reachable, return -1
-        if grid[0][0] == 1 or grid[-1][-1] == 1:
-            return -1
+public class Solution {
+    public int shortestPathBinaryMatrix(int[][] grid) {
+        int n = grid.length;
+        if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1) {
+            return -1;
+        }
 
-        # Define directions for moving in the grid
-        directions = [(1, 0), (1, 1), (0, 1), (-1, 1), (-1, 0), (-1, -1), (0, -1), (1, -1)]
+        int[][] directions = new int[][] {
+            {1, 0}, {1, 1}, {0, 1}, {-1, 1}, {-1, 0}, {-1, -1}, {0, -1}, {1, -1}
+        };
 
-        # Define the size of the grid
-        n = len(grid)
+        Queue<int[]> queue = new LinkedList<>();
+        queue.offer(new int[]{0, 0, 1});  // x, y, path_length
 
-        # Initialize the queue with the starting point (0, 0) and the initial path length 1
-        queue = deque([((0, 0), 1)])
+        grid[0][0] = 1;  // mark as visited
 
-        # Mark the starting point as visited
-        grid[0][0] = 1
+        while (!queue.isEmpty()) {
+            int[] cell = queue.poll();
+            int x = cell[0], y = cell[1], path_length = cell[2];
 
-        # Perform BFS traversal to find the shortest path
-        while queue:
-            (x, y), path_length = queue.popleft()
+            if (x == n - 1 && y == n - 1) {
+                return path_length;
+            }
 
-            # Check if the current cell is the bottom-right cell (destination)
-            if x == n - 1 and y == n - 1:
-                return path_length
+            for (int[] direction : directions) {
+                int new_x = x + direction[0];
+                int new_y = y + direction[1];
 
-            for dx, dy in directions:
-                new_x, new_y = x + dx, y + dy
+                if (new_x >= 0 && new_x < n && new_y >= 0 && new_y < n && grid[new_x][new_y] == 0) {
+                    grid[new_x][new_y] = 1;  // mark as visited
+                    queue.offer(new int[]{new_x, new_y, path_length + 1});
+                }
+            }
+        }
 
-                # Check if the new cell is within the grid and unvisited
-                if 0 <= new_x < n and 0 <= new_y < n and grid[new_x][new_y] == 0:
-                    # Mark the new cell as visited
-                    grid[new_x][new_y] = 1
-                    # Add the new cell to the queue with updated path length
-                    queue.append(((new_x, new_y), path_length + 1))
+        return -1;
+    }
 
-        return -1
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        // Test case 1
+        int[][] grid1 = new int[][]{{0, 1}, {1, 0}};
+        assert solution.shortestPathBinaryMatrix(grid1) == 2;
 
-# Test cases
-if __name__ == '__main__':
-    solution = Solution()
-    
-    # Test case 1
-    grid1 = [[0, 1], [1, 0]]
-    assert solution.shortestPathBinaryMatrix(grid1) == 2
+        // Test case 2
+        int[][] grid2 = new int[][]{{1, 0, 0}, {1, 1, 0}, {1, 1, 0}};
+        assert solution.shortestPathBinaryMatrix(grid2) == -1;
 
-    # Test case 2
-    grid2 = [[1, 0, 0], [1, 1, 0], [1, 1, 0]]
-    assert solution.shortestPathBinaryMatrix(grid2) == -1
-
-    print("All test cases passed!")
+        System.out.println("All test cases passed!");
+    }
+}
