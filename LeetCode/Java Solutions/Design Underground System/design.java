@@ -68,3 +68,4 @@ class Solution {
         return distance <= bomb1[R_INDEX];
     }
 }
+
