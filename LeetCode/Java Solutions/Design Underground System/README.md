@@ -1,1 +1,1 @@
-Problem description of "Design Underground System" can be found [here](https://leetcode.com/problems/design-underground-system/description/) and its solution [here]().
+Problem description of "Detonate the Maximum Bombs" can be found [here](https://leetcode.com/problems/detonate-the-maximum-bombs/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Detonate%20the%20Maximum%20Bombs/detonate.java).
