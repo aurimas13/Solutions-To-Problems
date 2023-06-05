@@ -95,7 +95,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | DE Shaw| 29 |
 | Reddit | 20 |
 | Netflix | 10 |
-| Others | 357 |
+| Others | 358 |
 
 <br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
