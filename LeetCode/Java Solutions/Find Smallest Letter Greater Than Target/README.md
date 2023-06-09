@@ -1,0 +1,1 @@
+Problem description of "Find Smallest Letter Greater Than Target" can be found [here](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Smallest%20Letter%20Greater%20Than%20Target/smallest_letter.py).
