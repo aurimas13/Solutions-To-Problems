@@ -1,1 +1,1 @@
-The problem of "Snapshot Array" is found [here](https://leetcode.com/problems/snapshot-array/description/) while the solution of it [here]().
+The problem of "Snapshot Array" is found [here](https://leetcode.com/problems/snapshot-array/description/) while the solution of it [here](https://bit.ly/43Ntar3).
