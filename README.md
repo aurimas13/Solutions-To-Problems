@@ -92,7 +92,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Tesla | 76 |
 | Twitter | 59 |
 | Spotify | 32 |
-| DE Shaw| 29 |
+| DE Shaw| 30 |
 | Reddit | 20 |
 | Netflix | 10 |
 | Others | 363 |
