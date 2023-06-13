@@ -1,0 +1,1 @@
+The problem description of "Equal Row and Column Pairs" found [here](https://leetcode.com/problems/equal-row-and-column-pairs/description/) while the problem solution [here]().
