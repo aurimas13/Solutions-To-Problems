@@ -1,90 +1,63 @@
-import java.util.Queue;
-import java.util.LinkedList;
+from collections import deque
+from typing import Any
 
-/**
- * Definition for a binary tree node.
- */
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode() {}
-    TreeNode(int val) { this.val = val; }
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
 
-public class Solution {
-/**
- * Returns the level of the binary tree with the maximum sum of values of its nodes. 
- * If there are multiple levels with the same sum, returns the level closest to the root.
- *
- * @param  root  the root node of the binary tree
- * @return       the level of the binary tree with the maximum sum of values
- *               of its nodes
- */
-public int maxLevelSum(TreeNode root) {
-    // if the root is null, return 0
-    if (root == null) {
-        return 0;
-    }
-    
-    // initialize a queue with the root node
-    Queue<TreeNode> queue = new LinkedList<>();
-    queue.offer(root);
-    
-    // initialize variables to keep track of maximum sum, maximum level, and current level
-    int maxSum = Integer.MIN_VALUE;
-    int maxLevel = 1;
-    int level = 0;
-    
-    // loop through the binary tree using a queue
-    while (!queue.isEmpty()) {
-        // get the number of nodes in the current level
-        int size = queue.size();
-        // initialize a variable to keep track of the sum of the nodes in the current level
-        int sum = 0;
-        // increment the level counter
-        level++;
+class Solution:
+    def maxLevelSum(self, root: TreeNode) -> int:
+        """
+        Given a binary tree, find the level which has the maximum sum of all nodes.
+        If there are multiple levels with the same sum, return the smallest level.
         
-        // loop through the nodes in the current level
-        for (int i = 0; i < size; i++) {
-            // get the next node in the queue
-            TreeNode node = queue.poll();
-            // add the node's value to the sum
-            sum += node.val;
-            
-            // add the node's left and right children to the queue if they exist
-            if (node.left != null) {
-                queue.offer(node.left);
-            }
-            
-            if (node.right != null) {
-                queue.offer(node.right);
-            }
-        }
+        Args:
+        - root: The root node of the binary tree
         
-        // update the maximum sum and maximum level if the current sum is greater than the current maximum sum
-        if (sum > maxSum) {
-            maxSum = sum;
-            maxLevel = level;
-        }
-    }
-    
-    // return the level with the maximum sum
-    return maxLevel;
-}
+        Returns:
+        - The level which has the maximum sum of all nodes
+        
+        Example:
+        Input:
+              1
+             / \
+            7   0
+           / \
+          7  -8
+        Output: 2
+        Explanation:
+        Level 1 sum = 1
+        Level 2 sum = 7 + 0 = 7
+        Level 3 sum = 7 - 8 = -1
+        So the level with the maximum sum is level 2.
+        """
+        if not root:
+            return 0
 
-    public static void main(String[] args) {
-        // Example usage
-        TreeNode root = new TreeNode(1);
-        root.left = new TreeNode(7, new TreeNode(7), null);
-        root.right = new TreeNode(0, null, new TreeNode(-8));
-        
-        Solution solution = new Solution();
-        System.out.println(solution.maxLevelSum(root)); // Output should be 2
-    }
-}
+        queue = deque([root])
+        max_sum = float('-inf')
+        max_level = 1
+        level = 0
+
+        while queue:
+            size = len(queue)
+            level += 1
+            sum = 0
+
+            for _ in range(size):
+                node = queue.popleft()
+                sum += node.val
+
+                if node.left:
+                    queue.append(node.left)
+
+                if node.right:
+                    queue.append(node.right)
+
+            if sum > max_sum:
+                max_sum = sum
+                max_level = level
+
+        return max_level
