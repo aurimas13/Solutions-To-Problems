@@ -1,66 +1,40 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+from typing import List
+from bisect import bisect_right
 
-class Solution { 
-    // Using a HashMap to store the results of subproblems
-    Map<Pair<Integer, Integer>, Integer> dp = new HashMap<>();
+class Solution:
+    def makeArrayIncreasing(self, arr1: List[int], arr2: List[int]) -> int:
+        # Sort the arr2 for binary search
+        arr2.sort()
 
-    public int makeArrayIncreasing(int[] arr1, int[] arr2) {
-        // Sort the second array to allow for binary search
-        Arrays.sort(arr2);
+        # Initialize a DP map with a key of -1 and value of 0
+        dp = {-1: 0}
 
-        // Start the helper method with the first index and a previous value of -1
-        int answer = helper(0, -1, arr1, arr2);
+        # Iterate over each number in arr1
+        for num in arr1:
+            tmp = {}  # Temporary DP map for the current iteration
 
-        // Return the answer if it is less than the maximum integer value, else return -1
-        return answer < Integer.MAX_VALUE-100 ? answer : -1;
-    }
+            # For each key (previous value) in the DP map
+            for key in dp:
+                # If the current number is greater than the previous value
+                if num > key:  
+                    # Update the minimum operations needed for the current number in the temporary DP map
+                    tmp[num] = min(tmp.get(num, float('inf')), dp[key])
 
-    private int helper(int i, int prev, int[] arr1, int[] arr2) {
-        // If we have traversed the entire arr1, return 0 as no more operations are needed
-        if (i == arr1.length) {
-            return 0;
-        }
+                # Find the position of the first number in arr2 that is greater than the key (previous value)
+                idx = bisect_right(arr2, key)
 
-        // Create a pair object once and reuse it
-        Pair<Integer, Integer> currentPair = new Pair<>(i, prev);
-        if (dp.containsKey(currentPair)) {
-            return dp.get(currentPair);
-        }
+                # If such a number exists in arr2
+                if idx < len(arr2):
+                    # Update the minimum operations needed for the number in arr2 in the temporary DP map
+                    tmp[arr2[idx]] = min(tmp.get(arr2[idx], float('inf')), dp[key] + 1)
+            
+            # Update the DP map with the temporary DP map
+            dp = tmp
+        
+        # If there is any possibility to make arr1 strictly increasing, return the minimum operations needed
+        if dp:
+            return min(dp.values())
+        # If there is no way to make arr1 strictly increasing, return -1
+        else:
+            return -1
 
-        int operation = Integer.MAX_VALUE-100;
-
-        // If the current element in arr1 is greater than the previous value, 
-        // then keep it and move to the next element
-        if (arr1[i] > prev) {
-            operation = helper(i + 1, arr1[i], arr1, arr2);
-        }
-
-        // Find the first element in arr2 that is greater than prev
-        int idx = binarySearch(arr2, prev);
-
-        // If such an element exists, replace the current element in arr1 with this element
-        if (idx < arr2.length) {
-            operation = operation < (1 + helper(i + 1, arr2[idx], arr1, arr2)) ? operation : 1 + helper(i + 1, arr2[idx], arr1, arr2);
-        }
-
-        // Store the result in the dp table
-        dp.put(currentPair,operation);
-        return operation;
-    }
-
-    // Binary search function to find the first element that is greater than the given value
-    private static int binarySearch(int[] arr, int value) {
-        int left = 0, right = arr.length-1;
-        while (left <= right) {
-            int mid = left+(right-left) / 2;
-            if (arr[mid] <= value) {
-                left = mid + 1;
-            } else {
-                right = mid-1;
-            }
-        }
-        return left;
-    } 
-}
