@@ -1,0 +1,1 @@
+Problem description of "Find the Highest Altitude" can be found [here](https://leetcode.com/problems/find-the-highest-altitude/description/) and its solution [here]().
