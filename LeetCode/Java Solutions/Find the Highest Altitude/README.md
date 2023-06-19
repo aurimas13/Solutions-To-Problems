@@ -1,1 +1,1 @@
-Problem description of "Find the Highest Altitude" can be found [here](https://leetcode.com/problems/find-the-highest-altitude/description/) and its solution [here]().
+Problem description of "Find the Highest Altitude" can be found [here](https://leetcode.com/problems/find-the-highest-altitude/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20the%20Highest%20Altitude/find.java).
