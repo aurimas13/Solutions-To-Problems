@@ -39,3 +39,4 @@
 | 35 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/description/) | [Minimum Cost to Make Array Equal](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Cost%20to%20Make%20Array%20Equal/minimum.java) | O(nlogn) | O(nlogn) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|::|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
  <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
+
