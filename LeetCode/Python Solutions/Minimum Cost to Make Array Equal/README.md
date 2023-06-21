@@ -1,0 +1,1 @@
+The problem of "Minimum Cost to Make Array Equal" is found [here](https://leetcode.com/problems/minimum-cost-to-make-array-equal/description/) and the solution [here]().
