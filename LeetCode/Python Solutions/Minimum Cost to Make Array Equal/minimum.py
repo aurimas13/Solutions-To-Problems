@@ -23,5 +23,6 @@ class Solution:
                 break
 
         # Calculate the minimum cost
-        return sum(abs(weighted_num.num - number_to_minimize_to) * weighted_num.weight for weighted_num in weighted_nums if weighted_num.num != number_to_minimize_to)
+        return sum(abs(weighted_num.num - number_to_minimize_to) * weighted_num.weight 
+                   for weighted_num in weighted_nums if weighted_num.num != number_to_minimize_to)
 

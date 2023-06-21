@@ -60,4 +60,3 @@ class Solution {
                 .reduce(0L, (acc, weightedNum) -> acc + (long)Math.abs(weightedNum.num - number) * weightedNum.weight, Long::sum);
     }
 }
-
