@@ -1,44 +1,19 @@
-from typing import List
-import math
-
-
 class Solution:
-    def maxProfit(self, k: int, prices: List[int]) -> int:
-        n = len(prices)
-
-        # solve special cases
-        if not prices or k==0:
-            return 0
-
-        if 2*k > n:
-            res = 0
-            for i, j in zip(prices[1:], prices[:-1]):
-                res += max(0, i - j)
-            return res
-
-        # dp[i][used_k][ishold] = balance
-        # ishold: 0 nothold, 1 hold
-        dp = [[[-math.inf]*2 for _ in range(k+1)] for _ in range(n)]
-
-        # set starting value
-        dp[0][0][0] = 0
-        dp[0][1][1] = -prices[0]
-
-        # fill the array
-        for i in range(1, n):
-            for j in range(k+1):
-                # transition equation
-                dp[i][j][0] = max(dp[i-1][j][0], dp[i-1][j][1]+prices[i])
-                # you can't hold stock without any transaction
-                if j > 0:
-                    dp[i][j][1] = max(dp[i-1][j][1], dp[i-1][j-1][0]-prices[i])
-
-        res = max(dp[n-1][j][0] for j in range(k+1))
-        return res
-
-
-# Tests:
-if __name__ == '__main__':
-    Sol = Solution()
-    Solve = Sol.maxProfit(k = 2, prices = [2,4,1])  # k = 2, prices = [2,4,1] -> 2
-    print(Solve)
+    def maxProfit(self, prices: List[int], fee: int) -> int:
+        # We initialize cash and hold, cash represents the maximum profit we could have if we did not have a share of stock,
+        # hold represents the maximum profit we could have if we owned a share of stock.
+        cash, hold = 0, -prices[0]
+        
+        for i in range(1, len(prices)):
+            # For each day, we may not do anything, or sell our stock and buy it again.
+            # If we sell our stock, we have price[i] extra cash, but we have to pay the fee. 
+            # The new value of cash is either its old value, or this new possible value. 
+            # At the end of the loop, cash is the answer to our problem.
+            cash = max(cash, hold + prices[i] - fee)
+            
+            # If we buy a stock, we have to pay price[i] units of cash. 
+            # So the new value of hold is either its old value, or this new possible value. 
+            hold = max(hold, cash - prices[i])
+            
+        # return the maximum profit if we did not have a share of stock.
+        return cash
