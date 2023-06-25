@@ -1,0 +1,1 @@
+The problem of "Count All Possible Routes" is [here](https://leetcode.com/problems/count-all-possible-routes/description/) while the solution is [here]().
