@@ -1,1 +1,1 @@
-The problem of "Find K Pairs with Smallest Sums" is found [here](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) while the solution [here]().
+The problem of "Find K Pairs with Smallest Sums" is found [here](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20K%20Pairs%20with%20Smallest%20Sums/find.java).
