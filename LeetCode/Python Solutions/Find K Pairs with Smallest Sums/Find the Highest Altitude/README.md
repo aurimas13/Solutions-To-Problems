@@ -1,1 +1,0 @@
-Problem description of "Find the Highest Altitude" can be found [here](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) and its solution [here]().

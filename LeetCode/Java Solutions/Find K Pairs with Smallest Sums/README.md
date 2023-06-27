@@ -1,0 +1,1 @@
+The problem of "Find K Pairs with Smallest Sums" is found [here](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) while the solution [here]().
