@@ -1,29 +1,32 @@
-import java.util.*;
-
-class Solution {
-    public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
-        PriorityQueue<List<Integer>> heap = new PriorityQueue<>(k, (a, b) -> Integer.compare(b.get(0) + b.get(1), a.get(0) + a.get(1)));
-
-        for (int i = 0; i < nums1.length; i++) {
-            for (int j = 0; j < nums2.length; j++) {
-                if (heap.size() < k) {
-                    heap.add(Arrays.asList(nums1[i], nums2[j]));
-                } else {
-                    if (heap.peek().get(0) + heap.peek().get(1) > nums1[i] + nums2[j]) {
-                        heap.poll();
-                        heap.add(Arrays.asList(nums1[i], nums2[j]));
-                    } else {
-                        break;
-                    }
-                }
-            }
-        }
-
-        List<List<Integer>> res = new ArrayList<>();
-        while (!heap.isEmpty()) {
-            res.add(0, heap.poll());
-        }
-
-        return res;
-    }
-}
+class Solution:
+    def kSmallestPairs(self, nums1: List[int], nums2: List[int], k: int) -> List[List[int]]:
+        """
+        This function takes two lists of integers and an integer k as input and returns a list of k smallest pairs.
+        The function accepts three parameters:
+            1. nums1 (List[int]): A list of integers.
+            2. nums2 (List[int]): A list of integers.
+            3. k (int): An integer representing the number of smallest pairs to be returned.
+        The function returns a list of k smallest pairs.
+        """
+        if not nums1 or not nums2:
+            return []
+        
+        heap = []
+        for i in range(len(nums1)):
+            for j in range(len(nums2)):
+                if len(heap) < k:
+                    heappush(heap, (-nums1[i] - nums2[j], nums1[i], nums2[j]))
+                else:
+                    if -heap[0][0] > nums1[i] + nums2[j]:
+                        heappop(heap)
+                        heappush(heap, (-nums1[i] - nums2[j], nums1[i], nums2[j]))
+                    else:
+                        break
+        
+        res = []
+        while heap:
+            _, num1, num2 = heappop(heap)
+            res.append([num1, num2])
+        
+        return res
+    
