@@ -10,7 +10,6 @@ public class Solution {
      * @param  fuel       an integer representing the fuel limit
      * @return            an integer representing the number of possible routes
      */
-
     public int countRoutes(int[] locations, int start, int finish, int fuel) {
         int mod = (int)1e9 + 7;
         int n = locations.length;
