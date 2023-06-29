@@ -41,8 +41,6 @@
 | 37| [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/) | [Count All Possible Routes]([https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/java%20Solutions/Count%20All%20Possible%20Routes/count.java) | O(n^3) | O(n^3) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 38 | [Total Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [Total Cost to Hire K Workers](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Total%20Cost%20to%20Hire%20K%20Workers/total.java) | O(n) | O(n) |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|::|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 39 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-gold/description/) | [Path with Maximum Probability](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Path%20with%20Maximum%20Probability/path.java) | O(n) | O(n) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|::|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 40 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [Shortest Path to Get All Keys](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Shortest%20Path%20to%20Get%20All%20Keys/shortest.java) | O(n^2) | O(n^2) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|::|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
  <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
-
