@@ -1,13 +1,14 @@
 import java.util.*;
 
 class Solution {
-    private static final int[][] DIRECTIONS = {{0, 1}, {0, -1}, {-1, 0}, {1, 0}};
-    
     public int latestDayToCross(int row, int col, int[][] cells) {
+        // Define the four cardinal directions: left, right, up, and down
+        int[][] directions = {{0, 1}, {0, -1}, {-1, 0}, {1, 0}};
+        
         // Convert the cell positions from 1-based to 0-based
         for (int i = 0; i < cells.length; i++) {
-            cells[i][0]--;
-            cells[i][1]--;
+            cells[i][0] -= 1;
+            cells[i][1] -= 1;
         }
 
         // Binary search the maximum day
@@ -27,29 +28,31 @@ class Solution {
             Queue<int[]> queue = new LinkedList<>();
             for (int i = 0; i < col; i++) {
                 if (matrix[0][i] == 0) {
-                    queue.offer(new int[] {i, 0});
+                    queue.add(new int[]{i, 0});
                 }
             }
             boolean[][] visited = new boolean[row][col];
-            boolean reachedBottom = false;
+            for (int[] point : queue) {
+                visited[point[1]][point[0]] = true;
+            }
+            boolean canReach = false;
             while (!queue.isEmpty()) {
-                int[] cell = queue.poll();
-                int x = cell[0], y = cell[1];
-                visited[y][x] = true;
-                if (y == row - 1) {  // If we can reach the bottom row
-                    reachedBottom = true;
+                int[] point = queue.poll();
+                if (point[1] == row - 1) {  // If we can reach the bottom row
+                    canReach = true;
+                    lo = mi + 1;  // Try to find a larger day
                     break;
                 }
-                for (int[] direction : DIRECTIONS) {
-                    int nx = x + direction[0], ny = y + direction[1];
-                    if (nx >= 0 && nx < col && ny >= 0 && ny < row && matrix[ny][nx] == 0 && !visited[ny][nx]) {
-                        queue.offer(new int[] {nx, ny});
+                for (int[] direction : directions) {
+                    int nx = point[0] + direction[0];
+                    int ny = point[1] + direction[1];
+                    if (0 <= nx && nx < col && 0 <= ny && ny < row && matrix[ny][nx] == 0 && !visited[ny][nx]) {
+                        queue.add(new int[]{nx, ny});
+                        visited[ny][nx] = true;
                     }
                 }
             }
-            if (reachedBottom) {  // If we can reach the bottom row
-                lo = mi + 1;  // Try to find a larger day
-            } else {  // If we cannot reach the bottom row
+            if (!canReach) {  // If we cannot reach the bottom row
                 hi = mi - 1;  // Try to find a smaller day
             }
         }

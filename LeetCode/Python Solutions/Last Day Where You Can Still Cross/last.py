@@ -1,35 +1,42 @@
 from typing import List
-
+from collections import deque
 
 class Solution:
-    def getLastMoment(self, n: int, left: List[int], right: List[int]) -> int:
-        # Calculate the max distance for ants on the left side
-        max_left = max(left) if left else 0
+    def latestDayToCross(self, row: int, col: int, cells: List[List[int]]) -> int:
+        # Define the four cardinal directions: left, right, up, and down
+        directions = [(0, 1), (0, -1), (-1, 0), (1, 0)]
         
-        # Calculate the min position for ants on the right side and then its distance from the left end
-        min_right = n - min(right) if right else 0
-        
-        # Return the max of max_left and min_right as the last moment before all ants fall
-        return max(max_left, min_right)
+        # Convert the cell positions from 1-based to 0-based
+        for i in range(len(cells)):
+            cells[i][0] -= 1
+            cells[i][1] -= 1
 
+        # Binary search the maximum day
+        lo, hi = 1, len(cells)
+        while lo <= hi:
+            mi = lo + (hi - lo) // 2  # Calculate the mid day
+            
+            # Initialize the matrix as all land
+            matrix = [[0] * col for _ in range(row)]
+            
+            # Flood the cells according to the cells list
+            for i in range(mi):
+                matrix[cells[i][0]][cells[i][1]] = 1
 
-# Test cases
-def run_tests():
-    solution = Solution()
-    
-    test_cases = [
-        (4, [4, 3], [0, 1], 4),
-        (7, [], [0, 1, 2, 3, 4, 5, 6, 7], 7),
-        (9, [5, 3, 7], [2, 4, 6], 7),
-        (6, [1, 3, 5], [], 5),
-        (100, [50, 60], [30, 20, 10], 90),
-    ]
-    
-    for i, (n, left, right, expected) in enumerate(test_cases):
-        result = solution.getLastMoment(n, left, right)
-        assert result == expected, f"Test case {i} failed: expected {expected}, got {result}"
-        print(f"Test case {i} succeeded")
+            # Apply BFS to check if it's possible to walk from the top to the bottom on the mid day
+            queue = deque([(i, 0) for i in range(col) if matrix[0][i] == 0])
+            visited = set(queue)
+            while queue:
+                x, y = queue.popleft()
+                if y == row - 1:  # If we can reach the bottom row
+                    lo = mi + 1  # Try to find a larger day
+                    break
+                for dx, dy in directions:
+                    nx, ny = x + dx, y + dy
+                    if 0 <= nx < col and 0 <= ny < row and matrix[ny][nx] == 0 and (nx, ny) not in visited:
+                        queue.append((nx, ny))
+                        visited.add((nx, ny))
+            else:  # If we cannot reach the bottom row
+                hi = mi - 1  # Try to find a smaller day
 
-# Checking in Terminal
-if __name__ == '__main__':
-    run_tests()
+        return hi  # Return the maximum day when it's still possible to walk from the top to the bottom
