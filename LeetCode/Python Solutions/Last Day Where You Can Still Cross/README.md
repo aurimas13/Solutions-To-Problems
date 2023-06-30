@@ -1,0 +1,1 @@
+Problem description of "Last Moment Before All Ants Fall Out of a Plank" can be found [here](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank/last.py).
