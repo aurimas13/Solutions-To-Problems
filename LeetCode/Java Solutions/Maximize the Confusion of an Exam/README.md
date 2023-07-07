@@ -1,0 +1,1 @@
+The problem of "Maximize the Confusion of an Exam" can be found [here](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximize%20the%20Confusion%20of%20an%20Exam/maximize.java).
