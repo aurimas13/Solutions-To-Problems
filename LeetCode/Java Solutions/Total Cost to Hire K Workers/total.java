@@ -1,60 +1,78 @@
-import java.util.Arrays;
+import java.util.AbstractMap;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
 import java.util.PriorityQueue;
 
 class Solution {
-    public int totalCost(int[] costs, int k, int candidates) {
-        if (candidates * 2 >= costs.length) {
-            Arrays.sort(costs);
-            int sum = 0;
-            for (int i = 0; i < k; i++) {
-                sum += costs[i];
+    public long totalCost(int[] quality, int k, int candidates) {
+        long totalCost = 0;
+        
+        PriorityQueue<AbstractMap.SimpleEntry<Integer, Integer>> minHeap1 = new PriorityQueue<>(Comparator.comparing(AbstractMap.SimpleEntry::getValue));
+        PriorityQueue<AbstractMap.SimpleEntry<Integer, Integer>> minHeap2 = new PriorityQueue<>(Comparator.comparing(AbstractMap.SimpleEntry::getValue));
+        
+        List<AbstractMap.SimpleEntry<Integer, Integer>> workers = new ArrayList<>();
+        
+        int left = 0;
+        int right = quality.length - 1;
+        int removed = 0;
+        
+        for (int i = 0; i < quality.length; i++) {
+            workers.add(new AbstractMap.SimpleEntry<>(i, quality[i]));
+        }
+        
+        while (k > 0 && 2 * candidates < workers.size() - removed) {
+            while (minHeap1.size() < candidates) {
+                minHeap1.add(workers.get(left));
+                left++;
             }
-            return sum;
-        } else {
-            int pointer1 = candidates - 1;
-            int pointer2 = costs.length - candidates;
-
-            int[] arr1 = Arrays.copyOfRange(costs, 0, candidates);
-            int[] arr2 = Arrays.copyOfRange(costs, pointer2, costs.length);
-
-            PriorityQueue<Integer> pq1 = new PriorityQueue<>();
-            PriorityQueue<Integer> pq2 = new PriorityQueue<>();
             
-            for (int cost : arr1) {
-                pq1.offer(cost);
+            while (minHeap2.size() < candidates) {
+                minHeap2.add(workers.get(right));
+                right--;
             }
             
-            for (int cost : arr2) {
-                pq2.offer(cost);
-            }
-
-            int res = 0;
-
-            for (int i = 0; i < k; i++) {
-                if (!pq1.isEmpty() && !pq2.isEmpty()) {
-                    if (pq1.peek() <= pq2.peek()) {
-                        res += pq1.poll();
-                        pointer1 += 1;
-                        if (pointer1 < pointer2) {
-                            pq1.offer(costs[pointer1]);
-                        }
-                    } else {
-                        res += pq2.poll();
-                        pointer2 -= 1;
-                        if (pointer1 < pointer2) {
-                            pq2.offer(costs[pointer2]);
-                        }
-                    }
+            AbstractMap.SimpleEntry<Integer, Integer> worker1 = minHeap1.peek();
+            AbstractMap.SimpleEntry<Integer, Integer> worker2 = minHeap2.peek();
+            
+            if (worker1.getValue() < worker2.getValue()) {
+                totalCost += worker1.getValue();
+                k--;
+                minHeap1.poll();
+                removed++;
+            } else if (worker1.getValue() > worker2.getValue()) {
+                totalCost += worker2.getValue();
+                k--;
+                minHeap2.poll();
+                removed++;
+            } else {
+                if (worker1.getKey() < worker2.getKey()) {
+                    totalCost += worker1.getValue();
+                    k--;
+                    minHeap1.poll();
+                    removed++;
                 } else {
-                    if (!pq1.isEmpty()) {
-                        res += pq1.poll();
-                    } else {
-                        res += pq2.poll();
-                    }
+                    totalCost += worker2.getValue();
+                    k--;
+                    minHeap2.poll();
+                    removed++;
                 }
             }
-
-            return res;
         }
+        
+        minHeap1.addAll(minHeap2);
+        
+        while (left <= right) {
+            minHeap1.add(workers.get(left));
+            left++;
+        }
+        
+        while (k > 0) {
+            AbstractMap.SimpleEntry<Integer, Integer> worker = minHeap1.poll();
+            totalCost += worker.getValue();
+            k--;
+        }
+        
+        return totalCost;
     }
 }

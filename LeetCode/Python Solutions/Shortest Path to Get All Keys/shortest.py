@@ -1,54 +1,59 @@
+import collections
 from typing import List
-from collections import deque
 
 class Solution:
-    def shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:
-        # If the starting or ending point is not reachable, return -1
-        if grid[0][0] == 1 or grid[-1][-1] == 1:
-            return -1
-
-        # Define directions for moving in the grid
-        directions = [(1, 0), (1, 1), (0, 1), (-1, 1), (-1, 0), (-1, -1), (0, -1), (1, -1)]
-
-        # Define the size of the grid
-        n = len(grid)
-
-        # Initialize the queue with the starting point (0, 0) and the initial path length 1
-        queue = deque([((0, 0), 1)])
-
-        # Mark the starting point as visited
-        grid[0][0] = 1
-
-        # Perform BFS traversal to find the shortest path
-        while queue:
-            (x, y), path_length = queue.popleft()
-
-            # Check if the current cell is the bottom-right cell (destination)
-            if x == n - 1 and y == n - 1:
-                return path_length
-
-            for dx, dy in directions:
-                new_x, new_y = x + dx, y + dy
-
-                # Check if the new cell is within the grid and unvisited
-                if 0 <= new_x < n and 0 <= new_y < n and grid[new_x][new_y] == 0:
-                    # Mark the new cell as visited
-                    grid[new_x][new_y] = 1
-                    # Add the new cell to the queue with updated path length
-                    queue.append(((new_x, new_y), path_length + 1))
-
+    def shortestPathAllKeys(self, grid: List[str]) -> int:
+        # Get dimensions of the grid
+        m, n = len(grid), len(grid[0])
+        
+        # Initialize starting position and bitmask for all keys
+        start = None
+        all_keys = 0
+        
+        # Find the starting position '@' and set the bitmask for all keys
+        for i in range(m):
+            for j in range(n):
+                # If it is the starting position, store it in 'start'
+                if grid[i][j] == '@':
+                    start = (i, j)
+                # If it is a key, add its bit representation to 'all_keys'
+                elif grid[i][j] in 'abcdef':
+                    all_keys |= 1 << (ord(grid[i][j]) - ord('a'))
+        
+        # Initialize a queue for BFS with initial position, keys bitmask and steps
+        q = collections.deque([(start[0], start[1], 0, 0)])
+        # Set to store visited positions with keys bitmask
+        visited = set([(start[0], start[1], 0)])
+        
+        # Perform BFS
+        while q:
+            # Dequeue the current position, keys bitmask and steps
+            x, y, keys, steps = q.popleft()
+            
+            # If we have collected all keys, return the steps
+            if keys == all_keys:
+                return steps
+            
+            # Explore all 4 neighboring cells
+            for dx, dy in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
+                nx, ny = x + dx, y + dy
+                
+                # Continue if next position is in grid and not a wall
+                if 0 <= nx < m and 0 <= ny < n and grid[nx][ny] != '#':
+                    # If it is a locked door and we don't have the key, skip
+                    if grid[nx][ny] in 'ABCDEF' and not (keys & (1 << (ord(grid[nx][ny]) - ord('A')))):
+                        continue
+                    
+                    # If it is a key, add its bit representation to 'keys'
+                    if grid[nx][ny] in 'abcdef':
+                        nkeys = keys | (1 << (ord(grid[nx][ny]) - ord('a')))
+                    else:
+                        nkeys = keys
+                    
+                    # If this state hasn't been visited, add it to the queue and visited set
+                    if (nx, ny, nkeys) not in visited:
+                        visited.add((nx, ny, nkeys))
+                        q.append((nx, ny, nkeys, steps + 1))
+                        
+        # If we reach here, it means it is not possible to collect all keys
         return -1
-
-# Test cases
-if __name__ == '__main__':
-    solution = Solution()
-    
-    # Test case 1
-    grid1 = [[0, 1], [1, 0]]
-    assert solution.shortestPathBinaryMatrix(grid1) == 2
-
-    # Test case 2
-    grid2 = [[1, 0, 0], [1, 1, 0], [1, 1, 0]]
-    assert solution.shortestPathBinaryMatrix(grid2) == -1
-
-    print("All test cases passed!")
