@@ -1,1 +1,1 @@
-Problem description of "Course Schedule" can be found [here](https://leetcode.com/problems/course-schedule/) and the solution [here]().
+Problem description of "Course Schedule" can be found [here](https://leetcode.com/problems/course-schedule/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Course%20Schedule/course.py).
