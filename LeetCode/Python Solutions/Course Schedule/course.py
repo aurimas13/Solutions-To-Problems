@@ -1,40 +1,36 @@
 from typing import List
 
-
 class Solution:
-    @staticmethod
-    def canFinish(numCourses: int, prerequisites: List[List[int]]) -> bool:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        # Define an adjacency list
+        adj_list = [[] for _ in range(numCourses)]
+        # Define a visit list, 0 means unvisited, 1 means being visited, 2 means completely visited
+        visit = [0] * numCourses
 
-        pre = {}  # course: list of prerequisites
-        dep = {}  # course: list of dependents
-        for p in prerequisites:
-            if p[0] not in pre:
-                pre[p[0]] = set()
-            if p[1] not in dep:
-                dep[p[1]] = set()
-            pre[p[0]].add(p[1])
-            dep[p[1]].add(p[0])
+        # Convert edge list to adjacency list
+        for x, y in prerequisites:
+            adj_list[x].append(y)
 
-        # Kahn's algorithm
-        l = []
-        s = set()
+        # Define a helper function to do DFS
+        def dfs(i):
+            # If it is being visited, then we have a cycle, thus return False
+            if visit[i] == 1:
+                return False
+            # If it is done visited, then do not visit again
+            if visit[i] == 2:
+                return True
+            # Mark as being visited
+            visit[i] = 1
+            # Visit all the neighbours
+            for j in adj_list[i]:
+                if not dfs(j):
+                    return False
+            # After visit all the neighbours, mark it as done visited
+            visit[i] = 2
+            return True
+
+        # Do DFS from each node
         for i in range(numCourses):
-            if i not in dep:  # if no dependents (incoming edge)
-                s.add(i)
-        while s:
-            n = s.pop()
-            l.append(n)
-            if n in pre:  # if n has prerequisites
-                for m in pre[n]:  # for each prerequisites m
-                    dep[m].remove(n)  # remove n from m's dependents list
-                    if not dep[m]:  # if m has no more dependents
-                        s.add(m)
-
-        return len(l) == numCourses
-
-
-# Checking in terminal/console:
-if __name__ == '__main__':
-    Sol = Solution()
-    Solve = Sol.canFinish(2, [[1, 0]])  # 2, [[1,0]] -> true | numCourses = 2, prerequisites = [[1,0],[0,1]] -> false
-    print(Solve)
+            if not dfs(i):
+                return False
+        return True
