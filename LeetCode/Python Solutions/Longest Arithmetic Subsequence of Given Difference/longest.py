@@ -12,3 +12,4 @@ class Solution:
 
         # Return the maximum value in dp
         return max(dp.values())
+
