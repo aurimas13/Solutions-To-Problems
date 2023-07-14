@@ -1,0 +1,1 @@
+The problem of "Longest Arithmetic Subsequence of Given Difference" is found [here](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) while the solution is found [here]().
