@@ -37,3 +37,6 @@ class Solution:
             sum //= 10
             
         return result.next if result.val == 0 else result
+
+
+
