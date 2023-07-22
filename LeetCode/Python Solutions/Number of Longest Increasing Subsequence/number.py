@@ -31,7 +31,9 @@ if __name__ == '__main__':
     print('All Passed!')
 
 
+
 # Submission Result:
 # 223/223 cases passed (180 ms)
 # Your runtime beats 99.09 % of python3 submissions
 # Your memory usage beats 100 % of python3 submissions (12.8 MB)ß
+
