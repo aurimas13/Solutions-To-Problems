@@ -1,0 +1,1 @@
+The problem description of "Minimum Speed to Arrive on Time" is [here](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/) while the solution is [here]().
