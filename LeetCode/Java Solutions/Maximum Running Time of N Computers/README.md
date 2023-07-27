@@ -1,0 +1,1 @@
+The problem description of "https://leetcode.com/problems/maximum-running-time-of-n-computers/description/" can be found [here]() while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximum%20Running%20Time%20of%20N%20Computers/maximum.java).
