@@ -77,7 +77,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Google | 337 |
+| Google | 339 |
 | Amazon | 312 |
 | Facebook | 271 |
 | Apple | 265 |
@@ -95,7 +95,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | DE Shaw| 32 |
 | Reddit | 20 |
 | Netflix | 10 |
-| Others | 384 |
+| Others | 385 |
 
 <br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
