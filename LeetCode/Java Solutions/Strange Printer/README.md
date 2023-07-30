@@ -1,0 +1,1 @@
+The problem description of "Strange Printer" is found [here](https://leetcode.com/problems/strange-printer/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Strange%20Printer/strange.java).
