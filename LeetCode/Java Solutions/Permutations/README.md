@@ -1,0 +1,1 @@
+Problem description of "Permutations" can be found [here](https://leetcode.com/problems/permutations/) and it solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Permutations/permute.java).
