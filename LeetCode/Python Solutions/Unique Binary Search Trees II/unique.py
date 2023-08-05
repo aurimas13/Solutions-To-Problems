@@ -76,3 +76,4 @@ class Solution:
                     trees.append(root) # Add the tree to the list
 
         return trees
+
