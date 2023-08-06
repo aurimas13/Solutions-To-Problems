@@ -1,1 +1,1 @@
-The problem description of "Number of Music Playlists" is found [here](https://leetcode.com/problems/number-of-music-playlists/description/) while the solution is [here]().
+The problem description of "Number of Music Playlists" is found [here](https://leetcode.com/problems/number-of-music-playlists/description/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Music%20Playlists/number.py).
