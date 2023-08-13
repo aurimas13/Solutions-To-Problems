@@ -1,0 +1,1 @@
+The descriptiom of the porblem "Check if There is a Valid Partition For The Array" is found [here](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/) while the solution is found [here]().
