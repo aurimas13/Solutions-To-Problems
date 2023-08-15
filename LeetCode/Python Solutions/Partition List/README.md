@@ -1,0 +1,1 @@
+The problem description of "Partition List " is found [here](https://leetcode.com/problems/partition-list/description/) while the solution is [here]().
