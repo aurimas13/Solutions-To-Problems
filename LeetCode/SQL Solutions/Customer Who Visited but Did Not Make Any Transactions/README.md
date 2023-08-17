@@ -1,4 +1,4 @@
-The problem description of "Customer Who Visited but Did Not Make Any Transactions" is found [here](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is [here]().
+The problem description of "Customer Who Visited but Did Not Make Any Transactions" is found [here](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/customer.sql).
 
 **Explanation**:
 

@@ -1,4 +1,4 @@
-The problem description of "Employee Bonus" is found [here]](https://leetcode.com/problems/employee-bonus/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Employee%20Bonus/employee.sql).
+The problem description of "Employee Bonus" is found [here](https://leetcode.com/problems/employee-bonus/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Employee%20Bonus/employee.sql).
 
 **Explanation**
 
