@@ -1,4 +1,4 @@
-The problem description of "Managers with at Least 5 Direct Reports" is found [here](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here]().
+The problem description of "Managers with at Least 5 Direct Reports" is found [here](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Managers%20with%20at%20Least%205%20Direct%20Reports/managers.sql).
 
 **Explanation**:
 1. `Subquery (m)`:
@@ -36,7 +36,7 @@ Imagine you work at a big company. The HR team wants to reward managers who mana
 
     -   As you note down these numbers, you would ignore those managers who manage less than 5 people.
 
-2.`Main Query`:
+2. `Main Query`:
 
     -   Now that you have a list of manager IDs who manage at least 5 people, you'd return to your employee list.
 

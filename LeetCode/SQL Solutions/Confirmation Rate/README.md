@@ -1,0 +1,1 @@
+The problem description of "Confirmation Rate" is found [here](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here]().
