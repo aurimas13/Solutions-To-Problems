@@ -11,3 +11,5 @@ The problem of "Average Selling Price" descripttion is [here](https://leetcode.c
 - To find the average price for each product, we divide the total sales for a product by the total number of units sold for that product. We multiply with 1.0 to ensure that division result is a floating point value.
 
 The **ROUND(..., 2)** function is used to round off the resulting average price to 2 decimal places.
+
+

@@ -5,3 +5,4 @@ JOIN Prices p
 ON us.product_id = p.product_id 
 AND us.purchase_date BETWEEN p.start_date AND p.end_date
 GROUP BY us.product_id;
+
