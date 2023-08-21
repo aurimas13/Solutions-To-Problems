@@ -1,4 +1,4 @@
-The problem of " Repeated Substring Pattern" description is found [here](https://leetcode.com/problems/repeated-substring-pattern/description/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Repeated%20Substring%20Pattern/repeated.py).
+The problem of "Repeated Substring Pattern" description is found [here](https://leetcode.com/problems/repeated-substring-pattern/description/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Repeated%20Substring%20Pattern/repeated.py).
 
 **Explanation**:
 
