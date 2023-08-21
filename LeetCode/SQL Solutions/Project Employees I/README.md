@@ -1,4 +1,4 @@
-The problem description of "Project Employees I" can be found [here](https://leetcode.com/problems/project-employees-i/description/) while the solution is found [here]().
+The problem description of "Project Employees I" can be found [here](https://leetcode.com/problems/project-employees-i/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Project%20Employees%20I/project.sql).
 
 **Explanation**:
 

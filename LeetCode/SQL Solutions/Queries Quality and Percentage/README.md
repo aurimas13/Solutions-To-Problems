@@ -1,4 +1,4 @@
-The problem description of "Queries Quality and Percentage" is found [here](https://leetcode.com/problems/queries-quality-and-percentage/description) and the solution is found [here]().
+The problem description of "Queries Quality and Percentage" is found [here](https://leetcode.com/problems/queries-quality-and-percentage/description) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Queries%20Quality%20and%20Percentage/queries.sql).
 
 **Explanation**:
 

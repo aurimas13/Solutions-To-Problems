@@ -1,4 +1,4 @@
-The problem description of "Percentage of Users Attended a Contest" can be found [here](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description) while the solution is found [here]().
+The problem description of "Percentage of Users Attended a Contest" can be found [here](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Percentage%20of%20Users%20Attended%20a%20Contest/percentage.sql).
 
 **Explanation**:
 
