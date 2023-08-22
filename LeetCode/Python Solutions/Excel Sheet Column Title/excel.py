@@ -6,8 +6,7 @@ class Solution:
             result.append(chr(columnNumber % 26 + ord('A')))
             columnNumber //= 26
         return ''.join(reversed(result))
-
-
+    
 
 # Checking in terminal/console:
 if __name__ == '__main__':
