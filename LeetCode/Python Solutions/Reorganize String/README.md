@@ -1,0 +1,1 @@
+The problem of "Reorganize String" is found [here](https://leetcode.com/problems/reorganize-string/description/) while the solution is found [here]().
