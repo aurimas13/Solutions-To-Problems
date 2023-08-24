@@ -1,0 +1,1 @@
+The problem of description of "Text Justification" is found [here](https://leetcode.com/problems/text-justification/description/) while the solution is found [here]().
