@@ -69,3 +69,4 @@ class Solution {
         return n == 1 ? totalWeight : Integer.MAX_VALUE;
     }
 }
+
