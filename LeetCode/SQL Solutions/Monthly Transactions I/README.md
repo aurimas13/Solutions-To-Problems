@@ -1,4 +1,4 @@
-The problem description og "Monthly Transactions I" is found [here](https://leetcode.com/problems/monthly-transactions-i) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Monthly%20Transactions%20I/monthly.sql).
+The problem description of "Monthly Transactions I" is found [here](https://leetcode.com/problems/monthly-transactions-i) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Monthly%20Transactions%20I/monthly.sql).
 
 **Explanation**:
 
