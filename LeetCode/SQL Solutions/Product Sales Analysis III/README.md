@@ -1,4 +1,4 @@
-The problem description of "Product Sales Analysis III" is found [here](https://leetcode.com/problems/product-sales-analysis-iii/description) while the solution is found [here]().
+The problem description of "Product Sales Analysis III" is found [here](https://leetcode.com/problems/product-sales-analysis-iii/description) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Product%20Sales%20Analysis%20III/product.sql).
 
 **Explanation**:
 
