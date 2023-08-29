@@ -1,4 +1,4 @@
-The problem description of "Minimum Penalty for a Shop" is found [here](https://leetcode.com/problems/classes-more-than-5-students/description/) while the solution is found [here]().
+The problem description of "Minimum Penalty for a Shop" is found [here](https://leetcode.com/problems/classes-more-than-5-students/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Classes%20More%20Than%205%20Students/classes.sql).
 
 **Explanation**:
 

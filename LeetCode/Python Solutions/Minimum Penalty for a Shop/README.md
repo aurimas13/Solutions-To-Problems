@@ -1,4 +1,4 @@
-The problem description of "Minimum Penalty for a Shop" is found [here](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/) while the solution is found [here]().
+The problem description of "Minimum Penalty for a Shop" is found [here](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Penalty%20for%20a%20Shop/minimum.py).
 
 **Explanation**:
 
