@@ -1,4 +1,4 @@
-The problem description of "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree" is found [here](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree/find.java).
+The problem description of "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree" is found [here](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree/find.py).
 
 **Explanation**:
 

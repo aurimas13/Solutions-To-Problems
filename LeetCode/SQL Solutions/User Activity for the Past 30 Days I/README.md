@@ -1,4 +1,4 @@
-The problem of "User Activity for the Past 30 Days I" is found [here](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description) while the solution is found [here]().
+The problem of "User Activity for the Past 30 Days I" is found [here](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/User%20Activity%20for%20the%20Past%2030%20Days%20I/activity.sql).
 
 **Explanation**:
 

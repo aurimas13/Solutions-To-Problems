@@ -10,17 +10,15 @@ class TreeNode:
 
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
-<<<<<<<<<<<<<  ✨ Codeium AI Suggestion  >>>>>>>>>>>>>>
-+        """
-+        Calculate the minimum depth of a binary tree.
-+
-+        Args:
-+            root (Optional[TreeNode]): The root node of the binary tree.
-+
-+        Returns:
-+            int: The minimum depth of the binary tree.
-+        """
-<<<<<  bot-8834c496-1c53-4b2f-9a28-0a43ee2f08c8  >>>>>
+        """
+        Calculate the minimum depth of a binary tree.
+
+        Args:
+            root (Optional[TreeNode]): The root node of the binary tree.
+
+        Returns:
+            int: The minimum depth of the binary tree.
+        """
         # If root is None (an empty tree), return 0 as there are no nodes.
         if root is None:
             return 0

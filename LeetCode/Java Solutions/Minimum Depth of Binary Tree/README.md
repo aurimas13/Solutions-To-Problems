@@ -1,1 +1,1 @@
-The problem of "Minimum Depth of Binary Tree" is found [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) and the solution [here]().
+The problem of "Minimum Depth of Binary Tree" is found [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Depth%20of%20Binary%20Tree/minimum.java).

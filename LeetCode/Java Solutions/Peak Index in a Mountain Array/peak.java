@@ -1,25 +1,24 @@
-from typing import List
-
-
-class Solution:
-    def peakIndexInMountainArray(self, arr: List[int]) -> int:
-        left, right = 0, len(arr) - 1
+class Solution {
+    public int peakIndexInMountainArray(int[] arr) {
+        // Initialize left and right pointers to the start and end of the array.
+        int left = 0, right = arr.length - 1;
         
-        while left < right:
-            mid = (left + right) // 2
+        // Loop until left < right
+        while (left < right) {
+            // Calculate mid index
+            int mid = (left + right) / 2;
             
-            if arr[mid] < arr[mid+1]:
-                left = mid + 1
-            else:
-                right = mid
+            // If the value at mid index is smaller than the value at mid+1 index,
+            // set left to mid+1, otherwise set right to mid.
+            if (arr[mid] < arr[mid+1]) {
+                left = mid + 1;
+            } else {
+                right = mid;
+            }
+        }
         
-        return left
-
-
-# Checking in Terminal/Console:
-if __name__ == '__main__':
-    Instant = Solution()
-    Solve = Instant.peakIndexInMountainArray(arr = [0,2,1,0])  
-    # arr = [0,1,0] -> 1
-    # arr = [0,2,1,0] -> 1
-    print(Solve)
+        // The left index, which is also the right index at this point, 
+        // is the peak index in the mountain array.
+        return left;
+    }
+}

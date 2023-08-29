@@ -1,4 +1,4 @@
-The problem description of "Number of Unique Subjects Taught by Each Teacher" is found [here](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here]().
+The problem description of "Number of Unique Subjects Taught by Each Teacher" is found [here](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/number.sql).
 
 **Explanation**:
 

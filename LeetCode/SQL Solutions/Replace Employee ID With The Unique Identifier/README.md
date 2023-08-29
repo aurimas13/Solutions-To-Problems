@@ -10,7 +10,7 @@ The problem description of "Replace Employee ID With The Unique Identifier" is [
 
 **Practical Implementation**:
 
-A hospital uses an old patient management system that assigns a simple, incremental patient ID (*id*) to every individual admitted. The hospital decides to upgrade its system for improved data privacy and protection, introducing a new system that generates a more secure, non-sequential unique patient identifier (*unique_id*).
+*Scenario:* A hospital uses an old patient management system that assigns a simple, incremental patient ID (*id*) to every individual admitted. The hospital decides to upgrade its system for improved data privacy and protection, introducing a new system that generates a more secure, non-sequential unique patient identifier (*unique_id*).
 
 However, during the transition period, both the old and new systems are in use. The hospital maintains two tables:
 
@@ -19,6 +19,6 @@ However, during the transition period, both the old and new systems are in use. 
 
 For a time, the hospital staff may need to pull up patient details based on both the old ID and the new unique ID, especially if some departments have switched to the new system while others are still using the old one.
 
-By running this query, hospital staff can efficiently handle inquiries, data tracking, and management tasks during the transition phase. For instance, when a patient comes to the hospital and gives their old patient ID, the staff can quickly cross-reference and determine their new unique ID, or verify if it's been generated yet.
+*Solution:* By running this query, hospital staff can efficiently handle inquiries, data tracking, and management tasks during the transition phase. For instance, when a patient comes to the hospital and gives their old patient ID, the staff can quickly cross-reference and determine their new unique ID, or verify if it's been generated yet.
 
 This type of merging or cross-referencing based on common identifiers is a recurring theme in many industries, especially during transitions, upgrades, or system integrations.
