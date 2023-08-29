@@ -97,7 +97,7 @@
 | 93 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Maximum Length of Pair Chain](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximum%20Length%20of%20Pair%20Chain/maximum.java)| O(n log n) | O(n) |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 94 | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [Frog Jumo](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Frog%20Jump/jump.java) |O(n^2)|O(n^2|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 95 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [Implement Stack using Queues](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Implement%20Stack%20using%20Queues/implement.java) | O(n) | O(1) |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 96 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/) | [Minimum Penalty for a Shop](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Penalty%20for%20a%20Shop/minimum.java) | O(n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
