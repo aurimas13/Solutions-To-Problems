@@ -1,0 +1,1 @@
+The problem description of "Minimum Replacements to Sort the Array" is found [here](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/) while the solution [here]().
