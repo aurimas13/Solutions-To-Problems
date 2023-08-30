@@ -1,0 +1,1 @@
+The problem description of "Find Followers Count" is found [here](https://leetcode.com/problems/find-followers-count/description/) while the solution is found [here]().
