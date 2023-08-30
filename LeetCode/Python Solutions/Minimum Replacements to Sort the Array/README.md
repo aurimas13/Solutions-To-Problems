@@ -1,1 +1,1 @@
-The problem description of "Minimum Replacements to Sort the Array" is found [here](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/) while the solution [here]().
+The problem description of "Minimum Replacements to Sort the Array" is found [here](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Replacements%20to%20Sort%20the%20Array/minimum.py).
