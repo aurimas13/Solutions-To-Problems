@@ -1,0 +1,1 @@
+The problem description of "Minimum Number of Taps to Open to Water a Garden" is found [here](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) while the solution is found [here]().
