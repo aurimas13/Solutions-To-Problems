@@ -33,6 +33,8 @@
 | 29 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description) | [Product Sales Analysis III](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Product%20Sales%20Analysis%20III/product.sql) | Medium |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 30 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/) | [Classes More Than 5 Students](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Classes%20More%20Than%205%20Students/classes.sql) | Easy |:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 31 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/) | [Find Followers Count](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Find%20Followers%20Count/find.sql) | Easy |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+| 32 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50) | [Biggest Single Number](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Biggest%20Single%20Number/biggest.sql) | Easy |:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
