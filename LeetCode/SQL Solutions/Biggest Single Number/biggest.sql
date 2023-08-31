@@ -5,4 +5,3 @@ FROM (
     GROUP BY num
     HAVING COUNT(num) = 1
 ) AS SingleNumbers;
-
