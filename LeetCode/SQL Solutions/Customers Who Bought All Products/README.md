@@ -1,4 +1,4 @@
-The problem description of "Customers Who Bought All Products" is found [here](https://leetcode.com/problems/customers-who-bought-all-products/description/) while the solution is found [here]().
+The problem description of "Customers Who Bought All Products" is found [here](https://leetcode.com/problems/customers-who-bought-all-products/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Customers%20Who%20Bought%20All%20Products/customers.sql).
 
 **Explanation**:
 

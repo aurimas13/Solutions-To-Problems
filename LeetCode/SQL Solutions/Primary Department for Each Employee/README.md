@@ -1,4 +1,4 @@
-The problem description of "Primary Department for Each Employee" can be found [here](https://leetcode.com/problems/primary-department-for-each-employee/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Percentage%20of%20Users%20Attended%20a%20Contest/percentage.sql).
+The problem description of "Primary Department for Each Employee" can be found [here](https://leetcode.com/problems/primary-department-for-each-employee/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Primary%20Department%20for%20Each%20Employee/primary.sql).
 
 **Explanation**:
 

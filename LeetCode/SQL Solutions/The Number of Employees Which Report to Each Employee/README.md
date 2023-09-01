@@ -1,4 +1,4 @@
-The problem description of "The Number of Employees Which Report to Each Employee" is found [here](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/) while the solution is found [here]().
+The problem description of "The Number of Employees Which Report to Each Employee" is found [here](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee/number.sql).
 
 **Explanation**:
 
