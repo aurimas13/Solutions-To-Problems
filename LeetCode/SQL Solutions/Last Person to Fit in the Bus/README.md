@@ -1,0 +1,1 @@
+The problem description of "Last Person to Fit in the Bus" can be found [here](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Last%20Person%20to%20Fit%20in%20the%20Bus/last.sql).
