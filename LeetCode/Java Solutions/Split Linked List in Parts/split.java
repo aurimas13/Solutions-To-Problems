@@ -41,4 +41,3 @@ class Solution {
         return result;
     }
 }
-
