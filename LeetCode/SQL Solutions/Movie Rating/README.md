@@ -1,0 +1,1 @@
+The problem of "Movie Rating" is found [here](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here]().
