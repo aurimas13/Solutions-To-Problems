@@ -1,2 +1,1 @@
-The problem of " Total Cost to Hire K Workers
-" is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Total%20Cost%20to%20Hire%20K%20Workers/README.md) while the solution is [here]([hhttps://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Total%20Cost%20to%20Hire%20K%20Workers/total.java).
+The problem of "Count All Valid Pickup and Delivery Options" is [here](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/?envType=daily-question&envId=2023-09-10) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20All%20Valid%20Pickup%20and%20Delivery%20Options/count.py).
