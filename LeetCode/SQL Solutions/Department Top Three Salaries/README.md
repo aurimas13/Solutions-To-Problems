@@ -1,4 +1,4 @@
-The problem description of "Department Top Three Salaries" is found [here](https://leetcode.com/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here]().
+The problem description of "Department Top Three Salaries" is found [here](https://leetcode.com/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Department%20Top%20Three%20Salaries/top.sql).
 
 **Explanation**:
 
