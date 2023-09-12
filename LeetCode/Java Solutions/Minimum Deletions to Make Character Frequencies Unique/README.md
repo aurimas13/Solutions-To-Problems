@@ -1,1 +1,2 @@
-The problem of "Minimum Depth of Binary Tree" is found [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Depth%20of%20Binary%20Tree/minimum.py).
+The problem of "Minimum Deletions to Make Character Frequencies Unique" is found [here](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/?envType=daily-question&envId=2023-09-12) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/minimum.java).
+
