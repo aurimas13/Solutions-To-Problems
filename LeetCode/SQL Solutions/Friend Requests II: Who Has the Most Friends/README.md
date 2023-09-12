@@ -1,4 +1,4 @@
-The problem description of "Friend Requests II: Who Has the Most Friends" is found [here](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) while the solution is found [here]().
+The problem description of "Friend Requests II: Who Has the Most Friends" is found [here](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Friend%20Requests%20II%3A%20Who%20Has%20the%20Most%20Friends/friend.sql).
 
 **Explanation**:
 
