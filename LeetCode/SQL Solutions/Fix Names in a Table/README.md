@@ -1,4 +1,4 @@
-The problem description of "Fix Names in a Table" is found [here](https://leetcode.com/problems/fix-names-in-a-table/description/) while the solution is found [here]().
+The problem description of "Fix Names in a Table" is found [here](https://leetcode.com/problems/fix-names-in-a-table/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Fix%20Names%20in%20a%20Table/fix.sql).
 
 **Explanation**:
 
