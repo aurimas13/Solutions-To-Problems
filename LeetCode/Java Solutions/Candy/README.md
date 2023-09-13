@@ -1,0 +1,1 @@
+The problem description of "Candy" is found [here](https://leetcode.com/problems/candy/description/?envType=daily-question&envId=2023-09-13) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Candy/candy.java).
