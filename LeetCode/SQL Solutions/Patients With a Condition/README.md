@@ -1,0 +1,1 @@
+The problem description of "Patients With a Condition" is found [here](https://leetcode.com/problems/patients-with-a-condition/) while the solution is found [here]().
