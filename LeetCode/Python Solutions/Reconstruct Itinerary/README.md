@@ -1,4 +1,4 @@
-The problem description of "Reconstruct Itinerary" is found [here](https://leetcode.com/problems/reconstruct-itinerary/description/?envType=daily-question&envId=2023-09-14) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reconstruct%20Itinerary/reconstruct.py).
+The problem description of "Reconstruct Itinerary" is found [here](https://leetcode.com/problems/reconstruct-itinerary/description/?envType=daily-question&envId=2023-09-14) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reconstruct%20Itinerary/reconstruct.py) while the in-depth explanation is also [here](https://leetcode.com/problems/reconstruct-itinerary/solutions/4045460/beat-80-96-java-python-simply-explained/).
 
 **Explanation**:
 
