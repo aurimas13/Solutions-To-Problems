@@ -1,4 +1,4 @@
-The problem description of "Delete Duplicate Emails" is found [here](https://leetcode.com/problems/delete-duplicate-emails/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here](). 
+The problem description of "Delete Duplicate Emails" is found [here](https://leetcode.com/problems/delete-duplicate-emails/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Delete%20Duplicate%20Emails/delete.sql). 
 
 **Explanation**:
 
