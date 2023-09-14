@@ -1,4 +1,4 @@
-The problem description of "Reconstruct Itinerary" is found [here](https://leetcode.com/problems/reconstruct-itinerary/description/?envType=daily-question&envId=2023-09-14) while the solution [here]().
+The problem description of "Reconstruct Itinerary" is found [here](https://leetcode.com/problems/reconstruct-itinerary/description/?envType=daily-question&envId=2023-09-14) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Reconstruct%20Itinerary/reconstruct.java).
 
 **Explanation**:
 
