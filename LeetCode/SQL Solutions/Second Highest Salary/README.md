@@ -1,4 +1,4 @@
-The problem description of "Second Highest Salary" is found [here](https://leetcode.com/problems/second-highest-salary/description/) while the solution [here]() and the solution [here](https://leetcode.com/problems/second-highest-salary/solutions/4050658/first-sql-solution-well-explained/).
+The problem description of "Second Highest Salary" is found [here](https://leetcode.com/problems/second-highest-salary/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Second%20Highest%20Salary/second.java) and the solution [here](https://leetcode.com/problems/second-highest-salary/solutions/4050658/first-sql-solution-well-explained/).
 
 **Implementation**:
 
