@@ -3,3 +3,4 @@ The problem description of "Path With Minimum Effort" is found [here](https://le
 **Implementation**:
 
 This type of algorithm can be useful in applications where we need to find the optimal path with minimum effort/cost. For instance, in mapping software where terrain information is given, we can find the path that minimizes the effort needed by considering the difference in altitudes.
+
