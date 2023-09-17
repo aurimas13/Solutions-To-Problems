@@ -1,4 +1,4 @@
-The problem description of "Shortest Path Visiting All Nodes" is found [here](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/?envType=daily-question&envId=2023-09-17) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shortest%20Path%20Visiting%20All%20Nodes/shortest.py) and detailed solution explanation [here](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solutions/4055018/python-java-solutions-well-explained/).
+The problem description of "Shortest Path Visiting All Nodes" is found [here](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/?envType=daily-question&envId=2023-09-17) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Shortest%20Path%20Visiting%20All%20Nodes/shortest.java) and detailed solution explanation [here](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solutions/4055018/python-java-solutions-well-explained/).
 
 **Implementation**
 
