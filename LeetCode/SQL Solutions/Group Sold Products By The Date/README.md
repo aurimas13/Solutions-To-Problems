@@ -1,4 +1,4 @@
-The problem description of "Group Sold Products By The Date" is found [here](https://leetcode.com/problems/group-sold-products-by-the-date/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is [here]() and detailed solution explanation [here]().
+The problem description of "Group Sold Products By The Date" is found [here](https://leetcode.com/problems/group-sold-products-by-the-date/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Group%20Sold%20Products%20By%20The%20Date/shortest.sql) and detailed solution explanation [here](https://leetcode.com/problems/group-sold-products-by-the-date/solutions/4055041/easy-to-understand/).
 
 **Implementation**
 
