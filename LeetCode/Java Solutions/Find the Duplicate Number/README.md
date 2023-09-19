@@ -1,1 +1,1 @@
-The problem description of "Find the Duplicate Number" is found [here](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2023-09-19) while the solution is found [here]() with explanation [here]()
+The problem description of "Find the Duplicate Number" is found [here](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2023-09-19) while the solution is found [here]() with explanation [here]().
