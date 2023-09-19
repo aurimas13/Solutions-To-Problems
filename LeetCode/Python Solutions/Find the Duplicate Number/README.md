@@ -1,1 +1,1 @@
-Problem description of "Find the Duplicate Number" can be found [here](https://leetcode.com/problems/find-the-duplicate-number/).
+The problem description of "Find the Duplicate Number" is found [here](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2023-09-19) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20the%20Duplicate%20Number/find.py) with explanation [here]().
