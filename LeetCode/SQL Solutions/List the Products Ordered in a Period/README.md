@@ -1,4 +1,4 @@
-The problem of the description is "List the Products Ordered in a Period" found [here](https://leetcode.com/problems/product-sales-analysis-iii/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/List%20the%20Products%20Ordered%20in%20a%20Period/shortest.sql) and a detailed explanation [here](https://leetcode.com/problems/list-the-products-ordered-in-a-period/solutions/4062618/sql-beats-82/).
+The problem of the description is "List the Products Ordered in a Period" found [here](https://leetcode.com/problems/product-sales-analysis-iii/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/List%20the%20Products%20Ordered%20in%20a%20Period/list.sql) and a detailed explanation [here](https://leetcode.com/problems/list-the-products-ordered-in-a-period/solutions/4062618/sql-beats-82/).
 
 **Implementation**:
 
