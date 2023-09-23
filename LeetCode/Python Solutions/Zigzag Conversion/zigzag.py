@@ -24,7 +24,3 @@ if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.convert("PAYPALISHIRING", numRows=3) # s="PAYPALISHIRING", numRows=3 -> "PAHNAPLSIIGYIR"
     print(Solve)
-
-
-
-
