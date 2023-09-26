@@ -1,35 +1,47 @@
-from typing import List
+import java.util.Arrays;
 
+public class Solution {
+    public static int combinationSum4(int[] nums, int target) {
+        Arrays.sort(nums);
 
-class Solution:
-    @staticmethod
-    def combinationSum4(nums: List[int], target: int) -> int:
-        nums.sort()
+        // Notice that we cap the size of our circular dp array by max(nums)+1
+        int dpSize = Math.min(target, getMax(nums)) + 1;
+        int[] dp = new int[dpSize];
+        dp[0] = 1;
 
-        # Notice that we cap the size of our circular dp array by max(nums)+1
-        dp = [0 for i in range(min(target, max(nums)) + 1)]
-        dp[0] = 1
+        // We need to skip comb_sum == 0 since that's a special seed value and
+        // we don't want to clear it in the next line
+        for (int comb_sum = 1; comb_sum <= target; comb_sum++) {
+            // We need to clear entries to prevent carry-over of old values
+            dp[comb_sum % dpSize] = 0;
 
-        # We need to skip comb_sum == 0 since that's a special seed value and
-        # we don't want to clear it in the next line
-        for comb_sum in range(1, target + 1):
-            # We need to clear entries to prevent carry-over of old values
-            dp[comb_sum % len(dp)] = 0
+            for (int num : nums) {
+                if (comb_sum - num >= 0) {
+                    // We use modular arithmetic for indexing since our dp array is circular
+                    dp[comb_sum % dpSize] += dp[(comb_sum - num) % dpSize];
+                } else {
+                    break;
+                }
+            }
+        }
 
-            for num in nums:
-                if comb_sum - num >= 0:
-                    # We use modular arithmetic for indexing since our dp array is circular
-                    dp[comb_sum % len(dp)] += dp[(comb_sum - num) % len(dp)]
+        return dp[target % dpSize];
+    }
 
-                else:
-                    break
+    private static int getMax(int[] nums) {
+        int max = Integer.MIN_VALUE;
+        for (int num : nums) {
+            if (num > max) {
+                max = num;
+            }
+        }
+        return max;
+    }
 
-        return dp[target % len(dp)]
-
-
-# Checking in PyCharm/console:
-if __name__ == '__main__':
-    Sol = Solution()
-    Solve = Sol.combinationSum4(nums = [1,2,3], target = 4)
-    # nums = [1,2,3], target = 4 -> 7 | nums = [9], target = 3 -> 0
-    print(Solve)
+    public static void main(String[] args) {
+        int[] nums = {1, 2, 3};
+        int target = 4;
+        int result = combinationSum4(nums, target);
+        System.out.println(result);  // Expected output: 7
+    }
+}

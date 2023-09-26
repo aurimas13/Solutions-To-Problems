@@ -1,4 +1,4 @@
-The problem decription of "Consecutive Numbers" can be found [here](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here]().
+The problem decription of "Consecutive Numbers" can be found [here](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Consecutive%20Numbers/consecutive.sql).
 
 **Explanation**:
 

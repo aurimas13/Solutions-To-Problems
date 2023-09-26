@@ -1,29 +1,33 @@
-class Solution {
-    public int bestClosingTime(String customers) {
-        int n = customers.length();
-        
-        // Precompute the cumulative count of 'Y's from the end
-        int[] cumYs = new int[n + 1];
-        cumYs[n - 1] = customers.charAt(n - 1) == 'Y' ? 1 : 0;
-        for (int i = n - 2; i >= 0; i--) {
-            cumYs[i] = cumYs[i + 1] + (customers.charAt(i) == 'Y' ? 1 : 0);
+import java.util.HashMap;
+
+public class Solution {
+    public int minOperations(int[] nums, int x) {
+        int total = 0;
+        for (int num : nums) {
+            total += num;
         }
         
-        int min_penalty = cumYs[0];
-        int best_hour = 0;
-        int no_customers = 0;  // number of hours with 'N' before the current hour
-        
-        for (int i = 0; i < n; i++) {
-            if (customers.charAt(i) == 'N') {
-                no_customers++;
-            }
-            int penalty = no_customers + cumYs[i+1];
-            if (penalty < min_penalty) {
-                min_penalty = penalty;
-                best_hour = i + 1;
-            }
+        int target = total - x;
+        if (target < 0) {
+            return -1;
+        }
+        if (target == 0) {
+            return nums.length;
         }
         
-        return best_hour;
+        HashMap<Integer, Integer> prefixSumIndex = new HashMap<>();
+        prefixSumIndex.put(0, -1);
+        int maxLength = Integer.MIN_VALUE;
+        int currSum = 0;
+        
+        for (int i = 0; i < nums.length; i++) {
+            currSum += nums[i];
+            if (prefixSumIndex.containsKey(currSum - target)) {
+                maxLength = Math.max(maxLength, i - prefixSumIndex.get(currSum - target));
+            }
+            prefixSumIndex.put(currSum, i);
+        }
+        
+        return maxLength != Integer.MIN_VALUE ? nums.length - maxLength : -1;
     }
 }

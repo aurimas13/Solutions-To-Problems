@@ -1,4 +1,4 @@
-The problem description of "Investments in 2016". is found [here](https://leetcode.com/problems/investments-in-2016/description/) while the solution is found [here]().
+The problem description of "Investments in 2016". is found [here](https://leetcode.com/problems/investments-in-2016/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Investments%20in%202016/invest.sql).
 
 **Explanation**:
 

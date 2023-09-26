@@ -1,38 +1,31 @@
-from typing import List
-class Solution:
-    def generate(self, numRows: int) -> List[List[int]]:
-        triangle = []
+import java.util.ArrayList;
+import java.util.List;
 
-        for row_num in range(numRows):
-            # The first and last row elements are always 1.
-            row = [None for _ in range(row_num + 1)]
-            row[0], row[-1] = 1, 1
-            # Each triangle element is equal to the time.py of the elements
-            # above-and-to-the-left and above-and-to-the-right.
-            for j in range(1, len(row) - 1):
-                row[j] = triangle[row_num - 1][j - 1] + triangle[row_num - 1][j]
-                print(row)
-            triangle.append(row)
+public class Solution {
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> triangle = new ArrayList<>();
 
-        return triangle
+        for (int row_num = 0; row_num < numRows; row_num++) {
+            List<Integer> row = new ArrayList<>();
+            for (int i = 0; i < row_num + 1; i++) {
+                row.add(null);
+            }
+            row.set(0, 1);
+            row.set(row.size() - 1, 1);
 
-# OR
-#         if numRows   == 0: return []
-#         elif numRows == 1: return [[1]]
-#         Tri = [[1]]
-#         for i in range(1,numRows):
-#             row = [1]
-#             for j in range(1,i):
-#                 row.append(Tri[i-1][j-1] + Tri[i-1][j])
-#             row.append(1)
-#             Tri.append(row)
-#         return Tri
+            for (int j = 1; j < row.size() - 1; j++) {
+                row.set(j, triangle.get(row_num - 1).get(j - 1) + triangle.get(row_num - 1).get(j));
+                System.out.println(row);
+            }
+            triangle.add(row);
+        }
 
+        return triangle;
+    }
 
-# Checking in PyCharm/terminal:
-if __name__ == '__main__':
-    Instant = Solution()
-    Solve = Instant.generate(numRows = 5)  #  5 -> [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
-    print(Solve)
-
-    
+    public static void main(String[] args) {
+        Solution instance = new Solution();
+        List<List<Integer>> result = instance.generate(5);  // 5 -> [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
+        System.out.println(result);
+    }
+}

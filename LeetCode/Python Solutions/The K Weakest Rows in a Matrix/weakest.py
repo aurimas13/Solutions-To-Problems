@@ -1,45 +1,10 @@
-import java.util.*;
+from typing import List
 
-class Solution {
-    public int[] kWeakestRows(int[][] mat, int k) {
-        int m = mat.length;
-        int[] result = new int[k];
-        
-        // Pair<int[], Integer> for (count, index)
-        List<Pair> counts = new ArrayList<>();
-        
-        for (int i = 0; i < m; i++) {
-            int count = 0;
-            for (int j = 0; j < mat[i].length; j++) {
-                count += mat[i][j];
-            }
-            counts.add(new Pair(count, i));
-        }
-        
-        Collections.sort(counts);
-        
-        for (int i = 0; i < k; i++) {
-            result[i] = counts.get(i).index;
-        }
-        
-        return result;
-    }
-    
-    class Pair implements Comparable<Pair> {
-        int count;
-        int index;
-
-        Pair(int count, int index) {
-            this.count = count;
-            this.index = index;
-        }
-
-        @Override
-        public int compareTo(Pair o) {
-            if (this.count == o.count) {
-                return Integer.compare(this.index, o.index);
-            }
-            return Integer.compare(this.count, o.count);
-        }
-    }
-}
+class Solution:
+    def kWeakestRows(self, mat: List[List[int]], k: int) -> List[int]:
+        # Count soldiers for each row and keep track of row index
+        counts = [(sum(row), i) for i, row in enumerate(mat)]
+        # Sort by number of soldiers and then by index
+        sorted_counts = sorted(counts)
+        # Extract first k indices
+        return [row[1] for row in sorted_counts[:k]]

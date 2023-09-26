@@ -1,4 +1,4 @@
-The problem description of "Minimum Operations to Reduce X to Zero" is found [here](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/?envType=daily-question&envId=2023-09-20/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Penalty%20for%20a%20Shop/minimum.java) and a detailed explanation [here](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/solutions/4067367/python-java-solution/).
+The problem description of "Minimum Operations to Reduce X to Zero" is found [here](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/?envType=daily-question&envId=2023-09-20/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/minimum.py) and a detailed explanation [here](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/solutions/4067367/python-java-solution/).
 
 **Implementation**:
 

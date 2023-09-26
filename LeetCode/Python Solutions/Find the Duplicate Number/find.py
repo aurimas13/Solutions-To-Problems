@@ -19,3 +19,4 @@ class Solution:
             tortoise = nums[tortoise]
 
         return hare
+
