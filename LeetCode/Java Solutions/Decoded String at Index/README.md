@@ -1,1 +1,1 @@
-The problem of "Decoded String at Index" is found [here](https://leetcode.com/problems/decoded-string-at-index/) while the solution is found [here]().
+The problem of "Decoded String at Index" is found [here](https://leetcode.com/problems/decoded-string-at-index/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Decoded%20String%20at%20Index/decoded.java).
