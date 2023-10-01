@@ -1,10 +1,8 @@
 class Solution:
-    @staticmethod
-    def reverseWords(s: str) -> str:
-        result = ''
-        for j in s.split():
-            result = result + j[::-1] + ' '
-        return result.rstrip()
+    def reverseWords(self, s: str) -> str:
+        words = s.split(' ')
+
+        return ' '.join(word[::-1] for word in words)
 
 
 if __name__ == '__main__':
