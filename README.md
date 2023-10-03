@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Welcome to the Amazing World of Solutions! 🎉🎩🔮 </h1>
 <p align="center"> Brace yourself as we dive into the most common <b>solutions</b> to <b>problems</b> from interviews of high-tier companies. </p>
-<p align="center"> Featuring dazzling <b> Solutions </b> to challenges on <b> LeetCode </b> & HackerRank. </p>
+<p align="center"> Featuring dazzling <b> Python, Java, SQL & Pandas Solutions </b> to challenges on <b> LeetCode </b> & HackerRank. </p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
@@ -32,17 +32,17 @@
 ------
 
 
-📢 Roll up, roll up! Welcome to the grand repository of brilliant code solutions. Constantly updated with enchanting **Python**, **Java** or **SQL** solutions to bewitching problems found at [LeetCode](https://leetcode.com/problemset/all/) (mostly) or [HackerRank](https://www.hackerrank.com/domains/python). Share the thrill as we unravel the mysteries of high-tier companies like Adobe, Airbnb, Amazon, Apple, Bloomberg, and more!
+📢 Roll up, roll up! Welcome to the grand repository of brilliant code solutions. Constantly updated with enchanting **Python**, **Java**, **SQL** or **Pandas** solutions to bewitching problems found at [LeetCode](https://leetcode.com/problemset/all/) (mostly) or [HackerRank](https://www.hackerrank.com/domains/python). Share the thrill as we unravel the mysteries of high-tier companies like Google, Meta, Amazon, Apple, Spotify, and more!
 
 🎪 Behold the mesmerizing progress of the LeetCode account, sprinkled with magical blog posts providing explanations on select solutions. Gaze upon it [here](https://leetcode.com/aurimas13/).
 
-🎡 Marvel at the colorful array of LeetCode solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions), **HackerRank** solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), and **LeetCode** solutions in **Java** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions) as well as **LeetCode** [SQL Solutions](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions).
+🎡 Marvel at the colorful array of LeetCode solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions), **HackerRank** solutions in **Python** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), and **LeetCode** solutions in **Java** [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions) as well as **LeetCode** [SQL Solutions](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions) and **LeetCode** [Pandas Solutions](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Pandas%20Solutions) .
 
 🔮 Each problem folder unveils the description of the problem and, sometimes, the solution and explanation. Click the name of the problem in the [Problems and Solutions](#problems-and-solutions), [Must Do Problems](#must-do-problems) or [Google Top](#google-top) to reveal its secrets.
 
-🎭 Currently enchanting the world with **Python** & a touch of **Java** a touch of Java from **LeetCode**. A daily Python problem from [LeetCode](https://leetcode.com/problemset/all/) has been vanquished since 28<sup>th</sup> of May 2022 and a daily Java solution also is being addded since 19<sump>th</sup> May 2023.
+🎭 Currently enchanting the world with **Python** & a touch of **Java** from **LeetCode** with a hand in **SQL** and sometimes **Pandas**. A daily Python problem from [LeetCode](https://leetcode.com/problemset/all/) has been vanquished since 28<sup>th</sup> of May 2022 and a daily Java solution also is being addded since 19<sump>th</sup> May 2023.
 
-🎠 The magic continues with **SQL** solutions of problems at *HackerRank* & *LeetCode*, coming soon to [HackerRank SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/SQL%20Solutions)) while now doing  [LeetCode SQL Solutions](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions).
+🎠 The magic continues with **SQL** & **Pandas** solutions of problems at *HackerRank* & *LeetCode*, coming soon to [HackerRank SQL Solutions]((https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/SQL%20Solutions)) while now doing  [LeetCode SQL Solutions](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions) and [LeetCode Pandas Solutions](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Pandas%20Solutions).
 
 # Table of Contents
 
@@ -69,7 +69,7 @@ Embrace the magical journey of interview preparation, and may your code be ever 
 
 # Problems and Solutions
 
-There are over 400 solutions of all three languages of **Python** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), **Java** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions) and **SQL** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions) with details which problems are solved at the particular folder.
+There are over 500 solutions of all four languages of **Python** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/HackerRank/Python%20Solutions), **Java** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Java%20Solutions) **Pandas** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Pandas%20Solutions) and **SQL** - [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions) with details which problems are solved at the particular folder.
 
 ### Total Number
 
@@ -77,13 +77,13 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Google | 377 |
-| Amazon | 342 |
-| Facebook | 301 |
-| Apple | 293 |
-| Microsoft | 278 |
+| Google | 379 |
+| Amazon | 344 |
+| Facebook | 303 |
+| Apple | 295 |
+| Microsoft | 279 |
 | Bloomberg | 243 |
-| Adobe | 222 |
+| Adobe | 224 |
 | Uber | 204 |
 | Goldman Sachs | 185 |
 | TikTok | 140 |
@@ -95,7 +95,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Spotify | 35 |
 | Reddit | 21 |
 | Netflix | 10 |
-| Others | 487 |
+| Others | 493 |
 
 <br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
