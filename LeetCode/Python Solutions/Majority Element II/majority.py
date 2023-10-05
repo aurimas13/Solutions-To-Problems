@@ -24,6 +24,8 @@ class Solution:
         return [num for num in (candidate1, candidate2) 
                 if nums.count(num) > len(nums) // 3]
 
+# or
+
 # class Solution:
 #     def majorityElement(self, nums: List[int]) -> List[int]:
 #         count = Counter(nums)
