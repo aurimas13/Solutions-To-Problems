@@ -1,4 +1,6 @@
-def top_travellers_updated(users: pd.DataFrame, rides: pd.DataFrame) -> pd.DataFrame:
+import pandas as pd
+
+def top_travellers(users: pd.DataFrame, rides: pd.DataFrame) -> pd.DataFrame:
     # Group by user_id and sum the distance
     distance_sum = rides.groupby('user_id')['distance'].sum().reset_index()
     
