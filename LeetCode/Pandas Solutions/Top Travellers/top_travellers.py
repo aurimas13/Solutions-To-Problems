@@ -33,3 +33,4 @@ if __name__ == '__main__':
     # 0  Charlie                  30
     # 1      Bob                  40
     # 2    Alice                  30
+
