@@ -1,1 +1,1 @@
-The problem description of "Sales Person" is found [here](https://leetcode.com/problems/sales-person/) while the solution is found [here]().
+The problem description of "Sales Person" is found [here](https://leetcode.com/problems/sales-person/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Sales%20Person/person.py).
