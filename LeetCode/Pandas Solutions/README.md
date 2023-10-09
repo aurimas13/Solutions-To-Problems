@@ -6,6 +6,7 @@
 | 2 | [Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/) | [Sellers With No Sales](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Sellers%20With%20No%20Sales/sellers.py) | Easy |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 3 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [Top Travellers](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/top_travellers.py) | Easy |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 4 | [Sales Person](https://leetcode.com/problems/sales-person/) | [Sales Person](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Sales%20Person/person.py) | Easy  |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 57 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/) | [Team Scores in Football Tournament](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Team%20Scores%20in%20Football%20Tournament/football_tournament.py) | Medium |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
