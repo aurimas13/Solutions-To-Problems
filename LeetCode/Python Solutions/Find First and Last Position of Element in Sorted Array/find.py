@@ -48,3 +48,4 @@ if __name__ == "__main__":
         result = s.searchRange(**test_input)
         assert result == expected_output, f"Test case {i} failed: expected {expected_output}, got {result}"
         print(f"Test case {i} succeeded")
+
