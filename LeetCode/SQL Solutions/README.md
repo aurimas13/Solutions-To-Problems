@@ -58,6 +58,9 @@
 | 54 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [Top Travellers](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/top_travellers.sql) | Easy |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 55 | [Sales Person](https://leetcode.com/problems/sales-person/) | [Sales Person](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Sales%20Person/person.sql) | Easy  |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 56 | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | [Evaluate Boolean Expression](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Evaluate%20Boolean%20Expression/evaluate_boolean_expression.sql) | Medium |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 57 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/) | [Team Scores in Football Tournament](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Team%20Scores%20in%20Football%20Tournament/football_tournament.sql) | Medium |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 58 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [The Latest Login in 2020](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/The%20Latest%20Login%20in%202020/latest.sql) | Easy |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mxark:| 
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
+
