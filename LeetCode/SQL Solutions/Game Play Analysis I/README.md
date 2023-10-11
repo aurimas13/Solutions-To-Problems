@@ -1,0 +1,1 @@
+The problem description of "Game Play Analysis I" is found [here](https://leetcode.com/problems/game-play-analysis-i/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Game%20Play%20Analysis%20I/game_play_analysis_i.py).
