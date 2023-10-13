@@ -61,6 +61,8 @@
 | 57 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/) | [Team Scores in Football Tournament](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Team%20Scores%20in%20Football%20Tournament/football_tournament.sql) | Medium |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 58 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [The Latest Login in 2020](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/The%20Latest%20Login%20in%202020/latest.sql) | Easy |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:| 
 | 59 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Game Play Analysis I](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Game%20Play%20Analysis%20I/game_play_analysis_i.sql) | Easy |:x:|:heavy_check_mark:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:| 
+| 60 | [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/) | [Warehouse Manager](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Warehouse%20Manager/warehouse_manager.sql) | Easy |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| 
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
+
