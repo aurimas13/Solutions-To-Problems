@@ -20,3 +20,4 @@ if __name__ == '__main__':
     Instant = Solution()
     Solve = Instant.getRow(3)  # 3 -> [1,3,3,1]
     print(Solve)
+
