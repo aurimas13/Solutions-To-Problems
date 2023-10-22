@@ -1,0 +1,1 @@
+Problem description of "Maximum Score of a Good Subarray" can be found [here](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximum%20Score%20of%20a%20Good%20Subarray/maximum.java).
