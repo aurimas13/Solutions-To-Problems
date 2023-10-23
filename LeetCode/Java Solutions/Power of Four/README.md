@@ -1,0 +1,1 @@
+The problem description of "Power of Four" is found [here](https://leetcode.com/problems/power-of-four/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Power%20of%20Four/power_of_four.java).
