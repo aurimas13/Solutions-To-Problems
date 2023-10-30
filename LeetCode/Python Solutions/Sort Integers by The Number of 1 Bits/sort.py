@@ -6,3 +6,5 @@ class Solution:
 
         # Sorting using lambda function as custom comparator
         return sorted(arr, key=lambda x: (countOnes(x), x))
+
+
