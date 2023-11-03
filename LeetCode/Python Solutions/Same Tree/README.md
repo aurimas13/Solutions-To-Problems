@@ -1,1 +1,0 @@
-Problem description of "Same Tree" can be found [here](https://leetcode.com/problems/same-tree/).

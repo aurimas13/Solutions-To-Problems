@@ -1,1 +1,0 @@
-Problem description of "Last Day Where You Can Still Cross" can be found [here](https://leetcode.com/problems/last-day-where-you-can-still-cross/last-moment-before-all-ants-fall-out-of-a-plank/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/Python%20Solutions/Last%20Day%20Where%20You%20Can%20Still%20Cross).

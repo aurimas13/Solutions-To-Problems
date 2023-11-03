@@ -1,1 +1,0 @@
-Problem description of "Binary Tree Level Order Traversal"" can be found [here](https://leetcode.com/problems/binary-tree-level-order-traversal/).

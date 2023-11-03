@@ -1,1 +1,0 @@
-Problem description of "Sudoku Solver" can be found [here](https://leetcode.com/problems/sudoku-solver/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sudoku%20Solver/solver.py).

@@ -1,3 +1,0 @@
-Problem description of "Time Needed to Inform All Employees" can be found [here](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/) 
-and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Time%20Needed%20to%20Inform%20All%20Employees/time.py)
-while the explanation and solution in LeetCode [here](https://leetcode.com/problems/time-needed-to-inform-all-employees/solutions/3149846/python-solution-well-explained/)

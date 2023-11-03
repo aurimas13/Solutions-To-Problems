@@ -1,1 +1,0 @@
-Problem description of "Encode and Decode Ways" can be found [here](https://leetcode.com/problems/encode-and-decode-strings/).

@@ -1,1 +1,0 @@
-Problem description of "Plus One" can be found [here](https://leetcode.com/problems/plus-one/).

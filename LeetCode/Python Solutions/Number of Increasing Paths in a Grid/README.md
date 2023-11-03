@@ -1,1 +1,0 @@
-The problem of "Number of Increasing Paths in a Grid" is found [here](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Increasing%20Paths%20in%20a%20Grid/number.py).

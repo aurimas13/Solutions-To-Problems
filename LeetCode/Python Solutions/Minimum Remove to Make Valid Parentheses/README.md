@@ -1,1 +1,0 @@
-Problem description of "Minimum Remove to Make Valid Parentheses" can be found [here](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minimum%20Remove%20to%20Make%20Valid%20Parentheses/minimum.py).

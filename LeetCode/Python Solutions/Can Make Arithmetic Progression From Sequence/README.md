@@ -1,1 +1,0 @@
-Problem description of "Can Make Arithmetic Progression From Sequence" can be found [here](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Can%20Make%20Arithmetic%20Progression%20From%20Sequence/make.py).

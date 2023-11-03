@@ -1,1 +1,0 @@
-The problem description of "Binary Trees With Factors" is found [here](https://leetcode.com/problems/binary-trees-with-factors/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Trees%20With%20Factors/binary_trees_with_factors.py).

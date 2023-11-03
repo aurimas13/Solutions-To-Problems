@@ -1,1 +1,0 @@
-The problem description of "Evaluate Boolean Expression" is found [here](https://leetcode.com/problems/evaluate-boolean-expression/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Evaluate%20Boolean%20Expression/evaluate_boolean_expression.sql).

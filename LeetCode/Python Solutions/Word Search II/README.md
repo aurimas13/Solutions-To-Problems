@@ -1,1 +1,0 @@
-Problem description of "Word Search II" can be found [here](https://leetcode.com/problems/word-search-ii/).

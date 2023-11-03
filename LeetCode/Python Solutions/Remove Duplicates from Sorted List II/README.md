@@ -1,1 +1,0 @@
-Problem description of "Remove Duplicates from Sorted List II" can be found [here](https://leetcode.com/problems/remove-element/) while its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Remove%20Duplicates%20from%20Sorted%20List%20II/remove.py).

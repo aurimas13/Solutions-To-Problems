@@ -1,1 +1,0 @@
-Problem description of "House Robber" can be found [here](https://leetcode.com/problems/house-robber/).

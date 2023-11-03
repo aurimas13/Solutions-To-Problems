@@ -1,1 +1,0 @@
-Problem description of "Word Break II" can be found [here](https://leetcode.com/problems/word-break-ii/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Break%20II/break.py).

@@ -1,1 +1,0 @@
-Problem description of "Longest String Chain" can be found [here](https://leetcode.com/problems/longest-string-chain/).

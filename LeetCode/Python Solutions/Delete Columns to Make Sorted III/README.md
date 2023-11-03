@@ -1,1 +1,0 @@
-Problem description of "Delete Columns to Make Sorted III" can be found [here](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Delete%20Columns%20to%20Make%20Sorted%20III/delete.py).

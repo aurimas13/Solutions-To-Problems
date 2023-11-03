@@ -1,1 +1,0 @@
-The problem description of "Restaurant Growth" is found [here](https://leetcode.com/problems/restaurant-growth/description/?envType=study-plan-v2&envId=top-sql-50) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Restaurant%20Growth/restaurant.sql).

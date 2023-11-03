@@ -1,1 +1,0 @@
-Problem description of "Valid Parenthesis" can be found [here](https://leetcode.com/problems/valid-parentheses/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Parentheses/valid.py).

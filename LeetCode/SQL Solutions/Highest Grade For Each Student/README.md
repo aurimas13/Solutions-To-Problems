@@ -1,1 +1,0 @@
-The problem description of "Highest Grade For Each Student" is found [here](https://leetcode.com/problems/highest-grade-for-each-student/description) while solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Highest%20Grade%20For%20Each%20Student/highest.sql). 

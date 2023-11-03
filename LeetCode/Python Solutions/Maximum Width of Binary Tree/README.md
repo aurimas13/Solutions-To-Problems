@@ -1,1 +1,0 @@
-Problem description of "Maximum Width of Binary Tree" can be found [here](https://leetcode.com/problems/maximum-width-of-binary-tree/) and it solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximum%20Width%20of%20Binary%20Tree/maximum.py).

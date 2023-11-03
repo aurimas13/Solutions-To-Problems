@@ -1,1 +1,0 @@
-Problem description of "Kth Smallest Element in a BST" can be found [here](https://leetcode.com/problems/kth-smallest-element-in-a-bst/).

@@ -1,1 +1,0 @@
-The problem description is found [here](https://leetcode.com/problems/predict-the-winner/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Predict%20the%20Winner/predict.java).

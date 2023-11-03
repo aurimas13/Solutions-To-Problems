@@ -1,1 +1,0 @@
-Problem description of "Validate Stack Sequences" can be found [here](https://leetcode.com/problems/validate-stack-sequences/).

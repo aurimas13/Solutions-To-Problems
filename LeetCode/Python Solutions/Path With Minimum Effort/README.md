@@ -1,5 +1,0 @@
-The problem description of "Path With Minimum Effort" is found [here](https://leetcode.com/problems/path-with-minimum-effort/description/?envType=daily-question&envId=2023-09-16) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Path%20With%20Minimum%20Effort/path.py) and a well explained solution is found [here](https://leetcode.com/problems/path-with-minimum-effort/solutions/4050606/well-explained-solution-python-java/) while the implementation is below.
-
-**Implementation**:
-
-This type of algorithm can be useful in applications where we need to find the optimal path with minimum effort/cost. For instance, in mapping software where terrain information is given, we can find the path that minimizes the effort needed by considering the difference in altitudes.

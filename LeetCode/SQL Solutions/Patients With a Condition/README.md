@@ -1,1 +1,0 @@
-The problem description of "Patients With a Condition" is found [here](https://leetcode.com/problems/patients-with-a-condition/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Patients%20With%20a%20Condition/patients.sql).
