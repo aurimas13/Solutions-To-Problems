@@ -1,0 +1,1 @@
+The problem of "Longest Arithmetic Subsequence" is found [here](https://leetcode.com/problems/longest-arithmetic-subsequence/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Arithmetic%20Subsequence/longest.py).

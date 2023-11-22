@@ -1,0 +1,1 @@
+Problem description of "Search in Rotated Sorted Array" can be found [here](https://leetcode.com/problems/search-in-rotated-sorted-array/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Search%20in%20Rotated%20Sorted%20Array/search.py).

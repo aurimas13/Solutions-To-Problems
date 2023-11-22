@@ -1,0 +1,1 @@
+Problem description can be found [here](https://leetcode.com/problems/two-sum/) and solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Two%20Sum/two_sum.py) while the explanation with solution [here](https://leetcode.com/problems/two-sum/solutions/3238457/python-solution/).

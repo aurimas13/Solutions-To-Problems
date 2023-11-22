@@ -1,0 +1,1 @@
+Problem description of "Number of Visible People in a Queue" can be found [here](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Ways%20of%20Cutting%20a%20Pizza/number.py).

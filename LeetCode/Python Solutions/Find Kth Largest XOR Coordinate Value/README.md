@@ -1,0 +1,2 @@
+Problem description of "Find Kth Largest XOR Coordinate Value" can be found [here](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/description/)
+and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Kth%20Largest%20XOR%20Coordinate%20Value/find.py) and its explanation with details [here](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/solutions/3224149/python-solution/).

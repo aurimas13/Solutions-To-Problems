@@ -1,0 +1,1 @@
+Problem description of "Shuffle an Array" can be found [here](https://leetcode.com/problems/shuffle-an-array/description) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shuffle%20an%20Array/shuffle.py).

@@ -1,0 +1,1 @@
+Problem description of "Redundant Connection" can be found [here](https://leetcode.com/problems/redundant-connection/description/) while its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Redundant%20Connection/redundant.py). 

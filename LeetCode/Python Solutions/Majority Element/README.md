@@ -1,0 +1,1 @@
+Problem description of "Majority Element" can be found [here](https://leetcode.com/problems/majority-element/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Majority%20Element/majority.py).

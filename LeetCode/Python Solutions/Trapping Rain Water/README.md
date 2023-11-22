@@ -1,0 +1,1 @@
+The problem description of "Trspping Rain Water" can be found [here](https://leetcode.com/problems/trapping-rain-water/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Trapping%20Rain%20Water/trapping.py).

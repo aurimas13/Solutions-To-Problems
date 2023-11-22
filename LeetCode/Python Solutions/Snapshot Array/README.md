@@ -1,0 +1,1 @@
+The problem of "Snapshot Array" is found [here](https://leetcode.com/problems/snapshot-array/description/) while the solution of it [here](https://bit.ly/3X2J12n).
