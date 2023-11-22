@@ -1,0 +1,1 @@
+The problem description of "Flatten Nested List Iterator" is found [here](https://leetcode.com/problems/flatten-nested-list-iterator/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Flatten%20Nested%20List%20Iterator/flatten_nested_list_iterator.java).
