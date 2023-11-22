@@ -1,0 +1,1 @@
+The problem description of "The Latest Login in 2020" is found [here](https://leetcode.com/problems/the-latest-login-in-2020/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/The%20Latest%20Login%20in%202020/latest.sql).

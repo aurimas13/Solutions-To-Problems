@@ -1,0 +1,1 @@
+The problem description of "Sellers With No Sales" is found [here](https://leetcode.com/problems/sellers-with-no-sales/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Sellers%20With%20No%20Sales/sellers.py).

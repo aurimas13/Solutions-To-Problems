@@ -1,0 +1,1 @@
+The problem's "Find The Original Array of Prefix Xor" description is found [here](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20The%20Original%20Array%20of%20Prefix%20Xor/find_xor.java)
