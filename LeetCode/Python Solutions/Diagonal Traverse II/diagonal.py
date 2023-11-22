@@ -14,3 +14,4 @@ class Solution:
             result.extend(diagonal_map[k][::-1])  # Reverse each diagonal
 
         return result
+
