@@ -1,0 +1,2 @@
+The problem description of "Largest Submatrix With Rearrangements" can be found [here](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) while the solution can be found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Largest%20Submatrix%20With%20Rearrangements/largest.java).
+
