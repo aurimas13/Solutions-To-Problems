@@ -1,0 +1,1 @@
+The problem description of "Calculate Money in Leetcode Bank" is found [here](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Calculate%20Money%20in%20Leetcode%20Bank/calculate.java).
