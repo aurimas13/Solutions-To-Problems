@@ -1,0 +1,1 @@
+Problem description of "Longest Consecutive Sequence" can be found [here](https://leetcode.com/problems/longest-consecutive-sequence/).

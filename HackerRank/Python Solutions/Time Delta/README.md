@@ -1,0 +1,1 @@
+Problem description of "Time Delta" is found [here](https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true).

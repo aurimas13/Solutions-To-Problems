@@ -1,0 +1,1 @@
+Problem description of "largest Rectangle in Histogram" can be found [here](https://leetcode.com/problems/largest-rectangle-in-histogram/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Largest%20Rectangle%20in%20Histogram/largest.py).

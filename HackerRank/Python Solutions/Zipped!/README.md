@@ -1,0 +1,1 @@
+Problem description of "Zipped!" can be found [here](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true).

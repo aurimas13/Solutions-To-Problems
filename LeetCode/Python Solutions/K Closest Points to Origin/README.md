@@ -1,0 +1,1 @@
+Problem description of "K Closest Points to Origin" can be found [here](https://leetcode.com/problems/k-closest-points-to-origin/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/K%20Closest%20Points%20to%20Origin/closest.py).

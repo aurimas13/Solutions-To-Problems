@@ -1,0 +1,1 @@
+Problem description of "Gas Station" can be found [here](https://leetcode.com/problems/gas-station/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py) and an in depth explanation of the solution [here](https://leetcode.com/problems/gas-station/solutions/3510670/python-solution-well-explained/).

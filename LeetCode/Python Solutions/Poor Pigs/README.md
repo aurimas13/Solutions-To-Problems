@@ -1,0 +1,1 @@
+The problem description of "Poor Pigs" is found [here](https://leetcode.com/problems/poor-pigs/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Poor%20Pigs/poor_pigs.java).

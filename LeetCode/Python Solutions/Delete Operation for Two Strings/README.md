@@ -1,0 +1,1 @@
+The problem of "Delete Operation for Two Strings" is found [here](https://leetcode.com/problems/delete-operation-for-two-strings/description/?envType=study-plan&id=algorithm-ii) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Delete%20Operation%20for%20Two%20Strings/delete.py).

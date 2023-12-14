@@ -1,0 +1,1 @@
+Problem description of itertools.product() can be found [here](https://www.hackerrank.com/challenges/itertools-product/problem).

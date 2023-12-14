@@ -1,0 +1,1 @@
+Problem description of "Walls And Gates" can be found [here](https://leetcode.com/problems/walls-and-gates/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walls%20and%20Gates/walls_and_gates.py).

@@ -1,0 +1,1 @@
+The problem of "Count All Possible Routes" is [here](https://leetcode.com/problems/count-all-possible-routes/description/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20All%20Possible%20Routes/count.py).

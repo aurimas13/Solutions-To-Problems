@@ -1,0 +1,1 @@
+Problem description of "Partition Equal Subset Sum" can be found [here](https://leetcode.com/problems/partition-equal-subset-sum/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Partition%20Equal%20Subset%20Sum/partition.py).

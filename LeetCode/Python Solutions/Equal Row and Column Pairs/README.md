@@ -1,0 +1,1 @@
+The problem description of "Equal Row and Column Pairs" found [here](https://leetcode.com/problems/equal-row-and-column-pairs/description/) while the problem solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Equal%20Row%20and%20Column%20Pairs/equal.py).

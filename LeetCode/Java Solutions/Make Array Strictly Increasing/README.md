@@ -1,0 +1,1 @@
+The problem description of "Make Array Strictly Increasing" can be found [here](https://leetcode.com/problems/make-array-strictly-increasing/description/) and solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Make%20Array%20Strictly%20Increasing/make.java).

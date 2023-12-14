@@ -1,0 +1,3 @@
+Problem description of "Count Ways To Build Good Strings" can be found 
+[here](https://leetcode.com/problems/count-ways-to-build-good-strings/) and its solution
+[here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Ways%20To%20Build%20Good%20Strings/count.py) and an in depth explanation of the solution with complexities and algorithm explained [here](https://leetcode.com/problems/count-ways-to-build-good-strings/solutions/3518850/python-solution-well-explained/).

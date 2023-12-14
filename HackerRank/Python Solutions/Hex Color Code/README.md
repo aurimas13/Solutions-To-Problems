@@ -1,0 +1,1 @@
+Problem description of "Hex Color Code" can be found [here](https://www.hackerrank.com/challenges/hex-color-code/problem?isFullScreen=true).

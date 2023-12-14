@@ -1,0 +1,1 @@
+Problem description of "Transpose and Flaten" is found [here](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=true).

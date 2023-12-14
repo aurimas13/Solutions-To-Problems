@@ -1,0 +1,1 @@
+Problem description of "First Unique Character in a String" can be found [here](https://leetcode.com/problems/first-unique-character-in-a-string/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/First%20Unique%20Character%20in%20a%20String/first.py).

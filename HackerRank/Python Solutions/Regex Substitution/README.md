@@ -1,0 +1,1 @@
+Problem description of "Regex Substitution" is found [here](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem?isFullScreen=true).

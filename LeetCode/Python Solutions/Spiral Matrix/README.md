@@ -1,0 +1,1 @@
+Problem description of "Spiral Matrix" can be found [here](https://leetcode.com/problems/spiral-matrix/) and its soltution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Spiral%20Matrix/spiral.py) while in depth explanation [here](https://leetcode.com/problems/spiral-matrix/solutions/3502854/python-well-explained/).

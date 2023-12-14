@@ -1,0 +1,1 @@
+Problem description of "Interval List Intersections" can be found [here](https://leetcode.com/problems/interval-list-intersections/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Interval%20List%20Intersections/interval.py).

@@ -1,0 +1,1 @@
+Problem description of "Decode Ways" can be found [here](https://leetcode.com/problems/decode-ways/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Decode%20Ways/decode.py).

@@ -1,0 +1,1 @@
+Problem description of "Reconstruct Original Digits from English" can be found [here](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/) while its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reconstruct%20Original%20Digits%20from%20English/reconstruct.py).

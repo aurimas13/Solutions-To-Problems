@@ -1,0 +1,1 @@
+Problem description of "Two Sum II - Input Array Is Sorted" can be found [here](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py).

@@ -1,0 +1,1 @@
+Problem description of "Find Median from Data Stream" can be found [here](https://leetcode.com/problems/find-median-from-data-stream/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Median%20from%20Data%20Stream/median.py).

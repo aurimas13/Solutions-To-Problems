@@ -1,0 +1,1 @@
+Problem description of "Shortest Word Distance" can be found [here](https://leetcode.com/problems/shortest-word-distance/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Shortest%20Word%20Distance/shortest.py).
