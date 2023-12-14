@@ -1,1 +1,0 @@
-Problem description of "Longest Common Subsequence" can be found [here](https://leetcode.com/problems/longest-common-subsequence/) and it solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Increasing%20Subsequence/longest.py).

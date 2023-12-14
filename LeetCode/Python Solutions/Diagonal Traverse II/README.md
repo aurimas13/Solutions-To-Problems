@@ -1,1 +1,0 @@
-Problem description of "Diagonal Traverse II" can be found [here](https://leetcode.com/problems/diagonal-traverse-ii/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Diagonal%20Traverse%20II/diagonal.py).

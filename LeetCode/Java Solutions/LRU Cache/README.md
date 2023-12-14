@@ -1,1 +1,0 @@
-Problem description of "LRU Cache" can be found [here](https://leetcode.com/problems/lru-cache/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/LRU%20Cache/cache.java).

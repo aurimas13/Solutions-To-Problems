@@ -1,1 +1,0 @@
-Problem description of "Longest Increasing Path in a Matrix" can be found [here](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/).

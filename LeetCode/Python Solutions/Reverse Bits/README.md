@@ -1,1 +1,0 @@
-Problem description of "Reverse Bits" can be found [here](https://leetcode.com/problems/reverse-bits/).

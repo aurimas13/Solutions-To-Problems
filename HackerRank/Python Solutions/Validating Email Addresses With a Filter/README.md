@@ -1,1 +1,0 @@
-Problem description of "Validating Email Addresses With a Filter" can be found [here](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true).

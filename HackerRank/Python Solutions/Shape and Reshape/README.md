@@ -1,1 +1,0 @@
-Problem description of "Shape and Reshape" is found [here](https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true).

@@ -1,1 +1,0 @@
-Problem description of "Calendar Module" can be found [here](https://www.hackerrank.com/challenges/calendar-module/problem).

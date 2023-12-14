@@ -1,1 +1,0 @@
-Problem description of "Construct String from Binary Tree" can be found [here](https://leetcode.com/problems/construct-string-from-binary-tree/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Construct%20String%20from%20Binary%20Tree/construct.py).

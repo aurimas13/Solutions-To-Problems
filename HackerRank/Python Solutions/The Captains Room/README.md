@@ -1,1 +1,0 @@
-Problem description of "The Captain's Room" can be found [here](https://www.hackerrank.com/challenges/py-the-captains-room/problem).

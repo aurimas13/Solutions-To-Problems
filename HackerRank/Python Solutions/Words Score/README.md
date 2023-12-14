@@ -1,1 +1,0 @@
-Problem description of "Words Score" can be found [here](https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=true).

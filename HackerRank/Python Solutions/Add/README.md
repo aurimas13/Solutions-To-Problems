@@ -1,1 +1,0 @@
-Problem description of "Set Add' can be found [here](https://www.hackerrank.com/challenges/py-set-add/problem).

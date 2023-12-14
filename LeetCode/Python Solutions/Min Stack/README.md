@@ -1,1 +1,0 @@
-Problem description of "Min Stack" can be found [here](https://leetcode.com/problems/min-stack/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Min%20Stack/stack.py).

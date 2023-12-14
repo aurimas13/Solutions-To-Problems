@@ -1,1 +1,0 @@
-Problem description of "Target Sum" can be found [here](https://leetcode.com/problems/target-sum/).

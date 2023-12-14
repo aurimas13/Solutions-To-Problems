@@ -1,1 +1,0 @@
-Problem description of "Class 2 - Find the Torsional Angle" is found [here](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true).

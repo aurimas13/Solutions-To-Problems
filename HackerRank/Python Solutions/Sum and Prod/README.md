@@ -1,1 +1,0 @@
-Problem description of "Sum and Prod" is found [here](https://www.hackerrank.com/challenges/np-sum-and-prod/problem?isFullScreen=true).

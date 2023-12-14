@@ -1,1 +1,0 @@
-Problem description of itertools.permutations() can be found [here](https://www.hackerrank.com/challenges/itertools-permutations/problem).

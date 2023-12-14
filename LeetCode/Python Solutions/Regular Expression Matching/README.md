@@ -1,1 +1,0 @@
-Problem description of "Regular Expression Matching" can be found [here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) while its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Regular%20Expression%20Matching/regular.py).

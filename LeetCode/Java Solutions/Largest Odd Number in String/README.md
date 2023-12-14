@@ -1,1 +1,0 @@
-Problem description of "Largest Rectangle in Histogram" can be found [here](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Largest%20Rectangle%20in%20Histogram/largest.java).

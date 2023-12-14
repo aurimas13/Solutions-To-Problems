@@ -1,1 +1,0 @@
-Problem description of "Evaluate Division" can be found [here](https://leetcode.com/problems/evaluate-division/).

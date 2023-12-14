@@ -1,1 +1,0 @@
-Problem description of "Min and Max" is found [here](https://www.hackerrank.com/challenges/np-min-and-max/problem?isFullScreen=true).

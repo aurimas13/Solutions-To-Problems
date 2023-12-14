@@ -1,1 +1,0 @@
-The problem of "Reorganize String" is found [here](https://leetcode.com/problems/reorganize-string/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Reorganize%20String/reorganize.java).

@@ -1,1 +1,0 @@
-Problem description of "Company Logo" can be found [here](https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true).

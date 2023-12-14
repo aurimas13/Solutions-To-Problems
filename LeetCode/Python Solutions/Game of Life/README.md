@@ -1,1 +1,0 @@
-Problem description of "Game of Life" can be found [here](https://leetcode.com/problems/game-of-life/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Game%20of%20Life/game.py).

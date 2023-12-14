@@ -1,1 +1,0 @@
-Problem description of "Minimum One Bit Operations to Make Integers Zero" can be found [here](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/minimum.py).

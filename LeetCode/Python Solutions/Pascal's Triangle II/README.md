@@ -1,1 +1,0 @@
-Problem description of "Pascal's Triangle II" can be found [here](https://leetcode.com/problems/pascals-triangle-ii/) and the solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Pascals%20Triangle%20II/pascals.py).

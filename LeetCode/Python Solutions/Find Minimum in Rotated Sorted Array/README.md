@@ -1,1 +1,0 @@
-Problem description of "Find Minimum in Rotated Sorted Array" can be found [here](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array/find.py).

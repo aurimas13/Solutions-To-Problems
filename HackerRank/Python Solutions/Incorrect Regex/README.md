@@ -1,1 +1,0 @@
-Problem description of "Incorrect Regex" can be found [here](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true).

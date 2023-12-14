@@ -1,1 +1,0 @@
-Problem description of "Split Array into Consecutive Subsequences" can be found [here](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)

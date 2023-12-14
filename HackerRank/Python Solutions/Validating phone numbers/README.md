@@ -1,1 +1,0 @@
-Problem description of "Validating phone numbers" can be found [here](https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=true).

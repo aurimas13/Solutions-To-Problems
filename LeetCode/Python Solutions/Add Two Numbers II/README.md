@@ -1,1 +1,0 @@
-The problem description of "Add Two Numbers II" is found [here](https://leetcode.com/problems/add-two-numbers-ii/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Add%20Two%20Numbers%20II/add.py).

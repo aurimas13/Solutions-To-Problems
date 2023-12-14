@@ -1,1 +1,0 @@
-Problem description of "Continuous Subarray Sum" can be found [here](https://leetcode.com/problems/continuous-subarray-sum/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Continuous%20Subarray%20Sum/continous_sum.py).

@@ -1,1 +1,0 @@
-Problem description of "XML2 - Find the Maximum Depth" can be found [here](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem?isFullScreen=true).

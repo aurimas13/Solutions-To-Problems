@@ -1,1 +1,0 @@
-Problem description of "Reduction Operations to Make the Array Elements Equal" can be found [here](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/master/LeetCode/Java%20Solutions/Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/reduce.java).

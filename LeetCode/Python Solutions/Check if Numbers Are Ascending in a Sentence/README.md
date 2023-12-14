@@ -1,1 +1,0 @@
-Problem description of "Check if Numbers Are Ascending in a Sentence" can be found [here](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/).

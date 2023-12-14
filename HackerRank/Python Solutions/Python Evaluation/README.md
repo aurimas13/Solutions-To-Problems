@@ -1,1 +1,0 @@
-Problem description of "Python Evaluation" can be found [here](https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true).

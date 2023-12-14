@@ -1,1 +1,0 @@
-Problem description of "Subarray Product Less Than K" can be found [here](https://leetcode.com/problems/subarray-product-less-than-k/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Subarray%20Product%20Less%20Than%20K/subarray.py).

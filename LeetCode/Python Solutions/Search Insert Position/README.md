@@ -1,1 +1,0 @@
-Problem description of "Search Insert Position" can be found [here](https://leetcode.com/problems/search-insert-position/submissions/).

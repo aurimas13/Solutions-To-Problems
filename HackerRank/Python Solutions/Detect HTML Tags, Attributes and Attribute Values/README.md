@@ -1,1 +1,0 @@
-Problem description of "Detect HTML, Attributes and Attribute Values" can be found [here](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem?isFullScreen=true).

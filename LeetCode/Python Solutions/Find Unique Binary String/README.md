@@ -1,1 +1,0 @@
-The problem description of "Find Unique Binary String" is found [here](https://leetcode.com/problems/find-unique-binary-string/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Unique%20Binary%20String/find.py).

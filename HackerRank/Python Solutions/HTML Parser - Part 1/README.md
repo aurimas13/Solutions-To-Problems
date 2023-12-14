@@ -1,1 +1,0 @@
-Problem description of "HTML Parser - Part 1" can be found [here](https://www.hackerrank.com/challenges/html-parser-part-1/problem?isFullScreen=true).

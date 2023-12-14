@@ -1,1 +1,0 @@
-Problem description of "Task Scheduler" can be found [here](https://leetcode.com/problems/task-scheduler/).

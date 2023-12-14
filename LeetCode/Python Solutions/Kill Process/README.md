@@ -1,3 +1,0 @@
-Problem description of "Kill process" can be found [here](https://leetcode.com/problems/kill-process/description/) and its 
-solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Kill%20Process/kill.py)
-while detailed explanation with the solution with comment on complexities [here](https://leetcode.com/problems/kill-process/solutions/3071806/python-solution-fast/).

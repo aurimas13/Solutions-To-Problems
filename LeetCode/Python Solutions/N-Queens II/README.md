@@ -1,1 +1,0 @@
-Problem description of "N-Queens II" can be found [here](https://leetcode.com/problems/n-queens-ii/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/N-Queens%20II/n-queens.py).

@@ -1,1 +1,0 @@
-Problem description of "Reduce Function" is found [here](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true).

@@ -1,1 +1,0 @@
-Problem description of "Validating Roman Numerals" can be found [here](https://www.hackerrank.com/challenges/validate-a-roman-number/problem?isFullScreen=true).

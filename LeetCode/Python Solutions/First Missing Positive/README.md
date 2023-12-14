@@ -1,1 +1,0 @@
-Problem description of "First Missing Positive" can be found [here](https://leetcode.com/problems/first-missing-positive/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/First%20Missing%20Positive/first.py).

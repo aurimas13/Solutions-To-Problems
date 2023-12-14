@@ -1,1 +1,0 @@
-Problem description of "3Sum Closest" can be found [here](https://leetcode.com/problems/3sum-closest/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/3Sum%20Closest/closest.py).

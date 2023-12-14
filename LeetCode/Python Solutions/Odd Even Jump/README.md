@@ -1,1 +1,0 @@
-Problem description of "Odd Even Jump" can be found [here](https://leetcode.com/problems/odd-even-jump/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Odd%20Even%20Jump/odd.py).

@@ -1,1 +1,0 @@
-Problem description of "3Sum" can be found [here](https://leetcode.com/problems/3sum/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/3Sum/3Sum.py) while the comment on commplexities and description with solution as well given [here](https://leetcode.com/problems/3sum/solutions/3244995/python-solution/).

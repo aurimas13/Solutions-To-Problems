@@ -1,1 +1,0 @@
-Problem description of "Sqrt(x)" can be found [here](https://leetcode.com/problems/sqrtx/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sqrt(x)/sqrt_x.py).

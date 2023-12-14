@@ -1,1 +1,0 @@
-The problem description of "Unique Binary Search Trees II" is found [here](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Unique%20Binary%20Search%20Trees%20II/unique.java).

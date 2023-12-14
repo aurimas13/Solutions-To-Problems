@@ -1,1 +1,0 @@
-Problem description of "Set .discard(), remove() & .pop()" can be found [here](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem).

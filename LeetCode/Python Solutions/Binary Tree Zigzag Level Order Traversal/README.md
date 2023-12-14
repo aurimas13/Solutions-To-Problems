@@ -1,1 +1,0 @@
-Problem description of "Binary Tree Zigzag Level Order Traversal" can be found [here](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/binary.py).

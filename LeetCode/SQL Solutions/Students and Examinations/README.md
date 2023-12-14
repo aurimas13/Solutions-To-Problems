@@ -1,1 +1,0 @@
-Problem description of "Students and Examinations" can be found [here](https://leetcode.com/problems/students-and-examinations/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Recyclable%20and%20Low%20Fat%20Products/recyclable.sql)

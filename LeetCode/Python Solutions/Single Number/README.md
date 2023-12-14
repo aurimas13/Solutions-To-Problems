@@ -1,1 +1,0 @@
-Problem description of "Single Number" can be found [here](https://leetcode.com/problems/single-number/) and its solutions [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Single%20Number/single.py).
