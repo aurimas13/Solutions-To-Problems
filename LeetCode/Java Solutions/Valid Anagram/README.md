@@ -1,0 +1,1 @@
+The problem description of "Valid Anagram" is found [here](https://leetcode.com/problems/valid-anagram/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Valid%20Anagram/valid.java).
