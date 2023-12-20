@@ -78,7 +78,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Company Name | Total Solutions |
 |--------|----------|
 | Google | 427 |
-| Amazon | 312 |
+| Amazon | 313 |
 | Facebook | 297 |
 | Apple | 287 |
 | Microsoft | 260 |
