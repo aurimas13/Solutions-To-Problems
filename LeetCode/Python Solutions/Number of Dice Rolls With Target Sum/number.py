@@ -12,3 +12,5 @@ class Solution:
                     dp[dice][t] = (dp[dice][t] + dp[dice - 1][t - face]) % MOD
         
         return dp[n][target]
+
+
