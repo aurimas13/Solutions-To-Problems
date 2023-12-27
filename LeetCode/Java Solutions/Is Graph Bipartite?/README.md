@@ -1,1 +1,3 @@
 Problem description of "Is Graph Bipartite?" can be found [here](https://leetcode.com/problems/is-graph-bipartite/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Is%20Graph%20Bipartite%3F/graph.java) and detailed explanation with complexities [here](https://leetcode.com/problems/is-graph-bipartite/solutions/3540875/java-solution-well-explained/). 
+
+To check the solution in terminal first compile Java file as `javac graph.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

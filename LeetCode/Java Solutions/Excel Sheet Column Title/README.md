@@ -1,5 +1,7 @@
 Problem description of "Excel Sheet Column Title" can be found [here](https://leetcode.com/problems/excel-sheet-column-title/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Excel%20Sheet%20Column%20Title/excel.java).
 
+To check the solution in terminal first compile Java file as `javac excel.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
+
 **Explanation**:
 
 The Python code provided is similar to the process of converting a decimal number to binary, but in this case, we are converting the number to a base-26 number system where:

@@ -1,5 +1,7 @@
 The problem description of "Minimum Penalty for a Shop" is found [here](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Penalty%20for%20a%20Shop/minimum.java).
 
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
+
 **Explanation**:
 
 The primary task here is to determine the best time for a shop to close in order to minimize the penalty. The penalty arises in two situations:

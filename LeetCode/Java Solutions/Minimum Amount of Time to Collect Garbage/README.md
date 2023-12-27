@@ -1,1 +1,3 @@
 The problem description of "Minimum Amount of Time to Collect Garbage" can be found [here](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) and the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/garbage.java).
+
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

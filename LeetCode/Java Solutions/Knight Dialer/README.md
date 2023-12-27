@@ -1,1 +1,3 @@
 The problem solution of "Knight Dialer" can be found [here](https://leetcode.com/problems/knight-dialer/) while the solution in Python can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Knight%20Dialer/knight.java).
+
+To check the solution in terminal first compile Java file as `javac knight.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

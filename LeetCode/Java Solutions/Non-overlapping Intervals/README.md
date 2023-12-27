@@ -1,1 +1,3 @@
 The problem description of "Non-overlapping Intervals" is found [here](https://leetcode.com/problems/non-overlapping-intervals/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Non-overlapping%20Intervals/interval.py).
+
+To check the solution in terminal first compile Java file as `javac nonover.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

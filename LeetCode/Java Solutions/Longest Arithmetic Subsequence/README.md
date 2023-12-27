@@ -1,1 +1,3 @@
 The problem of "Longest Arithmetic Subsequence" is found [here](https://leetcode.com/problems/longest-arithmetic-subsequence/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Longest%20Arithmetic%20Subsequence/longest.java).
+
+To check the solution in terminal first compile Java file as `javac longest.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

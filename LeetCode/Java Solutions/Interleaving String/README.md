@@ -1,5 +1,7 @@
 The problem description is found [here](https://leetcode.com/problems/interleaving-string/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Interleaving%20String/interleaving.java).
 
+To check the solution in terminal first compile Java file as `javac interleaving.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
+
 **Explanation**:
 
 1. If the sum of lengths of s1 and s2 is not equal to the length of s3, return False.

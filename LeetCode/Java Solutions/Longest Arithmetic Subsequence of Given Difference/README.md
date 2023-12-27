@@ -1,1 +1,3 @@
 The problem of "Longest Arithmetic Subsequence of Given Difference" is found [here](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/longest.java).
+
+To check the solution in terminal first compile Java file as `javac longest.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

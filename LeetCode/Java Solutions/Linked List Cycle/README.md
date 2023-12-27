@@ -1,5 +1,7 @@
 The problem description of " Linked List Cycle" is found [here](https://leetcode.com/problems/linked-list-cycle/description/?envType=daily-question&envId=2023-09-04) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Linked%20List%20Cycle/linked.java).
 
+To check the solution in terminal first compile Java file as `javac linked.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
+
 **Explanation**:
 
 1. The slow pointer moves one step at a time while the fast pointer moves two steps.

@@ -1,1 +1,3 @@
 The description of "New 21 Game" is [here](https://leetcode.com/problems/new-21-game/description/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/New%2021%20Game/new.java).
+
+To check the solution in terminal first compile Java file as `javac new.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

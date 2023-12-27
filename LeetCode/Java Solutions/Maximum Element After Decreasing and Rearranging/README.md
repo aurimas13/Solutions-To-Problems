@@ -1,1 +1,3 @@
 The problem description of "Maximum Element After Decreasing and Rearranging" is found [here](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximum%20Element%20After%20Decreasing%20and%20Rearranging/maximum.java).
+
+To check the solution in terminal first compile Java file as `javac maximum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

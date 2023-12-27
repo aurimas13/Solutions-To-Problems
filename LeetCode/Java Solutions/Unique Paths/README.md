@@ -1,5 +1,7 @@
 Problem description of "Unique Paths" can be found [here](https://leetcode.com/problems/unique-paths/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Unique%20Paths/unique.java).
 
+To check the solution in terminal first compile Java file as `javac unique.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
+
 **Explanation**:
 
 1. We use dynamic programming to solve this problem. The idea is to calculate the number of unique paths to reach each cell in the grid.
