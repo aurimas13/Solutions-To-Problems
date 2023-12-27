@@ -1,0 +1,1 @@
+The problem description of "Minimum Time Visiting All Points" is found [here](https://leetcode.com/problems/minimum-time-visiting-all-points/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Time%20Visiting%20All%20Points/minimum.py).
