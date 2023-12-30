@@ -1,0 +1,1 @@
+The problem description of "Redistribute Characters to Make All Strings Equal" is found [here](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/master/LeetCode/Java%20Solutions/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/redistribute.java).
