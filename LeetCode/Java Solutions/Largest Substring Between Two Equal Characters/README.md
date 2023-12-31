@@ -1,0 +1,3 @@
+The problem description of "Largest Substring Between Two Equal Characters" is found [here](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) and the solution is found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Largest%20Substring%20Between%20Two%20Equal%20Characters/largest.java).
+
+To check the solution in terminal first compile Java file as `javac largest.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
