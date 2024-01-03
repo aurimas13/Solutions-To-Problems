@@ -1,0 +1,1 @@
+The problem of "Number of Laser Beams in a Bank" can be found [here](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Laser%20Beams%20in%20a%20Bank/number.py).
