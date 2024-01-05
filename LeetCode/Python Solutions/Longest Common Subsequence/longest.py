@@ -25,3 +25,5 @@ if __name__ == '__main__':
     Solve = Sol.longestCommonSubsequence(text1 = "abc", text2 = "def" )  
     # text1 = "abc", text2 = "def" -> 0
     print(Solve)
+
+
