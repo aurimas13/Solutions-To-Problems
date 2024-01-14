@@ -15,4 +15,3 @@ class Solution {
         return vowelCount1 == vowelCount2;
     }
 }
-

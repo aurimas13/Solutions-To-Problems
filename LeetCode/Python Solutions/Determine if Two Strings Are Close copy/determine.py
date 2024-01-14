@@ -20,4 +20,3 @@ class Solution:
         
         # Check if the frequency of characters is the same (ignoring the order)
         return sorted(freq1) == sorted(freq2)
-
