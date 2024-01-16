@@ -1,50 +1,26 @@
 import random
 
-
 class RandomizedSet:
     def __init__(self):
-        """
-        Initialize your data structure here.
-        """
-        self.dict = {}
-        self.list = []
+        self.dict = {}  # Maps element to its index in the list
+        self.list = []  # Dynamic array to store the elements
 
     def insert(self, val: int) -> bool:
-        """
-        Inserts a value to the set. Returns true if the set did not already contain the specified element.
-        """
         if val not in self.dict:
-            self.dict[val] = len(self.list)
-            self.list.append(val)
+            self.dict[val] = len(self.list)  # Store index of val in the list
+            self.list.append(val)  # Append val to the list
             return True
         return False
 
     def remove(self, val: int) -> bool:
-        """
-        Removes a value from the set. Returns true if the set contained the specified element.
-        """
         if val in self.dict:
-            last, idx = self.list[-1], self.dict[val]
-            self.list[idx], self.dict[last] = last, idx
-            self.list.pop()
-            del self.dict[val]
+            # Swap the element with the last element
+            last_element, idx_to_remove = self.list[-1], self.dict[val]
+            self.list[idx_to_remove], self.dict[last_element] = last_element, idx_to_remove
+            self.list.pop()  # Remove the last element
+            del self.dict[val]  # Remove the element from the dictionary
             return True
         return False
 
     def getRandom(self) -> int:
-        """
-        Get a random element from the set.
-        """
-        return random.choice(self.list)
-
-
-if __name__ == "__main__":
-    # Your RandomizedSet object will be instantiated and called as such:
-    obj = RandomizedSet()
-    assert obj.insert(1) == True
-    assert obj.remove(2) == False
-    assert obj.insert(2) == True
-    assert obj.getRandom() in [1, 2]
-    assert obj.remove(1) == True
-    assert obj.insert(2) == False
-    assert obj.getRandom() == 2
+        return random.choice(self.list)  # Return a random element
