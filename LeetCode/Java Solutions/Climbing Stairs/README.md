@@ -1,4 +1,6 @@
-Problem description of "Climbing Stairs" can be found [here](https://leetcode.com/problems/climbing-stairs/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Climbing%20Stairs/climb.py).
+Problem description of "Climbing Stairs" can be found [here](https://leetcode.com/problems/climbing-stairs/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Climbing%20Stairs/climb.java).
+
+To check the solution in terminal first compile Java file as `javac climb.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
 
 ## Implementation
 
