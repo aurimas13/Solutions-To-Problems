@@ -1,4 +1,4 @@
-The problem description of "Sum of Suabaary Minimums" can be found [here](https://leetcode.com/problems/sum-of-subarray-minimums/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Sum%20of%20Subarray%20Minimums/sum.java).
+The problem description of "Sum of Subarray Minimums" can be found [here](https://leetcode.com/problems/sum-of-subarray-minimums/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Sum%20of%20Subarray%20Minimums/sum.java).
 
 To check the solution in terminal first compile Java file as `javac sum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
 

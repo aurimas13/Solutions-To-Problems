@@ -1,4 +1,4 @@
-The problem description of "Sum of Suabaary Minimums" can be found [here](https://leetcode.com/problems/sum-of-subarray-minimums/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sum%20of%20Subarray%20Minimums/sum.py).
+The problem description of "Sum of Subarray Minimums" can be found [here](https://leetcode.com/problems/sum-of-subarray-minimums/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sum%20of%20Subarray%20Minimums/sum.py).
 
 ## Implementation
 
