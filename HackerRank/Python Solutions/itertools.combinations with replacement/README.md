@@ -1,1 +1,0 @@
-Problem description of itertools.combinations_with_replacement() can be found [here](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem).

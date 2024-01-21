@@ -1,3 +1,0 @@
-The problem description of "Number of Flowers in Full Bloom" is found [here](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Number%20of%20Flowers%20in%20Full%20Bloom/number_of_flowers_in_full_bloom.java).
-
-To check the solution in terminal first compile Java file as `javac number.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

@@ -1,1 +1,0 @@
-Problem description of "Decode String" can be found [here](https://leetcode.com/problems/decode-string/).

@@ -1,4 +1,0 @@
-Problem description of "Integer Break" can be found [here](https://leetcode.com/problems/integer-break/description/) and its solutions [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Integer%20Break/integer.java)
-while the explanation with solution also at LeetCode blog as found [here](https://leetcode.com/problems/integer-break/solutions/3162086/python-solution-very-efficient/).
-
-To check the solution in terminal first compile Java file as `javac integer.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

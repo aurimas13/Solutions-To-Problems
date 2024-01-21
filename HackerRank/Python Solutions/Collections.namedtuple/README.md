@@ -1,1 +1,0 @@
-Problem description of "Collections.namedtuple()" can be found [here](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem).

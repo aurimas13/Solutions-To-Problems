@@ -1,2 +1,0 @@
-Problem description of "Minimum Size Subarray Sum
-" can be found [here](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan&id=algorithm-ii) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Size%20Subarray%20Sum/minimum.py).

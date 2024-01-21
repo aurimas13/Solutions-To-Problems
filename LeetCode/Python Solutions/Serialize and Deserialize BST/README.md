@@ -1,1 +1,0 @@
-Problem description of "Serialize and Deserialize BST" can be found [here](https://leetcode.com/problems/serialize-and-deserialize-bst/).

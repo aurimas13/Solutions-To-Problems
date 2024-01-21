@@ -1,1 +1,0 @@
-Problem description of "Detect Floating Point Number" can be found [here](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true).

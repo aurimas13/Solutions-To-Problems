@@ -1,1 +1,0 @@
-The problem solution of "String Conversion II" can be found [here](https://leetcode.com/problems/string-compression-ii/description/?envType=daily-question&envId=2023-12-28) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/String%20Compression%20II/stringCompression.py).

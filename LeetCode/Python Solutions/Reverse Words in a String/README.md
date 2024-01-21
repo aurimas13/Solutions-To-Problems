@@ -1,1 +1,0 @@
-Problem description of "Reverse Words in a String" can be found [here](https://leetcode.com/problems/reverse-words-in-a-string/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reverse%20Words%20in%20a%20String/reverse.py).

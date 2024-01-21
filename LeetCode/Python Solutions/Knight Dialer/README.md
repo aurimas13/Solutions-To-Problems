@@ -1,1 +1,0 @@
-The problem solution of "Knight Dialer" can be found [here](https://leetcode.com/problems/knight-dialer/) while the solution in Python can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Knight%20Dialer/knight.py).

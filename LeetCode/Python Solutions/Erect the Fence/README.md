@@ -1,1 +1,0 @@
-Problem description of "Erect the Fence" can be found [here](https://leetcode.com/problems/erect-the-fence/description/) and solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Erect%20the%20Fence/erect.py).

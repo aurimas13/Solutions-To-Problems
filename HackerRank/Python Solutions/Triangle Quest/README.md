@@ -1,1 +1,0 @@
-Problem description of "Triangle Quest" can be found [here](https://www.hackerrank.com/challenges/python-quest-1/problem).

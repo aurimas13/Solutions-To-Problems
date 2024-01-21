@@ -1,3 +1,0 @@
-The problem description of "Minimum Number of Operations to Make Array Empty" is found [here](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/minimum.py)
-
-To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

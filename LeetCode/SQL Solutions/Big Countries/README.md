@@ -1,1 +1,0 @@
-Problem description of "Big Countries" can be found [here](https://leetcode.com/problems/big-countries/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Big%20Countries/big.sql) and detailed explanation [here](https://leetcode.com/problems/big-countries/solutions/3542200/sql-solution/). 

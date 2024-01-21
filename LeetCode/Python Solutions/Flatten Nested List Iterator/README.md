@@ -1,1 +1,0 @@
-The problem description of "Flatten Nested List Iterator" is found [here]](https://leetcode.com/problems/flatten-nested-list-iterator/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Flatten%20Nested%20List%20Iterator/flatten_nested_list_iterator.py).

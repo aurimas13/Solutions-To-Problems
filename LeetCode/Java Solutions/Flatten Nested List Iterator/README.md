@@ -1,3 +1,0 @@
-The problem description of "Flatten Nested List Iterator" is found [here](https://leetcode.com/problems/flatten-nested-list-iterator/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Flatten%20Nested%20List%20Iterator/flatten_nested_list_iterator.java).
-
-To check the solution in terminal first compile Java file as `javac flatten_nested_list_iterator.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

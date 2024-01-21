@@ -1,1 +1,0 @@
-Problem description of "Array Mathematics" is found [here](https://www.hackerrank.com/challenges/np-array-mathematics/problem?isFullScreen=true).

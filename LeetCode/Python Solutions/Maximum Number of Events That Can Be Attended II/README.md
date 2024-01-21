@@ -1,1 +1,0 @@
-The problem of "Maximum Number of Events That Can Be Attended II" is found [here]() while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II/maximum.py).

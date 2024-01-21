@@ -1,1 +1,0 @@
-Problem description of "Solve the Equation" can be found [here](https://leetcode.com/problems/solve-the-equation/description/) adn its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Sort%20Colors/sort.py).

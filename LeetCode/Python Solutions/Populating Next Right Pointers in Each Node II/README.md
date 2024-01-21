@@ -1,1 +1,0 @@
-Problem description of Populating Next Right Pointers in Each Node II" can be found [here](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/?envType=study-plan&id=algorithm-ii) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Pow(x%2C%20n)/power.py).

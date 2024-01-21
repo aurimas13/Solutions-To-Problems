@@ -1,1 +1,0 @@
-Problem description of 'Largest Color Value in a Directed Graph' can be found [here](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Largest%20Color%20Value%20in%20a%20Directed%20Graph/largest.py).

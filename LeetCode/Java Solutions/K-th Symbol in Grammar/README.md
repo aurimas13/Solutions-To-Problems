@@ -1,3 +1,0 @@
-The problem description of "K-th Symbol in Grammar" is found [here](https://leetcode.com/problems/k-th-symbol-in-grammar/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/K-th%20Symbol%20in%20Grammar/kth.java).
-
-To check the solution in terminal first compile Java file as `javac kth_grammar.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

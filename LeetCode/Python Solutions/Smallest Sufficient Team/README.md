@@ -1,1 +1,0 @@
-The problem of "Smallest Sufficient Team" is [here](https://leetcode.com/problems/smallest-sufficient-team/description/) while the solution os [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Smallest%20Sufficient%20Team/smallest.py).

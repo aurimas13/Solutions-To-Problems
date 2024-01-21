@@ -1,3 +1,0 @@
-The problem description of "Minimum Number of Operations to Make Array Continuous" is found [here](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous/minOperations.java).
-
-To check the solution in terminal first compile Java file as `javac minOperations.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.x

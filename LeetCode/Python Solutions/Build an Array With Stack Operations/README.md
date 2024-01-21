@@ -1,1 +1,0 @@
-The problem description of "Build an Array With Stack Operations" is found [here](https://leetcode.com/problems/build-an-array-with-stack-operations/) while its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Build%20an%20Array%20With%20Stack%20Operations/build.py).

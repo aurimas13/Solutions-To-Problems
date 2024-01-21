@@ -1,1 +1,0 @@
-Problem description of "Input()" can be found [here](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true).

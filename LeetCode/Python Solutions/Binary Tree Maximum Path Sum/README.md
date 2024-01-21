@@ -1,1 +1,0 @@
-Problem description of "Binary Tree Maximum Path Sum" can be found [here](https://leetcode.com/problems/binary-tree-maximum-path-sum/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Maximum%20Path%20Sum/binary.py).

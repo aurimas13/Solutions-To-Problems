@@ -1,1 +1,0 @@
-The problem description of "Minimum ASCII Delete Sum for Two Stringsk" is found [here](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Cost%20to%20Cut%20a%20Stick/minimum.java). 

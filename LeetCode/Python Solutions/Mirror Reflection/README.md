@@ -1,1 +1,0 @@
-Problem description of "Mirror Reflection" can be found [here](https://leetcode.com/problems/mirror-reflection/solutions/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Mirror%20Reflection/mirror.py).

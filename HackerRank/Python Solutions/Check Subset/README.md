@@ -1,1 +1,0 @@
-Problem description "Check Subset" can be found [here](https://www.hackerrank.com/challenges/py-check-subset/problem).

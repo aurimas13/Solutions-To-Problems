@@ -1,1 +1,0 @@
-Problem description of "Validating Credit Card Numbers is gound[here](https://www.hackerrank.com/challenges/validating-credit-card-number/problem?isFullScreen=true).)dit-card-number/problem?isFullScreen=true).

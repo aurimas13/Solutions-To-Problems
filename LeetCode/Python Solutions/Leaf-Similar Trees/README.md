@@ -1,3 +1,0 @@
-The problem description of "Leaf-Similar Trees" can be found [here](https://leetcode.com/problems/leaf-similar-trees/description/) and the solution can be found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Letter%20Combinations%20of%20a%20Phone%20Number/combinations.py).
-
-To check the solution in terminal first compile Java file as `javac similar.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

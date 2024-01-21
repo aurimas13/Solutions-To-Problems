@@ -1,1 +1,0 @@
-Problem description of "Validating UID" can be found [here](https://www.hackerrank.com/challenges/validating-uid/problem?isFullScreen=true).

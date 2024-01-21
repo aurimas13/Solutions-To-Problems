@@ -1,1 +1,0 @@
-Problem description of "Longest Valid Parentheses" can be found [here](https://leetcode.com/problems/longest-valid-parentheses/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Longest%20Valid%20Parentheses/longest.py).

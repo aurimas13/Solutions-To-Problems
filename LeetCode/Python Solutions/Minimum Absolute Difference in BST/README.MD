@@ -1,1 +1,0 @@
-The problem of "Minimum Absolute Difference in BST" can be found [here](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Absolute%20Difference%20in%20BST/minimum.py). 

@@ -1,1 +1,0 @@
-Problem description of "Amount of Time for Binary Tree to Be Infected" can be found [here](https://leetcode.com/problems/amount-of-time-to-infect-all-nodes/) while its solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected/amount.py).

@@ -1,1 +1,0 @@
-Problem description of "Inner and Outer" is found [here](https://www.hackerrank.com/challenges/np-inner-and-outer/problem?isFullScreen=true).

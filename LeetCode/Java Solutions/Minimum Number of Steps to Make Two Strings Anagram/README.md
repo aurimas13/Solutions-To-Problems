@@ -1,3 +1,0 @@
-The problem description of "Minimum Number of Steps to Make Two Strings Anagram" is found [here](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/minimum.java).
-
-To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

@@ -1,1 +1,0 @@
-The problem description of "Minimum Changes To Make Alternating Binary String" is found [here](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/minimum.py).

@@ -1,1 +1,0 @@
-Problem description of "Any or All" can be found [here](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true).

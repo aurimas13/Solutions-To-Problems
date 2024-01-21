@@ -1,1 +1,0 @@
-The problem of "Design HashMap" is found [here](https://leetcode.com/problems/design-hashmap/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Design%20HashMap/design.py).

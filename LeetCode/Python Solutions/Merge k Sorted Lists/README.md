@@ -1,1 +1,0 @@
-Problem description of "Merge k Sorted Lists" can be found [here](https://leetcode.com/problems/merge-k-sorted-lists/).

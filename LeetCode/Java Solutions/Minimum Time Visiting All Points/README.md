@@ -1,3 +1,0 @@
-The problem description of "Minimum Time Visiting All Points" is found [here](https://leetcode.com/problems/minimum-time-visiting-all-points/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Time%20Visiting%20All%20Points/minimum.java).
-
-To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

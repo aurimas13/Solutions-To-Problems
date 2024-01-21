@@ -1,3 +1,0 @@
-The problem description of "Maximum Running Time of N Computers" can be found [here](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximum%20Running%20Time%20of%20N%20Computers/maximum.java).
-
-To check the solution in terminal first compile Java file as `javac maximum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

@@ -1,1 +1,0 @@
-Problem description of "Longest Repeating Character Replacement" can be found [here](https://leetcode.com/problems/longest-repeating-character-replacement/).

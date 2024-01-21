@@ -1,1 +1,0 @@
-Problem description of "Word Ladder" can be found [here](https://leetcode.com/problems/word-ladder/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Word%20Ladder/ladder.py). 

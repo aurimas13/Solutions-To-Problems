@@ -1,1 +1,0 @@
-The problem description of "Largest 3-Same-Digit Number in String" can be found [here](https://leetcode.com/problems/largest-3-digit-number-divisible-by-3/) and the solution is found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Largest%203-Same-Digit%20Number%20in%20String/largest.py).

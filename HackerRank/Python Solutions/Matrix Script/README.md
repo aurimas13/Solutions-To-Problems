@@ -1,1 +1,0 @@
-Problem description of "Validating Postal Codes" can be found [here](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true).

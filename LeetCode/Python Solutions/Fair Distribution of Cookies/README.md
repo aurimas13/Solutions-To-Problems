@@ -1,1 +1,0 @@
-The problem decription of "Fair Distribution of Cookies" is found [here](https://leetcode.com/problems/fair-distribution-of-cookies/description/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Fair%20Distribution%20of%20Cookies/fair.py).

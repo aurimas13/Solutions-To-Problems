@@ -1,1 +1,0 @@
-The problem desription of "Immediate Food Delivery I" is found [here](https://leetcode.com/problems/immediate-food-delivery-i/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Immediate%20Food%20Delivery%20I/immediate_food_delivery_i.py).

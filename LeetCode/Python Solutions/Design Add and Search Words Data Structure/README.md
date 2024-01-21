@@ -1,1 +1,0 @@
-Problem description of "Design Add and Search Words Data Structure" can be found [here](https://leetcode.com/problems/design-add-and-search-words-data-structure/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solution/Design%20Add%20and%20Search%20Words%20Data%20Structure/design_and_search.py).

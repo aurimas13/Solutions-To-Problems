@@ -1,1 +1,0 @@
-The problem description of "Assign Cookies" is found [here](https://leetcode.com/problems/assign-cookies/)  and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Assign%20Cookies/assign.py).

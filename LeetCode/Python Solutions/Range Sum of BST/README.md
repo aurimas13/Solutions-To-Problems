@@ -1,1 +1,0 @@
-The problem description of "Range Sum of BST" can be found [here](https://leetcode.com/problems/range-sum-of-bst/description/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reconstruct%20Itinerary/range.py).

@@ -1,3 +1,0 @@
-The problem description of "Find Largest Value in Each Tree Row" is found [here](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20Largest%20Value%20in%20Each%20Tree%20Row/find_largest_value_in_each_tree_row.java).
-
-To check the solution in terminal first compile Java file as `javac find_largest_value_in_each_tree_row.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

@@ -1,1 +1,0 @@
-Problem description of "Sum of Two Integers" can be found [here](https://leetcode.com/problems/sum-of-two-integers/).

@@ -1,1 +1,0 @@
-Problem description of "Find All Duplicates in an Array" can be found [here](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) and solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20All%20Duplicates%20in%20an%20Array/duplicates.py).

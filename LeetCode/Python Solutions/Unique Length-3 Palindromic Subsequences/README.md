@@ -1,1 +1,0 @@
-The problem description of "Unique Length-3 Palindromic Subsequences" is found [here](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Unique%20Length-3%20Palindromic%20Subsequences/unique.py).

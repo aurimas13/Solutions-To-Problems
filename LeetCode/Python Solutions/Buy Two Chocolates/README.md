@@ -1,1 +1,0 @@
-The problem description of "Buy Two Chocolates" is found [here](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Buy%20Two%20Chocolates/buy.py).

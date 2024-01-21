@@ -1,1 +1,0 @@
-Problem description of "Word Order" can be found [here](https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true).

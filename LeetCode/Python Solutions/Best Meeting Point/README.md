@@ -1,1 +1,0 @@
-Problem description of "Best Meeting Point" can be found [here](https://leetcode.com/problems/best-meeting-point/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Best%20Meeting%20Point/best.py).

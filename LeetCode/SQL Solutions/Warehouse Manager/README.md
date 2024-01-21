@@ -1,1 +1,0 @@
-The problem description of "Warehouse Manager" is found [here](https://leetcode.com/problems/warehouse-manager/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Warehouse%20Manager/warehouse_manager.sql).

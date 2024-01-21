@@ -1,1 +1,0 @@
-Problem description of "Minesweeper" can be found [here](https://leetcode.com/problems/minesweeper/solutions/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Minesweeper/minesweeper.py).

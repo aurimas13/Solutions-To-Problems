@@ -1,1 +1,0 @@
-Problem description of "Coin Change" can be found [here](https://leetcode.com/problems/coin-change/).

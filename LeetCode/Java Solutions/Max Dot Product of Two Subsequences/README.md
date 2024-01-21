@@ -1,3 +1,0 @@
-The problem description of "Max Dot Product of Two Subsequences" is found [here](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Max%20Dot%20Product%20of%20Two%20Subsequences/max.java).
-
-To check the solution in terminal first compile Java file as `javac max.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

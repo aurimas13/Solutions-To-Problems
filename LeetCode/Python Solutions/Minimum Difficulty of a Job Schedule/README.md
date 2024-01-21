@@ -1,3 +1,0 @@
-The problem of "Minimum Difficulty of a Job Schedule" can be found [here](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Difficulty%20of%20a%20Job%20Schedule/minimum.py).
-
-To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
