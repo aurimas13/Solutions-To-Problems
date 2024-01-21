@@ -1,0 +1,1 @@
+Problem description of "Remove All Adjacent Duplicates in String II" can be found [here](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/remove.py).

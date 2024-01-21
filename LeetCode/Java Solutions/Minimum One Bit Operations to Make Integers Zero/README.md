@@ -1,0 +1,3 @@
+Problem description of "Minimum One Bit Operations to Make Integers Zero" can be found [here](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/minimum.java).
+
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

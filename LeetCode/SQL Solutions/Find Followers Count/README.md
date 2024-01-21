@@ -1,0 +1,1 @@
+The problem description of "Find Followers Count" is found [here](https://leetcode.com/problems/find-followers-count/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Find%20Followers%20Count/find.sql).

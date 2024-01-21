@@ -1,0 +1,1 @@
+Problem description of "LRU Cache" can be found [here](https://leetcode.com/problems/lru-cache/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/LRU%20Cache/cache.py) while in depth explanation [here](https://leetcode.com/problems/lru-cache/solutions/3479673/python-solution-beats-99/).

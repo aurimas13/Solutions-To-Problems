@@ -1,0 +1,1 @@
+Problem description of "Polynomials" is found [here](https://www.hackerrank.com/challenges/np-polynomials/problem?isFullScreen=true).

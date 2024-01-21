@@ -1,0 +1,1 @@
+Problem description of collections.Counter() can be found [here](https://www.hackerrank.com/challenges/collections-counter/problem?).

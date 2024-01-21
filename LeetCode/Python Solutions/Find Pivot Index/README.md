@@ -1,0 +1,1 @@
+Problem description of "Find Pivot Index" can be found [here](https://leetcode.com/problems/find-pivot-index/solutions/2913430/python-solution/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20Pivot%20Index/find.py).

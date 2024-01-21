@@ -1,0 +1,1 @@
+Problem description of "Valid Sudoku" can be found [here](https://leetcode.com/problems/valid-sudoku/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Valid%20Sudoku/valid.py).

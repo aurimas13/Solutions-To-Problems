@@ -1,0 +1,3 @@
+The problem description of "Maximum Number of Coins You Can Get" is found [here](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Coins%20You%20Can%20Get/maximum.py)
+
+To check the solution in terminal first compile Java file as `javac maximum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

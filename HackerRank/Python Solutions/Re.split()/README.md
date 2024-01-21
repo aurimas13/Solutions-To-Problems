@@ -1,0 +1,1 @@
+Problem description of "Re.split()" can be found [here](https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true).

@@ -1,0 +1,1 @@
+Problem description of "Invert Binary Tree" can be found [here](https://leetcode.com/problems/invert-binary-tree/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Invert%20Binary%20Tree/invert.py).

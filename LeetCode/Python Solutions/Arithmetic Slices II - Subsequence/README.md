@@ -1,0 +1,1 @@
+Problem description of "Arithmetic Slices II - Subsequence" can be found [here](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Arithmetic%20Slices%20II%20-%20Subsequence/arithmetic.py).

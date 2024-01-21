@@ -1,0 +1,1 @@
+The problem description of "Calculate Special Bonus" is found [here](https://leetcode.com/problems/calculate-special-bonus/description) while solution [here](https://github.com/aurimas13/Solutions-To-Problems/tree/main/LeetCode/SQL%20Solutions/Find%20Customer%20Refereel). 

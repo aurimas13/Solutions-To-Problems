@@ -1,0 +1,3 @@
+The problem description of "Minimum Speed to Arrive on Time" is [here](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Speed%20to%20Arrive%20on%20Time/minimum.java).
+
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

@@ -1,0 +1,3 @@
+The problem of "Minimum Deletions to Make Character Frequencies Unique" is found [here](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/?envType=daily-question&envId=2023-09-12) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/minimum.java).
+
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

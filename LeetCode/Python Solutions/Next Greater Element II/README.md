@@ -1,0 +1,1 @@
+Problem description of "Next Greater Element II" can be found [here](https://leetcode.com/problems/next-greater-element-ii/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Next%20Greater%20Element%20II/next.py).

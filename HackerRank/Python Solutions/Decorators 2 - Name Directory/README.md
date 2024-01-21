@@ -1,0 +1,1 @@
+Problem description of "Decorators 2 - Name Directory" is found [here](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true).

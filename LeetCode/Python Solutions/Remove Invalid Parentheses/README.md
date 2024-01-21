@@ -1,0 +1,1 @@
+Problem description of "Remove Invalid Parentheses" can be found [here](https://leetcode.com/problems/remove-invalid-parentheses/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Remove%20Invalid%20Parentheses/remove.py).

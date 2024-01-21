@@ -1,0 +1,3 @@
+The problem of "Minimum Depth of Binary Tree" is found [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Depth%20of%20Binary%20Tree/minimum.java).
+
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

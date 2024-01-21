@@ -1,0 +1,3 @@
+The problem description of "Find Mode in Binary Search Tree" is found [here](https://leetcode.com/problems/find-mode-in-binary-search-tree/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20Mode%20in%20Binary%20Search%20Tree/find_mode_in_binary_search_tree.java).
+
+To check the solution in terminal first compile Java file as `javac find_mode_in_binary_search_tree.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

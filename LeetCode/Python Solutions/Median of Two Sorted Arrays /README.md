@@ -1,0 +1,1 @@
+Problem description of "Median of Two Sorted Arrays " can be found [here](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Median%20of%20Two%20Sorted%20Arrays%20/median.py).

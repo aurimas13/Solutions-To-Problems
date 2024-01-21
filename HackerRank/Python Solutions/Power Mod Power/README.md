@@ -1,0 +1,1 @@
+Problem description of Power - Mod Power can be found [here](https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true).

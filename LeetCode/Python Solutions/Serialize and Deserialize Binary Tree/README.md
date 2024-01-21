@@ -1,0 +1,1 @@
+Problem description of "Serialize and Deserialize Binary Tree" can be found [here](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Serialize%20and%20Deserialize%20Binary%20Tree/serialize.py).

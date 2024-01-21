@@ -1,0 +1,3 @@
+The problem description of "Build Array Where You Can Find The Maximum Exactly K Comparisons" is found [here](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons/build.java).
+
+To check the solution in terminal first compile Java file as `javac build.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

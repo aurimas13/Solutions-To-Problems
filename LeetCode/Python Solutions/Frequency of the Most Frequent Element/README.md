@@ -1,0 +1,1 @@
+The problem description of "Frequency of the Most Frequent Element" is found [here](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Frequency%20of%20the%20Most%20Frequent%20Element/frequency.py).

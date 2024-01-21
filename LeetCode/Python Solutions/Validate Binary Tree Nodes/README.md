@@ -1,0 +1,1 @@
+Problem description of "Validate Binary Tree Nodes" can be found [here](https://leetcode.com/problems/validate-binary-tree-nodes/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Validate%20Binary%20Tree%20Nodes/validate.py).

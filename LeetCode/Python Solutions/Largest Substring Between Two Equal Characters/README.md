@@ -1,0 +1,1 @@
+The problem description of "Largest Substring Between Two Equal Characters" is found [here](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) and the solution is found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Largest%20Substring%20Between%20Two%20Equal%20Characters/largest.py).

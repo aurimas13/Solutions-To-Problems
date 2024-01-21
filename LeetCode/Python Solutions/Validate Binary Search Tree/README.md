@@ -1,0 +1,1 @@
+Problem description of "Validate Binary Search Tree" can be found [here](https://leetcode.com/problems/validate-binary-search-tree/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Validate%20Binary%20Search%20Tree/validate.py).

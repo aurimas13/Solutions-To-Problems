@@ -1,0 +1,3 @@
+Problem description of "Course Schedule II" can be found [here](https://leetcode.com/problems/course-schedule-ii/description/) 
+and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/01%20Matrix/01.py)
+as the solution, explanation and comments on time and space complexities [here](https://leetcode.com/problems/course-schedule-ii/solutions/3057559/python-solution-95-both/).

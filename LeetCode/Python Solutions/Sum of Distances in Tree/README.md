@@ -1,0 +1,1 @@
+Problem description of "Sum of Distances in Tree" can be found [here](https://leetcode.com/problems/sum-of-distances-in-tree/description/) while its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sum%20of%20Distances%20in%20Tree/sum.py).

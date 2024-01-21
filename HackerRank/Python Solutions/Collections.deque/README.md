@@ -1,0 +1,1 @@
+Problem description of "Collections.deque()" can be found [here](https://www.hackerrank.com/challenges/py-collections-deque/problem).

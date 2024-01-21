@@ -1,0 +1,1 @@
+Problem description of "Set .symmetric_difference() Operation" can be found [here](https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true).

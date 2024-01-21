@@ -1,0 +1,1 @@
+Problem description of "Strobogrammatic Number" can be found [here](https://leetcode.com/problems/strobogrammatic-number/solutions/2948502/python-solution/) and its solutions [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Strobogrammatic%20Number/strobogrammatic.py).

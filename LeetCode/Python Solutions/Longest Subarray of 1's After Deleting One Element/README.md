@@ -1,0 +1,1 @@
+The problem of "Longest Subarray of 1's After Deleting One Element" is found [here](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/longest.py).

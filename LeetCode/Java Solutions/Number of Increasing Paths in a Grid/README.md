@@ -1,0 +1,3 @@
+The problem of "Number of Increasing Paths in a Grid" is found [here](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Number%20of%20Increasing%20Paths%20in%20a%20Grid/number.java).
+
+To check the solution in terminal first compile Java file as `javac number.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

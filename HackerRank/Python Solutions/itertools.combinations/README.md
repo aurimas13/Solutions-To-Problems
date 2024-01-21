@@ -1,0 +1,1 @@
+Problem description of itertools.combinations() can be found [here](https://www.hackerrank.com/challenges/itertools-combinations/problem).
