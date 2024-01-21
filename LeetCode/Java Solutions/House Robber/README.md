@@ -1,0 +1,5 @@
+Problem description of "House Robber" can be found [here](https://leetcode.com/problems/house-robber/) while its solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/House%20Robber/house.java).
+
+To check the solution in terminal first compile Java file as `javac house.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
+
+The provided Java solution solve the house robber problem using dynamic programming. At each house, the solution computes the maximum amount that can be robbed by either choosing to rob that house (plus the maximum amount robbed up to two houses before) or not robbing it (and taking the maximum amount robbed up to the previous house). This approach ensures that the maximum amount is calculated without triggering the alarm. The time complexity of the solution is linear, making it efficient for arrays of any length within the given constraints.

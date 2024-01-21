@@ -1,1 +1,1 @@
-Problem description of "House Robber" can be found [here](https://leetcode.com/problems/house-robber/).
+Problem description of "House Robber" can be found [here](https://leetcode.com/problems/house-robber/) while its solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/House%20Robber/house.java).
