@@ -562,7 +562,8 @@
 | 560 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) | [Minimum Falling Path Sum](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Falling%20Path%20Sum/minimum.py) | O(n^2) | O(1) |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 561 | [Sum of Subarry Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) [Sum of Subarry Minimums](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sum%20of%20Subarray%20Minimums/sum.py) | O(n) | O(n) |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 562 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Set Mismatch](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Set%20Mismatch/set.py) | O(n) | O(n) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
-    
+| 563 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/maximum.py) | O(n^2) | O(n) |:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
+
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
 
