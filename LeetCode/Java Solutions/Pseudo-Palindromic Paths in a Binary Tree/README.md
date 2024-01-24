@@ -1,0 +1,7 @@
+The problem description of "Pseudo-Palindromic Paths in a Binary Tree" can be found [here](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/palindromic.java).
+
+To check the solution in terminal first compile Java file as `javac palindromic.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
+
+## Implementation
+
+The Java solution implements a Depth-First Search (DFS) strategy to traverse the binary tree and count the number of pseudo-palindromic paths from the root to the leaf nodes. Each path is represented by a bit vector, where each bit's presence indicates the frequency (odd or even) of a corresponding digit. The solution checks if, at most, one digit has an odd frequency for each path, which is the condition for a pseudo-palindrome. The approach is efficient, visiting each node once, and effectively uses bitwise operations for quick frequency checks. The time complexity is linear with respect to the number of nodes, and the space complexity depends on the height of the tree, making it well-suited for the problem.
