@@ -1,0 +1,7 @@
+The proble description of "Out of Boundary Paths" can be found [here](https://leetcode.com/problems/out-of-boundary-paths/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Out%20of%20Boundary%20Paths/out.java).
+
+To check the solution in terminal first compile Java file as `javac out.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
+
+## Implementation
+
+Java solution provided uses a depth-first search approach with memoization to optimize the problem of finding the number of paths to move a ball out of a grid boundary. Memoization helps in avoiding redundant calculations by storing the results of subproblems in a dictionary or map. This technique significantly reduces the number of computations, especially in scenarios where many states are not reachable within the maximum number of moves. The time complexity of the solution is potentially much less than the theoretical O(n^2) due to memoization, and the space complexity is also optimized as only necessary states are stored. This makes the solution efficient and suitable for problems with a large number of moves or grid sizes.

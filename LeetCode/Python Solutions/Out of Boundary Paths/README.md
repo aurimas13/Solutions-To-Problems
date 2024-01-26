@@ -1,0 +1,5 @@
+The proble description of "Out of Boundary Paths" can be found [here](https://leetcode.com/problems/out-of-boundary-paths/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Out%20of%20Boundary%20Paths/out.py).
+
+## Implementation
+
+Python solution provided uses a depth-first search approach with memoization to optimize the problem of finding the number of paths to move a ball out of a grid boundary. Memoization helps in avoiding redundant calculations by storing the results of subproblems in a dictionary or map. This technique significantly reduces the number of computations, especially in scenarios where many states are not reachable within the maximum number of moves. The time complexity of the solution is potentially much less than the theoretical O(n^2) due to memoization, and the space complexity is also optimized as only necessary states are stored. This makes the solution efficient and suitable for problems with a large number of moves or grid sizes.
