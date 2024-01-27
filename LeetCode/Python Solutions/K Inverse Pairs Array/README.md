@@ -1,0 +1,1 @@
+The problem description of "K Inverse Pairs Array" can be found [here](https://leetcode.com/problems/k-inverse-pairs-array/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/K%20Inverse%20Pairs%20Array/inverse.py)
