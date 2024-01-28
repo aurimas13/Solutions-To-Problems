@@ -1,35 +1,34 @@
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 class Solution {
-    public int findCircleNum(int[][] isConnected) {
-        int n = isConnected.length;
-        // Create a visited array to keep track of which cities have been visited
-        int[] visited = new int[n];
-        // Initialize the number of provinces to 0
-        int numProvinces = 0;
+    public int numSubmatrixSumTarget(int[][] matrix, int target) {
+        int m = matrix.length, n = matrix[0].length;
+        int count = 0;
 
-        for (int i = 0; i < n; i++) {
-            // If the city has not been visited yet
-            if (visited[i] == 0) {
-                // Use BFS to traverse all the cities that are directly or indirectly connected to it
-                Queue<Integer> queue = new LinkedList<>();
-                queue.offer(i);
-                visited[i] = 1;
-                while (!queue.isEmpty()) {
-                    int city = queue.poll();
-                    for (int j = 0; j < n; j++) {
-                        if (isConnected[city][j] == 1 && visited[j] == 0) {
-                            queue.offer(j);
-                            visited[j] = 1;
-                        }
-                    }
-                }
-                // Increase the number of provinces by 1
-                numProvinces++;
+        // Calculate prefix sums for each row
+        for (int[] row : matrix) {
+            for (int i = 1; i < n; i++) {
+                row[i] += row[i - 1];
             }
         }
-        return numProvinces;
+
+        // Iterate over all pairs of columns
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                Map<Integer, Integer> submatrixSums = new HashMap<>();
+                submatrixSums.put(0, 1);
+                int currSum = 0;
+
+                // Calculate the sum of submatrices for the current column pair
+                for (int k = 0; k < m; k++) {
+                    currSum += matrix[k][j] - (i > 0 ? matrix[k][i - 1] : 0);
+                    count += submatrixSums.getOrDefault(currSum - target, 0);
+                    submatrixSums.put(currSum, submatrixSums.getOrDefault(currSum, 0) + 1);
+                }
+            }
+        }
+
+        return count;
     }
 }
-
-
