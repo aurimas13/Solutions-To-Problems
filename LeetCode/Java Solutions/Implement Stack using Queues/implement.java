@@ -1,44 +1,37 @@
-import java.util.Queue;
-import java.util.LinkedList;
+import java.util.Stack;
 
-class MyStack {
+class MyQueue {
+    Stack<Integer> stack1;  // Stack for enqueue
+    Stack<Integer> stack2;  // Stack for dequeue
 
-    Queue<Integer> q1 = new LinkedList<>();  // Primary queue
-    Queue<Integer> q2 = new LinkedList<>();  // Secondary queue
-    
-    // Initialize the stack
-    public MyStack() {
+    public MyQueue() {
+        stack1 = new Stack<>();
+        stack2 = new Stack<>();
     }
     
-    // Push an element onto the stack
     public void push(int x) {
-        // Add the element to q2
-        q2.add(x);
-        
-        // Transfer all the elements from q1 to q2
-        while(!q1.isEmpty()) {
-            q2.add(q1.poll());
-        }
-        
-        // Swap the names of q1 and q2
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
+        stack1.push(x);  // Push element onto stack1
     }
     
-    // Pop the top element from the stack and return it
     public int pop() {
-        return q1.poll();
+        move();
+        return stack2.pop();  // Pop element from stack2
     }
     
-    // Return the top element of the stack
-    public int top() {
-        return q1.peek();
+    public int peek() {
+        move();
+        return stack2.peek();  // Peek element from stack2
     }
     
-    // Return true if the stack is empty, false otherwise
     public boolean empty() {
-        return q1.isEmpty();
+        return stack1.isEmpty() && stack2.isEmpty();  // Check if both stacks are empty
+    }
+    
+    private void move() {
+        if (stack2.isEmpty()) {  // Move elements from stack1 to stack2 if stack2 is empty
+            while (!stack1.isEmpty()) {
+                stack2.push(stack1.pop());
+            }
+        }
     }
 }
-
