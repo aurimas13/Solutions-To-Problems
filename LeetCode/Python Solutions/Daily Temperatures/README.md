@@ -1,1 +1,5 @@
 Problem description of "Daily Temperatures" can be found [here](https://leetcode.com/problems/daily-temperatures/description/) and its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Daily%20Temperatures/daily.py).
+
+## Implementation
+
+The solution uses a stack to efficiently solve the problem of finding the number of days until a warmer temperature. The algorithm iterates through the temperatures, using a stack to keep track of indices of days with unsolved temperatures. When a warmer temperature is found, the stack is popped to calculate the number of days until this temperature. The approach ensures that each day's temperature is compared only once, resulting in a linear time complexity, making it efficient for large arrays of temperatures.
