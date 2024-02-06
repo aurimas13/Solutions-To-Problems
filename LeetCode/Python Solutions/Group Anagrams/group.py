@@ -1,35 +1,12 @@
 from typing import List
+from collections import defaultdict
+
 class Solution:
-    def sort_word(self, word):
-        return ''.join(sorted(word))
-
-    def update_anagrams_dict(self, anagrams_dict, sorted_word, word):
-        if sorted_word in anagrams_dict:
-            value_arr = anagrams_dict[sorted_word]
-            value_arr.append(word)
-            anagrams_dict[sorted_word] = value_arr
-        else:
-            anagrams_dict[sorted_word] = [word]
-
-        return anagrams_dict
-
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        anagrams_dict = {}
+        anagrams = defaultdict(list)  # Using defaultdict to automatically handle missing keys
+        
         for word in strs:
-            sorted_word = self.sort_word(word)
-            anagrams_dict = self.update_anagrams_dict(anagrams_dict,
-                                                      sorted_word,
-                                                      word)
-
-        result = []
-        for key in anagrams_dict:
-            result.append(anagrams_dict[key])
-
-        return result
-
-
-# Checking in terminal/console:
-if __name__ == '__main__':
-    Sol = Solution()
-    Solve = Sol.groupAnagrams(["eat","tea","tan","ate","nat","bat"])  # strs = ["eat","tea","tan","ate","nat","bat"] -> [["bat"],["nat","tan"],["ate","eat","tea"]] | ["a"] -> [["a"]]
-    print(Solve)
+            sorted_word = ''.join(sorted(word))  # Sort the characters of the word
+            anagrams[sorted_word].append(word)  # Group by sorted_word
+        
+        return list(anagrams.values())  # Return grouped anagrams

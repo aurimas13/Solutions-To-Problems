@@ -1,1 +1,1 @@
-Problem description of "Validate Stack Sequences" can be found [here](https://leetcode.com/problems/validate-stack-sequences/).
+Problem description of "Validate Stack Sequences" can be found [here](https://leetcode.com/problems/validate-stack-sequences/) while its solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Validate%20Stack%20Sequences/validate.py).

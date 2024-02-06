@@ -1,2 +1,3 @@
 The problem description of "Maximum Score After Splitting a String" can be found [here](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximum%20Score%20After%20Splitting%20a%20String/maximum.java).
 
+To check the solution in terminal first compile Java file as `javac maximum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

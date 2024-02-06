@@ -1,30 +1,29 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.TreeMap;
+
 class Solution {
-    public int[][] onesMinusZeros(int[][] grid) {
-        int m = grid.length, n = grid[0].length;
-        int[] onesRow = new int[m], onesCol = new int[n];
-        int[] zerosRow = new int[m], zerosCol = new int[n];
+    public int[] findDiagonalOrder(List<List<Integer>> nums) {
+        Map<Integer, List<Integer>> diagonalMap = new TreeMap<>();
 
-        // Calculate ones and zeros count for rows and columns
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    onesRow[i]++;
-                    onesCol[j]++;
-                } else {
-                    zerosRow[i]++;
-                    zerosCol[j]++;
-                }
+        int totalCount = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            for (int j = 0; j < nums.get(i).size(); j++) {
+                diagonalMap.computeIfAbsent(i + j, k -> new ArrayList<>()).add(nums.get(i).get(j));
+                totalCount++;
             }
         }
 
-        // Construct the diff matrix
-        int[][] diff = new int[m][n];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                diff[i][j] = onesRow[i] + onesCol[j] - zerosRow[i] - zerosCol[j];
+        int[] result = new int[totalCount];
+        int index = 0;
+        for (List<Integer> diagonal : diagonalMap.values()) {
+            for (int i = diagonal.size() - 1; i >= 0; i--) {
+                result[index++] = diagonal.get(i);
             }
         }
 
-        return diff;
+        return result;
     }
 }
+

@@ -1,14 +1,24 @@
+from typing import List
+
 class Solution:
-    def minTimeToVisitAllPoints(self, points: List[List[int]]) -> int:
-        totalTime = 0
+    def minCost(self, colors: str, neededTime: List[int]) -> int:
+        total_time = 0
+        max_time = 0  # Track the maximum time in the current group of same-colored balloons.
+        current_time = 0  # Track the total time for the current group.
 
-        for i in range(len(points) - 1):
-            x1, y1 = points[i]
-            x2, y2 = points[i + 1]
-            # Calculate the differences in x and y coordinates
-            deltaX = abs(x2 - x1)
-            deltaY = abs(y2 - y1)
-            # Add the maximum of these differences to the total time
-            totalTime += max(deltaX, deltaY)
-
-        return totalTime
+        for i in range(len(colors)):
+            if i > 0 and colors[i] != colors[i - 1]:
+                # If the color changes, add the total time of the previous group minus the max time.
+                total_time += current_time - max_time
+                # Reset the max_time and current_time for the new group.
+                max_time = 0
+                current_time = 0
+            
+            # Update the current and max times.
+            current_time += neededTime[i]
+            max_time = max(max_time, neededTime[i])
+        
+        # Add the time for the last group of balloons.
+        total_time += current_time - max_time
+        
+        return total_time
