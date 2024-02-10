@@ -16,3 +16,4 @@ class Solution:
             totalPalindromes += countPalindromesAroundCenter(i, i + 1)
         
         return totalPalindromes
+
