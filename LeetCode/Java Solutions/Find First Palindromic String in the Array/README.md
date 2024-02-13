@@ -1,4 +1,4 @@
-Problem description of "Find First Palindromic String in the Array" can be found [here](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) while the solution is found [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Find%20First%20Palindromic%20String%20in%20the%20Array/first.java).
+Problem description of "Find First Palindromic String in the Array" can be found [here](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) while the solution is found [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Find%20First%20Palindromic%20String%20in%20the%20Array/first.java).
 
 To check the solution in terminal first compile Java file as `javac find.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
 
