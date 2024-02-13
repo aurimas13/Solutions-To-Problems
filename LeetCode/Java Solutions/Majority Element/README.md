@@ -1,4 +1,6 @@
-Problem description of "Majority Element" can be found [here](https://leetcode.com/problems/majority-element/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Majority%20Element/majority.py).
+Problem description of "Majority Element" can be found [here](https://leetcode.com/problems/majority-element) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Majority%20Element/majority.java).
+
+To check the solution in terminal first compile Java file as `javac majority.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
 
 ## Implementation
 
