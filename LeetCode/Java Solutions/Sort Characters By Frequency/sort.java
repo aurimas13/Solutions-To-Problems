@@ -1,14 +1,29 @@
-from collections import Counter
+import java.util.HashMap;
+import java.util.Map;
+import java.util.PriorityQueue;
 
-class Solution:
-    def frequencySort(self, s: str) -> str:
-        # Count the frequency of each character
-        freq = Counter(s)
+class Solution {
+    public String frequencySort(String s) {
+        Map<Character, Integer> freq = new HashMap<>();
         
-        # Sort characters by frequency and lexicographical order as tie breaker
-        chars_sorted_by_freq = sorted(freq.keys(), key=lambda x: (-freq[x], x))
+        // Count the frequency of each character
+        for (char c : s.toCharArray()) {
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
+        }
         
-        # Build the result string
-        result = ''.join(char * freq[char] for char in chars_sorted_by_freq)
+        // Use a priority queue to sort characters by their frequency
+        PriorityQueue<Character> maxHeap = new PriorityQueue<>((a, b) -> freq.get(b) - freq.get(a));
+        maxHeap.addAll(freq.keySet());
         
-        return result
+        // Build the result string
+        StringBuilder result = new StringBuilder();
+        while (!maxHeap.isEmpty()) {
+            char c = maxHeap.remove();
+            for (int i = 0; i < freq.get(c); i++) {
+                result.append(c);
+            }
+        }
+        
+        return result.toString();
+    }
+}

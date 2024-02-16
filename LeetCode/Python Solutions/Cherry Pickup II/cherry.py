@@ -1,33 +1,31 @@
-class Solution {
-    public int cherryPickup(int[][] grid) {
-        int R = grid.length, C = grid[0].length;
-        int[][][] dp = new int[R][C][C];
+from typing import List
+
+class Solution:
+    def cherryPickup(self, grid: List[List[int]]) -> int:
+        R, C = len(grid), len(grid[0])
         
-        // Initialize DP table for the bottom row
-        for (int c1 = 0; c1 < C; ++c1) {
-            for (int c2 = 0; c2 < C; ++c2) {
-                dp[R-1][c1][c2] = c1 == c2 ? grid[R-1][c1] : grid[R-1][c1] + grid[R-1][c2];
-            }
-        }
+        # dp[r][c1][c2] represents the max cherries collected when robot1 is at (r, c1) and robot2 is at (r, c2)
+        dp = [[[0] * C for _ in range(C)] for _ in range(R)]
         
-        // Fill the DP table
-        for (int r = R - 2; r >= 0; --r) {
-            for (int c1 = 0; c1 < C; ++c1) {
-                for (int c2 = 0; c2 < C; ++c2) {
-                    int maxCherries = 0;
-                    for (int dc1 = -1; dc1 <= 1; ++dc1) {
-                        for (int dc2 = -1; dc2 <= 1; ++dc2) {
-                            int nc1 = c1 + dc1, nc2 = c2 + dc2;
-                            if (nc1 >= 0 && nc1 < C && nc2 >= 0 && nc2 < C) {
-                                maxCherries = Math.max(maxCherries, dp[r+1][nc1][nc2]);
-                            }
-                        }
-                    }
-                    dp[r][c1][c2] = maxCherries + grid[r][c1] + (c1 != c2 ? grid[r][c2] : 0);
-                }
-            }
-        }
+        # Initialize the DP table for the bottom row
+        for c1 in range(C):
+            for c2 in range(C):
+                if c1 == c2:
+                    dp[-1][c1][c2] = grid[-1][c1]
+                else:
+                    dp[-1][c1][c2] = grid[-1][c1] + grid[-1][c2]
         
-        return dp[0][0][C-1];
-    }
-}
+        # Fill the DP table
+        for r in range(R - 2, -1, -1):
+            for c1 in range(C):
+                for c2 in range(C):
+                    maxCherries = 0
+                    # Consider all movements for both robots
+                    for dc1 in [-1, 0, 1]:
+                        for dc2 in [-1, 0, 1]:
+                            nc1, nc2 = c1 + dc1, c2 + dc2
+                            if 0 <= nc1 < C and 0 <= nc2 < C:
+                                maxCherries = max(maxCherries, dp[r+1][nc1][nc2])
+                    dp[r][c1][c2] = maxCherries + grid[r][c1] + (grid[r][c2] if c1 != c2 else 0)
+        
+        return dp[0][0][C-1]

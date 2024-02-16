@@ -1,4 +1,4 @@
-Problem description of "Group Anagrams" can be found [here](https://leetcode.com/problems/group-anagrams/).
+Problem description of "Group Anagrams" can be found [here](https://leetcode.com/problems/group-anagrams/) while the solution is found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Group%20Anagrams/group.py).
 
 ## Implementation
 
