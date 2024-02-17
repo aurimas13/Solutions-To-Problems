@@ -1,4 +1,6 @@
-The problem description of "Least Number of Unique Integers after K Removals" can be found [here](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/) and the solution can be found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/least.py).
+The problem description of "Least Number of Unique Integers after K Removals" can be found [here](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/) and the solution can be found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/least.java).
+
+To check the solution in terminal first compile Java file as `javac least.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
 
 ## Explanation
 
