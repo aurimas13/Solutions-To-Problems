@@ -11,3 +11,9 @@ To check the solution in terminal first compile Java file as `javac least.java`,
 `Iterating through Buildings`: For each pair of consecutive buildings, if the next building is higher, we account for the height difference either by planning to use a ladder (adding the difference to the heap) or, if we exceed the number of ladders, by using bricks for the smallest differences first (removing from the heap).
 
 `Returning the Index`: If at any point bricks become negative, it means we cannot make the jump to the next building, and we return the current index. If we finish iterating through the buildings without running out of bricks, it means we can reach the last building.
+
+## Explanation
+
+- The core logic involves counting frequencies, sorting or prioritizing them based on frequency, and then iteratively removing elements based on their frequency until k is exhausted.
+
+- The correct output for the example [5,5,4] with k = 1 should indeed be 2, as removing one occurrence of 4 leaves two unique integers, 5 and 4. The original output seems to be consistent with understanding the problem statement; thus, any confusion might stem from misinterpreting the result or an error in submitting the problem solution.
