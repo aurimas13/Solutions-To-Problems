@@ -1,0 +1,1 @@
+The problem description of "Power of Four" is found [here](https://leetcode.com/problems/power-of-four/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Power%20of%20Four/power_of_four.py).
