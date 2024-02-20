@@ -1,6 +1,9 @@
-class Solution:
-    def missingNumber(self, nums: List[int]) -> int:
-        missing = len(nums)  # Initialize missing to n since we'll XOR with numbers from 0 to n
-        for i, num in enumerate(nums):
-            missing ^= i ^ num
-        return missing
+class Solution {
+    public int missingNumber(int[] nums) {
+        int missing = nums.length; // Initialize missing to n for the same reason
+        for (int i = 0; i < nums.length; i++) {
+            missing ^= i ^ nums[i];
+        }
+        return missing;
+    }
+}
