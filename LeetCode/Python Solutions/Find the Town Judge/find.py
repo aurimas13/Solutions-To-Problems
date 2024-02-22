@@ -19,3 +19,5 @@ class Solution:
                 return i  # The judge is found
 
         return -1  # No judge found
+
+

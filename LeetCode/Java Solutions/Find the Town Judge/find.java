@@ -1,11 +1,27 @@
 class Solution {
-    public int[] findArray(int[] pref) {
-        int n = pref.length;
-        int[] arr = new int[n];
-        arr[0] = pref[0];  // for i=0, arr[0] is same as pref[0]
-        for (int i = 1; i < n; i++) {
-            arr[i] = pref[i] ^ pref[i-1];
+    public int findJudge(int n, int[][] trust) {
+        if (trust.length < n - 1) {
+            return -1;  // A judge can't exist if there are less trust relationships than n-1
         }
-        return arr;
+
+        // Initialize trust counts
+        int[] trustCounts = new int[n + 1];
+
+        // Calculate trust counts
+        for (int[] relation : trust) {
+            trustCounts[relation[0]]--;  // Person a trusts someone, decrease their count
+            trustCounts[relation[1]]++;  // Person b is trusted by someone, increase their count
+        }
+
+        // Find the town judge
+        for (int i = 1; i <= n; i++) {
+            if (trustCounts[i] == n - 1) {
+                return i;  // The judge is found
+            }
+        }
+
+        return -1;  // No judge found
     }
 }
+
+
