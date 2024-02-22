@@ -77,25 +77,25 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Google | 345 |
-| Amazon | 344 |
-| Facebook | 306 |
-| Apple | 301 |
-| Microsoft | 273 |
-| Bloomberg | 260 |
-| Adobe | 248 |
-| Uber | 214 |
+| Google | 349 |
+| Amazon | 348 |
+| Facebook | 308 |
+| Apple | 304 |
+| Microsoft | 277 |
+| Bloomberg | 262 |
+| Adobe | 251 |
+| Uber | 217 |
 | Goldman Sachs | 192 |
 | TikTok | 143 |
 | LinkedIn | 121 |
-| Airbnb | 92 |
-| Tesla | 83 |
-| Twitter | 71 |
+| Airbnb | 94 |
+| Tesla | 84 |
+| Twitter | 72 |
 | DE Shaw| 39 |
 | Spotify | 37 |
 | Reddit | 21 |
 | Netflix | 10 |
-| Others | 637 |
+| Others | 666 |
 
 <br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
@@ -222,6 +222,3 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 [//]: # ()
 [LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
-
-
-
