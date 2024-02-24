@@ -1,0 +1,1 @@
+The problem description of "Find All People With Secret" is found [here](https://leetcode.com/problems/find-all-people-with-secret/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20All%20People%20With%20Secret/find.py).
