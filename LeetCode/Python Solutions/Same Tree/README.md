@@ -1,1 +1,1 @@
-Problem description of "Same Tree" can be found [here](https://leetcode.com/problems/same-tree/).
+Problem description of "Same Tree" can be found [here](https://leetcode.com/problems/same-tree/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Same%20Tree/same.py).
