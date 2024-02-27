@@ -1,0 +1,1 @@
+The problem description of"Diameter of Binary Tree" can be found in the [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) problem description and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Diameter%20of%20Binary%20Tree/diameter.py).
