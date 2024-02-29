@@ -1,0 +1,1 @@
+The problem description of "Even Odd Tree" is found [here](https://leetcode.com/problems/even-odd-tree/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Even%20Odd%20Tree/even.py)
