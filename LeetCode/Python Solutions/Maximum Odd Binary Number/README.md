@@ -1,0 +1,1 @@
+The problem of "Maximum Odd Binary Number" is found [here](https://leetcode.com/problems/maximum-odd-binary-number/) while the solution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximum%20Odd%20Binary%20Number/maximum.py).
