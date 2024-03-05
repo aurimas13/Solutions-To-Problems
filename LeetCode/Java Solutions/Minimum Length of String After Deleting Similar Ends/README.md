@@ -1,0 +1,3 @@
+The problem of "Minimum Length of String After Deleting Similar Ends" is found [here](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) while the solution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/minimum.java).
+
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
