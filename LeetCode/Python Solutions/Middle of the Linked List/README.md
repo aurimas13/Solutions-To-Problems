@@ -1,0 +1,1 @@
+The problem description of "Middle of the Linked List" is found [here](https://leetcode.com/problems/middle-of-the-linked-list/) while the solution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Middle%20of%20the%20Linked%20List/middle.py).
