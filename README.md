@@ -95,7 +95,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Spotify | 37 |
 | Reddit | 21 |
 | Netflix | 10 |
-| Others | 671 |
+| Others | 672 |
 
 <br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
