@@ -1,0 +1,1 @@
+The problem description of "Minimum Common Value" is found [here](https://leetcode.com/problems/minimum-common-value/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Common%20Value/minimum.py).
