@@ -11,3 +11,5 @@ if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.customSortString("cbafg", "abcd")  # "cbafg", "abcd" -> "cbad" | "cba", "abcd" -> "cbad"
     print(Solve)
+
+
