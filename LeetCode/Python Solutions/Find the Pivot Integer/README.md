@@ -1,0 +1,1 @@
+The problem's "Find the Pivot Integer" is found [here](https://leetcode.com(/problems/find-the-pivot-integer/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20the%20Pivot%20Integer/find.py).
