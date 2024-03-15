@@ -1,0 +1,3 @@
+The problem description of "Middle of the Linked List" is found [here](https://leetcode.com/problems/middle-of-the-linked-list/) while the solution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Middle%20of%20the%20Linked%20List/middle.java).
+
+To check the solution in terminal first compile Java file as `javac middle.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
