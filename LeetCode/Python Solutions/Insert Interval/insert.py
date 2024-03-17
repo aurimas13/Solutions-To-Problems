@@ -1,38 +1,34 @@
 from typing import List
 
-
 class Solution:
-    def insert(self, intervals: 'List[Interval]', newInterval: 'Interval') -> 'List[Interval]':
-        # init data
-        new_start, new_end = newInterval
-        idx, n = 0, len(intervals)
-        output = []
+    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+        result, n = [], len(intervals)
+        i = 0
+        
+        # Skip (and add to output) all intervals that end before the new interval starts
+        while i < n and intervals[i][1] < newInterval[0]:
+            result.append(intervals[i])
+            i += 1
 
-        # add all intervals starting before newInterval
-        while idx < n and new_start > intervals[idx][0]:
-            output.append(intervals[idx])
-            idx += 1
+        # Merge all overlapping intervals
+        while i < n and intervals[i][0] <= newInterval[1]:
+            # Update the newInterval to the merger of it and the current interval
+            newInterval[0] = min(newInterval[0], intervals[i][0])
+            newInterval[1] = max(newInterval[1], intervals[i][1])
+            i += 1
+        result.append(newInterval)  # Add the merged interval
+        
+        # Add all remaining intervals to the result
+        result.extend(intervals[i:])
+        
+        return result
 
-        # add newInterval
-        # if there is no overlap, just add the interval
-        if not output or output[-1][1] < new_start:
-            output.append(newInterval)
-        # if there is an overlap, merge with the last interval
-        else:
-            output[-1][1] = max(output[-1][1], new_end)
+# Checking in PyCharm/terminal:
+if __name__ == '__main__':
+    Instant = Solution()
+    Solve = Instant.insert(intervals = [[1,3],[6,9]], newInterval = [2,5])  # intervals = [[1,3],[6,9]], newInterval = [2,5] -> [[1,5],[6,9]] | intervals = [[1,2],[3,5],[6,7],[8,10],[12,16]], newInterval = [4,8] -> [[1,2],[3,10],[12,16]]
+    print(Solve)
 
-        # add next intervals, merge with newInterval if needed
-        while idx < n:
-            interval = intervals[idx]
-            start, end = interval
-            idx += 1
-            # if there is no overlap, just add an interval
-            if output[-1][1] < start:
-                output.append(interval)
-            # if there is an overlap, merge with the last interval
-            else:
-                output[-1][1] = max(output[-1][1], end)
-        return output
 
 # Checking in PyCharm/terminal:
 if __name__ == '__main__':
