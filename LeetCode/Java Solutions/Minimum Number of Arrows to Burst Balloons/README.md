@@ -1,0 +1,3 @@
+The problem description of "Minimum Number of Arrows to Burst Balloons" is found [here](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/minimum.java).
+
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

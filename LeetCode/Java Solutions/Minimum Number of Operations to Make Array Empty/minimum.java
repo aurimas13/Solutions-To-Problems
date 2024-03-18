@@ -1,31 +1,19 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
-    public int minOperations(int[] nums) {
-        Map<Integer, Integer> freq = new HashMap<>();
-        int operations = 0;
-
-        // Count the occurrences of each number
-        for (int num : nums) {
-            freq.put(num, freq.getOrDefault(num, 0) + 1);
-        }
-
-        for (int count : freq.values()) {
-            // If exactly one occurrence, impossible to remove it
-            if (count == 1) {
-                return -1;
-            }
-
-            // 'Three elements removal' operations
-            operations += count / 3;
-            
-            // If there's a remainder, one more operation is needed
-            if (count % 3 != 0) {
-                operations += 1;
+    public int findMinArrowShots(int[][] points) {
+        // Sort the points based on the end coordinates
+        Arrays.sort(points, (a, b) -> Integer.compare(a[1], b[1]));
+        int arrows = 0;
+        long arrowPos = Long.MIN_VALUE; // Use long to avoid overflow issues
+        
+        for (int[] interval : points) {
+            // If the current balloon starts after the last arrow position,
+            // we need a new arrow
+            if (interval[0] > arrowPos) {
+                arrows++;
+                arrowPos = interval[1]; // Update the position to the end of the current balloon
             }
         }
-
-        return operations;
+        
+        return arrows;
     }
 }
