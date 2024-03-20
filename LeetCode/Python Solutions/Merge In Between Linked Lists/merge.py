@@ -28,22 +28,3 @@ class Solution:
         node_end_of_list2.next = node_b
         
         return list1
-
-# Checking in PyCharm/terminal:
-if __name__ == '__main__':
-    # Define the linked lists and indices
-    list1 = ListNode(0, ListNode(1, ListNode(2, ListNode(3, ListNode(4)))))
-    list2 = ListNode(1000000, ListNode(1000001, ListNode(1000002)))
-    a = 2
-    b = 3
-
-    # Create an instance of the Solution class
-    solution = Solution()
-
-    # Call the mergeInBetween method
-    result = solution.mergeInBetween(list1, a, b, list2)
-
-    # Print the resulting linked list
-    while result is not None:
-        print(result.val, end=' ')
-        result = result.next
