@@ -1,1 +1,1 @@
-Problem description of "Product of Array Except Self" can be found [here](https://leetcode.com/problems/product-of-array-except-self/).
+Problem description of "Product of Array Except Self" can be found [here](https://leetcode.com/problems/product-of-array-except-self/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Product%20of%20Array%20Except%20Self/product.py)

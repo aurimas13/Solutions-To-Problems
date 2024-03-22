@@ -1,26 +1,25 @@
-class Solution:
-    def removeZeroSumSublists(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # Create a dummy head to handle edge cases easily
-        dummy = ListNode(0)
-        dummy.next = head
-        # Dictionary to store the last node for each prefix sum
-        prefixSum = {0: dummy}
-        sumSoFar = 0
+class Solution {
+    public ListNode removeZeroSumSublists(ListNode head) {
+        ListNode dummy = new ListNode(0); // Create a dummy head to simplify edge cases
+        dummy.next = head;
+        // HashMap to store the last node for each prefix sum
+        HashMap<Integer, ListNode> prefixSumMap = new HashMap<>();
+        prefixSumMap.put(0, dummy);
         
-        # First pass to build the prefix sum map
-        current = head
-        while current:
-            sumSoFar += current.val
-            prefixSum[sumSoFar] = current
-            current = current.next
+        int sum = 0;
+        // First pass: Build the prefix sum map
+        for (ListNode curr = head; curr != null; curr = curr.next) {
+            sum += curr.val;
+            prefixSumMap.put(sum, curr);
+        }
         
-        # Second pass to remove zero sum sublists
-        sumSoFar = 0
-        current = dummy
-        while current:
-            sumSoFar += current.val
-            # Connect to the last node of the same running sum encountered
-            current.next = prefixSum[sumSoFar].next
-            current = current.next
+        sum = 0;
+        // Second pass: Remove zero sum sublists
+        for (ListNode curr = dummy; curr != null; curr = curr.next) {
+            sum += curr.val;
+            curr.next = prefixSumMap.get(sum).next;
+        }
         
-        return dummy.next
+        return dummy.next;
+    }
+}

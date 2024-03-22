@@ -1,35 +1,18 @@
-# Definition for a binary tree node.
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
+class Solution:
+    def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
+        prefixSumCount = collections.defaultdict(int)  # Map to store count of prefix sums
+        runningSum = 0
+        count = 0
         
-class BSTIterator:
-
-    def __init__(self, root: TreeNode):
-        self.root = root
-        self.items = self._inorder()
-        self.stack = [(self.root, False)]
-
-    def _inorder(self):
-        # Time: O(N), Space: O(h)
-        stack = self.stack
-        while stack:
-            node, visited = stack.pop()
-            if visited:
-                yield node.val
-            else:
-                if node.right:
-                    stack.append((node.right, False))
-                stack.append((node, True))
-                if node.left:
-                    stack.append((node.left, False))
-
-    def next(self) -> int:
-        # Time: O(1)
-        return next(self.items)
-
-    def hasNext(self) -> bool:
-        # Time: O(1)
-        return len(self.stack) > 0
+        for num in nums:
+            # Increment the running sum
+            runningSum += num
+            # If runningSum equals goal, increment count
+            if runningSum == goal:
+                count += 1
+            # Add to count the number of times (runningSum - goal) has occurred
+            count += prefixSumCount[runningSum - goal]
+            # Increment the count of runningSum in the map
+            prefixSumCount[runningSum] += 1
+        
+        return count

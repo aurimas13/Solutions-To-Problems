@@ -2,16 +2,23 @@ from typing import List
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        answer = [1] * n
-
-        prefix = suffix = 1
-        for i, _ in enumerate(nums):
-            answer[i] *= prefix
-            answer[-i - 1] *= suffix
-            prefix *= nums[i]
-            suffix *= nums[-i - 1]
-
+        answer = [1] * n  # Initialize the answer array with 1s
+        
+        # Calculate the product of all elements to the left of each element
+        left_product = 1
+        for i in range(n):
+            answer[i] = left_product
+            left_product *= nums[i]
+        
+        # Calculate the product of all elements to the right of each element
+        # and multiply it by the product calculated in the previous step
+        right_product = 1
+        for i in range(n-1, -1, -1):
+            answer[i] *= right_product
+            right_product *= nums[i]
+        
         return answer
+
 
 
 # Checking in console
