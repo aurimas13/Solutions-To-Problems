@@ -283,10 +283,7 @@ Problems/blob/main/LeetCode/Java%20Solutions/Palindrome%20Linked%20List/palindro
 | 277 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [First Missing Positive](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/First%20Missing%20Positive/first.py) |O(n)|O(1)|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | 278 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Subarray Product Less Than K](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Subarray%20Product%20Less%20Than%20K/subarray.java) | O(n) | O(1) | :x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | 279 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequencies/) | [Length of Longest Subarray With at Most K Frequency](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/length.java) | O(n) | O(n) | :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 280 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-with-maximum-element-at-least-k/) | [Count Subarrays Where Max Element Appears at Least K Times](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times/count.java) | O(n) | O(1) | :x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
-
-
