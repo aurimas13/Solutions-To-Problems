@@ -1,0 +1,2 @@
+The problem description of "Subarrays with K Different Integers" is found [here](https://leetcode.com/problems/subarrays-with-k-different-integers/) and its solution
+[here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Subarrays%20with%20K%20Different%20Integers/subarrays.java).
