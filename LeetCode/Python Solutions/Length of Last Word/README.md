@@ -1,0 +1,1 @@
+The problem description of "Length of Last Word" can be found [here](https://leetcode.com/problems/length-of-last-word/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Length%20of%20Last%20Word/length.py)

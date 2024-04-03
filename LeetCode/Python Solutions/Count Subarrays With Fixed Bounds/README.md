@@ -1,0 +1,1 @@
+Problem description of "Count Subarrays With Fixed Bounds" can be found [here](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Subarrays%20With%20Fixed%20Bounds/count.py)
