@@ -1,0 +1,1 @@
+Problem description of "Maximum Nesting Depth of the Parentheses" can be found [here](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) while the solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Maximum%20Nesting%20Depth%20of%20the%20Parentheses/maximum.java).
