@@ -289,12 +289,9 @@ Problems/blob/main/LeetCode/Java%20Solutions/Palindrome%20Linked%20List/palindro
 | 283 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Length of Last Word](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Length%20of%20Last%20Word/length.java) | O(n) | O(n) | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | 284 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Count%20Subarrays%20With%20Fixed%20Bounds/count.java) | O(n) | O(1) | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 285 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth of the Parentheses](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Maximum%20Nesting%20Depth%20of%20the%20Parentheses/maximum.java) | O(n) | O(1) | :x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 286 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [Make The String Great](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Make%20The%20String%20Great/make.java) | O(n) | O(n) | :heavy_check_mark:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
-
-
 
 
