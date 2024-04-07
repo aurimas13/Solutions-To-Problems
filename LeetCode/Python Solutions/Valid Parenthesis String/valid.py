@@ -1,28 +1,20 @@
 class Solution:
-    @staticmethod
-    def checkValidString(s: str) -> bool:
-        # CC O(n), SC O(n)
-        stack = []
-        star = []
-
-        for i, char in enumerate(s):
+    def checkValidString(self, s: str) -> bool:
+        minBalance, maxBalance = 0, 0
+        for char in s:
             if char == '(':
-                stack.append(i)
+                minBalance += 1
+                maxBalance += 1
             elif char == ')':
-                if stack:
-                    stack.pop()
-                elif star:
-                    star.pop()
-                else:
+                minBalance = max(minBalance - 1, 0)
+                maxBalance -= 1
+                if maxBalance < 0:
                     return False
-            else:
-                star.append(i)
-
-        while star and stack and star[-1] > stack[-1]:
-            star.pop()
-            stack.pop()
-        return len(stack) == 0
-
+            else:  # char == '*'
+                minBalance = max(minBalance - 1, 0)
+                maxBalance += 1
+        
+        return minBalance == 0
 
 if __name__ == '__main__':
     Instant = Solution()
