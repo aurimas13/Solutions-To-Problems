@@ -1,0 +1,1 @@
+Problem description of "Remove K Digits" can be found [here](https://leetcode.com/problems/remove-k-digits/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Remove%20K%20Digits/remove.py).
