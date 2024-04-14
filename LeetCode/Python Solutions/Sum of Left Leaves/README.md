@@ -1,0 +1,1 @@
+The problem description of "Sum of Left Leaves" can be found [here](https://leetcode.com/problems/sum-of-left-leaves/description/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sum%20of%20Left%20Leaves/sum.py).
