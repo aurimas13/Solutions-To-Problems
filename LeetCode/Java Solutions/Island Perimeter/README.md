@@ -1,0 +1,3 @@
+Problem description of "Island Perimeter" can be found [here](https://leetcode.com/problems/island-perimeter/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Island%20Perimeter/island.java).
+
+To check the solution in terminal first compile Java file as `javac island.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
