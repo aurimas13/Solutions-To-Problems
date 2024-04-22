@@ -1,0 +1,1 @@
+The proble description of " Open the Lock" can be found [here](https://leetcode.com/problems/open-the-lock/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Open%20the%20Lock/open.java).
