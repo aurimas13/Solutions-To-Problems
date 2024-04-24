@@ -1,0 +1,1 @@
+The problem description of "N-th Tribonacci Number" is found [here](https://leetcode.com/problems/n-th-tribonacci-number/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/N-th%20Tribonacci%20Number/nthfibo.py).
