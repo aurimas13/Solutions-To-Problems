@@ -1,0 +1,1 @@
+Problem description of "Longest Ideal Subsequence" is found [here](https://leetcode.com/problems/longest-ideal-subsequence/) while the problem statement can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Ideal%20Subsequence/longest.py)

@@ -1,1 +1,1 @@
-Problem description of "Longest Consecutive Sequence" can be found [here](https://leetcode.com/problems/longest-consecutive-sequence/).
+Problem description of "Longest Consecutive Sequence" can be found [here](https://leetcode.com/problems/longest-consecutive-sequence/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Consecutive%20Sequence/longest.py)
