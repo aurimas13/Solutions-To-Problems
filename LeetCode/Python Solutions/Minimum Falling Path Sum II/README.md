@@ -1,0 +1,1 @@
+The problem of "Minimum Falling Path Sum II" can be found [here](https://leetcode.com/problems/minimum-falling-path-sum-ii/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Falling%20Path%20Sum%20II/minimum.py).
