@@ -316,12 +316,11 @@ Problems/blob/main/LeetCode/Java%20Solutions/Palindrome%20Linked%20List/palindro
 | 310 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) |[Minimum Number of Operations to Make Array Empty](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/minimum.java) | O(n) | O(1) | :heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 311 | [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) | [Number of Wonderful Substrings](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Number%20of%20Wonderful%20Substrings/number.java) | O(n) | O(1) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 312 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Reverse Prefix of Word](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Reverse%20Prefix%20of%20Word/reverse.java]) | O(n) | O(nn) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 313 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/discuss/interview-question/1246521/Largest-Positive-Integer-That-Exists-With-Its-Negative) | [Largest Positive Integer That Exists With Its Negative](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/largest.java) | O(n) | O(n) |:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 
 <!-- 
 |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
 
 
 
