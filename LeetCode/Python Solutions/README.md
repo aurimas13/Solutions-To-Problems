@@ -633,9 +633,23 @@ Problems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Linked%20List/palind
 | 628 | [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) | [Number of Wonderful Substrings](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Wonderful%20Substrings/number.py) | O(n) | O(1) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 629 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Reverse Prefix of Word](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Reverse%20Prefix%20of%20Word/reverse.py]) | O(n) | O(nn) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 630 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/discuss/interview-question/1246521/Largest-Positive-Integer-That-Exists-With-Its-Negative) | [Largest Positive Integer That Exists With Its Negative](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/largest.py) | O(n) | O(n) |:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 631 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Compare%20Version%20Numbers/compare.py) | O(n) | O(n) |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
