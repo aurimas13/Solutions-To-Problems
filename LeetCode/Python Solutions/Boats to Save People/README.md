@@ -1,0 +1,1 @@
+Problem description of "Boats to Save People" can be found [here](https://leetcode.com/problems/boats-to-save-people/description/) while its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Boats%20to%20Save%20People/boats.py).
