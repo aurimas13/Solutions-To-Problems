@@ -1,0 +1,1 @@
+The problem of "Remove Nodes From Linked List" is found [here](https://leetcode.com/problems/remove-nodes-from-linked-list/) while the solution is provided [here](roblems/blob/main/LeetCode/Python%20Solutions/Remove%20Nodes%20From%20Linked%20List/remove.py).
