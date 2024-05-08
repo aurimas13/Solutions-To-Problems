@@ -1,0 +1,1 @@
+Problem description of "Relative Ranks" can be found [here](https://leetcode.com/problems/relative-ranks/description/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Relative%20Ranks/relative.py)
