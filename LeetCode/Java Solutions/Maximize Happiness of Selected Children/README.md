@@ -1,0 +1,3 @@
+The problem of "Maximize Happiness of Selected Children" can be found [here](https://leetcode.com/problems/maximize-happiness/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximize%20Happiness%20of%20Selected%20Children/maximize.java).
+
+To check the solution in terminal first compile Java file as `javac maximize.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

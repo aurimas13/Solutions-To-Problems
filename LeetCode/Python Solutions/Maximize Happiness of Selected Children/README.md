@@ -1,0 +1,1 @@
+The problem of "Maximize Happiness of Selected Children" can be found [here](https://leetcode.com/problems/maximize-happiness/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximize%20Happiness%20of%20Selected%20Children/maximize.py).
