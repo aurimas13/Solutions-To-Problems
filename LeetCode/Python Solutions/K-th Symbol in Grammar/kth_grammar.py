@@ -1,15 +1,17 @@
+from typing import List
+import heapq
+
 class Solution:
-    def kthGrammar(self, n: int, k: int) -> int:
-        # Base case: the first symbol is always 0.
-        if n == 1:
-            return 0
+    def kthSmallestPrimeFraction(self, arr: List[int], k: int) -> List[int]:
+        n = len(arr)
+        # Min-heap to store tuples of (fraction value, numerator index, denominator index)
+        min_heap = [(arr[0] / arr[j], 0, j) for j in range(1, n)]
+        heapq.heapify(min_heap)
         
-        # Calculate the parent's position and what the parent is
-        parent = self.kthGrammar(n - 1, (k + 1) // 2)
+        for _ in range(k - 1):
+            frac, i, j = heapq.heappop(min_heap)
+            # Move to the next fraction with the same numerator but next smaller denominator
+            if i + 1 < j:
+                heapq.heappush(min_heap, (arr[i + 1] / arr[j], i + 1, j))
         
-        # If the parent is 0, the sequence is 01. If it's 1, the sequence is 10.
-        # The kth symbol is checking if k is odd or even to determine its position in the sequence.
-        if parent == 0:
-            return 0 if k % 2 == 1 else 1
-        else:
-            return 1 if k % 2 == 1 else 0
+        return [arr[min_heap[0][1]], arr[min_heap[0][2]]]
