@@ -13,3 +13,6 @@ class Solution:
             return 0 if k % 2 == 1 else 1
         else:
             return 1 if k % 2 == 1 else 0
+        
+
+        

@@ -28,3 +28,8 @@ public class Solution {
         return new int[]{arr[minHeap.peek()[0]], arr[minHeap.peek()[1]]};
     }
 }
+
+
+
+
+
