@@ -1,4 +1,4 @@
-The problem of "Average Selling Price" descripttion is [here](https://leetcode.com/problems/average-selling-price/description/) while the solution is [here]().
+The problem of "Average Selling Price" descripttion is [here](https://leetcode.com/problems/average-selling-price/description/) while MySQL solution is [here]().
 
 **Explanation**:
 

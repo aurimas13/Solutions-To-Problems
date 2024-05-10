@@ -1,4 +1,4 @@
-The problem description of "Average Time of Process per Machine" can be found [here](https://leetcode.com/problems/average-time-of-process-per-machine/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Average%20Time%20of%20Process%20per%20Machine/average.sql).
+The problem description of "Average Time of Process per Machine" can be found [here](https://leetcode.com/problems/average-time-of-process-per-machine/description/) while MySQL  solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Average%20Time%20of%20Process%20per%20Machine/average.sql).
 
 **Explanation**
 
