@@ -1,0 +1,1 @@
+The Problem description of "Duplicate Emails" is [here](https://leetcode.com/problems/duplicate-emails/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Duplicate%20Emails/duplicate.sql).

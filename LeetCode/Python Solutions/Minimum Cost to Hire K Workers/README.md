@@ -1,0 +1,1 @@
+The problem description of "Minimum Cost to Hire K Workers" is found [here](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Cost%20to%20Hire%20K%20Workers/minimum.py).
