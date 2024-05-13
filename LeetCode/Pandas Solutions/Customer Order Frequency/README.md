@@ -1,0 +1,1 @@
+The problem description of "Customer Order Frequency" can be found [here](https://leetcode.com/problems/customer-order-frequency/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Customer%20Order%20Frequency/customer.py).
