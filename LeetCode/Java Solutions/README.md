@@ -327,9 +327,9 @@ Problems/blob/main/LeetCode/Java%20Solutions/Palindrome%20Linked%20List/palindro
 | 321 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [K-th Smallest Prime Fraction](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/K-th%20Smallest%20Prime%20Fraction/kth.java)| O(n log n) | O(n) | :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 322 | [Path Crossing](https://leetcode.com/problems/path-crossing/description/) | [Path Crossing](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Path%20Crossing/path.java) | O(n) | O(n) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 323 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Minimum Cost to Hire K Workers](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Cost%20to%20Hire%20K%20Workers/minimum.java) | O(n log n) | O(n) | :heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 324 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [Largest Local Values in a Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Largest%20Local%20Values%20in%20a%20Matrix/largest.java) | O(n^2) | O(n^2) | :heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 325 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Score%20After%20Flipping%20Matrix/score.java) | O(n^2) | O(1) | :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 
 <!-- 
 |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
