@@ -1,1 +1,1 @@
-The problem description of "Daily Leads and Partners" can be found [here](https://leetcode.com/problems/daily-leads-and-partners/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/daily.py)
+The problem description of "Daily Leads and Partners" can be found [here](https://leetcode.com/problems/daily-leads-and-partners/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/daily.py).

@@ -1,0 +1,1 @@
+The problem description of "Daily Leads and Partners" can be found [here](https://leetcode.com/problems/daily-leads-and-partners/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/daily.sql).
