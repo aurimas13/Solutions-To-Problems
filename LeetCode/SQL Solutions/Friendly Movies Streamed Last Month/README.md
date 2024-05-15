@@ -1,0 +1,1 @@
+The problem description of "Friendly Movies Streamed Last Month" can be found [here](https://leetcode.com/problems/friendly-movies-streamed-last-month/) while the solution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Friendly%20Movies%20Streamed%20Last%20Month/friendly.sql)
