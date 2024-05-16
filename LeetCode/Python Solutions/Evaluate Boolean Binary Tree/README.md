@@ -1,0 +1,1 @@
+The problem description of "Evaluate Boolean Binary Tree" can be found [here](https://leetcode.com/problems/evaluate-boolean-binary-tree/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Evaluate%20Boolean%20Binary%20Tree/evaluate.py).
