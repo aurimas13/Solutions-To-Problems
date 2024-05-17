@@ -1,0 +1,1 @@
+The problem description of " Consecutive Available Seats" can be found [here](https://leetcode.com/problems/consecutive-available-seats/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Consecutive%20Available%20Seats/consecutive.sql)
