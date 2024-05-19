@@ -1,0 +1,1 @@
+The probleem description of "Shortest Distance in a Line" can be found [here](https://leetcode.com/problems/shortest-distance-in-a-line/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Shortest%20Distance%20in%20a%20Line/shortest.py).
