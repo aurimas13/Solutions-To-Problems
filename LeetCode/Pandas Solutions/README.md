@@ -22,10 +22,9 @@
 | 18 | [Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/description/) | [Countries You Can Safely Invest In](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Countries%20You%20Can%20Safely%20Invest%20In/countries.py) | Medium |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 18 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | [Consecutive Available Seats](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Consecutive%20Available%20Seats/consecutive.py) | Easy | :heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 19 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [Rearrange Products Table](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Rearrange%20Products%20Table/rearrange.py) | Easy | :x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 20 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | [Shortest Distance in a Line](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pandas%20Solutions/Shortest%20Distance%20in%20a%20Line/shortest.py) | Easy | :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
-
 
