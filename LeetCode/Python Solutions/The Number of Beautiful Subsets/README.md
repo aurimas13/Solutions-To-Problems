@@ -1,0 +1,1 @@
+Problem description of "The Number of Beautiful Subsets" can be found [here](https://leetcode.com/problems/the-number-of-beautiful-subsets/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/The%20Number%20of%20Beautiful%20Subsets/number.py).

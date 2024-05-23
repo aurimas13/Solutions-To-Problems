@@ -1,0 +1,3 @@
+Problem description of "The Number of Beautiful Subsets" can be found [here](https://leetcode.com/problems/the-number-of-beautiful-subsets/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/The%20Number%20of%20Beautiful%20Subsets/number.java).
+
+To check the solution in terminal first compile Java file as `javac number.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
