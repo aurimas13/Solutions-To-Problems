@@ -40,3 +40,5 @@ public class Solution {
         System.out.println(solution.maximumScore(new int[]{5, 5, 4, 1, 4, 1, 1, 1}, 3));  // Output: 16
     }
 }
+
+
