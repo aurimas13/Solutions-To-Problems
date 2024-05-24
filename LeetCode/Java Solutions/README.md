@@ -339,6 +339,7 @@ Problems/blob/main/LeetCode/Java%20Solutions/Palindrome%20Linked%20List/palindro
 | 333 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Palindrome Partitioning](https://github.com/aurimas13/Solutions-To-
 Problems/blob/main/LeetCode/Java%20Solutions/Palindrome%20Partitioning/palindrome.java) | O(2^n) | O(n) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | 334 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | [The Number of Beautiful Subsets](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/The%20Number%20of%20Beautiful%20Subsets/number.java) | O(2^n) | O(n) |:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 335 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Maximum Score Words Formed by Letters](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximum%20Score%20Words%20Formed%20by%20Letters/maximum.java) | O(2^n) | O(n) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 
 <!-- 
 |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
