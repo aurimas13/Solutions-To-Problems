@@ -1,0 +1,3 @@
+Problem description of "Word Break II" can be found [here](https://leetcode.com/problems/word-break-ii/) and its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Word%20Break%20II/break.java).
+
+To check the solution in terminal first compile Java file as `javac break.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
