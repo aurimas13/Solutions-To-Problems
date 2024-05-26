@@ -1,0 +1,1 @@
+The problem description of "Student Attendance Record II" can be found [here](https://leetcode.com/problems/student-attendance-record-ii/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Student%20Attendance%20Record%20II/record.py).
