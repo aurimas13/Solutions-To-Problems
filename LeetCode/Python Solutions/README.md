@@ -654,15 +654,8 @@ Problems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Linked%20List/palind
 Problems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Partitioning/palindrome.py) | O(2^n) | O(n) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | 649 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | [The Number of Beautiful Subsets](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/The%20Number%20of%20Beautiful%20Subsets/number.py) | O(2^n) | O(n) |:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 649 |  [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Maximum Score Words Formed by Letters](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximum%20Score%20Words%20Formed%20by%20Letters/maximum.py) | O(2^n) | O(n) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 650 | | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [Student Attendance Record II](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Student%20Attendance%20Record%20II/record.py) | O(n) | O(n) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
-
-
-
-
-
-
 
