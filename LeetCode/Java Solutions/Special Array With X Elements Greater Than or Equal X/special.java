@@ -1,32 +1,33 @@
-from typing import List
-
-
-class Solution:
-    def specialArray(self, nums: List[int]) -> int:
-        # Sort the array in non-increasing order
-        nums.sort(reverse=True)
+class Solution {
+    public int specialArray(int[] nums) {
+        // Sort the array in non-increasing order
+        Arrays.sort(nums);
         
-        # Loop through the array to find the value of x
-        for x in range(len(nums)+1):
-            count = 0
-            for i in range(len(nums)):
-                if nums[i] >= x:
-                    count += 1
-                else:
-                    break
-            if count == x:
-                return x
+        int n = nums.length;
         
-        # If x is not found, return -1
-        return -1
+        // Loop through the possible values of x
+        for (int x = 0; x <= n; x++) {
+            int count = 0;
+            for (int i = n - 1; i >= 0; i--) {
+                if (nums[i] >= x) {
+                    count++;
+                } else {
+                    break;
+                }
+            }
+            if (count == x) {
+                return x;
+            }
+        }
+        
+        // If x is not found, return -1
+        return -1;
+    }
 
-
-# Checking in console
-if __name__ == '__main__':
-    Instant = Solution()
-    Solve = Instant.specialArray(nums = [3,5]) 
-    # nums = [3,5] -> 2
-    # nums = [0,0] -> -1
-    print(Solve)
-    
-    
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        System.out.println(sol.specialArray(new int[]{3, 5}));  // Output: 2
+        System.out.println(sol.specialArray(new int[]{0, 0}));  // Output: -1
+        System.out.println(sol.specialArray(new int[]{0, 4, 3, 0, 4}));  // Output: 3
+    }
+}
