@@ -1,1 +1,1 @@
-Problem description of "Graph Valid Tree" can be found [here](https://leetcode.com/problems/graph-valid-tree/).
+Problem description of "Graph Valid Tree" can be found [here](https://leetcode.com/problems/graph-valid-tree/) while its solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Graph%20Valid%20Tree/graph.py).
