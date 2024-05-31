@@ -1,1 +1,2 @@
-The problem of "Single Number II" is found [here](https://leetcode.com/problems/single-number-ii/description/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Single%20Number%20II/single.py).
+The problem of "Single Number III" is found [here](https://leetcode.com/problems/single-number-iii/description/) while the solution is [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Single%20Number%20III/single.py).
+
