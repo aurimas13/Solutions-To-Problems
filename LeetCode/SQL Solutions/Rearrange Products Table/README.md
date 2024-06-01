@@ -1,0 +1,1 @@
+The problem description of "Rearrange Products Table" can be found [here](https://leetcode.com/problems/rearrange-products-table/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/SQL%20Solutions/Rearrange%20Products%20Table/rearrange.sql)

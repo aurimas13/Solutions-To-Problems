@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+public class maximize {
     public long maximumHappinessSum(int[] happiness, int k) {
         // Sort the happiness array in descending order
         Arrays.sort(happiness);
