@@ -1,0 +1,1 @@
+The problem description of "Append Characters to String to Make Subsequence" is found [here](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Append%20Characters%20to%20String%20to%20Make%20Subsequence/append.java)
