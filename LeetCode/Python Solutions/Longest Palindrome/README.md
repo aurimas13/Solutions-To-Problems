@@ -1,0 +1,1 @@
+Problem description of "Longest Palindrome" can be found [here](https://leetcode.com/problems/longest-palindrome/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Longest%20Palindrome/longest.py).
