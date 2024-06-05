@@ -1,4 +1,4 @@
-public class Solution {
+public class reverse {
     public String reversePrefix(String word, char ch) {
         // Find the index of the first occurrence of ch
         int index = word.indexOf(ch);

@@ -1,0 +1,1 @@
+The problem decription of "Find Common Characters" can be found [here](https://leetcode.com/problems/find-common-characters/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Common%20Characters/find.py).
