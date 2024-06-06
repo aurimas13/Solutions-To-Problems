@@ -1,1 +1,1 @@
-The problem description of " Hand of Straights" can be found [here](https://leetcode.com/problems/hand-of-straights/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Hand%20of%20Straights/hand.py)
+The problem description of "Hand of Straights" can be found [here](https://leetcode.com/problems/hand-of-straights/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Hand%20of%20Straights/hand.py)
