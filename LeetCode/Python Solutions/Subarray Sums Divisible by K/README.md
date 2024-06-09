@@ -1,0 +1,1 @@
+Problem description of "Subarray Sums Divisible by K" can be found [here](https://leetcode.com/problems/subarray-sums-divisible-by-k/) while the solution is found [here]((https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Subarrays%20with%20K%20Different%20Integers/subarray.py).
