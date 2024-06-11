@@ -1,30 +1,40 @@
-from typing import List
-from collections import defaultdict
+import java.util.HashMap;
 
-class Solution:
-    def subarraysDivByK(self, nums: List[int], k: int) -> int:
-        remainder_map = defaultdict(int)
-        remainder_map[0] = 1  # Initial condition: prefix sum of 0 with frequency 1
+class Solution {
+    public int subarraysDivByK(int[] nums, int k) {
+        // HashMap to store the frequency of prefix sum remainders
+        HashMap<Integer, Integer> remainderMap = new HashMap<>();
+        remainderMap.put(0, 1); // Initial condition: prefix sum of 0 with frequency 1
         
-        cumulative_sum = 0
-        count = 0
-        
-        for num in nums:
-            cumulative_sum += num
-            remainder = cumulative_sum % k
-            
-            if remainder < 0:  # Adjust remainder to be positive
-                remainder += k
-            
-            if remainder in remainder_map:
-                count += remainder_map[remainder]
-            
-            remainder_map[remainder] += 1
-        
-        return count
+        int cumulativeSum = 0;
+        int count = 0;
 
-# Example usage:
-if __name__ == "__main__":
-    sol = Solution()
-    print(sol.subarraysDivByK([4, 5, 0, -2, -3, 1], 5))  # 7
-    print(sol.subarraysDivByK([5], 9))  # 0
+        for (int num : nums) {
+            cumulativeSum += num;
+            
+            // Compute the remainder of cumulativeSum when divided by k
+            int remainder = cumulativeSum % k;
+            // Adjust remainder to be positive (Java handles negative remainders differently)
+            if (remainder < 0) {
+                remainder += k;
+            }
+            
+            // If this remainder has been seen before, it contributes to the count
+            if (remainderMap.containsKey(remainder)) {
+                count += remainderMap.get(remainder);
+            }
+            
+            // Update the frequency of this remainder in the map
+            remainderMap.put(remainder, remainderMap.getOrDefault(remainder, 0) + 1);
+        }
+
+        return count;
+    }
+    
+    // Example usage:
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        System.out.println(sol.subarraysDivByK(new int[]{4, 5, 0, -2, -3, 1}, 5));  // 7
+        System.out.println(sol.subarraysDivByK(new int[]{5}, 9));  // 0
+    }
+}

@@ -1,0 +1,1 @@
+The problem description of "Height Checker" is found [here](https://leetcode.com/problems/height-checker/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Height%20Checker/height.py)
