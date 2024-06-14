@@ -1,0 +1,1 @@
+Problem description of "Minimum Increment to Make Array Unique" can be found [here](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Increment%20to%20Make%20Array%20Unique/minimum.java]
