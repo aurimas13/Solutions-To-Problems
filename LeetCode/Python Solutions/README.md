@@ -672,9 +672,7 @@ Problems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Partitioning/palindr
 | 665 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Relative Sort Array](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Relative%20Sort%20Array/relative.py) | O(n log n) | O(n) |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 666 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) |[Minimum Increment to Make Array Unique](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Increment%20to%20Make%20Array%20Unique/minimum.py] | O(n log n) | O(1) |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 667 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |[Minimum Number of Moves to Seat Everyone](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/minimum.py) | O(n log n) | O(1) |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 668 | [IPO](https://leetcode.com/problems/ipo/) | [IPO](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pyhton%20Solutions/IPO/ipo.py) |  O(n log n) | O(n) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
-
