@@ -1,1 +1,1 @@
-The decription of the problem can be found [here](https://leetcode.com/problems/ipo/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pyhton%20Solutions/IPO/ipo.py).
+The problem decription of "IPO" can be found [here](https://leetcode.com/problems/ipo/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Pyhton%20Solutions/IPO/ipo.py).
