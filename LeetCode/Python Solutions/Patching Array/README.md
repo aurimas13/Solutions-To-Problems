@@ -1,0 +1,1 @@
+The problem description of "Patching Array" is found [here](https://leetcode.com/problems/patching-array/) while the solution can be found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Patching%20Array/patching.py)
