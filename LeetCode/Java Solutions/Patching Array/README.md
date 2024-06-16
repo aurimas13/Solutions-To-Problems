@@ -1,3 +1,3 @@
-The problem description of "Patching Array" is found [here](https://leetcode.com/problems/patching-array/) while the solution can be found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Patching%20Array/patching.java)
+The problem description of "Patching Array" is found [here](https://leetcode.com/problems/patching-array/) while the solution can be found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Patching%20Array/patching.java)
 
 To check the solution in terminal first compile Java file as `javac patching.java` and then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
