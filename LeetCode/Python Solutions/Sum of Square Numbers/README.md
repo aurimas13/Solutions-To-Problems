@@ -1,0 +1,1 @@
+The problem description of "Sum of Square Numbers" can be found [here](https://leetcode.com/problems/sum-of-square-numbers/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sum%20of%20Square%20Numbers/sum.py)
