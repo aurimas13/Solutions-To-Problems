@@ -1,0 +1,1 @@
+The problem description of "Grumpy Bookstore Owner" can be found [here](https://leetcode.com/problems/grumpy-bookstore-owner/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Grumpy%20Bookstore%20Owner/grumpy.py).
