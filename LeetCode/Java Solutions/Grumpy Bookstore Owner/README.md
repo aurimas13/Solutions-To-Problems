@@ -1,1 +1,3 @@
-The problem description of "Grumpy Bookstore Owner" can be found [here](https://leetcode.com/problems/grumpy-bookstore-owner/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Grumpy%20Bookstore%20Owner/grumpy.py).
+The problem description of "Grumpy Bookstore Owner" can be found [here](https://leetcode.com/problems/grumpy-bookstore-owner/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Grumpy%20Bookstore%20Owner/grumpy.java).
+
+To check the solution in terminal first compile Java file as `javac grumpy.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

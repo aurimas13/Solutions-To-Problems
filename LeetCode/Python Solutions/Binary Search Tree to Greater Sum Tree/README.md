@@ -1,0 +1,1 @@
+Problem description of "Binary Search Tree to Greater Sum Tree" can be found [here](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/binary.py).
