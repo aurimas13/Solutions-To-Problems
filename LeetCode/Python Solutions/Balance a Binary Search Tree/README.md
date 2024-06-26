@@ -1,0 +1,1 @@
+The problem description of " Balance a Binary Search Tree" can be found [here](https://leetcode.com/problems/balance-a-binary-search-tree/) while the solution is found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Balance%20a%20Binary%20Search%20Tree/balance.py).
