@@ -1,0 +1,3 @@
+The problem description of " Balance a Binary Search Tree" can be found [here](https://leetcode.com/problems/balance-a-binary-search-tree/) while the solution is found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Balance%20a%20Binary%20Search%20Tree/balance.java).
+
+To check the solution in terminal first compile Java file as `javac balance.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
