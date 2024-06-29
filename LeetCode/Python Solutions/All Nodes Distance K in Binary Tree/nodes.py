@@ -1,47 +1,36 @@
-from typing import List
-
-
-# Definition for a binary tree node.
-class TreeNode:
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
+from typing import List, Set
+from collections import defaultdict, deque
 
 class Solution:
-    def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
-        def dfs(node, parent=None):
-            if node:
-                node.parent = parent
-                dfs(node.left, node)
-                dfs(node.right, node)
-        dfs(root)
+    def getAncestors(self, n: int, edges: List[List[int]]) -> List[List[int]]:
+        graph = defaultdict(list)
+        in_degree = [0] * n
         
-        queue = [(target, 0)]
-        seen = {target}
+        for u, v in edges:
+            graph[u].append(v)
+            in_degree[v] += 1
+        
+        topo_order = []
+        queue = deque([i for i in range(n) if in_degree[i] == 0])
+        
         while queue:
-            if queue[0][1] == k:
-                return [node.val for node, d in queue]
-            node, d = queue.pop(0)
-            for n in (node.left, node.right, node.parent):
-                if n and n not in seen:
-                    seen.add(n)
-                    queue.append((n, d+1))
-        return []
-    
+            node = queue.popleft()
+            topo_order.append(node)
+            for neighbor in graph[node]:
+                in_degree[neighbor] -= 1
+                if in_degree[neighbor] == 0:
+                    queue.append(neighbor)
+        
+        ancestors = [set() for _ in range(n)]
+        
+        for node in topo_order:
+            for neighbor in graph[node]:
+                ancestors[neighbor].add(node)
+                ancestors[neighbor].update(ancestors[node])
+        
+        return [sorted(list(ancestor)) for ancestor in ancestors]
 
-# Driver Code
-if __name__ == "__main__":
-    root = TreeNode(3)
-    root.left = TreeNode(5)
-    root.right = TreeNode(1)
-    root.left.left = TreeNode(6)
-    root.left.right = TreeNode(2)
-    root.left.right.left = TreeNode(7)
-    root.left.right.right = TreeNode(4)
-    root.right.left = TreeNode(0)
-    root.right.right = TreeNode(8)
-    target = root.left
-    k = 2
-    sol = Solution()  # Create an instance of Solution class
-    print(sol.distanceK(root, target, k))  # Call the method on the instance
+# Example usage:
+sol = Solution()
+print(sol.getAncestors(8, [[0,3],[0,4],[1,3],[2,4],[2,7],[3,5],[3,6],[3,7],[4,6]]))  
+print(sol.getAncestors(5, [[0,1],[0,2],[0,3],[0,4],[1,2],[1,3],[1,4],[2,3],[2,4],[3,4]]))  
