@@ -1,0 +1,3 @@
+Problem description of "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit" is found [here](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/longest.java).
+
+To check the solution in terminal first compile Java file as `javac longest.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
