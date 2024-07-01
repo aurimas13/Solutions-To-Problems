@@ -77,14 +77,14 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Amazon | 411 |    
-| Google | 343 |
+| Amazon | 413 |    
+| Google | 395 |
 | Apple | 328 |
-| Facebook | 326 |
-| Microsoft | 303 |
-| Bloomberg | 281 |
+| Facebook | 327 |
+| Microsoft | 305 |
+| Bloomberg | 282 |
 | Adobe | 274 |
-| Uber | 236 |
+| Uber | 237 |
 | Goldman Sachs | 194 |
 | TikTok | 151 |
 | LinkedIn | 124 |
@@ -95,7 +95,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Spotify | 38 |
 | Reddit | 21 |
 | Netflix | 10 |
-| Others | 732 |
+| Others | 734 |
 
 <br><sup>*</sup> Updated daily. Details of the problems that belong to a specific company are linked to it.</br>
 
