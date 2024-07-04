@@ -1,0 +1,3 @@
+The problem of "Minimum Difference Between Largest and Smallest Value in Three Moves" can be found [here](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) while the slution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20MovesMinimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/minimum.java).
+
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

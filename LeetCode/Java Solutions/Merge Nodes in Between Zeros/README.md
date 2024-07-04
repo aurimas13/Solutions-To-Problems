@@ -1,0 +1,3 @@
+Problem description of "Merge Nodes in Between Zeros" can be found [here](https://leetcode.com/problems/merge-in-between-linked-lists/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solution/Merge%20Nodes%20in%20Between%20Zeros/merge.java).
+
+To check the solution in terminal first compile Java file as `javac merge.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
