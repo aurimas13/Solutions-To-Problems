@@ -1,0 +1,3 @@
+Problem description of "Find the Minimum and Maximum Number of Nodes Between Critical Points" can be found [here](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points/find.java).
+
+To check the solution in terminal first compile Java file as `javac find.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
