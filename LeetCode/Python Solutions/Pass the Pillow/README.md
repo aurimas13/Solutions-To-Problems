@@ -1,0 +1,1 @@
+The problem descripttion of "Pass the Pillow" is found [here](https://leetcode.com/discuss/interview-question/1246521/Pass-the-Pillow) while the solution is found [here](hhttps://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Pass%20the%20Pillow/pass.py)
