@@ -1,0 +1,1 @@
+The problem description of "Water Bottles" is found [here](https://leetcode.com/problems/water-bottles/) while the solution is [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Water%20Bottles/water.py).
