@@ -1,0 +1,3 @@
+The problem's "Find the Winner of the Circular Game" is found [here](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20the%20Winner%20of%20the%20Circular%20Game/find.java).
+
+To check the solution in terminal first compile Java file as `javac find.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
