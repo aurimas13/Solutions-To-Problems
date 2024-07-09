@@ -1,0 +1,1 @@
+The problem description of "Average Waiting Time" is found [here](https://leetcode.com/problems/average-waiting-time/) while the solution is [here](ttps://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Average%20Waiting%20Time/average.py).

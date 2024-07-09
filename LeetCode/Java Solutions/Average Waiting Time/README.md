@@ -1,0 +1,3 @@
+The problem description of "Average Waiting Time" is found [here](https://leetcode.com/problems/average-waiting-time/) while the solution is [here](ttps://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Average%20Waiting%20Time/average.java).
+
+To check the solution in terminal first compile Java file as `javac average.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
