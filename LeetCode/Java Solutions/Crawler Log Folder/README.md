@@ -1,0 +1,3 @@
+The problem description of "Crawler Log Folder" is given [here](https://leetcode.com/problems/crawler-log-folder/) while the solution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Crawler%20Log%20Folder/crawler.java).
+
+To check the solution in terminal first compile Java file as `javac crawler.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

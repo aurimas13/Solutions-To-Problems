@@ -1,0 +1,1 @@
+The problem description of "Crawler Log Folder" is given [here](https://leetcode.com/problems/crawler-log-folder/) while the solution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Crawler%20Log%20Folder/crawler.py).

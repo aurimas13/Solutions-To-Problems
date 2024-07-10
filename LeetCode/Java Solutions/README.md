@@ -385,10 +385,8 @@ Problems/blob/main/LeetCode/Java%20Solutions/Palindrome%20Partitioning/palindrom
 | 377 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Water Bottles](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Water%20Bottles/water.java) | O(log n) | O(1) | :x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 378 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Find the Winner of the Circular Game](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20the%20Winner%20of%20the%20Circular%20Game/find.java) | O(n) | O(1) | :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:| 
 | 379 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | [Average Waiting Time](ttps://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Average%20Waiting%20Time/average.java) | O(n) | O(1) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:| 
+| 380 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [Crawler Log Folder](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Crawler%20Log%20Folder/crawler.java) | O(n) | O(1) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:| 
 
 <!-- ]
 |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|X (Twitter)|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
-
