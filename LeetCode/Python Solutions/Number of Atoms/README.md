@@ -1,1 +1,1 @@
-Problem description of "Number of 1 bits" can be found [here](https://leetcode.com/problems/number-of-1-bits/).
+Problem description of "Number of Atoms" can be found [here](https://leetcode.com/problems/number-of-atoms/) which the solution can be found in [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Atoms/atoms.py).
