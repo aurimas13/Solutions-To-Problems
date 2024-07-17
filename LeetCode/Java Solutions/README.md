@@ -392,7 +392,10 @@ Problems/blob/main/LeetCode/Java%20Solutions/Palindrome%20Partitioning/palindrom
 | 384 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Number of Atoms](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Number%20of%20Atoms/atoms.java) | O(n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:| 
 | 385 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Create Binary Tree From Descriptions](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Create%20Binary%20Tree%20From%20Descriptions/create.java) | O(n) | O(n) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|::|:x:|:heavy_check_mark:|:heavy_check_mark:| 
 | 386 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) |[Step-By-Step Directions From a Binary Tree Node to Another](ps://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/binary.java) | O(n) | O(n) |:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|::|:x:|:x:|
+| 387 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes And Return Forest](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Delete%20Nodes%20And%20Return%20Forest/deleteNodesAndReturnForest.java) | O(n) | O(n) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|::|:x:|:x:|
 
 <!-- ]
 |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|X (Twitter)|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
+
+
