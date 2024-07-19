@@ -1,0 +1,1 @@
+The problem description of "Lucky Numbers in a Matrix" is found [here](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Lucky%20Numbers%20in%20a%20Matrix/lucky_numbers_in_a_matrix.py).
