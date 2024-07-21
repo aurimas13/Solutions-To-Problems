@@ -1,0 +1,1 @@
+The problem description of "Build a Matrix With Conditions" is found [here](https://leetcode.com/problems/build-a-matrix-with-conditions/) while the solution is [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Build%20a%20Matrix%20With%20Conditions/build.py).
