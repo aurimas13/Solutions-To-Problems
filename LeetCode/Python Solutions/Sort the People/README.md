@@ -1,0 +1,1 @@
+The problem of "Sort the People" is found [here](https://leetcode.com/problems/sort-the-people/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Sort%20the%20People/sort.py).
