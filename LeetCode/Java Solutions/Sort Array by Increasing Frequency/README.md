@@ -1,0 +1,3 @@
+Problem description of "Sort Array by Increasing Frequency" can be found [here](https://leetcode.com/problems/sort-array-by-increasing-frequency/) whilt the solution is [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Sort%20Array%20by%20Increasing%20Frequency/sort.java).
+
+To check the solution in terminal first compile Java file as `javac sort.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
