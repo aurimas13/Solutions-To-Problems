@@ -85,7 +85,7 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 | Bloomberg | 282 |
 | Adobe | 274 |
 | Uber | 238 |
-| Goldman Sachs | 197 |
+| Goldman Sachs | 198 |
 | TikTok | 152 |
 | LinkedIn | 124 |
 | Airbnb | 97 |
