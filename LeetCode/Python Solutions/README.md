@@ -709,8 +709,7 @@ Problems/blob/main/LeetCode/Python%20Solutions/Palindrome%20Partitioning/palindr
 | 701 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | [Build a Matrix With Conditions](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Build%20a%20Matrix%20With%20Conditions/build.py) | O(n)^2 | O(n^2) |:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 702 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [Sort the People](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sort%20the%20People/sort.py) | O(n log n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 703 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Sort Array by Increasing Frequency](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sort%20Array%20by%20Increasing%20Frequency/sort.py) | O(n log n) | O(n) | :x:|:eavy_check_mark:|:eavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 704 | [Sort the Jumbled Numbers](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/sort-the-jumbled-numbers) | [Sort the Jumbled Numbers](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Sort%20the%20Jumbled%20Numbers/sort.py) | O(n log n) | O(n) | :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 
 <!-- |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
