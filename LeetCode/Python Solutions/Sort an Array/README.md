@@ -1,0 +1,1 @@
+Problem description of "Sort an Array" can be found [here](https://leetcode.com/problems/sort-an-array/) while the solution is found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solution/Sort%20an%20Array/sort.py).
