@@ -1,0 +1,3 @@
+The problem of "Second Minimum Time to Reach Destination" is found [here](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) and the solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Second%20Minimum%20Time%20to%20Reach%20Destination/second.java).
+
+To check the solution in terminal first compile Java file as `javac second.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

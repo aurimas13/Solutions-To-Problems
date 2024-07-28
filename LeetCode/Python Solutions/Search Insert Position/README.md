@@ -1,1 +1,1 @@
-Problem description of "Search Insert Position" can be found [here](https://leetcode.com/problems/search-insert-position/submissions/).
+Problem description of "Search Insert Position" can be found [here](https://leetcode.com/problems/search-insert-position/submissions/) while the solution is [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Search%20Insert%20Position/search.py).
