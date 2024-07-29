@@ -1,0 +1,1 @@
+Problem description of "Count Number of Teams" can be found [here](https://leetcode.com/problems/count-number-of-teams/) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Count%20Number%20of%20Teams/count.py).
