@@ -406,6 +406,9 @@ Problems/blob/main/LeetCode/Java%20Solutions/Palindrome%20Partitioning/palindrom
 | 398 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [Second Minimum Time to Reach Destination](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Second%20Minimum%20Time%20to%20Reach%20Destination/second.java) | O(n log n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 399 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Count Number of Teams](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Count%20Number%20of%20Teams/count.java) | O(n log n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 400 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) [Minimum Deletions to Make String Balanced](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Deletions%20to%20Make%20String%20Balanced/minimum.java) | O(n) | O(1) |:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 401| [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) 
+| [Filling Bookcase Shelves](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Filling%20Bookcase%20Shelves/filling.java) |
+O(n^2) | O(n) |:eavy_check_mark:|:x:|:x:|:x:|:x:|:hx:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 
 <!-- ]
 |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|X (Twitter)|Uber|Others| -->
