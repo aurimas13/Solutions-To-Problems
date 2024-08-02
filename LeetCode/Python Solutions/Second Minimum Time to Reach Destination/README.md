@@ -1,0 +1,1 @@
+The problem of "Second Minimum Time to Reach Destination" is found [here](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) and the solution [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Second%20Minimum%20Time%20to%20Reach%20Destination/secondMinimumTimeToReachDestination.py).

@@ -1,0 +1,3 @@
+The problem description pf "Minimum Swaps to Group All 1's Together II" is found [here](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Time%20to%20Make%20Rope%20Colorful/minimum.java).
+
+To check the solution in terminal first compile Java file as `javac minimum.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

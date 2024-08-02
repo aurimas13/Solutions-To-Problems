@@ -1,0 +1,1 @@
+The problem description of "Number of Senior Citizens" is found [here](https://leetcode.com/problems/number-of-senior-citizens/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Number%20of%20Senior%20Citizens/number.py).
