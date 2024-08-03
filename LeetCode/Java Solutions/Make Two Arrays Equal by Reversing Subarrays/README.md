@@ -1,0 +1,3 @@
+The problem description of "Make Two Arrays Equal by Reversing Subarrays" can be found [here](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays/make.java).
+
+To check the solution in terminal first compile Java file as `javac make.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
