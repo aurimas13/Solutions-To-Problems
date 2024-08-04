@@ -1,0 +1,1 @@
+The problem description of "Range Sum of Sorted Subarray Sums" can be found [here](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Range%20Sum%20of%20Sorted%20Subarray%20Sums/range.py).
