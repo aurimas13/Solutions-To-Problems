@@ -1,0 +1,1 @@
+Problem description of "Kth Distinct String in an Array" can be found [here](https://leetcode.com/problems/kth-distinct-string-in-an-array/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Kth%20Distinct%20String%20in%20an%20Array/kth.py).
