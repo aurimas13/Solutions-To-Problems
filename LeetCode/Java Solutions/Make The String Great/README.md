@@ -1,1 +1,3 @@
 The problem description of "Make The String Great" can be found [here](https://leetcode.com/problems/make-the-string-great/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Make%20The%20String%20Great/make.java).
+
+To check the solution in terminal first compile Java file as `javac make.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

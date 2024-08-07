@@ -1,4 +1,4 @@
-public class Solution {
+public class minimum {
     public int minOperations(int[] nums, int k) {
         int currentXor = 0;
         

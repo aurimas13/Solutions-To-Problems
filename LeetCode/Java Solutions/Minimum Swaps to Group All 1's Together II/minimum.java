@@ -1,26 +1,36 @@
-public class Solution {
-    public int minCost(String colors, int[] neededTime) {
-        int total_time = 0;
-        int max_time = 0;  // Track the maximum time in the current group of same-colored balloons.
-        int current_time = 0;  // Track the total time for the current group.
-
-        for (int i = 0; i < colors.length(); i++) {
-            if (i > 0 && colors.charAt(i) != colors.charAt(i - 1)) {
-                // If the color changes, add the total time of the previous group minus the max time.
-                total_time += current_time - max_time;
-                // Reset the max_time and current_time for the new group.
-                max_time = 0;
-                current_time = 0;
-            }
-            
-            // Update the current and max times.
-            current_time += neededTime[i];
-            max_time = Math.max(max_time, neededTime[i]);
+class Solution {
+    public int minSwaps(int[] nums) {
+        int n = nums.length;
+        int ones = 0;
+        for (int num : nums) {
+            ones += num;
         }
         
-        // Add the time for the last group of balloons.
-        total_time += current_time - max_time;
+        if (ones == 0) {
+            return 0;
+        }
         
-        return total_time;
+        // Double the array to handle circular property
+        int[] doubledNums = new int[2 * n];
+        System.arraycopy(nums, 0, doubledNums, 0, n);
+        System.arraycopy(nums, 0, doubledNums, n, n);
+        
+        // Initialize the window
+        int zerosInWindow = 0;
+        for (int i = 0; i < ones; i++) {
+            if (doubledNums[i] == 0) {
+                zerosInWindow++;
+            }
+        }
+        int minSwaps = zerosInWindow;
+        
+        // Slide the window
+        for (int i = ones; i < 2 * n; i++) {
+            zerosInWindow -= (1 - doubledNums[i - ones]);  // Remove the leftmost element
+            zerosInWindow += (1 - doubledNums[i]);  // Add the new rightmost element
+            minSwaps = Math.min(minSwaps, zerosInWindow);
+        }
+        
+        return minSwaps;
     }
 }
