@@ -1,0 +1,3 @@
+Th problem description of "Magic Squares In Grid" can be found [here](https://leetcode.com/problems/magic-squares-in-grid) while the solution is found [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/Magic%20Squares%20In%20Grid/magic.py).
+
+To check the solution in terminal first compile Java file as `javac magic.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
