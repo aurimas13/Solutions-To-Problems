@@ -1,0 +1,3 @@
+The problem of "Find K-th Smallest Pair Distance" is found [here](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20K-th%20Smallest%20Pair%20Distance/pair.java).
+
+To check the solution in terminal first compile Java file as `javac find.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.

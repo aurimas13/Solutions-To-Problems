@@ -1,0 +1,1 @@
+The problem of "Find K-th Smallest Pair Distance" is found [here](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20K-th%20Smallest%20Pair%20Distance/pair.py).
