@@ -1,0 +1,1 @@
+The problem of "Maximum Number of Points with Cost" is found [here](https://leetcode.com/problems/maximum-number-of-points-with-cost/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Maximum%20Number%20of%20Points%20with%20Cost/maximum.py).
