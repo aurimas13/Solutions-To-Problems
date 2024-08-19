@@ -417,9 +417,8 @@
 | 414 |  {Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) [Maximum Distance in Arrays](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximum%20Distance%20in%20Arrays/maximum.java) | O(n) | O(1) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 415 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) [Maximum Number of Points with Cost](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Maximum%20Number%20of%20Points%20with%20Cost/maximum.java) | (n) | O(n) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 416 | [Ugly Number II](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Ugly Number II](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Ugly%20Number%20II/ugly.java) | O(n) | O(n) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 417 | [2 Keys Keyboard](https://github.com/problems/2-keys-keyboard) | [2 Keys Keyboard](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/2%20Keys%20Keyboard/keys.java) | O(n) | O(1) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 
 <!-- ]
 |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|X (Twitter)|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
-
-
