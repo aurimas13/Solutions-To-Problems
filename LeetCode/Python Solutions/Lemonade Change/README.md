@@ -1,1 +1,1 @@
-The problem description of "Lemonade Change" is found [here](https://github.com/problems/lemonade-change) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Lemonade%20Change/lemonade.py)
+The problem description of "Lemonade Change" is found [here](https://github.com/problems/lemonade-change) and its solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Lemonade%20Change/lemonade.py).
