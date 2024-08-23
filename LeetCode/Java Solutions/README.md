@@ -419,6 +419,7 @@
 | 416 | [Ugly Number II](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Ugly Number II](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Ugly%20Number%20II/ugly.java) | O(n) | O(n) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 417 | [2 Keys Keyboard](https://github.com/problems/2-keys-keyboard) | [2 Keys Keyboard](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/2%20Keys%20Keyboard/keys.java) | O(n) | O(1) |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 418 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Number Complement](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Number%20Complement/number.java) | O(1) | O(1) |:x:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 419 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Fraction Addition and Subtraction](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Fraction%20Addition%20and%20Subtraction/fraction.java) | O(n) | O(n) |:x:|:x:|:hx:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 
 <!-- ]
 |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|X (Twitter)|Uber|Others| -->
