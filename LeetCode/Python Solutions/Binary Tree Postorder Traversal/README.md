@@ -1,0 +1,1 @@
+Problem description of "Binary Tree Postorder Traversal" can be found [here](https://leetcode.com/problems/binary-tree-postorder-traversal/) while the solution is found [here](ttps://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Binary%20Tree%20Postorder%20Traversal/binary_tree_postorder_traversal.py).

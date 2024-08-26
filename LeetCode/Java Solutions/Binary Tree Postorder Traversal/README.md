@@ -1,0 +1,3 @@
+Problem description of "Binary Tree Postorder Traversal" can be found [here](https://leetcode.com/problems/binary-tree-postorder-traversal/) while the solution is found [here](ttps://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Binary%20Tree%20Postorder%20Traversal/binary_tree_postorder_traversal.java).
+
+To check the solution in terminal first compile Java file as `javac binary.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
