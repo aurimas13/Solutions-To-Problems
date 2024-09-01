@@ -1,3 +1,3 @@
-The problem description "Modify Graph Edge Weights" can be found [here](https://leetcode.com/problems/modify-graph-edge-weights/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Modify%20Graph%20Edge%20Weights/modify.java).
+The problem description "Modify Graph Edge Weights" can be found [here](https://leetcode.com/problems/modify-graph-edge-weights/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Modify%20Graph%20Edge%20Weights/modify.java).
 
 To check the solution in terminal first compile Java file as `javac modify.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
