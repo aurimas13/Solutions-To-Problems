@@ -1,0 +1,1 @@
+The problem description "Modify Graph Edge Weights" can be found [here](https://leetcode.com/problems/modify-graph-edge-weights/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Modify%20Graph%20Edge%20Weights/modify.py).
