@@ -1,0 +1,1 @@
+The problem's "Find the Safest Path in a Grid" is found [here](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20the%20Safest%20Path%20in%20a%20Grid/find.py)
