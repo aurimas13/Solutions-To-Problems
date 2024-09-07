@@ -741,6 +741,8 @@
 | 738 | [Walking Robot Simulation](
 https://leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Walking%20Robot%20Simulation/walk.py) | O(n) | O(n) |:x:|:x:|:x:|:x|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 739| [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Missing%20Observations/find.py) | O(n) | O(n) |:x:|:x:|:x:|:x|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 740 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes From Linked List Present in Array](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/delete.py) | O(n) | O(1) |:heavy_check_mark:|:x:|:x:|:x|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 741 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Linked%20List%20in%20Binary%20Tree/linked.py) | O(n) | O(1) |:x:|:x:|:x:|:x|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 
 <!--] |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|Twitter|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
