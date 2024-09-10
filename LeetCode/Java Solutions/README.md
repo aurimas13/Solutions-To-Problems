@@ -433,7 +433,11 @@ https://leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simula
 | 439 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Find%20Missing%20Observations/find.java) | O(n) | O(n) |:x:|:x:|:x:|:x|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 440 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes From Linked List Present in Array](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/delete.java) | O(n) | O(1) |:heavy_check_mark:|:x:|:x:|:x|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 441 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Linked%20List%20in%20Binary%20Tree/linked.java) | O(n) | O(1) |:x:|:x:|:x:|:x|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| 442 | [Spiral Matrix IV](http://leetcode.com/problems/spiral-matrix-iv) | [Spiral Matrix IV](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Spiral%20Matrix%20IV/spiral.java) | O(n^2) | O(n^2) |:x:|:x:|:x:|:x|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 443 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/?envType=study-plan&id=level-3) | [Insert Greatest Common Divisors in Linked List](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/insert.java) | O(n) | O(1) |:x:|:x:|:x:|:x|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 
 <!-- ]
 |Google|Amazon|Apple|Facebook|Microsoft|Adobe|Airbnb|Bloomberg|DE Shaw|Goldman Sachs|LinkedIn|Netflix|Reddit|Spotify|Tesla|TikTok|X (Twitter)|Uber|Others| -->
 <!-- :x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:| -->
+
+
