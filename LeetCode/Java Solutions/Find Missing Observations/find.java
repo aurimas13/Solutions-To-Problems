@@ -1,13 +1,25 @@
-class Solution:
-    def missingRolls(self, rolls: List[int], mean: int, n: int) -> List[int]:
-        m = len(rolls)
-        total_sum = mean * (n + m)
-        known_sum = sum(rolls)
-        missing_sum = total_sum - known_sum
+class Solution {
+    public int[] missingRolls(int[] rolls, int mean, int n) {
+        int m = rolls.length;
+        int totalSum = mean * (n + m);
+        int knownSum = 0;
+        for (int roll : rolls) {
+            knownSum += roll;
+        }
+        int missingSum = totalSum - knownSum;
         
-        if missing_sum < n or missing_sum > 6*n:
-            return []
+        if (missingSum < n || missingSum > 6*n) {
+            return new int[0];
+        }
         
-        quotient, remainder = divmod(missing_sum, n)
+        int[] result = new int[n];
+        int quotient = missingSum / n;
+        int remainder = missingSum % n;
         
-        return [quotient + 1] * remainder + [quotient] * (n - remainder)
+        for (int i = 0; i < n; i++) {
+            result[i] = quotient + (i < remainder ? 1 : 0);
+        }
+        
+        return result;
+    }
+}
