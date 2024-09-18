@@ -1,0 +1,1 @@
+The problem description of "XOR Queries of a Subarray" is found [here](http://leetcode.com/problems/xor-queries-of-subarray/) while the solution is found [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Python%20Solutions/queies.py).

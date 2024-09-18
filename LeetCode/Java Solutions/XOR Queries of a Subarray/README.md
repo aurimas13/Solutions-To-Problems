@@ -1,0 +1,3 @@
+The problem description of "XOR Queries of a Subarray" is found [here](http://leetcode.com/problems/xor-queries-of-subarray/) while the solution is found [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/queies.java).
+
+To check the solution in terminal first compile Java file as `javac queries.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
