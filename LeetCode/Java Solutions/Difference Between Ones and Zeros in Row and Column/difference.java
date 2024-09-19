@@ -1,30 +1,49 @@
-class Solution {
-    public int[][] onesMinusZeros(int[][] grid) {
-        int m = grid.length, n = grid[0].length;
-        int[] onesRow = new int[m], onesCol = new int[n];
-        int[] zerosRow = new int[m], zerosCol = new int[n];
+import java.util.*;
 
-        // Calculate ones and zeros count for rows and columns
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    onesRow[i]++;
-                    onesCol[j]++;
-                } else {
-                    zerosRow[i]++;
-                    zerosCol[j]++;
+class Solution {
+    private Map<String, List<Integer>> memo = new HashMap<>();
+    
+    public List<Integer> diffWaysToCompute(String expression) {
+        return compute(expression);
+    }
+    
+    private List<Integer> compute(String expr) {
+        if (memo.containsKey(expr)) {
+            return memo.get(expr);
+        }
+        
+        List<Integer> results = new ArrayList<>();
+        
+        if (expr.matches("\\d+")) {
+            results.add(Integer.parseInt(expr));
+            return results;
+        }
+        
+        for (int i = 0; i < expr.length(); i++) {
+            char c = expr.charAt(i);
+            if (c == '+' || c == '-' || c == '*') {
+                List<Integer> left = compute(expr.substring(0, i));
+                List<Integer> right = compute(expr.substring(i + 1));
+                
+                for (int l : left) {
+                    for (int r : right) {
+                        switch (c) {
+                            case '+':
+                                results.add(l + r);
+                                break;
+                            case '-':
+                                results.add(l - r);
+                                break;
+                            case '*':
+                                results.add(l * r);
+                                break;
+                        }
+                    }
                 }
             }
         }
-
-        // Construct the diff matrix
-        int[][] diff = new int[m][n];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                diff[i][j] = onesRow[i] + onesCol[j] - zerosRow[i] - zerosCol[j];
-            }
-        }
-
-        return diff;
+        
+        memo.put(expr, results);
+        return results;
     }
 }
