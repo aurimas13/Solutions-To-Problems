@@ -1,0 +1,1 @@
+Problem description of "Shortest Palindrome" can be found [here](https://leetcode.com/problems/shortest-palindrome/) adn its solution [here](https://github.com/aurimas13/LeetCode-HR-MAANG/blob/main/LeetCode/Java%20Solutions/Shortest%20Palindrome/shortest.java).
