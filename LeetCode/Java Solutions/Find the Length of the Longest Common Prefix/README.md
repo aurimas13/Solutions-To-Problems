@@ -1,0 +1,3 @@
+Problem description of "Find the Length of the Longest Common Prefix" can be found [here](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20The%20Length%20Of%20The%20Longest%20Common%20Prefix/find.java)
+
+To check the solution in terminal first compile Java file as `javac find.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
