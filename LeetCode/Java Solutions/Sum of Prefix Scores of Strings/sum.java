@@ -1,30 +1,48 @@
 class Solution {
-    public boolean judgeSquareSum(int c) {
-        if (c < 0) {
-            return false;
-        }
-
-        long a = 0;
-        long b = (long) Math.sqrt(c);
-
-        while (a <= b) {
-            long currentSum = a * a + b * b;
-            if (currentSum == c) {
-                return true;
-            } else if (currentSum < c) {
-                a++;
-            } else {
-                b--;
-            }
-        }
-
-        return false;
+    class TrieNode {
+        TrieNode[] children = new TrieNode[26];
+        int count = 0;
     }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        System.out.println(solution.judgeSquareSum(5));  // Output: true
-        System.out.println(solution.judgeSquareSum(3));  // Output: false
-        System.out.println(solution.judgeSquareSum(2147483600));  // Output: true
+    
+    public int[] sumPrefixScores(String[] words) {
+        TrieNode root = new TrieNode();
+        
+        // Build the Trie
+        for (String word : words) {
+            insert(root, word);
+        }
+        
+        int[] result = new int[words.length];
+        
+        // Calculate prefix scores
+        for (int i = 0; i < words.length; i++) {
+            result[i] = calculateScore(root, words[i]);
+        }
+        
+        return result;
+    }
+    
+    private void insert(TrieNode node, String word) {
+        for (char c : word.toCharArray()) {
+            int index = c - 'a';
+            if (node.children[index] == null) {
+                node.children[index] = new TrieNode();
+            }
+            node = node.children[index];
+            node.count++;
+        }
+    }
+    
+    private int calculateScore(TrieNode node, String word) {
+        int score = 0;
+        for (char c : word.toCharArray()) {
+            int index = c - 'a';
+            if (node.children[index] == null) {
+                break;
+            }
+            node = node.children[index];
+            score += node.count;
+        }
+        return score;
     }
 }

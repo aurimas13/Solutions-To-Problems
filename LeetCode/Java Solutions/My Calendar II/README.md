@@ -1,0 +1,3 @@
+The problem description of "My Calendar II" is found [here](https://leetcode.com/problems/my-calendar-ii) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/My%20Calendar%20II/calendar.java).
+
+To check the solution in terminal first compile Java file as `javac calendar.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
