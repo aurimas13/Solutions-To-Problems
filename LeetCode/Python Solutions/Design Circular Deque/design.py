@@ -1,30 +1,53 @@
-class MyHashMap:
+class MyCircularDeque:
+    def __init__(self, k: int):
+        self.deque = [0] * k
+        self.front = 0
+        self.rear = -1
+        self.size = 0
+        self.capacity = k
 
-    def __init__(self):
-        # For simplicity, we're using a large prime number as the array size
-        # to reduce the chances of collisions.
-        self.size = 10007
-        self.data = [[] for _ in range(self.size)]
+    def insertFront(self, value: int) -> bool:
+        if self.isFull():
+            return False
+        self.front = (self.front - 1) % self.capacity
+        self.deque[self.front] = value
+        self.size += 1
+        if self.size == 1:
+            self.rear = self.front
+        return True
 
-    def put(self, key: int, value: int) -> None:
-        index = key % self.size
-        found = False
-        for i, (k, v) in enumerate(self.data[index]):
-            if k == key:
-                self.data[index][i] = (key, value)
-                found = True
-                break
-        if not found:
-            self.data[index].append((key, value))
+    def insertLast(self, value: int) -> bool:
+        if self.isFull():
+            return False
+        self.rear = (self.rear + 1) % self.capacity
+        self.deque[self.rear] = value
+        self.size += 1
+        if self.size == 1:
+            self.front = self.rear
+        return True
 
-    def get(self, key: int) -> int:
-        index = key % self.size
-        for k, v in self.data[index]:
-            if k == key:
-                return v
-        return -1
+    def deleteFront(self) -> bool:
+        if self.isEmpty():
+            return False
+        self.front = (self.front + 1) % self.capacity
+        self.size -= 1
+        return True
 
-    def remove(self, key: int) -> None:
-        index = key % self.size
-        self.data[index] = [(k, v) for k, v in self.data[index] if k != key]
+    def deleteLast(self) -> bool:
+        if self.isEmpty():
+            return False
+        self.rear = (self.rear - 1) % self.capacity
+        self.size -= 1
+        return True
 
+    def getFront(self) -> int:
+        return -1 if self.isEmpty() else self.deque[self.front]
+
+    def getRear(self) -> int:
+        return -1 if self.isEmpty() else self.deque[self.rear]
+
+    def isEmpty(self) -> bool:
+        return self.size == 0
+
+    def isFull(self) -> bool:
+        return self.size == self.capacity

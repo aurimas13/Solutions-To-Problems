@@ -1,30 +1,60 @@
-class MyHashMap:
+class MyCircularDeque {
+    private int[] deque;
+    private int front, rear, size, capacity;
 
-    def __init__(self):
-        # For simplicity, we're using a large prime number as the array size
-        # to reduce the chances of collisions.
-        self.size = 10007
-        self.data = [[] for _ in range(self.size)]
-
-    def put(self, key: int, value: int) -> None:
-        index = key % self.size
-        found = False
-        for i, (k, v) in enumerate(self.data[index]):
-            if k == key:
-                self.data[index][i] = (key, value)
-                found = True
-                break
-        if not found:
-            self.data[index].append((key, value))
-
-    def get(self, key: int) -> int:
-        index = key % self.size
-        for k, v in self.data[index]:
-            if k == key:
-                return v
-        return -1
-
-    def remove(self, key: int) -> None:
-        index = key % self.size
-        self.data[index] = [(k, v) for k, v in self.data[index] if k != key]
-
+    public MyCircularDeque(int k) {
+        deque = new int[k];
+        front = 0;
+        rear = -1;
+        size = 0;
+        capacity = k;
+    }
+    
+    public boolean insertFront(int value) {
+        if (isFull()) return false;
+        front = (front - 1 + capacity) % capacity;
+        deque[front] = value;
+        size++;
+        if (size == 1) rear = front;
+        return true;
+    }
+    
+    public boolean insertLast(int value) {
+        if (isFull()) return false;
+        rear = (rear + 1) % capacity;
+        deque[rear] = value;
+        size++;
+        if (size == 1) front = rear;
+        return true;
+    }
+    
+    public boolean deleteFront() {
+        if (isEmpty()) return false;
+        front = (front + 1) % capacity;
+        size--;
+        return true;
+    }
+    
+    public boolean deleteLast() {
+        if (isEmpty()) return false;
+        rear = (rear - 1 + capacity) % capacity;
+        size--;
+        return true;
+    }
+    
+    public int getFront() {
+        return isEmpty() ? -1 : deque[front];
+    }
+    
+    public int getRear() {
+        return isEmpty() ? -1 : deque[rear];
+    }
+    
+    public boolean isEmpty() {
+        return size == 0;
+    }
+    
+    public boolean isFull() {
+        return size == capacity;
+    }
+}
