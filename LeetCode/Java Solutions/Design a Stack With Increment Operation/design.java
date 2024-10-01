@@ -1,41 +1,40 @@
-import java.util.*;
+class CustomStack {
+    private int[] stack;
+    private int[] increment;
+    private int top;
+    private int maxSize;
 
-public class FoodRatings {
-    private Map<String, String> foodToCuisine;
-    private Map<String, Integer> foodToRating;
-    private Map<String, TreeMap<Integer, Set<String>>> cuisineToFood;
-
-    public FoodRatings(String[] foods, String[] cuisines, int[] ratings) {
-        foodToCuisine = new HashMap<>();
-        foodToRating = new HashMap<>();
-        cuisineToFood = new HashMap<>();
-
-        for (int i = 0; i < foods.length; i++) {
-            foodToCuisine.put(foods[i], cuisines[i]);
-            foodToRating.put(foods[i], ratings[i]);
-            cuisineToFood.putIfAbsent(cuisines[i], new TreeMap<>(Collections.reverseOrder()));
-            cuisineToFood.get(cuisines[i]).putIfAbsent(ratings[i], new TreeSet<>());
-            cuisineToFood.get(cuisines[i]).get(ratings[i]).add(foods[i]);
+    public CustomStack(int maxSize) {
+        this.stack = new int[maxSize];
+        this.increment = new int[maxSize];
+        this.top = -1;
+        this.maxSize = maxSize;
+    }
+    
+    public void push(int x) {
+        if (top < maxSize - 1) {
+            top++;
+            stack[top] = x;
         }
     }
-
-    public void changeRating(String food, int newRating) {
-        String cuisine = foodToCuisine.get(food);
-        int oldRating = foodToRating.get(food);
-        foodToRating.put(food, newRating);
-
-        cuisineToFood.get(cuisine).get(oldRating).remove(food);
-        if (cuisineToFood.get(cuisine).get(oldRating).isEmpty()) {
-            cuisineToFood.get(cuisine).remove(oldRating);
+    
+    public int pop() {
+        if (top == -1) {
+            return -1;
         }
-
-        cuisineToFood.putIfAbsent(cuisine, new TreeMap<>(Collections.reverseOrder()));
-        cuisineToFood.get(cuisine).putIfAbsent(newRating, new TreeSet<>());
-        cuisineToFood.get(cuisine).get(newRating).add(food);
+        int result = stack[top] + increment[top];
+        if (top > 0) {
+            increment[top - 1] += increment[top];
+        }
+        increment[top] = 0;
+        top--;
+        return result;
     }
-
-    public String highestRated(String cuisine) {
-        Set<String> foods = cuisineToFood.get(cuisine).firstEntry().getValue();
-        return foods.iterator().next();
+    
+    public void increment(int k, int val) {
+        int i = Math.min(k - 1, top);
+        if (i >= 0) {
+            increment[i] += val;
+        }
     }
 }

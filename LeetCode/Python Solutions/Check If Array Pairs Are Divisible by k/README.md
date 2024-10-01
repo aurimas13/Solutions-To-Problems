@@ -1,0 +1,1 @@
+Problem description of "Check If Array Pairs Are Divisible by k" can be found [here](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Check%20If%20Array%20Are%20Divisible%20By%20k/check.py).
