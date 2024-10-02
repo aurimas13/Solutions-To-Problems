@@ -1,12 +1,24 @@
 class Solution {
-    public boolean checkStraightLine(int[][] coordinates) {
-        if(coordinates.length == 2) return true;
-        int x1 = coordinates[0][0], y1 = coordinates[0][1];
-        int x2 = coordinates[1][0], y2 = coordinates[1][1];
+    public boolean canArrange(int[] arr, int k) {
+        int[] remainderCount = new int[k];
         
-        for(int i = 2; i < coordinates.length; i++) {
-            int x = coordinates[i][0], y = coordinates[i][1];
-            if((y2 - y1) * (x - x1) != (y - y1) * (x2 - x1)) return false;
+        for (int num : arr) {
+            int remainder = ((num % k) + k) % k;  // Handle negative numbers
+            remainderCount[remainder]++;
+        }
+        
+        if (remainderCount[0] % 2 != 0) {
+            return false;
+        }
+        
+        for (int r = 1; r <= k / 2; r++) {
+            if (r * 2 == k) {
+                if (remainderCount[r] % 2 != 0) {
+                    return false;
+                }
+            } else if (remainderCount[r] != remainderCount[k - r]) {
+                return false;
+            }
         }
         
         return true;

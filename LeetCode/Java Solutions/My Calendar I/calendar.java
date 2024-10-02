@@ -1,27 +1,27 @@
-import java.util.*;
+import java.util.TreeMap;
 
-class MyCalendarTwo {
+class MyCalendar {
     private TreeMap<Integer, Integer> bookings;
 
-    public MyCalendarTwo() {
+    public MyCalendar() {
         bookings = new TreeMap<>();
     }
     
     public boolean book(int start, int end) {
-        bookings.put(start, bookings.getOrDefault(start, 0) + 1);
-        bookings.put(end, bookings.getOrDefault(end, 0) - 1);
-        
-        int activeBookings = 0;
-        for (int count : bookings.values()) {
-            activeBookings += count;
-            if (activeBookings > 2) {
-                // Revert the changes
-                bookings.put(start, bookings.get(start) - 1);
-                bookings.put(end, bookings.get(end) + 1);
-                return false;
-            }
+        // Check if there's an event that ends after this event starts
+        Integer prevStart = bookings.floorKey(start);
+        if (prevStart != null && bookings.get(prevStart) > start) {
+            return false;
         }
         
+        // Check if there's an event that starts before this event ends
+        Integer nextStart = bookings.ceilingKey(start);
+        if (nextStart != null && nextStart < end) {
+            return false;
+        }
+        
+        // If no conflict, add the event
+        bookings.put(start, end);
         return true;
     }
 }
