@@ -1,0 +1,1 @@
+The problem description of "Rank Transform of an Array" is found [here](https://leetcode.com/problems/rank-transform-of-an-array/) whil the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Rank%20Transform%20Of%20Array/rank.py).

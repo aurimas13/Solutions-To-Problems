@@ -1,0 +1,1 @@
+The problem description of "Make Sum Divisible by P" can be found [here](https://leetcode.com/problems/make-sum-divisible-by-p/) while the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Make%20Sum%20Divisible%20By%20P/make.py).

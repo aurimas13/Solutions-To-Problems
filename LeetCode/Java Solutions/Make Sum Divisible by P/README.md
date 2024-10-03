@@ -1,0 +1,3 @@
+The problem description of " [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) [Make Sum Divisible by P](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Make%20Sum%20Divisible%20By%20P/make.java) | O(n) | O(n) | :x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+
+To check the solution in terminal first compile Java file as `javac make.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
