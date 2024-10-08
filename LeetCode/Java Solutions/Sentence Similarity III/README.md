@@ -1,0 +1,3 @@
+The problem description of "Sentence Similarity III" is found [here](https://leetcode.com/problems/sentence-similarity-iii/) while the solution is [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Java%20Solutions/Sentence%20Similarity%20III/sentence.java).
+
+To check the solution in terminal first compile Java file as `javac sentence.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
