@@ -1,0 +1,1 @@
+The problem description of "Sentence Similarity III" is found [here](https://leetcode.com/problems/sentence-similarity-iii/) while the solution is [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Sentence%20Similarity%20III/sentence.py).
