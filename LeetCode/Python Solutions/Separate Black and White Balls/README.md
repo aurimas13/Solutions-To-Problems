@@ -1,0 +1,1 @@
+The problem description of "Separate Black and White Balls" is found [here]([ ](https://leetcode.com/problems/separate-black-and-white-balls/)while the solution is found [here](https://github.com/aurimas13/LeetCode-HackerRank-MAANG/blob/main/LeetCode/Python%20Solutions/Separate%20Black%20And%20White%20Balls/seperate.py).
