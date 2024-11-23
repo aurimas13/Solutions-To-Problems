@@ -1,1 +1,1 @@
-The problem description of "Rotating the Box" is found [here](https://leetcode.com/problems/rotating-the-box/) while the solution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solution/Rotating%20the%20Box/rotating.py).
+The problem description of "Rotating the Box" is found [here](https://leetcode.com/problems/rotating-the-box/) while the solution is provided [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Rotating%20the%20Box/rotating.py).
