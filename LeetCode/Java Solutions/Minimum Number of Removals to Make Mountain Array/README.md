@@ -1,0 +1,1 @@
+The problem description of "Minimum Number of Removals to Make Mountain Array" is found [here](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) and the solution is found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array/minimum.java).
