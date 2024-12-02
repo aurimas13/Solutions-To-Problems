@@ -1,0 +1,3 @@
+Problem description of Check If a Word Occurs As a Prefix of Any Word in a Sentence" can be found [here](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) while the solution can be found [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Check%20If%20A%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/check.java).
+
+To check the solution in terminal first compile Java file as `javac check.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
