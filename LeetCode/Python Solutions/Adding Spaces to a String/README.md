@@ -1,0 +1,1 @@
+The problem description of "Adding Spaces to a String" is found [here](https://leetcode.com/problems/adding-spaces-to-a-string/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Adding%20Spaces%20To%20A%20String/add.py).

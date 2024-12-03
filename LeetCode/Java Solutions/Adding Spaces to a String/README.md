@@ -1,0 +1,3 @@
+The problem description of "Adding Spaces to a String" is found [here](https://leetcode.com/problems/adding-spaces-to-a-string/) while the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Java%20Solutions/Adding%20Spaces%20To%20A%20String/add.java).
+
+To check the solution in terminal first compile Java file as `javac add.java`, then run the command as follows `java Solution` and it will check tests and if the solution works correctly.
