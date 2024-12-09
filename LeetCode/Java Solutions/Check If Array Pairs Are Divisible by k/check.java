@@ -1,26 +1,13 @@
 class Solution {
-    public boolean canArrange(int[] arr, int k) {
-        int[] remainderCount = new int[k];
+    public int isPrefixOfWord(String sentence, String searchWord) {
+        String[] words = sentence.split(" ");
         
-        for (int num : arr) {
-            int remainder = ((num % k) + k) % k;  // Handle negative numbers
-            remainderCount[remainder]++;
-        }
-        
-        if (remainderCount[0] % 2 != 0) {
-            return false;
-        }
-        
-        for (int r = 1; r <= k / 2; r++) {
-            if (r * 2 == k) {
-                if (remainderCount[r] % 2 != 0) {
-                    return false;
-                }
-            } else if (remainderCount[r] != remainderCount[k - r]) {
-                return false;
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].startsWith(searchWord)) {
+                return i + 1;  // 1-based indexing
             }
         }
         
-        return true;
+        return -1;
     }
 }
