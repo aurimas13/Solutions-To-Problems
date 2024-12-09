@@ -77,8 +77,8 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 | Company Name | Total Solutions |
 |--------|----------|
-| Amazon | 432 |
-| Google | 418 |
+| Amazon | 433 |
+| Google | 419 |
 | Meta | 335 |
 | Apple | 332 |
 | Microsoft | 312 |
@@ -222,11 +222,5 @@ Total number of LeetCode solutions per company are shown below:<sup>*</sup>
 
 [//]: # ()
 [LICENSE](https://github.com/aurimas13/HackerRank-Leetcode/blob/main/LICENSE)
-
-
-
-
-
-
 
 
