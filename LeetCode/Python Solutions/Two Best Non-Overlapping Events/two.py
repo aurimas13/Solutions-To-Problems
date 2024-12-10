@@ -1,31 +1,31 @@
-# Solution
-from typing import List
-
-
-# from itertools import combinations
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        dict_nums = {}
-        for i, num in enumerate(nums):
-            if target - num in dict_nums.keys():
-                return [dict_nums[target - num], i]
-            else:
-                dict_nums[num] = i
-
-# slower:
-
-#  for (i, value_1), (j, value_2) in combinations(enumerate(nums), 2):
-#      if value_1 + value_2 == target:
-#          return [i, j]
-#
-#  return None
-
-
-# Instantiation to check values
-if __name__ == '__main__':
-    Solve = Solution.twoSum(13, [2, 7, 11, 15], 9)  # [0,1]
-    Solve_1 = Solution.twoSum(16, [3, 2, 3], 6)  # [0,2]
-    Solve_2 = Solution.twoSum(23, [3, 2, 4], 6)  # [1,2]
-    print(Solve)
-    print(Solve_1)
-    print(Solve_2)
+   def maxTwoEvents(self, events: List[List[int]]) -> int:
+       # Sort events by start time
+       events.sort(key=lambda x: x[0])
+       n = len(events)
+       
+       # Store maximum value from right for each index
+       max_right = [0] * (n + 1)
+       curr_max = 0
+       
+       for i in range(n - 1, -1, -1):
+           curr_max = max(curr_max, events[i][2])
+           max_right[i] = curr_max
+           
+       max_sum = 0
+       
+       # Try each event as first event
+       for i, [start, end, value] in enumerate(events):
+           # Binary search for non-overlapping event
+           left, right = i + 1, n
+           while left < right:
+               mid = (left + right) // 2
+               if mid < n and events[mid][0] <= end:
+                   left = mid + 1
+               else:
+                   right = mid
+                   
+           # Update max_sum
+           max_sum = max(max_sum, value + max_right[left] if left < n else value)
+           
+       return max_sum

@@ -1,0 +1,1 @@
+Problem description of "Find Longest Special Substring That Occurs Thrice I" can be found [here](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) and the solution [here](https://github.com/aurimas13/Solutions-To-Problems/blob/main/LeetCode/Python%20Solutions/Find%20Longest%20Special%20Substring%20That%20Occurs%20Thrice%20I/find.py).
